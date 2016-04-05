@@ -1,0 +1,11 @@
+email: jcherfas@mac.com
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+fullname: 'Jeremy Cherfas'
+title: Boss
+state: enabled
+hashed_password: $2y$10$O6NdA9eDCaF0gJGXbkZ/kOi7kDvc.1x6k.cS.LKLyfe8s6muwGjge

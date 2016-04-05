@@ -1,0 +1,10 @@
+<div class="modular-row callout white">
+	{{ content }}
+    {% for p in page.find('/blog').children.order('date', 'desc').slice(0, 1) %}
+                <h1><a href="{{p.url}}">{{ p.title }}</a></h1>
+                <h2 class="subhead">{{ p.header.subhead }}</h2>
+
+                <p>{{ p.date|date("M j, Y")}}</p>
+                <p>{{ p.content }}</p>
+    {% endfor %}
+</div>

@@ -1,0 +1,23 @@
+title: 'Jeremy Cherfas'
+author:
+  name: 'Jeremy Cherfas'
+  email: jcherfas@mac.com
+taxonomies:
+  - category
+  - tag
+  - month
+metadata:
+  description: 'Thoughts and links'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+redirects:
+  /redirect-test: /
+  '/old/(.*)': /new/$1
+routes:
+  /something/else: /blog/sample-3
+  '/new/(.*)': /blog/$1
+blog:
+  route: ''

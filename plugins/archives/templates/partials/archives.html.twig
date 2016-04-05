@@ -1,0 +1,13 @@
+<ul class="archives">
+
+{% for month,items in archives_data %}
+    <li>
+    	<a href="{{ base_url }}/archives_month{{ config.system.param_sep }}{{ month|date('M_Y')|lower|e('url') }}">
+        {% if archives_show_count %}
+        <span class="label">{{ items|length }}</span>
+        {% endif %}
+        <span class="archive_date">{{ 'MONTHS_OF_THE_YEAR'|ta(month|date('n') -1) }} {{ month|date('Y') }}</span>
+        </a>
+    </li>
+{% endfor %}
+</ul>

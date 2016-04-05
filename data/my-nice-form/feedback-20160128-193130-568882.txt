@@ -1,0 +1,3 @@
+name: Mr Testy
+email: testy@jcherfas.fastmail.fm
+message: Ya think?

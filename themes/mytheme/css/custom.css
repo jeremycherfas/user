@@ -1,0 +1,101 @@
+/* Over-ride default Antimatter (and MyTheme) behavior of full-browser-width */
+#sb-site, .sb-site-container, .sb-slidebar, body, html, .scrolled#header {
+      max-width: 1200px;
+      margin: 0 auto !important;
+    }
+    
+    #header #navbar {
+      max-width: 1000px;
+    }
+    
+/* Specific placement for header image on vaviblog */
+.vavi-top {
+height: 350px;
+}
+
+.vavi-top #logo {
+Padding-top: 11%;
+}
+
+.vavi-content-wrapper {
+padding-right: 7rem;
+padding-left: 7rem;
+margin-top: 11rem;
+}
+
+#vavi-header {
+padding-top: 15rem;
+}
+
+/* To get black type in search box */
+.mysearch {
+	color: #000;
+	}
+	
+/* To fix all -paragraphs to same size */
+.blog-content-item .list-blog-padding > p:nth-child(2) {
+    font-size: 1rem;
+}
+
+/* To force left-align for H1 */
+h1 {
+text-align: left;
+line-height: 3.0rem;
+}
+
+h2, h4 {
+color: #064870;
+font-weight: 100;
+Padding-left: 0.5rem;
+padding-right: 0.5rem;
+}
+
+h2.subhead {
+font-size: 1.8rem;
+color: #064870;
+text-align: left;
+padding-top: 1rem;
+}
+
+h5.recent {
+font-size: 0.8rem;
+color: #064870;
+text-align: center;
+padding-top: 0.5rem;
+margin: 0px;
+padding-left: 0.5rem;
+padding-right: 0.5rem;
+}
+
+.tags {
+padding-bottom: 1rem;
+}
+
+/* Display and padding for images */
+img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
+img.left {
+    float: Left;
+    padding-right: 1em;
+     }
+
+img.right {
+    float: right;
+    padding-left: 1em;
+     }
+
+/* Module shading */
+.white {
+	background-color: #fff;
+	}
+
+.gray {
+	background-color: #f6f6f6;
+	}
+	
+blockquote p {
+color: #064870;
+}
