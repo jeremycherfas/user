@@ -1,12 +1,6 @@
 # Grav Specific
 .sass-cache
-composer.lock
-hookcaptain.php
-cache/*
-assets/*
-logs/*
-images/*
-user/data/*
+data/*
 
 # OS Generated
 .DS_Store*
@@ -16,4 +10,4 @@ Thumbs.db
 *.swp
 *.zip
 
-user/pages/vaviblog/*.*
+vaviblog/*
