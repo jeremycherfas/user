@@ -48,4 +48,4 @@ As we were leaving the grave someone -- Avi? -- explained the rabbi's final word
 
 Sitting in his apartment, six black bags of truly unimportant papers on the floor around me, I am thankful for the ages of practice that have constructed rituals that help even the godless to deal with death. For as long as I can remember, I've feared ending up like him. My fears don't matter now.
 
-Sidney Cherfas, son of Rebecca Chosack and Isaac Cherfas, father of Jeremy Jon Cherfas and Teresa Jill Cherfas,  1923-2007.
+Sidney Cherfas, son of Rebecca Chosack and Isaac Cherfas, father of Jeremy Jon Cherfas and his sister,  1923-2007.
