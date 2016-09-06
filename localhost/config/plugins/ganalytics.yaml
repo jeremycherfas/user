@@ -1,2 +1,5 @@
 enabled: true
 trackingId: UA-1593788-4
+anonymizeIp: false
+debugStatus: false
+debugTrace: false
