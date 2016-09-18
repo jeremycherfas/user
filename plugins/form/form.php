@@ -103,6 +103,10 @@ class FormPlugin extends Plugin
         }
 
         $header = $page->header();
+
+        //call event to allow filling the page header form dynamically (e.g. use case: Comments plugin)
+        $this->grav->fireEvent('onFormPageHeaderProcessed', new Event(['header' => $header]));
+
         if ((isset($header->forms) && is_array($header->forms)) ||
             (isset($header->form) && is_array($header->form))) {
 
@@ -186,7 +190,7 @@ class FormPlugin extends Plugin
                     'onFormValidationError' => ['onFormValidationError', 0]
                 ]);
 
-                $current_form_name = filter_input(INPUT_POST, '__form-name__');
+                $current_form_name = $this->getFormName($this->grav['page']);
                 $this->json_response = [];
 
                 if ($form = $this->getFormByName($current_form_name)) {
@@ -534,6 +538,21 @@ class FormPlugin extends Plugin
         $milliseconds = round(($utimestamp - $timestamp) * 1000000);
 
         return date(preg_replace('`(?<!\\\\)u`', \sprintf('%06d', $milliseconds), $format), $timestamp);
+    }
+
+    /**
+     * @param Page $page
+     * @return mixed
+     */
+    private function getFormName(Page $page)
+    {
+        $name = filter_input(INPUT_POST, '__form-name__');
+
+        if (!$name) {
+            $name = $page->slug();
+        }
+
+        return $name;
     }
 
     /**
