@@ -18,4 +18,6 @@ While the [initial response was huge](http://www.npr.org/sections/thesalt/2016/0
 
 Obviously Eattiamo would like you to [order your meal from them](https://us.eattiamo.com/world-pasta-day-pasta-allamatriciana-amatrice) but if you don't fancy that they've got plenty of other ideas of how to celebrate.
 
+The [big shindig](http://www.worldpastaday2016.org) this year is in Moscow. I'll be ignoring that for sure, but I will be eating for Amatrice.
+
 [^1]: Or, as the Italians say, _prendere due piccione con una fava_, catch two pigeons with one bean.
