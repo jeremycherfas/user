@@ -1,3 +1,21 @@
+# v2.0.7
+## 11/17/2016
+
+1. [](#improved)
+    * Added method to set all data in a form
+    * Added params to form action URL
+    * Added ability to add ids to buttons and to set them disabled 
+1. [](#bugfix)
+    * Moved Files Upload GC logic to function in front-end only
+
+# v2.0.6
+## 10/19/2016
+
+1. [](#bugfix)
+    * Fixed translations for `display` field
+    * Fixed [#95](https://github.com/getgrav/grav-plugin-form/issues/95) multilanguage forms submission
+    * Fixed duplicate textarea class tag [#98](https://github.com/getgrav/grav-plugin-form/issues/98)
+
 # v2.0.5
 ## 09/15/2016
 
