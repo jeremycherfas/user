@@ -3,7 +3,7 @@ title: 'Is chicken too expensive?'
 published: true
 date: '20-11-2016 10:46'
 metadata:
-    Keywords: '''chicken prices, agricultural economics'''
+    Keywords: 'chicken prices, agricultural economics'
 taxonomy:
     category:
         - blog

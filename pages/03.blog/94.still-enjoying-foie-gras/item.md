@@ -3,7 +3,7 @@ title: 'Still enjoying foie gras'
 published: true
 date: '18-11-2016 13:39'
 metadata:
-    Keywords: '''foie gras, eat this podcast'''
+    Keywords: 'foie gras, eat this podcast'
 taxonomy:
     category:
         - blog
