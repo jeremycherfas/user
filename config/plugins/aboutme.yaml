@@ -3,7 +3,7 @@ built_in_css: true          # Use the default CSS
 
 name: 'Jeremy Cherfas'         # Your full name
 title: 'Freelance'      # Your title/job
-descriptionClaus: "I work as a freelance communicator. In essence, I see myself as a translator. I speak Science, and I speak English, and I work hard to make the two understand one another. Mostly, I like to help people tell their stories. I'm a biologist by training and by inclination, and my main joy is applying that to food and the agriculture and industries that supply it. I also have side interests in economics and many other things. Check!"   # Tell us a bit about yourself
+description: "I work as a freelance communicator. In essence, I see myself as a translator. I speak Science, and I speak English, and I work hard to make the two understand one another. Mostly, I like to help people tell their stories. I'm a biologist by training and by inclination, and my main joy is applying that to food and the agriculture and industries that supply it. I also have side interests in economics and many other things."   # Tell us a bit about yourself
 
 picture_src: # The path of your avatar, I recommand to use the admin plugin and go to the plugin configuration so you can upload your avatar there, the path will be filled for you.
   user/plugins/aboutme/assets/avatars/portrait.jpg:

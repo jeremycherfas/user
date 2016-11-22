@@ -1,16 +1,16 @@
 enabled: true               # Activate the plugin
 built_in_css: true          # Use the default CSS
 
-name: 'Santa Claus'         # Your full name
-title: 'Present Giver'      # Your title/job
-description: 'Santa Claus, Saint Nicholas, Saint Nick, Father Christmas, Kris Kringle, Santy, or simply Santa is a figure with legendary, historical and folkloric origins who, in many Western cultures, is said to bring gifts to the homes of good children on 24 December, the night before Christmas Day. The modern figure of Santa Claus is derived from the British figure of Father Christmas, the Dutch figure of Sinterklaas, and Saint Nicholas, the historical Greek bishop and gift-giver of Myra. During the Christianization of Germanic Europe, this figure may also have absorbed elements of the god Odin, who was associated with the Germanic pagan midwinter event of Yule and led the Wild Hunt, a ghostly procession through the sky'   # Tell us a bit about yourself
+name: 'Jeremy Cherfas'         # Your full name
+title: 'Freelance'      # Your title/job
+description: "I work as a freelance communicator. In essence, I see myself as a translator. I speak Science, and I speak English, and I work hard to make the two understand one another. Mostly, I like to help people tell their stories. I'm a biologist by training and by inclination, and my main joy is applying that to food and the agriculture and industries that supply it. I also have side interests in economics and many other things."   # Tell us a bit about yourself
 
 picture_src: # The path of your avatar, I recommand to use the admin plugin and go to the plugin configuration so you can upload your avatar there, the path will be filled for you.
-  user/plugins/aboutme/assets/avatars/santa.jpg:
-    name: santa.jpg
+  user/plugins/aboutme/assets/avatars/portrait.jpg:
+    name: 
     type: image/jpeg
     size: 43391
-    path: user/plugins/aboutme/assets/avatars/santa.jpg
+    path: 
 
 gravatar:
   enabled: false                    # Enables gravatar, it will override picture_src option
@@ -29,6 +29,7 @@ social_pages:
       icon: twitter
       title: Twitter
       position: 2
+      url: 'https://twitter.com/EatPodcast'
     google_plus:
       icon: google-plus-square
       title: Google+
@@ -45,3 +46,4 @@ social_pages:
       icon: instagram
       title: Instagram
       position: 6
+      url: 'https://www.instagram.com/eatthispodcast/'
