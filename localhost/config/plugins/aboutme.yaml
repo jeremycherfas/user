@@ -1,8 +1,11 @@
 enabled: true
 built_in_css: true
-name: ''
-title: 
-description: ''
+picture_src:
+  user/plugins/aboutme/assets/avatars/portrait.jpg:
+    name: null
+    type: image/jpeg
+    size: 43391
+    path: null
 gravatar:
   enabled: false
   email: jcherfas@mac.com
@@ -28,6 +31,7 @@ social_pages:
       icon: github
       title: GitHub
       position: 4
+      url: 'https://github.com/jeremycherfas'
     linkedin:
       icon: linkedin-square
       title: LinkedIn
@@ -37,4 +41,4 @@ social_pages:
       title: Instagram
       position: 6
       url: 'https://www.instagram.com/eatthispodcast/'
-
+descriptionClaus: 'I work as a freelance communicator. In essence, I see myself as a translator. I speak Science, and I speak English, and I work hard to make the two understand one another. Mostly, I like to help people tell their stories. I''m a biologist by training and by inclination, and my main joy is applying that to food and the agriculture and industries that supply it. I also have side interests in economics and many other things. Check!'
