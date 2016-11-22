@@ -1,0 +1,40 @@
+enabled: true
+built_in_css: true
+name: ''
+title: 
+description: ''
+gravatar:
+  enabled: false
+  email: jcherfas@mac.com
+  size: 100
+social_pages:
+  enabled: true
+  use_font_awesome: false
+  pages:
+    facebook:
+      icon: facebook-official
+      title: Facebook
+      position: 1
+    twitter:
+      icon: twitter
+      title: Twitter
+      position: 2
+      url: 'https://twitter.com/EatPodcast'
+    google_plus:
+      icon: google-plus-square
+      title: Google+
+      position: 3
+    github:
+      icon: github
+      title: GitHub
+      position: 4
+    linkedin:
+      icon: linkedin-square
+      title: LinkedIn
+      position: 5
+    instagram:
+      icon: instagram
+      title: Instagram
+      position: 6
+      url: 'https://www.instagram.com/eatthispodcast/'
+
