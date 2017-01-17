@@ -1,4 +1,4 @@
-<div class="about-me h-card">
+<div class="about-me h-card" style="display:none;">
 	{% set src = aboutme_picture_src %}
 	{% if not config.plugins.aboutme.gravatar.enabled %}
 		{% set src = uri.rootUrl(false) ~ (uri.rootUrl(false) == '/' ? '' : '/') ~ aboutme_picture_src %}
