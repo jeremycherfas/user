@@ -1,13 +1,14 @@
 enabled: true
 built_in_css: true
 name: 'Jeremy Cherfas'
-description: 'I work as a freelance communicator. In essence, I see myself as a translator. I speak Science, and I speak English, and I work hard to make the two understand one another. Mostly, I like to help people tell their stories. I''m a biologist by training and by inclination, and my main joy is applying that to food and the agriculture and industries that supply it. I also have side interests in economics and many other things."'
+title: ''
+description: 'I work as a freelance communicator. In essence, I see myself as a translator. I speak Science, and I speak English, and I work hard to make the two understand one another. Mostly, I like to help people tell their stories. I''m a biologist by training and by inclination, and my main joy is applying that to food and the agriculture and industries that supply it. I also have side interests in economics and many other things.'
 picture_src:
-  user/plugins/aboutme/assets/avatars/santa.jpg:
-    name: santa.jpg
+  user/plugins/aboutme/assets/avatars/zoot.jpg:
+    name: zoot.jpg
     type: image/jpeg
-    size: 43391
-    path: user/plugins/aboutme/assets/avatars/santa.jpg
+    size: 8412
+    path: user/plugins/aboutme/assets/avatars/zoot.jpg
 gravatar:
   enabled: false
   email: example@test.com
