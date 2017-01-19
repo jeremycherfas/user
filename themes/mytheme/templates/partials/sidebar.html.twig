@@ -8,6 +8,25 @@
 </div>
 {% endif %}
 
+<div class="sidebar-content">
+{% for title, feed in twig_feeds %}
+    <h4><a href="https://vaviblog.com" span title="Microblogish stuff">Stream</span></a></h4>
+    {% for item in feed %}
+        <p>
+        <time>{{ item.date.date|nicetime(false) }}</time> <a href="{{ item.url }}">{{ item.title }}</a>
+        </p>
+        
+ 
+<!--         {% if '{{ item.title }}' == '{{ item.content }}' %} -->
+<!--         <h1>the same</h1> -->
+<!-- {% else %}         -->
+<!--         <p>{{ item.content }}</p> -->
+<!--         {% endif %} -->
+
+    {% endfor %}
+{% endfor %}
+</div>
+
 {% if config.plugins.taxonomylist.enabled %}
 <div class="sidebar-content">
     <h4>Popular Tags</h4>
