@@ -8,6 +8,10 @@
 </div>
 {% endif %}
 
+{{ dump(twig_feeds) }}
+{{ dump(feed_url) }}
+
+{% if config.plugins.twigfeeds.enabled %}
 <div class="sidebar-content">
 {% for title, feed in twig_feeds %}
     <h4><a href="https://vaviblog.com" span title="Microblogish stuff">Stream</span></a></h4>
@@ -17,12 +21,6 @@
         </p>
     {% endfor %}
 {% endfor %}
-</div>
-
-{% if config.plugins.taxonomylist.enabled %}
-<div class="sidebar-content">
-    <h4>Popular Tags</h4>
-    {% include 'partials/taxonomylist.html.twig' with {'base_url':new_base_url, 'taxonomy':'tag'} %}
 </div>
 {% endif %}
 

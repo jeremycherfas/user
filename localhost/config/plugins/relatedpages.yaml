@@ -1,4 +1,4 @@
-enabled: true
+enabled: false
 limit: 5
 show_score: true
 score_threshold: 20
