@@ -1,9 +1,10 @@
 {% set theme_config = attribute(config.themes, config.system.pages.theme) %}
+
 <!DOCTYPE html>
 <html lang="{{ grav.language.getActive ?: theme_config.default_lang }}">
 <head>
 
-<!-- <link rel="author" href="/" title="Jeremy Cherfas" /> -->
+<link rel="author" href=https:/{{ uri.rootUrl() }} title="Jeremy Cherfas" />
 
 {% block head %}
     <meta charset="utf-8" />
