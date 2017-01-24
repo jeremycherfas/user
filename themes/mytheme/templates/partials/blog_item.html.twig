@@ -19,7 +19,7 @@
         {% if page.header.link %}
             <h1>
                 {% if page.header.continue_link is not sameas(false) %}
-                <a href="{{ page.url }}"><i class="fa fa-angle-double-right"></i></a>
+                <a class="u-url" href="{{ page.url }}"><i class="fa fa-angle-double-right"></i></a>
                 {% endif %}
                 <a href="{{ page.header.link }}">{{ page.title }}</a>
             </h1>
@@ -76,7 +76,7 @@
 
 </article>
 	        
-<script id='fbt8wz2'>(function(i){var f,s=document.getElementById(i);f=document.createElement('iframe');f.src='//button.flattr.com/view/?fid=6jvn9e&button=compact&url='+encodeURIComponent(document.URL);f.title='Flattr';f.height=20;f.width=110;f.style.borderWidth=0;s.parentNode.insertBefore(f,s);})('fbt8wz2');</script>
+<!-- <script id='fbt8wz2'>(function(i){var f,s=document.getElementById(i);f=document.createElement('iframe');f.src='//button.flattr.com/view/?fid=6jvn9e&button=compact&url='+encodeURIComponent(document.URL);f.title='Flattr';f.height=20;f.width=110;f.style.borderWidth=0;s.parentNode.insertBefore(f,s);})('fbt8wz2');</script> -->
         
         {% set show_prev_next = true %}
     {% endif %}
