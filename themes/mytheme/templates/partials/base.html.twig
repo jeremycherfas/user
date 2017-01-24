@@ -12,6 +12,8 @@
     <link rel="canonical" href="{{ page.url(true, true) }}" />
 
 <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
+
+<link rel="author" href="{{ base_url == '' ? '/' : base_url }}">
     
     {% block stylesheets %}
         {% do assets.addCss('theme://css/pure-0.5.0/grids-min.css', 103) %}
