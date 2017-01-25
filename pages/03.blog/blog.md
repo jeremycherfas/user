@@ -4,7 +4,7 @@ body_classes: 'header-image fullwidth'
 menu: Posts
 content:
     items: '@self.children'
-    limit: 5
+    limit: 2
     pagination: true
     url_taxonomy_filters: true
     order:
