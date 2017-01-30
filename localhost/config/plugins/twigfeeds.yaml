@@ -2,5 +2,6 @@ enabled: true
 twig_feeds:
   -
     source: 'https://vaviblog.com/content/all?_t=rss'
+    name: WithKnown
     start: 0
     end: 10
