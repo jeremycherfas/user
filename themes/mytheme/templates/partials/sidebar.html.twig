@@ -13,13 +13,14 @@
 
 {% if config.plugins.twigfeeds.enabled %}
 <div class="sidebar-content">
-{% for title, feed in twig_feeds %}
-    <h4><a href="https://vaviblog.com" span title="Microblogish stuff">Stream</span></a></h4>
-    {% for item in feed %}
-        <p>
-        <time>{{ item.date.date|nicetime(false) }}</time> <a href="{{ item.url }}">{{ item.title }}</a>
-        </p>
-    {% endfor %}
+<h4><a href="https://vaviblog.com" title="Microblogish stuff">Stream</span></a></h4>
+{% for name, feed in twig_feeds if name == 'WithKnown' %}
+  {% for item in feed.items %}
+    <p>
+      <time>{{ item.date.date|nicetime(false) }}</time>
+      <a href="{{ item.url }}">{{ item.title }}</a>
+    </p>
+  {% endfor %}
 {% endfor %}
 </div>
 {% endif %}
