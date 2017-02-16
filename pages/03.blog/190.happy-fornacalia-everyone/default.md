@@ -7,9 +7,10 @@ taxonomy:
         - blog
     tag:
         - 'Bread & Cheese'
+header_image: '0'
 ---
 
-_Originally published on 17 February 2010, not much has changed, so I'll just give it a new date. And link to my offering: [Cornbread for Fornacalia](http://www.fornacalia.com/2017/cornbread-for-fornacalia/)
+_Originally published on 17 February 2010, not much has changed, so I'll just give it a new date. And link to my offering: [Cornbread for Fornacalia](http://www.fornacalia.com/2017/cornbread-for-fornacalia/)_
 
 ![The frieze of the baker's tomb](frieze.jpg){.center} 
 
