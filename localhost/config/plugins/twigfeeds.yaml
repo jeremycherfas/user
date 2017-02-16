@@ -1,7 +1,10 @@
 enabled: true
+cache: false
+static_cache: false
+debug: true
 twig_feeds:
   -
-    source: 'https://vaviblog.com/content/all?_t=rss'
-    name: WithKnown
+    source: 'https://stream.jeremycherfas.net/content/all?_t=rss'
+    name: Stream
     start: 0
     end: 10

@@ -1,13 +1,10 @@
 enabled: true
-cache: true
+cache: false
 static_cache: false
-debug: false
+debug: true
 twig_feeds:
-  - source: http://rss.nytimes.com/services/xml/rss/nyt/World.xml
-    name: NY Times
+  -
+    source: 'https://stream.jeremycherfas.net/content/all?_t=rss'
+    name: Stream
     start: 0
-    end: 2
-  - source: http://feeds.bbci.co.uk/news/uk/rss.xml
-    start: 0
-    end: 2
-  - source: http://www.aljazeera.com/xml/rss/all.xml
+    end: 10

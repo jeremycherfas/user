@@ -1,5 +1,5 @@
-{% for title, feed in twig_feeds %}
-    <h4>{{ title }}</h4>
+{% for name, feed in twig_feeds %}
+    <h4>{{ name }}</h4>
     {% for item in feed %}
         <h5>
             <a href="{{ item.url }}">{{ item.title }}</a>
