@@ -1,6 +1,6 @@
 enabled: true
-cache: false
-static_cache: false
+cache: true
+static_cache: true
 debug: true
 twig_feeds:
   -
