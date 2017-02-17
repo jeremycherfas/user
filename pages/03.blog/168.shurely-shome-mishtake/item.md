@@ -13,7 +13,7 @@ summary:
     enabled: '0'
 ---
 
-I have to believe that nobody at the Alan Alda Center for Communicating Science has actually looked at the site since 11 July. Either that, or [this headline is a joke](http://www.centerforcommunicatingscience.org/mash-star-alan-alda-backs-borensic-science-centre-at-scotlands-dundee-university/) to which I am not privy.
+I have to believe that nobody at the Alan Alda Center for Communicating Science has actually looked at the site since 11 July. Either that, or [this headline is a joke](http://www.centerforcommunicatingscience.org/mash-star-backs-borensic-science-centre-at-scotlands-dundee-university/) to which I am not privy.
 
 ![](borensics.png){.center} 
 
