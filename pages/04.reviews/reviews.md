@@ -1,7 +1,11 @@
 ---
-title: 'Jeremy Cherfas: Posts'
+title: 'Jeremy Cherfas: Reviews'
+published: true
+sitemap:
+    changefreq: monthly
 body_classes: 'header-image fullwidth'
-menu: Posts
+menu: 'Books &c'
+display_template: reviews
 content:
     items: '@self.children'
     limit: 5
@@ -10,11 +14,9 @@ content:
     order:
         dir: desc
         by: date
-sitemap:
-    changefreq: monthly
-blog_url: blog
+blog_url: reviews
 feed:
-    description: 'Jeremy Cherfas'
+    description: 'Books &c'
     limit: 10
 pagination: true
 ---
