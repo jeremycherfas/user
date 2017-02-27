@@ -99,3 +99,7 @@ img.right {
 blockquote p {
 color: #064870;
 }
+
+td {
+	width: 50%;
+	}
