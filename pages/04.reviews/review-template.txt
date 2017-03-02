@@ -1,0 +1,29 @@
+---
+title: 'TITLE'
+published: true
+date: 'DD-MM-YYYY HH:MM'
+taxonomy:
+    category:
+        - Reviews
+    tag:
+        - Non-fiction/FICTION
+process:
+    markdown: true
+    twig: false
+visible: true
+summary: 'SUMMARY ABOUT 70 WORDS MINIMUM'
+image: IMAGE.JPG
+---
+
+<div class="noteHeading">
+</div>
+
+|Highlight - Location 471|My note|			
+|:-			|:-			|
+|		bile	|	 Really?		|
+
+
+<div class="noteHeading">
+</div>
+| <a href="https://www.goodreads.com/book/show/19090951-cuisine-and-empire">My review on Goodreads.</a> | [Buy it on Amazon](https://www.amazon.com/Cuisine-Empire-Cooking-History-California-ebook/dp/B00FAI6XEY/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1488446478&sr=1-1&keywords=cuisine+and+empire&linkCode=ll1&tag=agricubiodivw-20&linkId=253afa0117dd421cfd8cd4c914b408d8) |
+|:- | -: |
