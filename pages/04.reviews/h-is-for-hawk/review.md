@@ -8,8 +8,8 @@ taxonomy:
     tag:
         - Non-fiction
 process:
-    twig: false
     markdown: true
+    twig: false
 visible: true
 summary: 'What a wonderful book. When it first came out and got lots of praise I stupidly decided that it was not for me, possibly because the praise tended to focus on lyrical nature writing and that is not something I enjoy. However, my friend Nicola Davies was adamant that I give it a shot. I did, and was entranced from the word go.'
 image: h-is-for-hawk.jpg
@@ -90,4 +90,9 @@ There are so many bits of writing -- sentences, phrases -- that I could have not
 </div>
         
 </div>
-<a href="https://www.goodreads.com/book/show/22888372-h-is-for-hawk">My review on Goodreads.</a>
+<div class="noteHeading">
+</div>
+| <a href="https://www.goodreads.com/book/show/22888372-h-is-for-hawk">My review on Goodreads.</a> | [Get it on Amazon](https://www.amazon.com/H-Hawk-Helen-Macdonald-ebook/dp/B00JLLD7TU/ref=sr_1_1?s=books&ie=UTF8&qid=1488447007&sr=1-1&keywords=h+is+for+hawk+by+helen+macdonald) [^1] |
+|:- | -: |
+
+[^1]: Not an affiliate link.

@@ -7,11 +7,11 @@ taxonomy:
         - Reviews
     tag:
         - Non-fiction
-visible: true
-summary: 'Really excellent guide to changes in cuisine through history, and the forces that drove them. A useful antidote to the rose-tinted myth that the cooking of times gone by was so much better than the food we have now. Some people have described the book as too dry; I disagree. It is scholarly and informative, rather than the once-over-lightly so common in so many "factual" works.'
 process:
     markdown: true
     twig: false
+visible: true
+summary: 'Really excellent guide to changes in cuisine through history, and the forces that drove them. A useful antidote to the rose-tinted myth that the cooking of times gone by was so much better than the food we have now. Some people have described the book as too dry; I disagree. It is scholarly and informative, rather than the once-over-lightly so common in so many "factual" works.'
 image: cuisine-and-empire.jpg
 ---
 
@@ -293,4 +293,7 @@ image: cuisine-and-empire.jpg
     Industrialized food processing was as necessary to the weakening of social hierarchy as the mastery of grains had been to its appearance.
 </div>
 
-<a href="https://www.goodreads.com/book/show/19090951-cuisine-and-empire">My review on Goodreads.</a>
+<div class="noteHeading">
+</div>
+| <a href="https://www.goodreads.com/book/show/19090951-cuisine-and-empire">My review on Goodreads.</a> | [Buy it on Amazon](https://www.amazon.com/Cuisine-Empire-Cooking-History-California-ebook/dp/B00FAI6XEY/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1488446478&sr=1-1&keywords=cuisine+and+empire&linkCode=ll1&tag=agricubiodivw-20&linkId=253afa0117dd421cfd8cd4c914b408d8) |
+|:- | -: |
