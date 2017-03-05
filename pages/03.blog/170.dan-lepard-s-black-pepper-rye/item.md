@@ -22,7 +22,7 @@ The Main Squeeze spotted this recipe on the same page as the Saffron Couscous, C
     1 tsp dry yeast  
     1½ tsp salt  
     325 gm strong white flour  
-    1 beaten egg and poppy sees, to finish. I used egg white only, and sesame seeds.  
+    1 beaten egg and poppy seeds, to finish. I used egg white only, and sesame seeds.  
 
 The recipe says:  
 > Put the coffee in a saucepan with half the rye flour (75g) and the pepper and seeds, whisk well, and heat until thick and just boiling. Remove from the heat, spoon into a mixing bowl and leave until warm. Add the yeast, mix well, add the remaining rye and white flours and salt and mix to a smooth dough. Cover, leave for ten minutes then knead the dough for ten seconds on a lightly oiled worktop. Cover, repeat twice more at ten minute intervals then leave for 30 minutes. Line a baking tray with non-stick baking parchment. Using a little flour pat the dough out into a 20cm square then roll up tightly. Place the dough seam side down on the tray, cover with a cloth and leave to rise for 45 minutes. Egg wash the top, cut 6 diagonal slashes across the top, sprinkle with poppyseeds and bake at 230°C/fan 210°C/450°F/gas 8 for 40 minutes.
