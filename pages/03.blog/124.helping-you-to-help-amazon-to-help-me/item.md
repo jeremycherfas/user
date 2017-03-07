@@ -1,5 +1,7 @@
 ---
 title: 'Helping you to help Amazon to help me'
+published: true
+date: '06-03-2017 12:04'
 taxonomy:
     category:
         - blog
