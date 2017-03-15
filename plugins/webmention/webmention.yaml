@@ -1,0 +1,41 @@
+enabled: true
+datadir: webmention
+#url_name_map:
+# - 'regex': name #maps domain/path patterns to human-friendly names, for use when displaying mentions and vouch information to your readers
+
+sender:
+  enabled: true
+  page_only: true
+  automatic: false
+  ignore_routes:
+    - /random
+  file_data: data_sent.yaml
+  #blacklist: 
+  #  - 'regex' of external links you do *not* wish to notify of mentions
+
+receiver:
+  enabled: true   
+  expose_data: true
+  advertise_method: header # header | link | *manual*
+  route: /mentions
+  status_updates: true
+  ignore_paths:
+    - /random
+  file_data: data_received.yaml
+  blacklist_silently: true
+  #blacklist:
+  #  - 'regex' of notifiers you do *not* wish to receive notifications from
+  #whitelist:
+  #  - 'regex' of notifiers you are willing to accept without vouches (only meaningful if `vouch.required` is set to `true`)
+
+vouch:
+  enabled: true
+  required: false   # Don't set this to `true` lightly!
+  auto_approve: valid # white | valid | none
+  #sender_map: 
+  #  - 'regex': URL #maps external domain/paths that you mention to a manually selected vouch URL.
+  #whitelist: 
+  #  - 'regex' of vouches you accept without verification
+  #blacklist: 
+  #  - 'regex' of vouches you will never accept
+
