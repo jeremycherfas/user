@@ -71,6 +71,12 @@ padding-right: 0.5rem;
 padding-bottom: 1rem;
 }
 
+/* To colour headings in book reviews */
+
+.sectionHeading {
+	background-color: #Fcefe6;
+	}
+
 /* Display and padding for images */
 img.center {
     display: block;
