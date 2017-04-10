@@ -13,15 +13,23 @@ form:
           title: Blog Details
 
           fields:
+          
+# I added this
+
+# This is the added section
 
             header_subhead:
                 type: section
                 title: Subhead
                 Underline: true
 
+# This is the field I added
+
             header.subhead:
               label: Optional subhead
               type: text
+
+# Here on down is the default form
 
             header_image:
               type: section
