@@ -11,7 +11,7 @@ process:
     markdown: true
     twig: false
 visible: true
-summary: 'Sally Mann is a photographer of some notoriety. She is also, it turns out, a amazingly good writer able to create word pictures every bit as nuanced and beguiling as her picture pictures. An interesting question is whether, had she not been a renowned photographer, we would ever have learned what a fine writer she is. Would she have been prompted to write her memoir had she not been invited to give the Massey Lectures in the History of American Civilization at Harvard?'
+summary: 'Sally Mann is a photographer of some notoriety. She is also, it turns out, an amazingly good writer able to create word pictures every bit as nuanced and beguiling as her picture pictures. An interesting question is whether, had she not been a renowned photographer, we would ever have learned what a fine writer she is. Would she have been prompted to write her memoir had she not been invited to give the Massey Lectures in the History of American Civilization at Harvard?'
 image: hold-still.jpg
 ---
 
@@ -35,7 +35,7 @@ This is so true for me. If I have a photo, I can barely remember any of the deta
 
 Sally Mann's thoughts about death and what to do with the dead mirror my own almost perfectly; confirmation bias again.
 
-> The greatest threat to that stability [of colonial society] was thought to lie in the possible recognition of common interests between poor whites and slaves. To prevent such a nightmare alliance from taking shape, the law, the pulpit, and the press joined forces to deepen the perceived differences between the races by convincing white colonists that they were naturally superior; that they, whatever their social rank, were, as [Edmund] Morgan put it, "equal in not being slaves." As a cyncially encouraged moral disease, racism has had regrettable staying power and, no matter how we deny it, is still employed as a subtle but potent political and psychological tool. *p 280*
+> The greatest threat to that stability [of colonial society] was thought to lie in the possible recognition of common interests between poor whites and slaves. To prevent such a nightmare alliance from taking shape, the law, the pulpit, and the press joined forces to deepen the perceived differences between the races by convincing white colonists that they were naturally superior; that they, whatever their social rank, were, as [Edmund] Morgan put it, "equal in not being slaves." As a cynically encouraged moral disease, racism has had regrettable staying power and, no matter how we deny it, is still employed as a subtle but potent political and psychological tool. *p 280*
 
 Nothing to add; plenty to learn.
 
