@@ -1361,7 +1361,8 @@ class AdminController extends AdminBaseController
         }
 
         $this->admin->json_response = [
-            'status'  => 'error',
+            'status'  => 'success',
+            'child_type' => '',
             'message' => $this->admin->translate('PLUGIN_ADMIN.NO_CHILD_TYPE')
         ];
 
@@ -1774,16 +1775,7 @@ class AdminController extends AdminBaseController
     {
         $input = (array)$this->data;
 
-//        if (isset($input['folder']) && ) {
-//            $order    = $page->value('order');
-//            $ordering = $order ? sprintf('%02d.', $order) : '';
-//            $slug     = empty($input['folder']) ? $page->value('folder') : (string)$input['folder'];
-//            $page->folder($ordering . $slug);
-//        }
-
-
-
-        if ($input['folder'] != $page->value('folder')) {
+        if (isset($input['folder']) && $input['folder'] != $page->value('folder')) {
             $order    = $page->value('order');
             $ordering = $order ? sprintf('%02d.', $order) : '';
             $page->folder($ordering . $input['folder']);
