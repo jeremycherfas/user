@@ -57,7 +57,7 @@ class Regex
         // No match, invalid
         if (!$matched) {
             throw new InvalidArgumentException(
-                '"' . $string . '" is not a valid SemVer'
+                '"' . $string . '" is not a valid SemVer"'
             );
         }
 
