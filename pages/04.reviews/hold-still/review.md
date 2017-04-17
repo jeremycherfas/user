@@ -41,3 +41,4 @@ Nothing to add; plenty to learn.
 
 | <a href="https://www.goodreads.com/review/show/1936371153">My review on Goodreads.</a> | [Buy it on Amazon](http://amzn.to/2ousST4) |
 |:- | -: |
+</div>
