@@ -71,6 +71,37 @@ padding-right: 0.5rem;
 padding-bottom: 1rem;
 }
 
+/* Styling comments */
+
+.comment {
+	background-color: #fef1e3;
+	}
+	
+.comment h3 {
+	color: #888;
+	Margin-left: 0.8rem;
+	font-size: 1.6rem;
+	}	
+
+.comment-content {
+	Font-size: 1.2rem;
+	Margin-left: 0.8rem;
+	}
+	
+.commenter {
+	font-size: 1.0rem;
+	font-style: Italic;
+	text-Align: right;
+	}
+
+.commenter p {
+	Margin-right: 0.8rem;
+	}
+
+table.comment_table {
+	Color: black;
+	}
+
 /* To colour headings in book reviews */
 
 .sectionHeading {
