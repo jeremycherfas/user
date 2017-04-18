@@ -1,7 +1,9 @@
-enabled: false
+enabled: true
 cache: true
 static_cache: true
 debug: true
+cache_time: 900
+pass_headers: false
 twig_feeds:
   -
     source: 'https://stream.jeremycherfas.net/content/all?_t=rss'

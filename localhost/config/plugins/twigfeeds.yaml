@@ -1,4 +1,4 @@
-enabled: false
+enabled: true
 cache: true
 static_cache: true
 debug: true
