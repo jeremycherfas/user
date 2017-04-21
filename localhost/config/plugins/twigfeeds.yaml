@@ -1,6 +1,6 @@
 enabled: true
 cache: true
-static_cache: true
+static_cache: false
 debug: true
 cache_time: 900
 pass_headers: false

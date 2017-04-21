@@ -1,9 +1,15 @@
 absolute_urls: false
 timezone: Europe/Vatican
+default_locale: null
 param_sep: ':'
 wrapped_site: false
 reverse_proxy_setup: false
+force_ssl: false
+custom_base_url: ''
+username_regex: '^[a-z0-9_-]{3,16}$'
+pwd_regex: '(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}'
 languages:
+  supported: {  }
   include_default_lang: true
   translations: true
   translations_fallback: true
@@ -21,6 +27,7 @@ pages:
   list:
     count: 20
   dateformat:
+    default: null
     short: 'jS M Y'
     long: 'F jS \a\t g:ia'
   publish_dates: true
@@ -28,6 +35,7 @@ pages:
     markdown: true
     twig: false
   twig_first: false
+  never_cache_twig: false
   events:
     page: true
     twig: true
@@ -47,6 +55,7 @@ pages:
     - json
     - rss
     - atom
+  append_url_extension: ''
   expires: 604800
   last_modified: false
   etag: false
@@ -61,6 +70,11 @@ pages:
     - .idea
   ignore_hidden: true
   url_taxonomy_filters: true
+  frontmatter:
+    process_twig: false
+    ignore_fields:
+      - form
+      - forms
   markdown_extra: false
 cache:
   enabled: false
@@ -68,8 +82,12 @@ cache:
     method: file
   driver: auto
   prefix: g
+  cli_compatibility: false
   lifetime: 604800
   gzip: false
+  allow_webserver_gzip: false
+  redis:
+    socket: false
 twig:
   cache: true
   debug: true
@@ -80,10 +98,14 @@ twig:
   umask_fix: false
 assets:
   css_pipeline: false
+  css_pipeline_include_externals: true
+  css_pipeline_before_excludes: true
   css_minify: true
   css_minify_windows: false
   css_rewrite: true
   js_pipeline: false
+  js_pipeline_include_externals: true
+  js_pipeline_before_excludes: true
   js_minify: true
   enable_asset_timestamp: false
   collections:
@@ -101,12 +123,23 @@ images:
   cache_all: false
   cache_perms: '0755'
   debug: false
+  auto_fix_orientation: false
 media:
   enable_media_timestamp: false
   upload_limit: 0
+  unsupported_inline_types: {  }
+  allowed_fallback_types: {  }
 session:
   enabled: true
   timeout: 1800
   name: grav-site
   secure: false
   httponly: true
+  split: true
+  path: null
+gpm:
+  releases: stable
+  proxy_url: null
+  method: auto
+  verify_peer: true
+  official_gpm_only: true
