@@ -43,3 +43,9 @@ social_pages:
       title: Instagram
       position: 6
       url: 'https://www.instagram.com/eatthispodcast/'
+    pnut:
+      icon: share-square-o
+      title: pnut
+      position: 7
+      url: 'https://pnut.io/@jeremycherfas'
+title: ''
