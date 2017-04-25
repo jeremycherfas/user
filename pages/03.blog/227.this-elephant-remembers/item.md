@@ -12,7 +12,7 @@ summary:
     enabled: '1'
 ---
 
-It has been a funny old week for podcast-prompted nostalgia. First, there was an episode of BBC Radio 3's Free Thinking podcast: [Taking the Long View with the Animal Kingdom](http://www.bbc.co.uk/programmes/b08jb1yx). Two very old friends, Phyllis Lee and Tim Birkhead, talked entertainingly and at length about what they've learned from long-term studies of elephants and guillemots respectively. Not a lot of this was all that new to me, and Radio 3 is not exactly the most popular of channels, but it was very good that long-term studies were being given the public airing they deserve and, perhaps even rarer, that scientists were given the time to express themselves.
+Last week was a funny old week for podcast-prompted nostalgia. First, there was an episode of BBC Radio 3's Free Thinking podcast: [Taking the Long View with the Animal Kingdom](http://www.bbc.co.uk/programmes/b08jb1yx). Two very old friends, Phyllis Lee and Tim Birkhead, talked entertainingly and at length about what they've learned from long-term studies of elephants and guillemots respectively. Not a lot of this was all that new to me, and Radio 3 is not exactly the most popular of channels, but it was very good that long-term studies were being given the public airing they deserve and, perhaps even rarer, that scientists were given the time to express themselves.
 
 ===
 
