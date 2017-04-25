@@ -10,7 +10,7 @@ form:
       fields:
         blog:
           type: tab
-          title: Blog Item
+          title: Blog Details delta
 
           fields:
 
