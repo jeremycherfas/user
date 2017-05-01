@@ -37,6 +37,10 @@ padding-top: 15rem;
     font-size: 1rem;
 }
 
+.list-blog-padding {
+Float: left;
+}
+
 /* To force left-align for H1 */
 h1 {
 text-align: left;
