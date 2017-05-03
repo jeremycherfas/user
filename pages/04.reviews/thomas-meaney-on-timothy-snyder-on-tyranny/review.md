@@ -11,7 +11,7 @@ process:
     markdown: true
     twig: false
 visible: true
-summary: 'Against the prevailing wisdom, I continue to rely on experts to Inform me, but when experts disagree, What''s a person to think?'''
+summary: 'Against the prevailing wisdom, I continue to rely on experts to inform me, but when experts disagree, What''s a person to think?'''
 image: on-tyranny.png
 ---
 
