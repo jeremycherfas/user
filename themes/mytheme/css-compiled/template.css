@@ -736,6 +736,11 @@ td {
 .blog-content-item .list-blog-padding > p:nth-child(2) {
   font-size: 1.2rem; }
 
+.list-blog-padding {
+	Float: left;
+	padding-bottom: 2rem;
+	}
+
 .tags a {
   display: inline-block;
   font-size: 0.8rem;
