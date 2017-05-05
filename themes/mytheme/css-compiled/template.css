@@ -1,4 +1,7 @@
+/* Loads three fonts from Google Raleway in three weights */
 @import url(//fonts.googleapis.com/css?family=Montserrat:400|Raleway:300,400,600|Inconsolata);
+
+/* Moves things up by 50% - of their height? */
 #header #logo h3, #header #navbar .panel-activation, #footer p {
   position: relative;
   top: 50%;
@@ -24,11 +27,30 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
 
+/* My sizing */
+p {
+    font-size: 1.4rem;
+    margin-top: 0;
+    margin-bottom: 1.0rem;
+}
+
+.footnotes p {
+    FONT-SIZE: 1.1rem;
+    margin-bottom: 0;
+    line-height: 1.2;
+    }
+
+.footnotes ol {
+Padding-left: 1.0rem;
+}    
+
+/* Orange and blue */
 a {
   color: #e15e0e; }
   a:hover {
     color: #0e6e90; }
 
+/* Bolding for table headers too */
 b, strong, label, th {
   font-weight: 600; }
 
@@ -39,7 +61,8 @@ b, strong, label, th {
 .fullwidth #body {
   padding-left: 0;
   padding-right: 0; }
-
+  
+/* REM is font size of root element -- and HTML is 100% is 16px? */
 #body {
   background: #fff;
   padding-top: 8rem;
@@ -51,14 +74,24 @@ b, strong, label, th {
 .right {
   float: right; }
 
+/* Timing of animations */
 .default-animation, #body, #header, #header #logo h3, #header #navbar ul.navigation, .modular .showcase .button {
   -webkit-transition: all 0.5s ease;
   -moz-transition: all 0.5s ease;
   transition: all 0.5s ease; }
 
+/* Setting padding for all margins */
 .padding-horiz, .fullwidth #header, .fullwidth #breadcrumbs, .fullwidth .blog-header, .fullwidth .blog-content-item, .fullwidth .content-wrapper, .fullwidth ul.pagination, .fullwidth #body > .modular-row, #body, #header, #footer {
   padding-left: 7rem;
   padding-right: 7rem; }
+
+/* Line length on home page */
+.fullwidth #body > .modular-row {
+padding-left: 14rem;
+padding-right: 14rem;
+}
+
+/* Reducing padding for smaller screens based on EMs i.e. line length */
   @media only all and (max-width: 59.938em) {
     .padding-horiz, .fullwidth #header, .fullwidth #breadcrumbs, .fullwidth .blog-header, .fullwidth .blog-content-item, .fullwidth .content-wrapper, .fullwidth ul.pagination, .fullwidth #body > .modular-row, #body, #header, #footer {
       padding-left: 4rem;
@@ -72,6 +105,7 @@ b, strong, label, th {
   padding-top: 3rem;
   padding-bottom: 3rem; }
 
+/* Just the name Jeremy Cherfas? */
 #header {
   position: fixed;
   z-index: 10;
@@ -83,6 +117,8 @@ b, strong, label, th {
     height: 3rem;
     background-color: rgba(255, 255, 255, 0.9) !important;
     box-shadow: 0 0.05rem 1rem rgba(0, 0, 0, 0.15) !important; }
+
+/* Font slightly smaller */
     #header.scrolled #logo h3 {
       color: #444 !important;
       font-size: 1.6rem !important; }
@@ -96,8 +132,10 @@ b, strong, label, th {
       background-color: #e15e0e !important; }
     #header.scrolled .navigation {
       margin-top: 0.5rem !important; }
+
   #header > .grid, #header #logo, #header #navbar {
     height: 100%; }
+
   #header #logo {
     float: left; }
     #header #logo h3 {
@@ -109,6 +147,7 @@ b, strong, label, th {
         color: #444; }
   #header #navbar {
     font-size: 0.9rem;
+
     /* Child Indicator */ }
     #header #navbar .has-children > a > span {
       display: inline-block;
@@ -143,6 +182,7 @@ b, strong, label, th {
         #header #navbar ul.navigation li {
           float: left;
           position: relative;
+
           /*Active dropdown nav item */
           /* Dropdown CSS */
           /* Active on Hover */ }
@@ -259,6 +299,8 @@ b, strong, label, th {
   .header-image #header a:before, .header-image #header a:after {
     background-color: rgba(255, 255, 255, 0.7) !important; }
 
+/* Could eliminate footer with no damage */
+/* Maybe keep totop arrow and re-colour/ */
 #footer {
   position: absolute;
   background: #333;
@@ -290,6 +332,7 @@ b, strong, label, th {
     #footer p .fa {
       color: #fff; }
 
+/* What would be a good serif font to go with Montserrat */
 html, body, button, input, select, textarea, .pure-g, .pure-g [class*="pure-u"] {
   font-family: "Raleway", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
   font-weight: 400; }
@@ -301,44 +344,46 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: -0px; }
 
 h1 {
-  font-size: 3.2rem; }
+  font-size: 2.0rem;
+  line-height: 1.2; }  
   @media only all and (max-width: 47.938em) {
     h1 {
-      font-size: 2.5rem;
+      font-size: 1.5625rem;
       line-height: 1.2;
-      margin-bottom: 2.5rem; } }
+      margin-bottom: 1.5625rem; } }
 
 @media only all and (min-width: 48em) and (max-width: 59.938em) {
   h2 {
-    font-size: 2.1rem; } }
+    font-size: 1.3125rem; } }
 @media only all and (max-width: 47.938em) {
   h2 {
-    font-size: 2rem; } }
-
-@media only all and (min-width: 48em) and (max-width: 59.938em) {
-  h3 {
-    font-size: 1.7rem; } }
-@media only all and (max-width: 47.938em) {
-  h3 {
-    font-size: 1.6rem; } }
-
-@media only all and (min-width: 48em) and (max-width: 59.938em) {
-  h4 {
-    font-size: 1.35rem; } }
-@media only all and (max-width: 47.938em) {
-  h4 {
     font-size: 1.25rem; } }
 
+@media only all and (min-width: 48em) and (max-width: 59.938em) {
+  h3 {
+    font-size: 1.0625rem; } }
+@media only all and (max-width: 47.938em) {
+  h3 {
+    font-size: 1.0rem; } }
+
+@media only all and (min-width: 48em) and (max-width: 59.938em) {
+  h4 {
+    font-size: .84375rem; } }
+@media only all and (max-width: 47.938em) {
+  h4 {
+    font-size: .78125rem; } }
+
 h1 {
-  text-align: center;
-  letter-spacing: -3px; }
+  text-align: left;
+  letter-spacing: -2px; }
 
 h2 {
-  letter-spacing: -2px; }
+  letter-spacing: -1px; }
 
 h3 {
   letter-spacing: -1px; }
 
+/* h2 immediately after h1 */
 h1 + h2 {
   margin: -2rem 0 2rem 0;
   font-size: 2rem;
@@ -353,6 +398,7 @@ h1 + h2 {
     h1 + h2 {
       font-size: 1.5rem; } }
 
+/* h3 immediately after h2 */
 h2 + h3 {
   margin: 0.5rem 0 2rem 0;
   font-size: 2rem;
@@ -367,17 +413,23 @@ h2 + h3 {
     h2 + h3 {
       font-size: 1.5rem; } }
 
+/* Pale blue-gray quote border. Delete? */
 blockquote {
-  border-left: 10px solid #F0F2F4; }
+/*   border-left: 10px solid #F0F2F4; */
+	padding-left: 1.7rem;
+   }
+   
   blockquote p {
-    font-size: 1.1rem;
-    color: #999; }
+    font-size: 1.0rem;
+    color: #064870; }
+    
   blockquote cite {
     display: block;
     text-align: right;
     color: #666;
-    font-size: 1.2rem; }
+    font-size: 0.8rem; }
 
+/* Nested blockquotes - not relevant */
 blockquote > blockquote > blockquote {
   margin: 0; }
   blockquote > blockquote > blockquote p {
@@ -622,6 +674,7 @@ td {
           #panel .navigation li ul li.active > a {
             background: #ccc; }
 
+/* Not sure where these appear */
 .blog-header {
   padding-top: 2rem;
   padding-bottom: 2rem; }
@@ -644,11 +697,14 @@ td {
   .blog-header + .blog-content {
     padding-top: 3rem; }
 
+/* Margin-bottom may be too big */
 .list-item {
   border-bottom: 1px solid #EEEEEE;
   margin-bottom: 3rem; }
+  
   .list-item:last-child {
     border-bottom: 0; }
+  
   .list-item .list-blog-header {
     position: relative; }
     .list-item .list-blog-header h4 {
@@ -661,6 +717,7 @@ td {
       display: block;
       margin-top: 1rem;
       border-radius: 3px; }
+  
   .list-item .list-blog-date {
     float: right;
     text-align: center; }
@@ -675,6 +732,7 @@ td {
       font-style: normal;
       text-transform: uppercase; }
 
+/* Changes size of paragraphs; weird */
 .blog-content-item .list-blog-padding > p:nth-child(2) {
   font-size: 1.2rem; }
 
@@ -723,7 +781,9 @@ div#breadcrumbs {
     #sidebar .sidebar-content h4 {
       margin-bottom: 1rem; }
     #sidebar .sidebar-content p, #sidebar .sidebar-content ul {
-      margin-top: 1rem; }
+      margin-top: 1rem;
+      margin-bottom: 0;
+      Font-size: 1.0rem }
 
 ul.pagination {
   margin: 0 0 3rem;
@@ -788,6 +848,7 @@ ul.pagination {
 #body > script:first-child + .grav-lightslider {
   margin-top: -3rem; }
 
+/* The modular stuff for home page only */
 .modular.header-image #header {
   background-color: rgba(255, 255, 255, 0);
   box-shadow: none; }
