@@ -1,3 +1,27 @@
+# v3.2.1
+## 15-05-2017
+
+1. [](#bugfix)
+    * Dependency version-range compatibly with Grav >=1.1.17
+
+# v3.2.0
+## 14-05-2017
+
+1. [](#improved)
+    * Facilitate non-standard tags in feed parsing
+    * Add note and example to README regarding non-standard tags
+    * Hash filenames to prevent conflict
+    * Minor cleanup
+2. [](#bugfix)
+    * Only recreate manifest after busting cache
+
+# v3.1.2
+## 14-05-2017
+
+1. [](#bugfix)
+    * Fix logic of updating manifest
+    * Remove Al Jazeera from example feeds, their feed-encoding is currently broken and will throw errors
+
 # v3.1.1
 ## 14-04-2017
 
