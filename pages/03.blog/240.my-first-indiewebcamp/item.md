@@ -7,6 +7,7 @@ taxonomy:
         - blog
     tag:
         - Geeky
+        - Indieweb
 summary:
     enabled: '1'
 subhead: "Long live lifelong learning"
