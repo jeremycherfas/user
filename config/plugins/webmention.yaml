@@ -9,6 +9,8 @@ sender:
   page_only: true
   automatic: false
   ignore_routes:
+    - /blog.atom
+    - /blog.rss
     - /random
   file_data: data_sent.yaml
   #blacklist: 
@@ -21,6 +23,8 @@ receiver:
   route: /mentions
   status_updates: true
   ignore_paths:
+    - /blog.atom
+    - /blog.rss
     - /random
   file_data: data_received.yaml
   blacklist_silently: true

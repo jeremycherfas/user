@@ -82,6 +82,14 @@ class FeedPlugin extends Plugin
             $this->feed_config = array_merge($this->feed_config, $page->header()->feed);
         }
 
+// Echo (print_r($page));
+
+// $my_target = $this->grav['page']->templateFormat();
+// If ($my_target = "html") {
+// echo "My target in feed: " . $my_target;
+// $pageheader = $this->grav['page']->header();
+// echo "page header content: " . $pageheader;
+
         // Overwrite regular content with feed config, so you can influence the collection processing with feed config
         if (property_exists($page->header(), 'content')) {
             $page->header()->content = array_merge($page->header()->content, $this->feed_config);

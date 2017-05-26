@@ -73,6 +73,7 @@ class WebmentionPlugin extends Plugin
             }
         }
 
+
         // RECEIVER
         if ($config->get('plugins.webmention.receiver.enabled')) {
             // ROUTE
@@ -98,6 +99,8 @@ class WebmentionPlugin extends Plugin
         $this->enable($enabled);
     }
 
+
+
     private function add_enable ($array, $key, $value) {
         if (array_key_exists($key, $array)) {
             array_push($array[$key], $value);
@@ -116,6 +119,7 @@ class WebmentionPlugin extends Plugin
         // search forward starting from end minus needle length characters
         return $needle === "" || (($temp = strlen($haystack) - strlen($needle)) >= 0 && strpos($haystack, $needle, $temp) !== false);
     }
+
 
     public function exposeData(Event $e) {
         $config = $this->grav['config'];
@@ -139,6 +143,9 @@ class WebmentionPlugin extends Plugin
             $config->set('plugins.webmention.data', $node);
         }
     }
+
+
+
 
     public function advertise_header(Event $e) {
         $config = $this->grav['config'];
@@ -177,19 +184,33 @@ class WebmentionPlugin extends Plugin
                 return;
             }
         }
+        
+// Fix from Zegnat part 1
+
+        $output = $this->grav->output;
+        $headElement = strpos($output, '</head>');
+        if ($headElement === false) {
+               return;
+           }
+
 
         $base = $this->grav['uri']->base();
         $rcvr_route = $config->get('plugins.webmention.receiver.route');
         $rcvr_url = $base.$rcvr_route;
-        $tag = '<link href="'.$rcvr_url.'" rel="webmention" />';
+        $tag = '<link href="'.$rcvr_url.'" rel="webmention-tag" />'; // sends to HEAD
+
 
         // inject before closing </head> tag
         $output = $this->grav->output;
-        $output = substr_replace($output, $tag, strpos($output, '</head>'), 0);
+
+// Fix from Zegnat part 2
+
+        $output = substr_replace($output, $tag, $headElement, 0);
 
         // replace output
         $this->grav->output = $output;
     }
+
 
     public function handleReceipt(Event $e) {
         // Somebody actually sent us a mention

@@ -9,6 +9,7 @@ sender:
   automatic: false
   ignore_routes:
     - /random
+    - /nonrandom
   file_data: data_sent.yaml
   #blacklist: 
   #  - 'regex' of external links you do *not* wish to notify of mentions
@@ -21,6 +22,7 @@ receiver:
   status_updates: true
   ignore_paths:
     - /random
+    - /nonrandom
   file_data: data_received.yaml
   blacklist_silently: true
   #blacklist:
