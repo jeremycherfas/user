@@ -9,8 +9,11 @@ use Symfony\Component\Console\Question\ConfirmationQuestion;
 use RocketTheme\Toolbox\File\File;
 use Symfony\Component\Yaml\Yaml;
 use Grav\Plugin\WebmentionPlugin;
-//require_once __DIR__ . '/../classes/MentionClient.php';
-require_once __DIR__ . '/../classes/Parser.php';
+/* require_once __DIR__ . '/../classes/MentionClient.php'; */
+/* require_once __DIR__ . '/../classes/Parser.php'; */
+
+require_once __DIR__ . '/../classes/xray/vendor/autoload.php';
+use p3k\XRay;
 
 /**
  * Class HelloCommand
@@ -256,7 +259,12 @@ class VerifyCommand extends ConsoleCommand
 
                         // Extract MF2 if present
                         $link['source_mf2'] = null;
-                        $mf2 = \Mf2\parse($result['body'], $link['source_url']);
+
+$xray = new XRay();
+$mf2 = $xray->parse($result['body'], $link['source_url']);
+                        
+//                        $mf2 = \Mf2\parse($result['body'], $link['source_url']);
+
                         if ($mf2 !== null) {
                             $link['source_mf2'] = $mf2;
                         }

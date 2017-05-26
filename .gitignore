@@ -1,6 +1,7 @@
 # Grav Specific
 .sass-cache
 data/*
+accounts/*
 
 # OS Generated
 .DS_Store*

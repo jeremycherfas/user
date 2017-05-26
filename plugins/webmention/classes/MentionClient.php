@@ -6,7 +6,10 @@
 
 namespace IndieWeb;
 
-require_once __DIR__ . '/Parser.php';
+/* require_once __DIR__ . '/Parser.php'; delete because already in XRay library */
+
+require_once __DIR__ . '/xray/vendor/autoload.php';
+
 
 class MentionClient {
 
