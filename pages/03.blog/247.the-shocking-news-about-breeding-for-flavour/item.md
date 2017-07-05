@@ -34,5 +34,5 @@ Folta and Klee conclude by noting that:
 
 It suggests other things, too, but I've said plenty.
 
-*Syndicated to [Agricultural Biodiversity Weblog]()*
+*Syndicated to [Agricultural Biodiversity Weblog](http://agro.biodiver.se/2017/07/the-shocking-news-about-breeding-for-flavour/)*
 
