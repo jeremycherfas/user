@@ -52,6 +52,16 @@ padding-right: 0.5rem;
 padding-bottom: 1rem;
 }
 
+/* Change size of footnote numbers */
+.footnote-ref {
+    font-size: 160%;
+}
+
+ol li {
+    font-size: 130%;
+    vertical-align: bottom;
+}
+
 /* Styling comments */
 
 .comment {
@@ -115,6 +125,7 @@ img.right {
 	}
 	
 blockquote p {
+font-size: 1.3rem;
 color: #064870;
 }
 
