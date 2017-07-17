@@ -1,3 +1,15 @@
+# v1.12.0
+## 05/31/2017
+
+1. [](#new)
+   * Added option to switch between Rendered HTML and Raw Markdown content searching.  Raw Markdown is faster than default.
+
+# v1.11.0
+## 05/29/2017
+
+1. [](#new)
+    * Allow to use "@none"/"none@" in the "Category filter" in Admin to allow removing the filter
+
 # v1.10.2
 ## 04/19/2017
 
@@ -8,7 +20,7 @@
 ## 04/11/2017
 
 1. [](#new)
-    * Added portoguese translation
+    * Added Portuguese translation
     * Add hint when the minimum search field length is not matched
 1. [](#bugfix)
     * Default `ignore_accented_characters` to false
@@ -24,10 +36,11 @@
     * Added japanese translation
     * Added persian translation
 1. [](#improved)
+    * Added option to switch between Rendered HTML and Raw Markdown content searching.  Raw Markdown is faster than default.
     * Removed jQuery dependency, fixes issue when jQuery is loaded in the footer [#57](https://github.com/getgrav/grav-plugin-simplesearch/pull/57)
     * Added option to ignore accents when searching [#89](https://github.com/getgrav/grav-plugin-simplesearch/pull/89)
 1. [](#bugfix)
-    * Remove unpublished and unroutable pages from the result set
+    * Remove unpublished and un-routable pages from the result set
     * Fixed issue when using @self as route
     * Fix overloaded property issue when searching on a page with simplesearch header [#80](https://github.com/getgrav/grav-plugin-simplesearch/issues/80)
     * Fix issue with empty string and leading commas [#71](https://github.com/getgrav/grav-plugin-simplesearch/issues/71)
