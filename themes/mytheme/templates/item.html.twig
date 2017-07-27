@@ -13,11 +13,20 @@
 Added for comments
  -->
 
-<!-- This for example webmentions
+<!-- 
+This for example webmentions
 <script id="webmention-hosted" src="https://webmention.herokuapp.com/api/embed?example"></script>
--->
+ -->
 
-<!-- This for my webmentions -->
+<h2>Reactions from around the web</h2>
+<!-- 
+Great to make display of the above conditional
+ -->
+
+<div class="comment">
+<h3>Webmentions</h3>
+</div>
+
 <script id="webmention-hosted">
 (function () {
 var sn = document.createElement("script"), s = document.getElementsByTagName("script")[0], url;
@@ -28,7 +37,6 @@ sn.src = "//webmention.herokuapp.com/api/embed?url=" + encodeURIComponent(url ||
 s.parentNode.insertBefore(sn, s);
 }());
 </script>
-
 
 	{% if config.plugins.comments.enabled %}			    
 		 {% include 'partials/comments.html.twig' with {'page': page} %}
