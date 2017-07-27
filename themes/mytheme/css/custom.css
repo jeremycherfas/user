@@ -93,6 +93,43 @@ table.comment_table {
 	Color: black;
 	}
 
+/* Styling webmentions */
+
+.webmention-container {
+}
+
+.webmention-container > :first-child {
+    margin-top: 1rem;
+}
+
+.webmention-mention {
+    padding-left: 6rem;
+    position: relative;
+	margin-bottom: 0.5rem;
+	Padding-bottom: 0.5rem;
+	border-bottom: 1px solid;
+}
+
+.webmention-mention:last-child{
+margin-bottom:0
+}
+
+.webmention-author img {
+position: absolute;
+top: 0;
+left: 0px;
+width: 5rem;
+border-radius: 50px;
+}
+
+.webmention-summary {
+background-color: transparent;
+}
+
+.webmention-published {
+Background-color: transparent;
+}
+
 /* To colour headings in book reviews */
 
 .sectionHeading {
