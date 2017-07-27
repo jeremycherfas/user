@@ -48,4 +48,4 @@ Glenn chose not to jump through those hoops. That's OK. I wonder, though, will h
 
 [^2]: Who are not as keen on Grav, it has to be said. And unfortunately the plugin author's keenness does not extend to actually using his plugin on his own site.
 
-[^3]: There are services for that too; I'll probably use [Telegraph](telegraph.p3k.io).
+[^3]: There are services for that too; I'll probably use [Telegraph](https://telegraph.p3k.io).
