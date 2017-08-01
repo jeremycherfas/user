@@ -49,6 +49,9 @@ form:
         - name: path
           type: hidden
           evaluateDefault: grav.uri.path
+        - 
+          name: honeypot
+          type: honeypot
 
 #        - name: g-recaptcha-response
 #          label: Captcha
