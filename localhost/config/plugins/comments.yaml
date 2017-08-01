@@ -46,6 +46,11 @@ form:
       name: path
       type: hidden
       evaluateDefault: grav.uri.path
+
+    - 
+      name: honeypot
+      type: honeypot
+                
   buttons:
     -
       type: submit
