@@ -16,7 +16,9 @@ summary:
 
 Having got [webmentions and comments working on the Mothership](https://www.jeremycherfas.net/blog/not-giving-up-on-indieweb), I thought it high time I started giving some of the satellite sites more of an identity and more independence. First up, Eat This Podcast.
 
-That runs on WordPress, and some time ago I moved it over to a more [IndieWeb theme](https://independentpublisher.me) and implemented some of the IndieWeb principles. Notably, I POSSE longer articles using a plugin called [All in One SEO](https://wordpress.org/plugins/all-in-one-seo-pack/). That actually does far more than POSSE, and one of the reasons I want to move forward is to use tools that are less of a Swiss army knife and more of a scalpel. I’m still using my @WithKnown stream, which really is part of the Mothership, to Tweet and reply to Tweets. So that seemed like a nice low-hanging fruit.
+That runs on WordPress, and some time ago I moved it over to a more [IndieWeb theme](https://independentpublisher.me) and implemented some of the IndieWeb principles. Notably, I POSSE longer articles using a plugin called [All in One SEO](https://wordpress.org/plugins/all-in-one-seo-pack/).[^1] That actually does far more than POSSE, and one of the reasons I want to move forward is to use tools that are less of a Swiss army knife and more of a scalpel. I’m still using my @WithKnown stream, which really is part of the Mothership, to Tweet and reply to Tweets. So that seemed like a nice low-hanging fruit.
+
+[^1]: It has been brought to my attention (thanks [Chris Aldrich](http://boffosocko.com)) that I do not, in fact, POSSE from AIOSEO. I use the plugin to provide information about the post which Twitter then pulls into a Twitter Card. A true POSSE would push the information directly out to the silo. And right now, that's not going too well.
 
 Not entirely.
 
