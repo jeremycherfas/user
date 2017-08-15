@@ -18,6 +18,11 @@
     font-size: 1rem;
 }
 
+/* To enable links to show! */
+.list-blog-padding {
+	float: none;
+	}
+
 /* To force left-align for H1 */
 h1 {
 text-align: left;
