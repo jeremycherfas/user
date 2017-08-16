@@ -10,3 +10,8 @@ twig_feeds:
     name: Stream
     start: 0
     end: 10
+  -
+    source: 'https://www.reading.am/jeremycherfas/posts.rss'
+    name: Reading
+    start: 0
+    end: 4
