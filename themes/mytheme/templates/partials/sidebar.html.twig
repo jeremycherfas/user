@@ -10,9 +10,23 @@
 
 {% if config.plugins.twigfeeds.enabled %}
 <div class="sidebar-content">
+<h4>Reading</h4>
+
+{% for name, feed in twig_feeds if name == 'Reading' %}
+    {% for item in feed.items %}
+        <p>
+            <a href="{{ item.url }}">{{ item.title | regex_replace(['/Jeremy Cherfas is reading /'],['']) }}</a>
+        </p>
+              <time>{{ item.date.date|nicetime(false) }}</time>
+
+    {% endfor %}
+{% endfor %}
+
+</div>
+<div class="sidebar-content">
 <h4>Stream</h4>
 
-{% for name, feed in twig_feeds %}
+{% for name, feed in twig_feeds if name == 'Stream' %}
     {% for item in feed.items %}
         <p>
             <a href="{{ item.url }}">{{ item.title }}</a>
