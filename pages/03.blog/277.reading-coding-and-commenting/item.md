@@ -7,10 +7,10 @@ taxonomy:
         - blog
     tag:
         - Geeky
-summary:
-    enabled: '1'
 subhead: 'More little tweaks'
 header_image: '0'
+summary:
+    enabled: '1'
 ---
 
 *Notes, as much for my own memory as for anyone following along, on a couple of recent tweaks*
@@ -50,4 +50,6 @@ If you're running a blog on Grav and want to let people ping you with their resp
 </form>
 ````
 
-If I were to be hypercritical I'd complain that the styling is clunky and not the same as the other form, but it is definitely good enough.
+~~If I were to be hypercritical I'd complain that the styling is clunky and not the same as the other form, but it is definitely good enough.~~
+
+Thanks to the aforementioned IndieWeb chums, everything looks good now. And, bonus, the help came *via* a webmention, which you can see below.

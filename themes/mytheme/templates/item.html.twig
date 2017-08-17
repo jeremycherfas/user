@@ -39,13 +39,13 @@ s.parentNode.insertBefore(sn, s);
 </script>
 
 <form id="webmention-form" action="https://webmention.herokuapp.com/api/webmention" method="post">
-	<p>
+	<div>
 		<label for="webmention-source">If you write something on your own site that links to this post, send me a <a href="http://indieweb.org/webmention">Webmention</a> by putting your post's URL in here:</label>
 		<input id="webmention-source" type="url" name="source" placeholder="URL/Permalink of your article">
-	</p>
-	<p>
-		<input  style="background-color: #22ff9b; text-align: center; width: 6rem;" id="webmention-submit" type="submit" name="submit" value="Do it!">
-	</p>
+	</div>
+	<div class="buttons">
+		<button id="webmention-submit" type="submit" class="button" name="submit">Do it!</button>
+	</div>
 	<input id="webmention-target" type="hidden" name="target" value="{{ page.permalink }}" >
 </form>
 
