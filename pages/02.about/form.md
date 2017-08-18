@@ -33,7 +33,7 @@ form:
         -
             type: submit
             value: Submit
-            classes: 'gdlr-button with-border excerpt-read-more'
+            classes: 'button'
     process:
         -
             email:
