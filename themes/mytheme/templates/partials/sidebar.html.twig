@@ -15,7 +15,7 @@
 {% for name, feed in twig_feeds if name == 'Reading' %}
     {% for item in feed.items %}
         <p>
-            <a href="{{ item.url }}">{{ item.title | regex_replace(['/Jeremy Cherfas is reading /'],['']) }}</a>
+            <a href="{{ item.url }}">{{ item.title | regex_replace(['/Jeremy Cherfas is reading /', '/ because of Jeremy Cherfas/'],['','']) }}</a>
         </p>
               <time>{{ item.date.date|nicetime(false) }}</time>
 
