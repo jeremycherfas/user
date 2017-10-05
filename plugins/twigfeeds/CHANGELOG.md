@@ -1,3 +1,15 @@
+# v3.3.0
+## 27-09-2017
+
+1. [](#improved)
+    * Option to silence security errors
+
+# v3.3.0-beta.1.1
+## 17-09-2017
+
+1. [](#improved)
+    * Option to silence security errors
+
 # v3.2.4
 ## 22-06-2017
 
