@@ -1,7 +1,7 @@
 ---
 title: 'Audio subtitles in Reaper'
 published: true
-date: '29-03-2017 09:30'
+date: '5-10-2017 15:30'
 taxonomy:
     category:
         - blog
