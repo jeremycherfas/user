@@ -10,7 +10,7 @@ taxonomy:
         - Podcasts
 summary:
     enabled: '1'
-subhead: 'There is alsmost certainly a more efficient way'
+subhead: 'There is almost certainly a more efficient way'
 header_image: '0'
 ---
 
