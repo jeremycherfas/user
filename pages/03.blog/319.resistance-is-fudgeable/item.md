@@ -23,7 +23,7 @@ summary:
 <p>Their conclusion:</p>
 
 <blockquote>
-<p><strong>Bottom line:</strong> A ban on AGPs in Denmark has <span style="text-decoration:underline">not had the intended benefit</span> of reducing antibiotic resistance patterns in humans; it has had the <span style="text-decoration:underline">unintended consequence</span> of increasing animal suffering, pain and death.</p>
+<p><i class="fa fa-quote-left fa-2x fa-pull-left" aria-hidden="true"></i> <strong>Bottom line:</strong> A ban on AGPs in Denmark has <span style="text-decoration:underline">not had the intended benefit</span> of reducing antibiotic resistance patterns in humans; it has had the <span style="text-decoration:underline">unintended consequence</span> of increasing animal suffering, pain and death.</p>
 </blockquote>
 
 <p>To back that up, the AHI helpfully publishes this graph.</p>
@@ -59,7 +59,7 @@ summary:
 <p>Of course there are gaps in our knowledge; there always are. But that is not a good reason to block action. The final part of the <a href="https://amr-review.org/">McNeill report for the British government</a> has this to say (p 10):</p>
 
 <blockquote>
-<p>Where gaps in the evidence remain, they should be filled But given all that we know already, it does not make sense to delay action further: the burden of proof should be for those who oppose curtailing the use of antimicrobials in food production to explain why, not the other way around.</p>
+<p><i class="fa fa-quote-left fa-2x fa-pull-left" aria-hidden="true"></i> Where gaps in the evidence remain, they should be filled But given all that we know already, it does not make sense to delay action further: the burden of proof should be for those who oppose curtailing the use of antimicrobials in food production to explain why, not the other way around.</p>
 </blockquote>
 
-*Cross-posted from Eat This Podcast*
+<i class="fa fa-arrows-alt" aria-hidden="true"></i> *Cross-posted from [Eat This Podcast](https://www.eatthispodcast.com/resistance-is-fudgeable/)*
