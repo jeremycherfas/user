@@ -12,10 +12,27 @@
 .mysearch {
 	color: #000;
 	}
+
+body {
+	Font-size:16px;
+	background-color: lime;
+	}
+
+P {
+Font-size: 1.5em;
+line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Montserrat", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+    font-weight: 400;
+    text-rendering: optimizeLegibility;
+    letter-spacing: -0px;
+}
 	
 /* To fix all -paragraphs to same size */
 .blog-content-item .list-blog-padding > p:nth-child(2) {
-    font-size: 1rem;
+    font-size: 1em;
 }
 
 /* To enable links to show! */
@@ -25,45 +42,52 @@
 
 /* To force left-align for H1 */
 h1 {
+Font-size: 2.441em;
 text-align: left;
-line-height: 3.0rem;
+line-height: 1.5;
 }
 
 h2, h4 {
 color: #064870;
 font-weight: 100;
-Padding-left: 0 rem;
-padding-right: 0.5rem;
+Padding-left: 0 ;
+padding-right: 0.5em;
 }
 
 h2.subhead {
-font-size: 1.8rem;
+font-size: 1.953em;
 color: #064870;
 text-align: left;
-padding-top: 1rem;
+line-height:1.5;
 }
 
 h5.recent {
-font-size: 0.8rem;
+font-size: 1em;
 color: #064870;
 text-align: center;
-padding-top: 0.5rem;
+padding-top: 0.5em;
 margin: 0px;
-padding-left: 0.5rem;
-padding-right: 0.5rem;
+padding-left: 0.5em;
+padding-right: 0.5em;
 }
 
 .tags {
-padding-bottom: 1rem;
+padding-bottom: 1em;
 }
 
 /* Change size of footnote numbers */
-.footnote-ref {
-    font-size: 160%;
+.footnote-ref { 
+    font-size: 1.0em;
 }
 
+ul li {
+	Font-size: 1.25em;
+	Line-height:1.6;
+	vertical-align: bottom;
+	}
+
 ol li {
-    font-size: 130%;
+    font-size: 1.25em;
     vertical-align: bottom;
 }
 
@@ -82,23 +106,23 @@ code {
 	
 .comment h3 {
 	color: #888;
-	Margin-left: 0.8rem;
-	font-size: 1.6rem;
+	Margin-left: 0.8em;
+	font-size: 1.25em;
 	}	
 
 .comment-content {
-	Font-size: 1.2rem;
-	Margin-left: 0.8rem;
+	Font-size: 1em;
+	Margin-left: 0.8em;
 	}
 	
 .commenter {
-	font-size: 1.0rem;
+	font-size: 1.em;
 	font-style: Italic;
 	text-Align: right;
 	}
 
 .commenter p {
-	Margin-right: 0.8rem;
+	Margin-right: 0.8em;
 	}
 
 table.comment_table {
@@ -111,14 +135,14 @@ table.comment_table {
 }
 
 .webmention-container > :first-child {
-    margin-top: 1rem;
+    margin-top: 1em;
 }
 
 .webmention-mention {
-    padding-left: 6rem;
+    padding-left: 6em;
     position: relative;
-	margin-bottom: 0.5rem;
-	Padding-bottom: 0.5rem;
+	margin-bottom: 0.5em;
+	Padding-bottom: 0.5em;
 	border-bottom: 1px solid;
 }
 
@@ -130,11 +154,11 @@ margin-bottom:0
 position: absolute;
 top: 0;
 left: 0px;
-width: 5rem;
-border-radius: 50px;
+width: 5em;
+border-radius: 4.2em;
 }
 
-.webmention-summary {
+.webmention-summary { 
 background-color: transparent;
 }
 
@@ -174,7 +198,7 @@ img.right {
 	}
 	
 blockquote p {
-font-size: 1.3rem;
+font-size: 1.25em;
 color: #064870;
 }
 
