@@ -15,7 +15,6 @@
 
 body {
 	Font-size:16px;
-	background-color: lime;
 	}
 
 P {
@@ -51,7 +50,7 @@ h2, h4 {
 color: #064870;
 font-weight: 100;
 Padding-left: 0 ;
-padding-right: 0.5em;
+padding-right: 0 ;
 }
 
 h2.subhead {
@@ -69,6 +68,7 @@ padding-top: 0.5em;
 margin: 0px;
 padding-left: 0.5em;
 padding-right: 0.5em;
+line-height: 1.2;
 }
 
 .tags {
@@ -200,9 +200,23 @@ img.right {
 blockquote p {
 font-size: 1.25em;
 color: #064870;
+padding-left: 1em;
+padding-right: 1em;
 }
 
 td {
 	width: 50%;
 	vertical-align: top; 
 	}
+	
+/* Feature items with flexbox */
+
+.feature-items {
+	display: flex;
+	Justify-content: center;
+	}
+	
+.feature {
+	flex-basis: 25%;
+	Border: 1px black;
+}
