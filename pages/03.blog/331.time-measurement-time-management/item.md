@@ -7,6 +7,7 @@ taxonomy:
         - blog
     tag:
         - Geeky
+        - Monthlies
 summary:
     enabled: '1'
 subhead: 'It''s all about the distractions'
