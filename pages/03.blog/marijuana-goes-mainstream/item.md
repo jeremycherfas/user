@@ -37,3 +37,5 @@ All this could easily have been foreseen, and was, by people who have studied th
 And once that has happened, how long before the small growers show up at farmers markets, touting their heritage, organic, sustainable varieties of pot? Except, of course, that most modern pot varieties are F<sub>1</sub> hybrids designed to produce only female plants, often grown hydroponically. Is that acceptable?
 
 Happy New Year
+
+Also at <a class="u-syndication" href="https://agro.biodiver.se/2017/12/marijuana-goes-mainstream/" >Agricultural Biodiversity Weblog</a >. 
