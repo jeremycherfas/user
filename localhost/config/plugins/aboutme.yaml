@@ -1,6 +1,7 @@
 enabled: true
 built_in_css: true
 name: 'Jeremy Cherfas'
+title: Title
 description: 'I work as a freelance communicator. In essence, I see myself as a translator. I speak Science, and I speak English, and I work hard to make the two understand one another. Mostly, I like to help people tell their stories. I''m a biologist by training and by inclination, and my main joy is applying that to food and the agriculture and industries that supply it. I also have side interests in economics and many other things.'
 picture_src:
   user/plugins/aboutme/assets/avatars/zoot.jpg:
@@ -35,9 +36,10 @@ social_pages:
       position: 4
       url: 'https://github.com/jeremycherfas'
     linkedin:
-      icon: linkedin-square
+      icon: rss
       title: LinkedIn
       position: 5
+      url: 'https://micro.blog/jeremycherfas'
     instagram:
       icon: instagram
       title: Instagram
@@ -48,4 +50,3 @@ social_pages:
       title: pnut
       position: 7
       url: 'https://pnut.io/@jeremycherfas'
-title: ''

@@ -41,10 +41,9 @@
 
 {% if config.plugins.feed.enabled %}
 <div class="sidebar-content syndicate">
-<!-- 
-    <h4>Subscribe</h4>
- -->
-    <a class="button" href="{{ feed_url }}.atom"><i class="fa fa-rss-square"></i> Atom 1.0</a>
+     <h4>Subscribe</h4>
+      <a class="button" href="{{ feed_url }}.atom"><i class="fa fa-rss-square"></i> Atom 1.0</a>
     <a class="button" href="{{ feed_url }}.rss"><i class="fa fa-rss-square"></i> RSS</a>
+    <p>If you want to know what that's all about, I highly recommend Robin Rendle's excellent article:</br > <a class="u-in-reply-to" href="https://robinrendle.com/notes/how-to-read-the-internet/" >How to Read the Internet</a > </p >
 </div>
 {% endif %}
