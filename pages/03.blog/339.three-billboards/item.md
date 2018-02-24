@@ -1,5 +1,5 @@
 ---
-title: 'Three billboards'
+title: '<i class="fa fa-film"></i>  Three billboards'
 date: '19-01-2018 09:30'
 taxonomy:
     category:

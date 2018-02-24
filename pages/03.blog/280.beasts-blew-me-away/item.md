@@ -1,5 +1,5 @@
 ---
-title: 'Beasts blew me away'
+title: '<i class="fa fa-film"></i>  Beasts blew me away'
 published: true
 date: '19-02-2013 20:30'
 taxonomy:

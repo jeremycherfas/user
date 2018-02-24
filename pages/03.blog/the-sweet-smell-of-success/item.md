@@ -1,5 +1,5 @@
 ---
-title: '\<i class="fa fa-star" aria-hidden="true" style="color:gold"\>\<\/i\>The Sweet Smell of Success'
+title: '<i class="fa fa-film"></i>  The Sweet Smell of Success'
 published: true
 date: '24-02-2018 17:00'
 taxonomy:
