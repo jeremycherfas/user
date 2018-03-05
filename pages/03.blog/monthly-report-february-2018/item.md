@@ -16,12 +16,10 @@ header_image: '0'
 
 I'm feeling a bit stir-crazy as my blessed knee is still cramping my style more than somewhat. More than two months now since whatever it was, and during that time I've discovered that anti-inflamatories (diclofenac) help with the pain, but also encourage me to get out and walk, which doesn't help with healing. For the past two weeks I have been off them, and though the pain is bad, and I've been cutting down on walking despite my growing podcast queue, there doesn't seem to be any reward. A specialist may be needed on the case.
 
-=== 
-
 Other things this month:
 
 * A week in London, house-sitting, dog-sitting and researching a new paper.
-	* In connection with, visits to Sir John Soane's house, the Royal Academy for a stunning show on the collection of Charles I, and a nice long time in the National Gallery for the permanent collection.
+* In connection with, visits to Sir John Soane's house, the Royal Academy for a stunning show on the collection of Charles I, and a nice long time in the National Gallery for the permanent collection.
 * Got my *tessera sanitaria*, a bureaucratic triumph of sorts.
 * Cracked PESOS of reading.am to my Known website, although it needs a bit more tidying up before I let it loose.
 * Slightly worrying decline in podcast downloads; no obvious reason,  trying to be stoic about this. Still don't know how best to do marketing.
@@ -33,7 +31,7 @@ Other things this month:
 
 No shattering new insights here. I'm somewhat stunned by the news that I actually exceeded my step goal on 16 days of the past month. I feel sluggish as all get out.
 
-Tracked **reading** (half an hour minimum, in one stretch) on 13 of the past 30- days; with the week in London, that's OK.
+Tracked **reading** (half an hour minimum, in one stretch) on 13 of the past 30-= days; with the week in London, that's OK.
 
 ##Work
 
@@ -63,6 +61,8 @@ The old posts (just to give them a bit of a boost)
 * [What I would like Europe to do about agricultural biodiversity | Jeremy Cherfas](https://www.jeremycherfas.net/blog/what-i-would-like-europe-to-do-about-agricultural-biodiversity) 
 
 ##Activities
+
+Not very illuminating.
 
 ###Steps 65th percentile
 
