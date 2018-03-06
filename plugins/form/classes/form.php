@@ -1,5 +1,5 @@
 <?php
-namespace Grav\Plugin\Form;
+namespace Grav\Plugin;
 
 use Grav\Common\Data\Data;
 use Grav\Common\Data\Blueprint;
@@ -571,7 +571,7 @@ class Form extends Iterator implements \Serializable
                         unset($data[$i]);
                     }
                 }
-                if ($field['type'] === 'checkbox' || $field['type'] === 'switch') {
+                if ($field['type'] === 'checkbox') {
                     $data[$name] = isset($data[$name]) ? true : false;
                 }
                 $i++;

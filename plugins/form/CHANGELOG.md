@@ -1,32 +1,3 @@
-# v2.12.0
-## 02/22/2018
-
-1. [](#new)
-    * Added toggle to enable/disable client-side HTML5 validation
-    * Added toggle to enable/disable inline-error messages
-1. [](#bugfix)
-    * Fixed an issue with in-content Twig forms not working because forms were not initialized yet
-1. [](#improved)
-    * Reformatted `form.php` plugin class for better readability    
-
-# v2.11.5
-## 02/16/2018
-
-1. [](#new)
-    * Added support for `form: process: - call: ['Class', 'method']` for custom form handling
-1. [](#bugfix)
-    * Fixed regression in v2.11.4: Call to a member function post() on null [grav#1720](https://github.com/getgrav/grav/issues/1720)
-
-# v2.11.4
-## 02/15/2018
-
-1. [](#improved)
-    * Stopped Chrome from auto-completing admin user profile form [grav#1847](https://github.com/getgrav/grav/issues/1847)
-    * Start using composer to autoload classes
-    * Added support for `switch` to be treated as checkbox
-1. [](#bugfix)
-    * Fixed missing form submit in dynamically created pages
-    
 # v2.11.3
 ## 01/31/2018
 
