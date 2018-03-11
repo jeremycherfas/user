@@ -18,9 +18,12 @@
     <div class="list-blog-padding">
     
         <div class="e-content">
+{% if page.header.image %}
         <div class="cover">
         	<img src="{{ page.url }}/{{ page.header.image }}" class="left">
         </div>
+{% endif %}        
+
             {{ page.header.summary }}
         </div>
 
