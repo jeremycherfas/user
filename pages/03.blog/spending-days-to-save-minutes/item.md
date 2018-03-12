@@ -32,3 +32,7 @@ A cute problem is that as far as I know, IFTTT creates one file for every highli
 All in all, I'm happy with what I've achieved. Sure, I could probably have done it in half the code and a quarter of the time using PHP or Python or whatever. But to do that, I'd have to understand those languages much better than I do. And the great thing about Applescript and, especially Script Debugger, is that you can so easily keep an eye on what is happening. I may even try something else in a little while.
 
 For now, there's still a lot of manual labour, but I know it will be relatively easy to set things up so that when I new file appears I can choose which script to run automatically. I also need to work a little on the tags and styling of the posts, but that's a task for another day. In the meantime you can take a look at the [highlight.scpt](https://gist.github.com/jeremycherfas/6cd462d703137e6f5a48c1481e0eae4a) and [new-highlight.scpt](https://gist.github.com/jeremycherfas/526c0d82dbe5bd8f775e8063a1a0a1ad) and, if you're feeling very charitable, show me how I could have done all that in half the code and a quarter of the time.
+
+<a href="https://news.indieweb.org/en" class="u-syndication">
+  Also sent to IndieNews
+</a>

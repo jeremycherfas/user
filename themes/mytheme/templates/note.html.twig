@@ -1,5 +1,4 @@
 {% embed 'partials/base.html.twig' %}
-
 	{% block content %}
 	
 		{% if config.plugins.breadcrumbs.enabled %}
@@ -9,34 +8,8 @@
 <div class="blog-content-item grid pure-g-r" >
 
 	<div id="item" class="block pure-u-2-3">
-			
-		<div class="list-item h-entry">
-        
-            <div class="list-blog-header">
-        	<span class="list-blog-date">
-            <time class="dt-published" datetime="{{ page.date|date("c") }}">
-                <span>{{ page.date|date("d") }}</span>
-                <em>{{ page.date|date("M") }}</em>
-            </time>
-        	</span>
-        <h1 class="p-name"><a href="{{ page.url }}" class="u-url">{{ page.title }}</a></h1>
-	    	</div>
+			{% include 'partials/note_item.html.twig' with {'review':page.parent, 'truncate':false} %}
 
-    	<div class="e-content">
- 
-            {{ page.header.summary }}
-        			
-			<div>
-			{{ page.content }}
-			</div>
-		                    {% if page.taxonomy.tag %}
-        <span class="tags">
-            {% for tag in page.taxonomy.tag %}
-            <a href="{{ blog.url|rtrim('/') }}/tag{{ config.system.param_sep }}{{ tag }}" class="p-category">{{ tag }}</a>
-            {% endfor %}
-        </span>
-        {% endif %}
-		</div>
 		
 <!-- 
 Added for comments
