@@ -189,6 +189,15 @@ img.right {
 .gray {
 	background-color: #f6f6f6;
 	}
+
+p.highlight {
+Font-size: 1.2em;
+Padding-top: 0.6rem;
+Padding-left: 1.2rem;
+Padding-right: 1.2rem;
+Padding-bottom: 1.2rem;
+Background-color: #fef1e3;
+	}
 	
 blockquote p {
 font-size: 1.25em;
