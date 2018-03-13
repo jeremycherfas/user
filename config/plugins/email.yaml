@@ -1,0 +1,15 @@
+enabled: true
+from: grav@jcherfas.fastmail.fm
+to: jcherfas@mac.com
+mailer:
+  engine: smtp
+  smtp:
+    server: mail.messagingengine.com
+    port: 587
+    encryption: tls
+    user: jcherfas@fastmail.fm
+    password: 'CK+9tbaXujtM}4q'
+  sendmail:
+    bin: /usr/sbin/sendmail
+content_type: text/html
+debug: true

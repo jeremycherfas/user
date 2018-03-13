@@ -1,23 +1,7 @@
-title: 'Jeremy Cherfas'
+title: Grav
 author:
-  name: 'Jeremy Cherfas'
-  email: jcherfas@mac.com
-taxonomies:
-  - category
-  - tag
-  - month
+  name: Joe Bloggs
+  email: 'joe@test.com'
 metadata:
-  description: 'Thoughts and links'
-summary:
-  enabled: true
-  format: short
-  size: 300
-  delimiter: '==='
-redirects:
-  /redirect-test: /
-  '/old/(.*)': /new/$1
-routes:
-  /something/else: /blog/sample-3
-  '/new/(.*)': /blog/$1
-blog:
-  route: ''
+    description: 'Grav is an easy to use, yet powerful, open source flat-file CMS'
+

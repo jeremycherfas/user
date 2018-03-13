@@ -1,9 +1,10 @@
-enabled: true
+enabled: false
 social_pages:
   pages:
     twitter:
       enabled: true
       type: summary
+      aboutme: false
     facebook:
       enabled: false
       appid: '1234567890'
