@@ -37,6 +37,6 @@ The really strange part in all this is that Garfield Weston came to Britain with
 
 Instead, through Allied and ABF, he gave us bread made from weaker, cheaper flour at lower cost. And we ate it up.
 
-Syndicated from <a class="u-syndication-of" href="https://www.eatthispodcast.com/how-great-canadian-wheat-ruined-industrial-bread/" >Eat This Podcast</a >.
+Syndicated from <a class="u-url u-uid" href="https://www.eatthispodcast.com/how-great-canadian-wheat-ruined-industrial-bread/" >Eat This Podcast</a >.
 
 [^1]: Now amalgamated with the Research Association of British Flour Millers to form the Flour Milling and Baking Research Association, which is effectively invisible on the internet.
