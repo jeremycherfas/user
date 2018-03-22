@@ -1,6 +1,7 @@
 title: 'Jeremy Cherfas'
 default_lang: en
 author:
+  name: 'Jeremy Cherfas'
   email: grav@jcherfas.fastmail.fm
 taxonomies:
   - category
