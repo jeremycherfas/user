@@ -8,7 +8,7 @@ mailer:
     port: 587
     encryption: tls
     user: jcherfas@fastmail.fm
-    password: 'CK+9tbaXujtM}4q'
+    password: apX-qC5-SBP-J2s
   sendmail:
     bin: /usr/sbin/sendmail
 content_type: text/html
