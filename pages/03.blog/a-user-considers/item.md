@@ -7,7 +7,7 @@ taxonomy:
         - blog
     tag:
         - Geeky
-        - IndieWeb
+        - Indieweb
 subhead: 'We can have the web we want, but it won''t be as easy as the web we don''t want.'
 header_image: '0'
 summary:
