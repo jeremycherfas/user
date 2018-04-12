@@ -4,11 +4,11 @@ to: jcherfas@mac.com
 mailer:
   engine: smtp
   smtp:
-    server: mail.messagingengine.com
+    server: smtp.fastmail.com
     port: 587
     encryption: tls
     user: jcherfas@fastmail.fm
-    password: apX-qC5-SBP-J2s
+    password: j8dl9y6e6aqhgqxf
   sendmail:
     bin: /usr/sbin/sendmail
 content_type: text/html
