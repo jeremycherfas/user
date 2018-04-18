@@ -84,16 +84,13 @@
         </section>
         {% endblock %}
 
-        {% block footer %}
-        <footer id="footer">
-            <div class="totop">
-                <span><a href="#" id="toTop"><i class="fa fa-arrow-up"></i></a></span>
-            </div>
-<!-- 
-            <p><a href="http://getgrav.org">Grav</a> was <i class="fa fa-code"></i> with <i class="fa fa-heart"></i> by <a href="http://www.rockettheme.com">RocketTheme</a>.</p>
- -->
-        </footer>
-        {% endblock %}
+
+{% include 'partials/footer.html.twig' %}
+
+{% if page.header.title == "Jeremy Cherfas: Posts" %}
+	{% include 'partials/hcard.html.twig' %}
+{% endif %}
+
     </div>
     <div class="sb-slidebar sb-left sb-width-thin">
         <div id="panel">
@@ -115,4 +112,4 @@
     {% endblock %}
 </body>
 </html>
-
+{{ dump(page.header.title) }}
