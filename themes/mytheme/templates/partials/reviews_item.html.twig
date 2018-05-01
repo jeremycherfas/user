@@ -51,25 +51,30 @@
     <div class="list-blog-padding">
     
     {% if page.header.continue_link is sameas(false) %}
-        <div class="e-content">
+        <span class="e-content">        
             {{ page.content }}
-        </div>
+        </span>
         {% if not truncate %}
         {% set show_prev_next = true %}
         {% endif %}
     {% elseif truncate and page.summary != page.content %}
-        <div class="p-summary e-content">
+        <div class="p-summary">
+        <span class="e-content">
             {{ page.summary }}
             <p><a href="{{ page.url }}">More this way ...</a></p>
+        </span>
         </div>
     {% elseif truncate %}
-        <div class="p-summary e-content">
+        <div class="p-summary">
+        <span class="e-content">
             {{ page.content }}
             <p><a href="{{ page.url }}">More this way ...</a></p>
+		</span>
         </div>
     {% else %}
-        <div class="e-content">
+        <span class="e-content">
             {{ page.content }}
+        </span> 
             
                     {% if page.taxonomy.tag %}
         <span class="tags">
@@ -102,4 +107,3 @@
     {% endif %}
 
     </div>
-</div>
