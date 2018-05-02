@@ -31,24 +31,25 @@
 <!-- Blog item summaries -->
 <div class="content-wrapper blog-content-list grid pure-g">
 <!-- 	This is the list -->
-	<div id="listing" class="block pure-u-2-3 h-feed">
-
+	<div id="listing" class="block pure-u-2-3">
+	<span class="h-feed">
 <!-- Partials/blog_item.html.twig marks up h-entry correctly -->
 				{% for child in collection %}
-			        {% include 'partials/blog_item.html.twig' with {'blog':page, 'page':child, 'truncate':true} %}
+			        {% include 'partials/item_summary.html.twig' with {'blog':page, 'page':child, 'truncate':true} %}
 			    {% endfor %}
-
+<!-- End of h-feed -->
+	</span>
                 {% if config.plugins.pagination.enabled and collection.params.pagination %}
                     {% include 'partials/pagination.html.twig' with {'base_url':page.url, 'pagination':collection.params.pagination} %}
                 {% endif %}
 
 	</div>
 <!-- 	End of listings div -->
-
+<!-- </div> -->
 	<div id="sidebar" class="block size-1-3 pure-u-1-3">
 				{% include 'partials/sidebar.html.twig' with {'blog':page} %}
 	</div>
-
+</div>
 </div>
 	{% endblock %}
 
