@@ -1,6 +1,6 @@
 ---
 title: 'I yam who I yam'
-media_order: auth.png
+media_order: 'auth.png,popeye.png'
 published: true
 date: '03-05-2018 10:09'
 taxonomy:
@@ -25,17 +25,18 @@ These two things are usually called authentication and authorisation.
 !!! On StackOverflow I found [Aditya Mittal][stackoverflow] saying "It is easier in my head and in my code to think of 'verification' and 'permissions'."  
 !!! And then there's a final layer of difficulty because you will be authorised only if you have been authenticated, so authorisation is generally the end result we're looking for. Anyway ...
 
-There has been quite a bit of activity in the past couple of weeks in the IndieWeb community building new ways to authenticate and authorise, and I found it very confusing, mostly because I didn't have a solid understanding of the logic, let alone the processes. So I took advantage of a recent [virtual Homebrew Website Club][indieweb] to ask Martijn van der Ven to explain, which he did. Brilliantly. 
+There has been quite a bit of activity in the past couple of weeks in the IndieWeb community building new ways to authenticate and authorise, and I found it very confusing, mostly because I didn't have a solid understanding of the logic, let alone the processes. So I took advantage of a recent [virtual Homebrew Website Club][indieweb] to ask [Martijn van der Ven](https://vanderven.se/martijn/) to explain, which he did. Brilliantly. 
 
 This is my attempt to capture my understanding. It is not a complete history. And it is almost certainly wrong in parts. Possibly completely. Feel free to correct me.
 
-The story begins with [RelMeAuth][microformats], a standard that allows authentication by requiring you to have a link in your domain identified as `class="rel-me"`. That link points to some other site, usually a silo that is under your control, say Twitter or Github. There, maybe in your profile, you have another link that points back to your original domain. The logic is that you, and only you, can add the link to both places, on your site and back to your site from Twitter or Github.
+![Popeye](popeye.png){.left} The story begins with [RelMeAuth][microformats], a standard that allows authentication by requiring you to have a link in your domain identified as `"rel-me"`. That link points to some other site, usually a silo that is under your control, say Twitter or Github. There, maybe in your profile, you have another link that points back to your original domain. The logic is that you, and only you, can add the link to both places, on your site and back to your site from Twitter or Github.
 
 What happens next is that when you want to prove to some other website (such as the [indieweb.org wiki][indieweb 2]) that you are who you are, you give it your domain's URL. Behind the scenes, an authentication app looks at the URL you supplied, searching for a `rel=me` link, and then goes off and looks at the `rel=me` link. If that contains a link back to your domain -- bingo! -- you are who you say you are.
 
 This is the RelMeAuth dance, and it works. But it means that every site that wants to be able to authenticate you (perhaps to authorise you to do something later) needs to ask all the various authentication sites to be an app. To get around that, Aaron Parecki created a site called [IndieAuth.com][indieauth], which acts as a service that will perform the RelMeAuth dance for you.
 
-IndieAuth.com works really well, but it too faces a couple of difficulties. One is that there is another thing called IndieAuth, which is the _protocol_ that lies behind the RelMeAuth dance. IndieAuth.com provides a _service_ that takes care of everything for you. Some people (definitely me) find that confusing.
+IndieAuth.com works really well, but it too faces a couple of difficulties. 
+One is that there is another thing called IndieAuth, which is the _protocol_ to interact with an authorisation endpoint. IndieAuth.com provides a _service_ that takes care of everything for you. Some people (definitely me) find that confusing.
 
 More importantly, why should I have to have another account somewhere else just to prove I am who I say I am? The response to this second issue lies behind the recent flurry of activity. People have been building ways that need only your one domain. You have access to that; that should be enough.[^1] 
 
