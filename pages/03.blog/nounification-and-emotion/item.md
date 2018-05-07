@@ -13,9 +13,9 @@ subhead: " "
 header_image: '0'
 ---
 
-As an editor, one of my triggers is phrases of the form "I work for the elimination of ambiguity". I shun them. I prefer to work to eliminate ambiguity. I do so because "[it's a fact the whole world knows]https://www.poemhunter.com/poem/the-pobble-who-has-no-toes/)" that nounifications are harder to understand. 
+As an editor, one of my triggers is phrases of the form "I work for the elimination of ambiguity". I shun them. I prefer to work to eliminate ambiguity. I do so because "[it's a fact the whole world knows](https://www.poemhunter.com/poem/the-pobble-who-has-no-toes/)" that nounifications are harder to understand. 
 
-Now I read, in The Economist, that "presenting ... statements in noun form" -- *I support the division* -- "reduced feelings of anger" compared to the verb form -- *I support dividing*.
+Now I read, in [The Economist](https://www.economist.com/news/science-and-technology/21741543-science-looks-subtleties-semiotics-how-change-emotions-word), that "presenting ... statements in noun form" -- *I support the division* -- "reduced feelings of anger" compared to the verb form -- *I support dividing*.
 
 ===
 
