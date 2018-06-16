@@ -8,15 +8,17 @@ taxonomy:
     tag:
         - Geeky
         - Indieweb
+subhead: 'Or, at any rate, a part of it'
+header_image: '0'
 summary:
     enabled: '1'
-subhead: "Or, at any rate, a part of it"
-header_image: '0'
---- 
+---
+
+ 
 
 Mildred Marianne asked <a class="u-in-reply-to" href="https://twitter.com/MildredMarianne/status/1007612782936711173" >How do you define #IndieWeb?</a > and a couple of us weighed in. My own brief answer concluded "More a state of mind than a thing, I'd say" but <a class="u-in-reply-to" href="https://boffosocko.com/2018/06/15/defining-the-indieweb/" >Chris Aldrich went into a lot more detail</a >. His piece is well worth checking out in detail, as it offers a bird's eye view of all the different things the IndieWeb is and could be. I might take issue with singling out the country of America for his metaphor as being a tad parochial, but one could choose any reasonably democratic place instead.
 
-I want to respond to some specifics. In questioning the closed nature of the big silos, Chris asks parenthetically: Would you use your phone to only call friends who use AT&T?
+I want to respond to a little thing. In questioning the closed nature of the big silos, Chris asks parenthetically: Would you use your phone to only call friends who use AT&T?
 
 ===
 
