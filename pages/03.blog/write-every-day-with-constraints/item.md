@@ -2,7 +2,7 @@
 title: 'Write every day? With constraints?'
 media_order: 2179047732-0d2843bebb-m.jpg
 published: true
-date: '07-09-2018 19:00'
+date: '12-09-2018 17:00'
 taxonomy:
     category:
         - blog
