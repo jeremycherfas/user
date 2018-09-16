@@ -1,0 +1,3949 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "tags": [],
+    "title": "Early morning nordic walk",
+    "creator": {
+      "name": "Trails",
+      "version": "4.06"
+    },
+    "trackId": "3901229952366592057"
+  },
+  "features": [{
+    "type": "Feature",
+    "properties": {
+      "time": "2018-09-14T05:38:27Z",
+      "summaryStatistics": {
+        "AltitudeAverage": 69.896367,
+        "SpeedAvg": 1.757111,
+        "PaceAverage": 0.569116,
+        "Distance": 4339.355604,
+        "Duration": 2469.597126,
+        "DurationWhileMoving": 2437.991642,
+        "SpeedAvgWhileMoving": 1.779569,
+        "StepCountCumulated": 4683.000000,
+        "StepCountPerMinuteAverage": 114.032754,
+        "Ascent": 52.506265,
+        "Descent": 56.314415
+      },
+      "timeline": [{
+        "elevation": 82.153042,
+        "course": -1.000000,
+        "speed": 0.000000,
+        "time": 1536903507.006996,
+        "cumulatedDistance": 0.000000,
+        "coordinate": [12.458597, 41.887436, 82.153042]
+      }, {
+        "elevation": 83.039211,
+        "course": 219.375000,
+        "speed": 0.000000,
+        "time": 1536903514.004331,
+        "cumulatedDistance": 5.710179,
+        "coordinate": [12.458542, 41.887405, 83.039211]
+      }, {
+        "elevation": 83.285854,
+        "course": 263.671875,
+        "speed": 0.000000,
+        "time": 1536903525.001798,
+        "cumulatedDistance": 5.710179,
+        "coordinate": [12.458542, 41.887405, 83.285854]
+      }, {
+        "elevation": 83.410976,
+        "course": 241.523438,
+        "speed": 0.330000,
+        "time": 1536903526.001640,
+        "cumulatedDistance": 7.517534,
+        "coordinate": [12.458522, 41.887399, 83.410976]
+      }, {
+        "elevation": 83.138760,
+        "course": 235.898438,
+        "speed": 0.000000,
+        "time": 1536903527.001493,
+        "cumulatedDistance": 7.517534,
+        "coordinate": [12.458522, 41.887399, 83.138760]
+      }, {
+        "elevation": 83.013821,
+        "course": 240.468750,
+        "speed": 0.000000,
+        "time": 1536903530.001097,
+        "cumulatedDistance": 7.517534,
+        "coordinate": [12.458522, 41.887399, 83.013821]
+      }, {
+        "elevation": 82.486599,
+        "course": 233.437500,
+        "speed": 0.710000,
+        "time": 1536903531.000979,
+        "cumulatedDistance": 9.625726,
+        "coordinate": [12.458497, 41.887396, 82.486599]
+      }, {
+        "elevation": 82.512417,
+        "course": 242.929688,
+        "speed": 1.640000,
+        "time": 1536903532.000868,
+        "cumulatedDistance": 11.222426,
+        "coordinate": [12.458481, 41.887389, 82.512417]
+      }, {
+        "elevation": 82.371548,
+        "course": 260.859375,
+        "speed": 1.570000,
+        "time": 1536903540.000174,
+        "cumulatedDistance": 25.706795,
+        "coordinate": [12.458327, 41.887326, 82.371548]
+      }, {
+        "elevation": 82.789089,
+        "course": 246.445312,
+        "speed": 2.260000,
+        "time": 1536903542.000041,
+        "cumulatedDistance": 29.752040,
+        "coordinate": [12.458279, 41.887329, 82.789089]
+      }, {
+        "elevation": 82.415310,
+        "course": 245.390625,
+        "speed": 0.870000,
+        "time": 1536903543.999922,
+        "cumulatedDistance": 32.241259,
+        "coordinate": [12.458249, 41.887327, 82.415310]
+      }, {
+        "elevation": 82.305202,
+        "course": 237.656250,
+        "speed": 1.870000,
+        "time": 1536903546.999764,
+        "cumulatedDistance": 36.369558,
+        "coordinate": [12.458203, 41.887312, 82.305202]
+      }, {
+        "elevation": 82.720119,
+        "course": 257.695312,
+        "speed": 2.090000,
+        "time": 1536903558.999312,
+        "cumulatedDistance": 59.260364,
+        "coordinate": [12.457958, 41.887219, 82.720119]
+      }, {
+        "elevation": 82.523037,
+        "course": 241.171875,
+        "speed": 1.760000,
+        "time": 1536903561.999229,
+        "cumulatedDistance": 66.594009,
+        "coordinate": [12.457873, 41.887199, 82.523037]
+      }, {
+        "elevation": 83.423428,
+        "course": 244.687500,
+        "speed": 2.920000,
+        "time": 1536903562.999203,
+        "cumulatedDistance": 69.263567,
+        "coordinate": [12.457843, 41.887192, 83.423428]
+      }, {
+        "elevation": 83.362087,
+        "course": 252.773438,
+        "speed": 1.820000,
+        "time": 1536903563.999179,
+        "cumulatedDistance": 71.716839,
+        "coordinate": [12.457814, 41.887185, 83.362087]
+      }, {
+        "elevation": 83.367092,
+        "course": 259.101562,
+        "speed": 0.860000,
+        "time": 1536903566.999107,
+        "cumulatedDistance": 77.132075,
+        "coordinate": [12.457749, 41.887182, 83.367092]
+      }, {
+        "elevation": 84.047329,
+        "course": 265.781250,
+        "speed": 1.600000,
+        "time": 1536903572.998982,
+        "cumulatedDistance": 85.101413,
+        "coordinate": [12.457658, 41.887160, 84.047329]
+      }, {
+        "elevation": 84.594692,
+        "course": 284.062500,
+        "speed": 1.730000,
+        "time": 1536903575.998926,
+        "cumulatedDistance": 91.020388,
+        "coordinate": [12.457587, 41.887167, 84.594692]
+      }, {
+        "elevation": 84.786526,
+        "course": 264.726562,
+        "speed": 1.670000,
+        "time": 1536903577.998890,
+        "cumulatedDistance": 94.721587,
+        "coordinate": [12.457543, 41.887167, 84.786526]
+      }, {
+        "elevation": 85.173122,
+        "course": 239.765625,
+        "speed": 1.540000,
+        "time": 1536903580.998839,
+        "cumulatedDistance": 100.004216,
+        "coordinate": [12.457485, 41.887146, 85.173122]
+      }, {
+        "elevation": 85.075405,
+        "course": 232.031250,
+        "speed": 2.850000,
+        "time": 1536903581.998822,
+        "cumulatedDistance": 102.519929,
+        "coordinate": [12.457462, 41.887132, 85.075405]
+      }, {
+        "elevation": 84.893276,
+        "course": 222.890625,
+        "speed": 1.790000,
+        "time": 1536903583.998790,
+        "cumulatedDistance": 106.709798,
+        "coordinate": [12.457427, 41.887105, 84.893276]
+      }, {
+        "elevation": 84.956753,
+        "course": 252.773438,
+        "speed": 1.730000,
+        "time": 1536903586.998743,
+        "cumulatedDistance": 111.963304,
+        "coordinate": [12.457374, 41.887079, 84.956753]
+      }, {
+        "elevation": 85.004360,
+        "course": 235.898438,
+        "speed": 1.460000,
+        "time": 1536903589.998699,
+        "cumulatedDistance": 116.480939,
+        "coordinate": [12.457321, 41.887070, 85.004360]
+      }, {
+        "elevation": 84.886684,
+        "course": 256.289062,
+        "speed": 1.470000,
+        "time": 1536903592.998654,
+        "cumulatedDistance": 120.449767,
+        "coordinate": [12.457276, 41.887057, 84.886684]
+      }, {
+        "elevation": 85.002834,
+        "course": 272.460938,
+        "speed": 1.730000,
+        "time": 1536903604.998487,
+        "cumulatedDistance": 141.753305,
+        "coordinate": [12.457031, 41.887000, 85.002834]
+      }, {
+        "elevation": 85.151516,
+        "course": 255.937500,
+        "speed": 1.510000,
+        "time": 1536903607.998447,
+        "cumulatedDistance": 146.801406,
+        "coordinate": [12.456971, 41.886993, 85.151516]
+      }, {
+        "elevation": 85.280178,
+        "course": 274.921875,
+        "speed": 1.770000,
+        "time": 1536903610.998407,
+        "cumulatedDistance": 153.084739,
+        "coordinate": [12.456895, 41.886994, 85.280178]
+      }, {
+        "elevation": 85.763638,
+        "course": 250.664062,
+        "speed": 1.610000,
+        "time": 1536903620.998277,
+        "cumulatedDistance": 172.659466,
+        "coordinate": [12.456661, 41.887011, 85.763638]
+      }, {
+        "elevation": 87.295681,
+        "course": 228.164062,
+        "speed": 1.570000,
+        "time": 1536903640.998022,
+        "cumulatedDistance": 205.311922,
+        "coordinate": [12.456287, 41.886917, 87.295681]
+      }, {
+        "elevation": 87.304531,
+        "course": 246.445312,
+        "speed": 1.640000,
+        "time": 1536903643.997983,
+        "cumulatedDistance": 210.306662,
+        "coordinate": [12.456234, 41.886897, 87.304531]
+      }, {
+        "elevation": 86.758694,
+        "course": 267.187500,
+        "speed": 2.540000,
+        "time": 1536903647.997933,
+        "cumulatedDistance": 217.327274,
+        "coordinate": [12.456149, 41.886895, 86.758694]
+      }, {
+        "elevation": 86.438686,
+        "course": 292.500000,
+        "speed": 2.120000,
+        "time": 1536903649.997907,
+        "cumulatedDistance": 222.448782,
+        "coordinate": [12.456094, 41.886915, 86.438686]
+      }, {
+        "elevation": 86.138699,
+        "course": 274.570312,
+        "speed": 1.860000,
+        "time": 1536903653.997856,
+        "cumulatedDistance": 230.012307,
+        "coordinate": [12.456006, 41.886933, 86.138699]
+      }, {
+        "elevation": 85.725796,
+        "course": 245.390625,
+        "speed": 2.190000,
+        "time": 1536903656.997818,
+        "cumulatedDistance": 235.236134,
+        "coordinate": [12.455946, 41.886918, 85.725796]
+      }, {
+        "elevation": 85.706814,
+        "course": 247.500000,
+        "speed": 1.530000,
+        "time": 1536903658.997793,
+        "cumulatedDistance": 238.616096,
+        "coordinate": [12.455910, 41.886904, 85.706814]
+      }, {
+        "elevation": 85.470913,
+        "course": 276.328125,
+        "speed": 1.710000,
+        "time": 1536903660.997768,
+        "cumulatedDistance": 242.328875,
+        "coordinate": [12.455866, 41.886908, 85.470913]
+      }, {
+        "elevation": 84.972012,
+        "course": 257.343750,
+        "speed": 1.830000,
+        "time": 1536903665.997705,
+        "cumulatedDistance": 252.430214,
+        "coordinate": [12.455744, 41.886916, 84.972012]
+      }, {
+        "elevation": 83.366055,
+        "course": 275.273438,
+        "speed": 1.630000,
+        "time": 1536903673.997604,
+        "cumulatedDistance": 267.343361,
+        "coordinate": [12.455565, 41.886928, 83.366055]
+      }, {
+        "elevation": 83.379299,
+        "course": 259.101562,
+        "speed": 1.850000,
+        "time": 1536903678.997540,
+        "cumulatedDistance": 276.355033,
+        "coordinate": [12.455459, 41.886945, 83.379299]
+      }, {
+        "elevation": 83.030117,
+        "course": 275.273438,
+        "speed": 1.890000,
+        "time": 1536903700.997262,
+        "cumulatedDistance": 314.536660,
+        "coordinate": [12.455000, 41.886961, 83.030117]
+      }, {
+        "elevation": 81.934719,
+        "course": 290.390625,
+        "speed": 1.890000,
+        "time": 1536903721.996998,
+        "cumulatedDistance": 353.197404,
+        "coordinate": [12.454540, 41.887020, 81.934719]
+      }, {
+        "elevation": 82.043606,
+        "course": 308.671875,
+        "speed": 1.870000,
+        "time": 1536903727.996922,
+        "cumulatedDistance": 364.654663,
+        "coordinate": [12.454428, 41.887080, 82.043606]
+      }, {
+        "elevation": 81.318630,
+        "course": 326.601562,
+        "speed": 1.960000,
+        "time": 1536903733.996846,
+        "cumulatedDistance": 377.259569,
+        "coordinate": [12.454334, 41.887169, 81.318630]
+      }, {
+        "elevation": 79.151211,
+        "course": 334.687500,
+        "speed": 1.630000,
+        "time": 1536903748.996656,
+        "cumulatedDistance": 403.717470,
+        "coordinate": [12.454178, 41.887377, 79.151211]
+      }, {
+        "elevation": 79.019558,
+        "course": 4.218750,
+        "speed": 1.640000,
+        "time": 1536903755.996568,
+        "cumulatedDistance": 417.746821,
+        "coordinate": [12.454138, 41.887499, 79.019558]
+      }, {
+        "elevation": 79.000088,
+        "course": 345.585938,
+        "speed": 1.850000,
+        "time": 1536903757.996543,
+        "cumulatedDistance": 421.616214,
+        "coordinate": [12.454129, 41.887533, 79.000088]
+      }, {
+        "elevation": 79.113674,
+        "course": 2.812500,
+        "speed": 1.240000,
+        "time": 1536903760.996506,
+        "cumulatedDistance": 425.799394,
+        "coordinate": [12.454108, 41.887568, 79.113674]
+      }, {
+        "elevation": 79.753872,
+        "course": 350.156250,
+        "speed": 1.840000,
+        "time": 1536903767.996417,
+        "cumulatedDistance": 438.529040,
+        "coordinate": [12.454112, 41.887682, 79.753872]
+      }, {
+        "elevation": 79.736965,
+        "course": 330.468750,
+        "speed": 1.840000,
+        "time": 1536903769.996393,
+        "cumulatedDistance": 443.091903,
+        "coordinate": [12.454115, 41.887723, 79.736965]
+      }, {
+        "elevation": 79.825771,
+        "course": 2.460938,
+        "speed": 1.880000,
+        "time": 1536903771.996367,
+        "cumulatedDistance": 447.685509,
+        "coordinate": [12.454112, 41.887765, 79.825771]
+      }, {
+        "elevation": 79.844204,
+        "course": 24.257812,
+        "speed": 1.670000,
+        "time": 1536903778.996278,
+        "cumulatedDistance": 461.777823,
+        "coordinate": [12.454154, 41.887887, 79.844204]
+      }, {
+        "elevation": 80.480495,
+        "course": 339.960938,
+        "speed": 1.730000,
+        "time": 1536903785.996191,
+        "cumulatedDistance": 474.551168,
+        "coordinate": [12.454204, 41.887996, 80.480495]
+      }, {
+        "elevation": 80.670193,
+        "course": 1.054688,
+        "speed": 2.050000,
+        "time": 1536903787.996166,
+        "cumulatedDistance": 478.603856,
+        "coordinate": [12.454199, 41.888033, 80.670193]
+      }, {
+        "elevation": 80.543484,
+        "course": 345.585938,
+        "speed": 1.640000,
+        "time": 1536903798.996027,
+        "cumulatedDistance": 498.241629,
+        "coordinate": [12.454239, 41.888207, 80.543484]
+      }, {
+        "elevation": 80.330654,
+        "course": 0.703125,
+        "speed": 1.800000,
+        "time": 1536903810.995874,
+        "cumulatedDistance": 519.445223,
+        "coordinate": [12.454240, 41.888398, 80.330654]
+      }, {
+        "elevation": 80.388210,
+        "course": 323.085938,
+        "speed": 1.750000,
+        "time": 1536903812.995849,
+        "cumulatedDistance": 522.828517,
+        "coordinate": [12.454248, 41.888428, 80.388210]
+      }, {
+        "elevation": 80.193935,
+        "course": 307.265625,
+        "speed": 1.850000,
+        "time": 1536903819.995761,
+        "cumulatedDistance": 533.904824,
+        "coordinate": [12.454169, 41.888508, 80.193935]
+      }, {
+        "elevation": 77.968227,
+        "course": 288.281250,
+        "speed": 1.910000,
+        "time": 1536903832.995597,
+        "cumulatedDistance": 556.198840,
+        "coordinate": [12.453963, 41.888636, 77.968227]
+      }, {
+        "elevation": 75.612514,
+        "course": 287.929688,
+        "speed": 2.090000,
+        "time": 1536903842.995471,
+        "cumulatedDistance": 574.119668,
+        "coordinate": [12.453750, 41.888665, 75.612514]
+      }, {
+        "elevation": 74.457973,
+        "course": 264.375000,
+        "speed": 1.560000,
+        "time": 1536903845.995433,
+        "cumulatedDistance": 580.819806,
+        "coordinate": [12.453670, 41.888656, 74.457973]
+      }, {
+        "elevation": 74.180813,
+        "course": 289.687500,
+        "speed": 2.740000,
+        "time": 1536903846.995421,
+        "cumulatedDistance": 583.255488,
+        "coordinate": [12.453641, 41.888659, 74.180813]
+      }, {
+        "elevation": 73.631496,
+        "course": 303.750000,
+        "speed": 2.030000,
+        "time": 1536903848.995395,
+        "cumulatedDistance": 587.182053,
+        "coordinate": [12.453595, 41.888668, 73.631496]
+      }, {
+        "elevation": 73.058010,
+        "course": 277.382812,
+        "speed": 1.630000,
+        "time": 1536903850.995370,
+        "cumulatedDistance": 590.291889,
+        "coordinate": [12.453559, 41.888673, 73.058010]
+      }, {
+        "elevation": 72.307278,
+        "course": 292.500000,
+        "speed": 1.740000,
+        "time": 1536903854.995319,
+        "cumulatedDistance": 596.768127,
+        "coordinate": [12.453488, 41.888697, 72.307278]
+      }, {
+        "elevation": 70.199123,
+        "course": 284.062500,
+        "speed": 1.610000,
+        "time": 1536903863.995207,
+        "cumulatedDistance": 611.918438,
+        "coordinate": [12.453320, 41.888751, 70.199123]
+      }, {
+        "elevation": 69.976162,
+        "course": 303.398438,
+        "speed": 2.190000,
+        "time": 1536903867.995155,
+        "cumulatedDistance": 618.948580,
+        "coordinate": [12.453236, 41.888759, 69.976162]
+      }, {
+        "elevation": 69.583096,
+        "course": 283.710938,
+        "speed": 1.940000,
+        "time": 1536903874.995067,
+        "cumulatedDistance": 632.320565,
+        "coordinate": [12.453099, 41.888822, 69.583096]
+      }, {
+        "elevation": 69.430752,
+        "course": 298.828125,
+        "speed": 1.940000,
+        "time": 1536903876.995042,
+        "cumulatedDistance": 636.064735,
+        "coordinate": [12.453060, 41.888839, 69.430752]
+      }, {
+        "elevation": 69.625027,
+        "course": 266.132812,
+        "speed": 1.730000,
+        "time": 1536903880.994992,
+        "cumulatedDistance": 642.837848,
+        "coordinate": [12.452991, 41.888872, 69.625027]
+      }, {
+        "elevation": 69.701748,
+        "course": 237.304688,
+        "speed": 1.760000,
+        "time": 1536903884.994941,
+        "cumulatedDistance": 650.437043,
+        "coordinate": [12.452908, 41.888842, 69.701748]
+      }, {
+        "elevation": 69.765774,
+        "course": 262.617188,
+        "speed": 1.760000,
+        "time": 1536903889.994998,
+        "cumulatedDistance": 660.025883,
+        "coordinate": [12.452815, 41.888791, 69.765774]
+      }, {
+        "elevation": 70.152370,
+        "course": 261.914062,
+        "speed": 0.910000,
+        "time": 1536903891.994853,
+        "cumulatedDistance": 663.146233,
+        "coordinate": [12.452778, 41.888786, 70.152370]
+      }, {
+        "elevation": 70.253811,
+        "course": 246.093750,
+        "speed": 0.910000,
+        "time": 1536903894.994815,
+        "cumulatedDistance": 666.856287,
+        "coordinate": [12.452735, 41.888777, 70.253811]
+      }, {
+        "elevation": 70.657864,
+        "course": 269.648438,
+        "speed": 1.710000,
+        "time": 1536903896.994789,
+        "cumulatedDistance": 670.989881,
+        "coordinate": [12.452685, 41.888775, 70.657864]
+      }, {
+        "elevation": 70.675625,
+        "course": 248.203125,
+        "speed": 1.710000,
+        "time": 1536903898.994764,
+        "cumulatedDistance": 674.766992,
+        "coordinate": [12.452642, 41.888764, 70.675625]
+      }, {
+        "elevation": 70.873379,
+        "course": 263.320312,
+        "speed": 1.860000,
+        "time": 1536903904.994689,
+        "cumulatedDistance": 686.791259,
+        "coordinate": [12.452500, 41.888743, 70.873379]
+      }, {
+        "elevation": 71.653408,
+        "course": 247.851562,
+        "speed": 1.510000,
+        "time": 1536903906.994663,
+        "cumulatedDistance": 689.877449,
+        "coordinate": [12.452463, 41.888746, 71.653408]
+      }, {
+        "elevation": 71.752346,
+        "course": 224.648438,
+        "speed": 1.810000,
+        "time": 1536903910.994612,
+        "cumulatedDistance": 696.081962,
+        "coordinate": [12.452395, 41.888723, 71.752346]
+      }, {
+        "elevation": 72.701260,
+        "course": 214.101562,
+        "speed": 1.200000,
+        "time": 1536903924.994437,
+        "cumulatedDistance": 718.071446,
+        "coordinate": [12.452222, 41.888573, 72.701260]
+      }, {
+        "elevation": 73.217495,
+        "course": 229.218750,
+        "speed": 2.170000,
+        "time": 1536903929.994374,
+        "cumulatedDistance": 726.748941,
+        "coordinate": [12.452139, 41.888525, 73.217495]
+      }, {
+        "elevation": 73.286465,
+        "course": 209.179688,
+        "speed": 1.520000,
+        "time": 1536903931.994348,
+        "cumulatedDistance": 730.671693,
+        "coordinate": [12.452114, 41.888495, 73.286465]
+      }, {
+        "elevation": 73.329678,
+        "course": 203.906250,
+        "speed": 2.150000,
+        "time": 1536903932.994335,
+        "cumulatedDistance": 732.658119,
+        "coordinate": [12.452106, 41.888479, 73.329678]
+      }, {
+        "elevation": 73.973721,
+        "course": 199.335938,
+        "speed": 1.370000,
+        "time": 1536903939.998803,
+        "cumulatedDistance": 744.579466,
+        "coordinate": [12.452071, 41.888374, 73.973721]
+      }, {
+        "elevation": 74.488552,
+        "course": 178.593750,
+        "speed": 1.800000,
+        "time": 1536903944.999169,
+        "cumulatedDistance": 751.179440,
+        "coordinate": [12.452053, 41.888316, 74.488552]
+      }, {
+        "elevation": 74.681545,
+        "course": 203.554688,
+        "speed": 1.590000,
+        "time": 1536903953.999482,
+        "cumulatedDistance": 766.662355,
+        "coordinate": [12.452019, 41.888179, 74.681545]
+      }, {
+        "elevation": 74.582607,
+        "course": 184.218750,
+        "speed": 1.770000,
+        "time": 1536903958.999565,
+        "cumulatedDistance": 776.227214,
+        "coordinate": [12.451974, 41.888100, 74.582607]
+      }, {
+        "elevation": 74.419643,
+        "course": 200.039062,
+        "speed": 1.640000,
+        "time": 1536903972.999609,
+        "cumulatedDistance": 801.780843,
+        "coordinate": [12.451871, 41.887884, 74.419643]
+      }, {
+        "elevation": 73.417263,
+        "course": 215.156250,
+        "speed": 2.240000,
+        "time": 1536903992.999446,
+        "cumulatedDistance": 841.116519,
+        "coordinate": [12.451697, 41.887554, 73.417263]
+      }, {
+        "elevation": 73.391689,
+        "course": 197.226562,
+        "speed": 1.840000,
+        "time": 1536903995.999413,
+        "cumulatedDistance": 847.033240,
+        "coordinate": [12.451656, 41.887510, 73.391689]
+      }, {
+        "elevation": 72.335903,
+        "course": 213.046875,
+        "speed": 1.850000,
+        "time": 1536904005.999290,
+        "cumulatedDistance": 864.056173,
+        "coordinate": [12.451602, 41.887363, 72.335903]
+      }, {
+        "elevation": 71.903225,
+        "course": 234.843750,
+        "speed": 1.820000,
+        "time": 1536904013.999186,
+        "cumulatedDistance": 878.619535,
+        "coordinate": [12.451501, 41.887256, 71.903225]
+      }, {
+        "elevation": 71.631191,
+        "course": 265.078125,
+        "speed": 1.690000,
+        "time": 1536904016.999145,
+        "cumulatedDistance": 883.836431,
+        "coordinate": [12.451444, 41.887236, 71.631191]
+      }, {
+        "elevation": 69.624172,
+        "course": 265.078125,
+        "speed": 1.780000,
+        "time": 1536904022.999064,
+        "cumulatedDistance": 897.157688,
+        "coordinate": [12.451284, 41.887224, 69.624172]
+      }, {
+        "elevation": 68.576382,
+        "course": 262.968750,
+        "speed": 2.070000,
+        "time": 1536904077.998298,
+        "cumulatedDistance": 998.267804,
+        "coordinate": [12.450066, 41.887227, 68.576382]
+      }, {
+        "elevation": 70.190476,
+        "course": 268.242188,
+        "speed": 1.360000,
+        "time": 1536904100.997976,
+        "cumulatedDistance": 1038.227897,
+        "coordinate": [12.449584, 41.887239, 70.190476]
+      }, {
+        "elevation": 71.838590,
+        "course": 284.062500,
+        "speed": 1.550000,
+        "time": 1536904106.997891,
+        "cumulatedDistance": 1046.104598,
+        "coordinate": [12.449490, 41.887248, 71.838590]
+      }, {
+        "elevation": 72.467906,
+        "course": 315.351562,
+        "speed": 1.480000,
+        "time": 1536904108.997863,
+        "cumulatedDistance": 1049.319783,
+        "coordinate": [12.449466, 41.887271, 72.467906]
+      }, {
+        "elevation": 73.562712,
+        "course": 276.328125,
+        "speed": 1.220000,
+        "time": 1536904111.997821,
+        "cumulatedDistance": 1053.273592,
+        "coordinate": [12.449424, 41.887288, 73.562712]
+      }, {
+        "elevation": 75.641943,
+        "course": 285.468750,
+        "speed": 1.460000,
+        "time": 1536904118.997723,
+        "cumulatedDistance": 1061.799444,
+        "coordinate": [12.449322, 41.887293, 75.641943]
+      }, {
+        "elevation": 76.109864,
+        "course": 342.773438,
+        "speed": 1.450000,
+        "time": 1536904122.997666,
+        "cumulatedDistance": 1067.751933,
+        "coordinate": [12.449310, 41.887346, 76.109864]
+      }, {
+        "elevation": 76.298276,
+        "course": 359.296875,
+        "speed": 1.600000,
+        "time": 1536904125.997625,
+        "cumulatedDistance": 1073.356881,
+        "coordinate": [12.449313, 41.887396, 76.298276]
+      }, {
+        "elevation": 76.209875,
+        "course": 340.312500,
+        "speed": 1.440000,
+        "time": 1536904128.997581,
+        "cumulatedDistance": 1078.107831,
+        "coordinate": [12.449303, 41.887439, 76.209875]
+      }, {
+        "elevation": 76.244134,
+        "course": 2.109375,
+        "speed": 1.750000,
+        "time": 1536904131.997541,
+        "cumulatedDistance": 1084.380844,
+        "coordinate": [12.449293, 41.887495, 76.244134]
+      }, {
+        "elevation": 76.353192,
+        "course": 331.171875,
+        "speed": 1.530000,
+        "time": 1536904144.997358,
+        "cumulatedDistance": 1104.340315,
+        "coordinate": [12.449280, 41.887674, 76.353192]
+      }, {
+        "elevation": 76.333923,
+        "course": 1.054688,
+        "speed": 0.000000,
+        "time": 1536904146.997329,
+        "cumulatedDistance": 1104.681462,
+        "coordinate": [12.449275, 41.887675, 76.333923]
+      }, {
+        "elevation": 76.333923,
+        "course": 1.054688,
+        "speed": 0.000000,
+        "time": 1536904146.997329,
+        "cumulatedDistance": 1104.681462,
+        "coordinate": [12.449275, 41.887675, 76.333923]
+      }, {
+        "elevation": 76.391938,
+        "course": 1.054688,
+        "speed": 1.260000,
+        "time": 1536904147.997316,
+        "cumulatedDistance": 1105.410939,
+        "coordinate": [12.449281, 41.887679, 76.391938]
+      }, {
+        "elevation": 76.126320,
+        "course": 18.281250,
+        "speed": 1.440000,
+        "time": 1536904149.997288,
+        "cumulatedDistance": 1109.066547,
+        "coordinate": [12.449286, 41.887712, 76.126320]
+      }, {
+        "elevation": 76.357791,
+        "course": 355.078125,
+        "speed": 1.450000,
+        "time": 1536904152.997245,
+        "cumulatedDistance": 1114.893141,
+        "coordinate": [12.449295, 41.887764, 76.357791]
+      }, {
+        "elevation": 76.287878,
+        "course": 328.710938,
+        "speed": 1.810000,
+        "time": 1536904158.997161,
+        "cumulatedDistance": 1125.421868,
+        "coordinate": [12.449267, 41.887857, 76.287878]
+      }, {
+        "elevation": 76.157133,
+        "course": 338.554688,
+        "speed": 0.000000,
+        "time": 1536904161.997119,
+        "cumulatedDistance": 1130.055503,
+        "coordinate": [12.449253, 41.887897, 76.157133]
+      }, {
+        "elevation": 76.157133,
+        "course": 338.554688,
+        "speed": 0.000000,
+        "time": 1536904161.997119,
+        "cumulatedDistance": 1130.055503,
+        "coordinate": [12.449253, 41.887897, 76.157133]
+      }, {
+        "elevation": 76.308997,
+        "course": 338.906250,
+        "speed": 0.180000,
+        "time": 1536904162.997105,
+        "cumulatedDistance": 1131.748982,
+        "coordinate": [12.449259, 41.887912, 76.308997]
+      }, {
+        "elevation": 76.308997,
+        "course": 338.906250,
+        "speed": 0.180000,
+        "time": 1536904162.997105,
+        "cumulatedDistance": 1131.748982,
+        "coordinate": [12.449259, 41.887912, 76.308997]
+      }, {
+        "elevation": 76.583969,
+        "course": 355.781250,
+        "speed": 1.700000,
+        "time": 1536904163.997091,
+        "cumulatedDistance": 1133.194860,
+        "coordinate": [12.449260, 41.887925, 76.583969]
+      }, {
+        "elevation": 76.461357,
+        "course": 339.257812,
+        "speed": 0.920000,
+        "time": 1536904164.997077,
+        "cumulatedDistance": 1134.937985,
+        "coordinate": [12.449263, 41.887940, 76.461357]
+      }, {
+        "elevation": 76.256235,
+        "course": 358.242188,
+        "speed": 1.500000,
+        "time": 1536904167.997035,
+        "cumulatedDistance": 1139.200573,
+        "coordinate": [12.449269, 41.887978, 76.256235]
+      }, {
+        "elevation": 76.225465,
+        "course": 359.648438,
+        "speed": 2.200000,
+        "time": 1536904178.996880,
+        "cumulatedDistance": 1164.522333,
+        "coordinate": [12.449277, 41.888206, 76.225465]
+      }, {
+        "elevation": 76.077484,
+        "course": 2.109375,
+        "speed": 1.530000,
+        "time": 1536904182.996825,
+        "cumulatedDistance": 1173.081235,
+        "coordinate": [12.449289, 41.888283, 76.077484]
+      }, {
+        "elevation": 76.157822,
+        "course": 3.515625,
+        "speed": 2.140000,
+        "time": 1536904183.996810,
+        "cumulatedDistance": 1175.568308,
+        "coordinate": [12.449292, 41.888305, 76.157822]
+      }, {
+        "elevation": 76.069423,
+        "course": 356.484375,
+        "speed": 1.430000,
+        "time": 1536904191.996698,
+        "cumulatedDistance": 1190.137349,
+        "coordinate": [12.449273, 41.888435, 76.069423]
+      }, {
+        "elevation": 75.882798,
+        "course": 349.804688,
+        "speed": 2.050000,
+        "time": 1536904198.996600,
+        "cumulatedDistance": 1200.942480,
+        "coordinate": [12.449271, 41.888533, 75.882798]
+      }, {
+        "elevation": 76.208158,
+        "course": 330.117188,
+        "speed": 2.350000,
+        "time": 1536904207.996474,
+        "cumulatedDistance": 1217.440004,
+        "coordinate": [12.449247, 41.888680, 76.208158]
+      }, {
+        "elevation": 76.069048,
+        "course": 329.414062,
+        "speed": 1.730000,
+        "time": 1536904212.996403,
+        "cumulatedDistance": 1227.026822,
+        "coordinate": [12.449203, 41.888760, 76.069048]
+      }, {
+        "elevation": 76.239421,
+        "course": 310.429688,
+        "speed": 1.470000,
+        "time": 1536904215.996361,
+        "cumulatedDistance": 1230.310195,
+        "coordinate": [12.449180, 41.888784, 76.239421]
+      }, {
+        "elevation": 76.054023,
+        "course": 259.453125,
+        "speed": 1.060000,
+        "time": 1536904219.996305,
+        "cumulatedDistance": 1234.669002,
+        "coordinate": [12.449134, 41.888765, 76.054023]
+      }, {
+        "elevation": 76.046735,
+        "course": 287.929688,
+        "speed": 1.470000,
+        "time": 1536904222.996262,
+        "cumulatedDistance": 1238.441576,
+        "coordinate": [12.449090, 41.888757, 76.046735]
+      }, {
+        "elevation": 75.951788,
+        "course": 270.351562,
+        "speed": 1.550000,
+        "time": 1536904225.996221,
+        "cumulatedDistance": 1242.936718,
+        "coordinate": [12.449035, 41.888758, 75.951788]
+      }, {
+        "elevation": 75.877549,
+        "course": 246.445312,
+        "speed": 1.340000,
+        "time": 1536904227.996192,
+        "cumulatedDistance": 1246.303571,
+        "coordinate": [12.448999, 41.888744, 75.877549]
+      }, {
+        "elevation": 75.972007,
+        "course": 281.953125,
+        "speed": 1.500000,
+        "time": 1536904230.996150,
+        "cumulatedDistance": 1250.019777,
+        "coordinate": [12.448954, 41.888745, 75.972007]
+      }, {
+        "elevation": 75.892227,
+        "course": 275.976562,
+        "speed": 2.400000,
+        "time": 1536904233.996108,
+        "cumulatedDistance": 1256.517834,
+        "coordinate": [12.448877, 41.888753, 75.892227]
+      }, {
+        "elevation": 75.899296,
+        "course": 259.804688,
+        "speed": 2.150000,
+        "time": 1536904236.996066,
+        "cumulatedDistance": 1263.580737,
+        "coordinate": [12.448792, 41.888751, 75.899296]
+      }, {
+        "elevation": 75.989031,
+        "course": 278.437500,
+        "speed": 2.230000,
+        "time": 1536904238.996038,
+        "cumulatedDistance": 1267.966039,
+        "coordinate": [12.448739, 41.888752, 75.989031]
+      }, {
+        "elevation": 75.958401,
+        "course": 274.218750,
+        "speed": 1.360000,
+        "time": 1536904241.995996,
+        "cumulatedDistance": 1272.897109,
+        "coordinate": [12.448682, 41.888765, 75.958401]
+      }, {
+        "elevation": 75.951034,
+        "course": 273.867188,
+        "speed": 2.000000,
+        "time": 1536904242.995982,
+        "cumulatedDistance": 1274.546522,
+        "coordinate": [12.448662, 41.888765, 75.951034]
+      }, {
+        "elevation": 75.879829,
+        "course": 255.937500,
+        "speed": 1.680000,
+        "time": 1536904245.995940,
+        "cumulatedDistance": 1278.394285,
+        "coordinate": [12.448616, 41.888763, 75.879829]
+      }, {
+        "elevation": 75.867328,
+        "course": 274.218750,
+        "speed": 0.720000,
+        "time": 1536904247.995912,
+        "cumulatedDistance": 1280.195908,
+        "coordinate": [12.448595, 41.888758, 75.867328]
+      }, {
+        "elevation": 75.880200,
+        "course": 258.750000,
+        "speed": 1.130000,
+        "time": 1536904251.995855,
+        "cumulatedDistance": 1283.838430,
+        "coordinate": [12.448553, 41.888748, 75.880200]
+      }, {
+        "elevation": 76.013530,
+        "course": 270.703125,
+        "speed": 1.820000,
+        "time": 1536904252.995841,
+        "cumulatedDistance": 1285.989193,
+        "coordinate": [12.448527, 41.888750, 76.013530]
+      }, {
+        "elevation": 75.928453,
+        "course": 286.523438,
+        "speed": 1.560000,
+        "time": 1536904261.995716,
+        "cumulatedDistance": 1301.358917,
+        "coordinate": [12.448346, 41.888778, 75.928453]
+      }, {
+        "elevation": 75.599480,
+        "course": 267.187500,
+        "speed": 1.810000,
+        "time": 1536904271.995575,
+        "cumulatedDistance": 1320.370502,
+        "coordinate": [12.448119, 41.888800, 75.599480]
+      }, {
+        "elevation": 75.851793,
+        "course": 248.203125,
+        "speed": 1.780000,
+        "time": 1536904280.995449,
+        "cumulatedDistance": 1338.692669,
+        "coordinate": [12.447901, 41.888773, 75.851793]
+      }, {
+        "elevation": 75.333014,
+        "course": 271.054688,
+        "speed": 2.050000,
+        "time": 1536904287.995350,
+        "cumulatedDistance": 1350.400858,
+        "coordinate": [12.447761, 41.888764, 75.333014]
+      }, {
+        "elevation": 75.099302,
+        "course": 262.265625,
+        "speed": 1.430000,
+        "time": 1536904291.995295,
+        "cumulatedDistance": 1356.010524,
+        "coordinate": [12.447693, 41.888765, 75.099302]
+      }, {
+        "elevation": 74.974992,
+        "course": 246.093750,
+        "speed": 0.310000,
+        "time": 1536904292.995280,
+        "cumulatedDistance": 1356.283777,
+        "coordinate": [12.447691, 41.888763, 74.974992]
+      }, {
+        "elevation": 74.712381,
+        "course": 142.382812,
+        "speed": 0.700000,
+        "time": 1536904293.995265,
+        "cumulatedDistance": 1357.017308,
+        "coordinate": [12.447689, 41.888757, 74.712381]
+      }, {
+        "elevation": 75.018802,
+        "course": 251.718750,
+        "speed": 1.320000,
+        "time": 1536904295.995237,
+        "cumulatedDistance": 1359.996363,
+        "coordinate": [12.447658, 41.888744, 75.018802]
+      }, {
+        "elevation": 74.623985,
+        "course": 255.234375,
+        "speed": 2.040000,
+        "time": 1536904297.995209,
+        "cumulatedDistance": 1364.157001,
+        "coordinate": [12.447612, 41.888729, 74.623985]
+      }, {
+        "elevation": 74.651057,
+        "course": 292.148438,
+        "speed": 2.040000,
+        "time": 1536904299.995182,
+        "cumulatedDistance": 1368.717493,
+        "coordinate": [12.447557, 41.888730, 74.651057]
+      }, {
+        "elevation": 74.430638,
+        "course": 311.484375,
+        "speed": 1.510000,
+        "time": 1536904301.995154,
+        "cumulatedDistance": 1373.465592,
+        "coordinate": [12.447511, 41.888756, 74.430638]
+      }, {
+        "elevation": 74.437338,
+        "course": 286.875000,
+        "speed": 1.420000,
+        "time": 1536904303.995126,
+        "cumulatedDistance": 1377.089232,
+        "coordinate": [12.447472, 41.888771, 74.437338]
+      }, {
+        "elevation": 74.369265,
+        "course": 300.585938,
+        "speed": 0.770000,
+        "time": 1536904305.995098,
+        "cumulatedDistance": 1379.714057,
+        "coordinate": [12.447443, 41.888779, 74.369265]
+      }, {
+        "elevation": 74.063496,
+        "course": 293.203125,
+        "speed": 0.460000,
+        "time": 1536904306.995083,
+        "cumulatedDistance": 1380.600701,
+        "coordinate": [12.447432, 41.888780, 74.063496]
+      }, {
+        "elevation": 74.171588,
+        "course": 264.726562,
+        "speed": 0.990000,
+        "time": 1536904307.995069,
+        "cumulatedDistance": 1382.022835,
+        "coordinate": [12.447415, 41.888778, 74.171588]
+      }, {
+        "elevation": 73.613376,
+        "course": 268.242188,
+        "speed": 1.720000,
+        "time": 1536904310.995027,
+        "cumulatedDistance": 1388.983209,
+        "coordinate": [12.447331, 41.888774, 73.613376]
+      }, {
+        "elevation": 73.814211,
+        "course": 243.632812,
+        "speed": 2.280000,
+        "time": 1536904312.994998,
+        "cumulatedDistance": 1393.032479,
+        "coordinate": [12.447286, 41.888760, 73.814211]
+      }, {
+        "elevation": 73.582503,
+        "course": 248.203125,
+        "speed": 1.100000,
+        "time": 1536904313.994985,
+        "cumulatedDistance": 1393.910213,
+        "coordinate": [12.447276, 41.888758, 73.582503]
+      }, {
+        "elevation": 73.245713,
+        "course": 273.515625,
+        "speed": 1.220000,
+        "time": 1536904315.994957,
+        "cumulatedDistance": 1396.912406,
+        "coordinate": [12.447240, 41.888761, 73.245713]
+      }, {
+        "elevation": 73.061149,
+        "course": 256.640625,
+        "speed": 1.280000,
+        "time": 1536904317.994928,
+        "cumulatedDistance": 1400.042986,
+        "coordinate": [12.447202, 41.888761, 73.061149]
+      }, {
+        "elevation": 72.269882,
+        "course": 278.437500,
+        "speed": 1.230000,
+        "time": 1536904326.994802,
+        "cumulatedDistance": 1416.622549,
+        "coordinate": [12.447003, 41.888770, 72.269882]
+      }, {
+        "elevation": 71.988672,
+        "course": 299.531250,
+        "speed": 0.220000,
+        "time": 1536904329.994761,
+        "cumulatedDistance": 1421.333881,
+        "coordinate": [12.446954, 41.888792, 71.988672]
+      }, {
+        "elevation": 71.986613,
+        "course": 307.265625,
+        "speed": 0.770000,
+        "time": 1536904330.994746,
+        "cumulatedDistance": 1422.586357,
+        "coordinate": [12.446945, 41.888800, 71.986613]
+      }, {
+        "elevation": 71.897478,
+        "course": 304.101562,
+        "speed": 1.370000,
+        "time": 1536904331.994732,
+        "cumulatedDistance": 1424.588889,
+        "coordinate": [12.446928, 41.888813, 71.897478]
+      }, {
+        "elevation": 71.722798,
+        "course": 333.984375,
+        "speed": 1.490000,
+        "time": 1536904334.994691,
+        "cumulatedDistance": 1431.724406,
+        "coordinate": [12.446876, 41.888865, 71.722798]
+      }, {
+        "elevation": 71.757393,
+        "course": 2.109375,
+        "speed": 1.870000,
+        "time": 1536904337.994648,
+        "cumulatedDistance": 1438.367065,
+        "coordinate": [12.446837, 41.888917, 71.757393]
+      }, {
+        "elevation": 71.748827,
+        "course": 0.351562,
+        "speed": 1.140000,
+        "time": 1536904339.994620,
+        "cumulatedDistance": 1441.869523,
+        "coordinate": [12.446798, 41.888929, 71.748827]
+      }, {
+        "elevation": 71.228679,
+        "course": 257.343750,
+        "speed": 0.930000,
+        "time": 1536904343.994565,
+        "cumulatedDistance": 1447.523125,
+        "coordinate": [12.446733, 41.888944, 71.228679]
+      }, {
+        "elevation": 71.021619,
+        "course": 258.398438,
+        "speed": 1.650000,
+        "time": 1536904345.994536,
+        "cumulatedDistance": 1452.248767,
+        "coordinate": [12.446677, 41.888937, 71.021619]
+      }, {
+        "elevation": 70.711410,
+        "course": 233.789062,
+        "speed": 1.840000,
+        "time": 1536904348.994493,
+        "cumulatedDistance": 1459.352121,
+        "coordinate": [12.446597, 41.888914, 70.711410]
+      }, {
+        "elevation": 70.656683,
+        "course": 190.195312,
+        "speed": 1.890000,
+        "time": 1536904350.994467,
+        "cumulatedDistance": 1463.680764,
+        "coordinate": [12.446560, 41.888886, 70.656683]
+      }, {
+        "elevation": 70.387348,
+        "course": 214.453125,
+        "speed": 1.950000,
+        "time": 1536904356.994381,
+        "cumulatedDistance": 1476.609009,
+        "coordinate": [12.446500, 41.888779, 70.387348]
+      }, {
+        "elevation": 70.332933,
+        "course": 231.328125,
+        "speed": 1.940000,
+        "time": 1536904358.994352,
+        "cumulatedDistance": 1480.385170,
+        "coordinate": [12.446464, 41.888758, 70.332933]
+      }, {
+        "elevation": 69.917100,
+        "course": 246.796875,
+        "speed": 2.040000,
+        "time": 1536904366.998768,
+        "cumulatedDistance": 1496.835761,
+        "coordinate": [12.446274, 41.888715, 69.917100]
+      }, {
+        "elevation": 69.801154,
+        "course": 274.921875,
+        "speed": 1.960000,
+        "time": 1536904369.999015,
+        "cumulatedDistance": 1503.071710,
+        "coordinate": [12.446201, 41.888728, 69.801154]
+      }, {
+        "elevation": 69.739788,
+        "course": 270.000000,
+        "speed": 0.000000,
+        "time": 1536904372.999208,
+        "cumulatedDistance": 1507.905464,
+        "coordinate": [12.446145, 41.888740, 69.739788]
+      }, {
+        "elevation": 69.739788,
+        "course": 270.000000,
+        "speed": 0.000000,
+        "time": 1536904372.999208,
+        "cumulatedDistance": 1507.905464,
+        "coordinate": [12.446145, 41.888740, 69.739788]
+      }, {
+        "elevation": 69.683772,
+        "course": 267.187500,
+        "speed": 0.500000,
+        "time": 1536904373.999263,
+        "cumulatedDistance": 1509.434645,
+        "coordinate": [12.446128, 41.888745, 69.683772]
+      }, {
+        "elevation": 69.637845,
+        "course": 267.539062,
+        "speed": 1.610000,
+        "time": 1536904374.999316,
+        "cumulatedDistance": 1511.015991,
+        "coordinate": [12.446110, 41.888748, 69.637845]
+      }, {
+        "elevation": 69.077432,
+        "course": 247.148438,
+        "speed": 1.940000,
+        "time": 1536904388.999604,
+        "cumulatedDistance": 1539.688364,
+        "coordinate": [12.445764, 41.888759, 69.077432]
+      }, {
+        "elevation": 68.655535,
+        "course": 272.460938,
+        "speed": 1.950000,
+        "time": 1536904392.999620,
+        "cumulatedDistance": 1547.319247,
+        "coordinate": [12.445674, 41.888746, 68.655535]
+      }, {
+        "elevation": 68.705624,
+        "course": 301.640625,
+        "speed": 0.900000,
+        "time": 1536904393.999620,
+        "cumulatedDistance": 1548.572965,
+        "coordinate": [12.445665, 41.888755, 68.705624]
+      }, {
+        "elevation": 68.539742,
+        "course": 278.085938,
+        "speed": 1.700000,
+        "time": 1536904396.999618,
+        "cumulatedDistance": 1554.089194,
+        "coordinate": [12.445609, 41.888782, 68.539742]
+      }, {
+        "elevation": 68.316179,
+        "course": 296.015625,
+        "speed": 1.860000,
+        "time": 1536904400.999601,
+        "cumulatedDistance": 1561.851712,
+        "coordinate": [12.445520, 41.888804, 68.316179]
+      }, {
+        "elevation": 68.086557,
+        "course": 280.195312,
+        "speed": 1.440000,
+        "time": 1536904402.999588,
+        "cumulatedDistance": 1565.689219,
+        "coordinate": [12.445475, 41.888810, 68.086557]
+      }, {
+        "elevation": 67.651701,
+        "course": 201.445312,
+        "speed": 1.680000,
+        "time": 1536904413.999485,
+        "cumulatedDistance": 1583.083981,
+        "coordinate": [12.445274, 41.888764, 67.651701]
+      }, {
+        "elevation": 67.589938,
+        "course": 185.976562,
+        "speed": 1.680000,
+        "time": 1536904415.999462,
+        "cumulatedDistance": 1587.201833,
+        "coordinate": [12.445273, 41.888727, 67.589938]
+      }, {
+        "elevation": 67.270010,
+        "course": 170.859375,
+        "speed": 1.650000,
+        "time": 1536904417.999436,
+        "cumulatedDistance": 1591.232503,
+        "coordinate": [12.445279, 41.888691, 67.270010]
+      }, {
+        "elevation": 66.473602,
+        "course": 151.171875,
+        "speed": 1.910000,
+        "time": 1536904424.999344,
+        "cumulatedDistance": 1603.451356,
+        "coordinate": [12.445318, 41.888585, 66.473602]
+      }, {
+        "elevation": 66.049545,
+        "course": 129.726562,
+        "speed": 2.000000,
+        "time": 1536904429.999274,
+        "cumulatedDistance": 1611.814943,
+        "coordinate": [12.445382, 41.888527, 66.049545]
+      }, {
+        "elevation": 65.214543,
+        "course": 148.710938,
+        "speed": 1.900000,
+        "time": 1536904435.999186,
+        "cumulatedDistance": 1621.893413,
+        "coordinate": [12.445473, 41.888467, 65.214543]
+      }, {
+        "elevation": 64.931250,
+        "course": 144.140625,
+        "speed": 1.160000,
+        "time": 1536904438.999141,
+        "cumulatedDistance": 1626.954236,
+        "coordinate": [12.445497, 41.888425, 64.931250]
+      }, {
+        "elevation": 64.552266,
+        "course": 129.023438,
+        "speed": 1.880000,
+        "time": 1536904441.999095,
+        "cumulatedDistance": 1632.176449,
+        "coordinate": [12.445538, 41.888389, 64.552266]
+      }, {
+        "elevation": 64.422472,
+        "course": 149.062500,
+        "speed": 1.260000,
+        "time": 1536904443.999065,
+        "cumulatedDistance": 1635.994839,
+        "coordinate": [12.445558, 41.888358, 64.422472]
+      }, {
+        "elevation": 67.281542,
+        "course": 145.898438,
+        "speed": 1.550000,
+        "time": 1536904446.999018,
+        "cumulatedDistance": 1640.942650,
+        "coordinate": [12.445569, 41.888314, 67.281542]
+      }, {
+        "elevation": 69.452610,
+        "course": 144.492188,
+        "speed": 1.930000,
+        "time": 1536904449.998973,
+        "cumulatedDistance": 1646.201051,
+        "coordinate": [12.445596, 41.888272, 69.452610]
+      }, {
+        "elevation": 70.855345,
+        "course": 159.609375,
+        "speed": 1.810000,
+        "time": 1536904453.998910,
+        "cumulatedDistance": 1653.508663,
+        "coordinate": [12.445622, 41.888209, 70.855345]
+      }, {
+        "elevation": 71.324411,
+        "course": 137.812500,
+        "speed": 1.890000,
+        "time": 1536904457.998847,
+        "cumulatedDistance": 1661.665607,
+        "coordinate": [12.445656, 41.888140, 71.324411]
+      }, {
+        "elevation": 71.499213,
+        "course": 181.406250,
+        "speed": 1.880000,
+        "time": 1536904460.998799,
+        "cumulatedDistance": 1666.838313,
+        "coordinate": [12.445685, 41.888099, 71.499213]
+      }, {
+        "elevation": 71.439378,
+        "course": 187.031250,
+        "speed": 1.210000,
+        "time": 1536904466.998705,
+        "cumulatedDistance": 1678.085421,
+        "coordinate": [12.445613, 41.888013, 71.439378]
+      }, {
+        "elevation": 71.496876,
+        "course": 207.421875,
+        "speed": 1.900000,
+        "time": 1536904468.998673,
+        "cumulatedDistance": 1682.142707,
+        "coordinate": [12.445583, 41.887984, 71.496876]
+      }, {
+        "elevation": 70.905696,
+        "course": 223.945312,
+        "speed": 1.770000,
+        "time": 1536904473.998593,
+        "cumulatedDistance": 1692.532109,
+        "coordinate": [12.445495, 41.887918, 70.905696]
+      }, {
+        "elevation": 70.334158,
+        "course": 247.148438,
+        "speed": 1.830000,
+        "time": 1536904483.998435,
+        "cumulatedDistance": 1711.955253,
+        "coordinate": [12.445306, 41.887815, 70.334158]
+      }, {
+        "elevation": 69.187962,
+        "course": 240.117188,
+        "speed": 1.190000,
+        "time": 1536904493.998275,
+        "cumulatedDistance": 1729.236066,
+        "coordinate": [12.445130, 41.887731, 69.187962]
+      }, {
+        "elevation": 68.873574,
+        "course": 222.890625,
+        "speed": 1.700000,
+        "time": 1536904497.998211,
+        "cumulatedDistance": 1735.523132,
+        "coordinate": [12.445065, 41.887703, 68.873574]
+      }, {
+        "elevation": 68.191484,
+        "course": 244.687500,
+        "speed": 1.840000,
+        "time": 1536904510.998005,
+        "cumulatedDistance": 1760.586816,
+        "coordinate": [12.444823, 41.887568, 68.191484]
+      }, {
+        "elevation": 68.080490,
+        "course": 339.257812,
+        "speed": 1.840000,
+        "time": 1536904512.997972,
+        "cumulatedDistance": 1764.637103,
+        "coordinate": [12.444801, 41.887601, 68.080490]
+      }, {
+        "elevation": 68.024865,
+        "course": 282.304688,
+        "speed": 3.350000,
+        "time": 1536904514.997941,
+        "cumulatedDistance": 1770.183882,
+        "coordinate": [12.444742, 41.887624, 68.024865]
+      }, {
+        "elevation": 67.753899,
+        "course": 231.679688,
+        "speed": 3.260000,
+        "time": 1536904516.997908,
+        "cumulatedDistance": 1776.502080,
+        "coordinate": [12.444666, 41.887621, 67.753899]
+      }, {
+        "elevation": 67.854671,
+        "course": 230.625000,
+        "speed": 1.770000,
+        "time": 1536904517.997892,
+        "cumulatedDistance": 1778.367836,
+        "coordinate": [12.444651, 41.887608, 67.854671]
+      }, {
+        "elevation": 67.817478,
+        "course": 187.382812,
+        "speed": 1.920000,
+        "time": 1536904519.997860,
+        "cumulatedDistance": 1783.620466,
+        "coordinate": [12.444642, 41.887561, 67.817478]
+      }, {
+        "elevation": 67.605090,
+        "course": 292.851562,
+        "speed": 1.900000,
+        "time": 1536904522.997813,
+        "cumulatedDistance": 1787.952067,
+        "coordinate": [12.444616, 41.887527, 67.605090]
+      }, {
+        "elevation": 67.632250,
+        "course": 277.382812,
+        "speed": 1.830000,
+        "time": 1536904524.997781,
+        "cumulatedDistance": 1791.732182,
+        "coordinate": [12.444571, 41.887532, 67.632250]
+      }, {
+        "elevation": 67.690464,
+        "course": 200.390625,
+        "speed": 1.920000,
+        "time": 1536904526.997748,
+        "cumulatedDistance": 1796.423476,
+        "coordinate": [12.444545, 41.887495, 67.690464]
+      }, {
+        "elevation": 67.383712,
+        "course": 217.617188,
+        "speed": 1.900000,
+        "time": 1536904528.997717,
+        "cumulatedDistance": 1801.524965,
+        "coordinate": [12.444525, 41.887451, 67.383712]
+      }, {
+        "elevation": 67.156344,
+        "course": 196.875000,
+        "speed": 1.860000,
+        "time": 1536904539.997540,
+        "cumulatedDistance": 1824.728120,
+        "coordinate": [12.444362, 41.887282, 67.156344]
+      }, {
+        "elevation": 65.847602,
+        "course": 181.054688,
+        "speed": 1.690000,
+        "time": 1536904562.997174,
+        "cumulatedDistance": 1864.469473,
+        "coordinate": [12.444224, 41.886939, 65.847602]
+      }, {
+        "elevation": 65.615878,
+        "course": 158.906250,
+        "speed": 1.750000,
+        "time": 1536904566.997110,
+        "cumulatedDistance": 1871.542315,
+        "coordinate": [12.444238, 41.886876, 65.615878]
+      }, {
+        "elevation": 65.027491,
+        "course": 139.570312,
+        "speed": 1.700000,
+        "time": 1536904571.997029,
+        "cumulatedDistance": 1879.178391,
+        "coordinate": [12.444277, 41.886814, 65.027491]
+      }, {
+        "elevation": 64.820564,
+        "course": 141.328125,
+        "speed": 0.820000,
+        "time": 1536904573.996997,
+        "cumulatedDistance": 1881.591705,
+        "coordinate": [12.444291, 41.886795, 64.820564]
+      }, {
+        "elevation": 64.721762,
+        "course": 133.242188,
+        "speed": 3.130000,
+        "time": 1536904574.996981,
+        "cumulatedDistance": 1883.878891,
+        "coordinate": [12.444314, 41.886783, 64.721762]
+      }, {
+        "elevation": 64.525531,
+        "course": 114.609375,
+        "speed": 2.740000,
+        "time": 1536904576.996950,
+        "cumulatedDistance": 1889.226076,
+        "coordinate": [12.444371, 41.886761, 64.525531]
+      }, {
+        "elevation": 64.598283,
+        "course": 110.742188,
+        "speed": 2.050000,
+        "time": 1536904577.996933,
+        "cumulatedDistance": 1891.016456,
+        "coordinate": [12.444392, 41.886757, 64.598283]
+      }, {
+        "elevation": 63.776129,
+        "course": 126.914062,
+        "speed": 1.770000,
+        "time": 1536904583.996838,
+        "cumulatedDistance": 1900.061973,
+        "coordinate": [12.444477, 41.886706, 63.776129]
+      }, {
+        "elevation": 62.595274,
+        "course": 142.031250,
+        "speed": 1.650000,
+        "time": 1536904593.996678,
+        "cumulatedDistance": 1916.914555,
+        "coordinate": [12.444591, 41.886580, 62.595274]
+      }, {
+        "elevation": 62.030547,
+        "course": 158.203125,
+        "speed": 1.850000,
+        "time": 1536904597.996614,
+        "cumulatedDistance": 1925.183941,
+        "coordinate": [12.444626, 41.886511, 62.030547]
+      }, {
+        "elevation": 59.953063,
+        "course": 152.578125,
+        "speed": 1.920000,
+        "time": 1536904632.996055,
+        "cumulatedDistance": 1989.449596,
+        "coordinate": [12.444848, 41.885956, 59.953063]
+      }, {
+        "elevation": 59.897998,
+        "course": 151.875000,
+        "speed": 1.220000,
+        "time": 1536904638.995959,
+        "cumulatedDistance": 1997.398815,
+        "coordinate": [12.444853, 41.885885, 59.897998]
+      }, {
+        "elevation": 59.633001,
+        "course": 171.210938,
+        "speed": 1.430000,
+        "time": 1536904641.995911,
+        "cumulatedDistance": 2002.194377,
+        "coordinate": [12.444839, 41.885843, 59.633001]
+      }, {
+        "elevation": 59.368440,
+        "course": 148.710938,
+        "speed": 1.750000,
+        "time": 1536904643.995879,
+        "cumulatedDistance": 2006.090818,
+        "coordinate": [12.444838, 41.885808, 59.368440]
+      }, {
+        "elevation": 59.239614,
+        "course": 182.812500,
+        "speed": 1.840000,
+        "time": 1536904647.995815,
+        "cumulatedDistance": 2013.837731,
+        "coordinate": [12.444860, 41.885740, 59.239614]
+      }, {
+        "elevation": 59.339998,
+        "course": 163.125000,
+        "speed": 1.820000,
+        "time": 1536904649.995783,
+        "cumulatedDistance": 2017.447507,
+        "coordinate": [12.444864, 41.885708, 59.339998]
+      }, {
+        "elevation": 58.745304,
+        "course": 148.007812,
+        "speed": 1.850000,
+        "time": 1536904661.995591,
+        "cumulatedDistance": 2039.236812,
+        "coordinate": [12.444919, 41.885516, 58.745304]
+      }, {
+        "elevation": 58.035636,
+        "course": 164.882812,
+        "speed": 1.750000,
+        "time": 1536904671.995431,
+        "cumulatedDistance": 2056.877105,
+        "coordinate": [12.444987, 41.885365, 58.035636]
+      }, {
+        "elevation": 57.838088,
+        "course": 171.562500,
+        "speed": 0.890000,
+        "time": 1536904673.995399,
+        "cumulatedDistance": 2058.789981,
+        "coordinate": [12.444981, 41.885349, 57.838088]
+      }, {
+        "elevation": 57.766525,
+        "course": 158.906250,
+        "speed": 1.570000,
+        "time": 1536904674.995383,
+        "cumulatedDistance": 2060.374032,
+        "coordinate": [12.444978, 41.885335, 57.766525]
+      }, {
+        "elevation": 57.510624,
+        "course": 177.187500,
+        "speed": 1.870000,
+        "time": 1536904680.995287,
+        "cumulatedDistance": 2072.749763,
+        "coordinate": [12.444963, 41.885224, 57.510624]
+      }, {
+        "elevation": 57.288631,
+        "course": 210.234375,
+        "speed": 1.170000,
+        "time": 1536904687.995176,
+        "cumulatedDistance": 2084.338160,
+        "coordinate": [12.444941, 41.885121, 57.288631]
+      }, {
+        "elevation": 57.014405,
+        "course": 186.679688,
+        "speed": 1.730000,
+        "time": 1536904690.995128,
+        "cumulatedDistance": 2089.207936,
+        "coordinate": [12.444907, 41.885085, 57.014405]
+      }, {
+        "elevation": 56.600926,
+        "course": 163.828125,
+        "speed": 1.960000,
+        "time": 1536904692.995096,
+        "cumulatedDistance": 2094.019361,
+        "coordinate": [12.444920, 41.885043, 56.600926]
+      }, {
+        "elevation": 56.660287,
+        "course": 148.359375,
+        "speed": 1.960000,
+        "time": 1536904695.995048,
+        "cumulatedDistance": 2100.350455,
+        "coordinate": [12.444945, 41.884989, 56.660287]
+      }, {
+        "elevation": 56.596594,
+        "course": 171.210938,
+        "speed": 4.070000,
+        "time": 1536904698.994999,
+        "cumulatedDistance": 2107.482171,
+        "coordinate": [12.444972, 41.884928, 56.596594]
+      }, {
+        "elevation": 56.518817,
+        "course": 187.031250,
+        "speed": 2.180000,
+        "time": 1536904700.994969,
+        "cumulatedDistance": 2112.512355,
+        "coordinate": [12.444967, 41.884883, 56.518817]
+      }, {
+        "elevation": 56.537719,
+        "course": 172.265625,
+        "speed": 1.330000,
+        "time": 1536904701.994952,
+        "cumulatedDistance": 2113.807355,
+        "coordinate": [12.444966, 41.884871, 56.537719]
+      }, {
+        "elevation": 56.414114,
+        "course": 194.414062,
+        "speed": 1.890000,
+        "time": 1536904704.994904,
+        "cumulatedDistance": 2119.223283,
+        "coordinate": [12.444949, 41.884824, 56.414114]
+      }, {
+        "elevation": 56.156102,
+        "course": 214.804688,
+        "speed": 1.870000,
+        "time": 1536904711.994792,
+        "cumulatedDistance": 2133.205894,
+        "coordinate": [12.444857, 41.884719, 56.156102]
+      }, {
+        "elevation": 55.909583,
+        "course": 191.250000,
+        "speed": 1.400000,
+        "time": 1536904722.994616,
+        "cumulatedDistance": 2152.148944,
+        "coordinate": [12.444738, 41.884573, 55.909583]
+      }, {
+        "elevation": 55.657019,
+        "course": 219.023438,
+        "speed": 1.850000,
+        "time": 1536904724.994585,
+        "cumulatedDistance": 2155.681568,
+        "coordinate": [12.444714, 41.884547, 55.657019]
+      }, {
+        "elevation": 54.780649,
+        "course": 240.468750,
+        "speed": 1.900000,
+        "time": 1536904745.994249,
+        "cumulatedDistance": 2195.694259,
+        "coordinate": [12.444320, 41.884339, 54.780649]
+      }, {
+        "elevation": 54.086571,
+        "course": 225.351562,
+        "speed": 1.680000,
+        "time": 1536904751.994153,
+        "cumulatedDistance": 2206.515461,
+        "coordinate": [12.444209, 41.884288, 54.086571]
+      }, {
+        "elevation": 53.954844,
+        "course": 207.070312,
+        "speed": 1.940000,
+        "time": 1536904755.994090,
+        "cumulatedDistance": 2214.170707,
+        "coordinate": [12.444147, 41.884237, 53.954844]
+      }, {
+        "elevation": 53.461576,
+        "course": 183.515625,
+        "speed": 1.880000,
+        "time": 1536904766.993913,
+        "cumulatedDistance": 2232.199452,
+        "coordinate": [12.444046, 41.884094, 53.461576]
+      }, {
+        "elevation": 53.628107,
+        "course": 162.070312,
+        "speed": 1.710000,
+        "time": 1536904770.993850,
+        "cumulatedDistance": 2238.744186,
+        "coordinate": [12.444054, 41.884035, 53.628107]
+      }, {
+        "elevation": 53.588834,
+        "course": 144.843750,
+        "speed": 1.830000,
+        "time": 1536904777.993738,
+        "cumulatedDistance": 2250.685972,
+        "coordinate": [12.444108, 41.883935, 53.588834]
+      }, {
+        "elevation": 53.839973,
+        "course": 163.476562,
+        "speed": 1.780000,
+        "time": 1536904780.993690,
+        "cumulatedDistance": 2254.791095,
+        "coordinate": [12.444126, 41.883901, 53.839973]
+      }, {
+        "elevation": 54.068920,
+        "course": 121.289062,
+        "speed": 2.030000,
+        "time": 1536904783.993642,
+        "cumulatedDistance": 2259.218587,
+        "coordinate": [12.444159, 41.883870, 54.068920]
+      }, {
+        "elevation": 54.160524,
+        "course": 104.414062,
+        "speed": 1.570000,
+        "time": 1536904786.993594,
+        "cumulatedDistance": 2264.274283,
+        "coordinate": [12.444219, 41.883860, 54.160524]
+      }, {
+        "elevation": 54.039997,
+        "course": 122.695312,
+        "speed": 1.840000,
+        "time": 1536904788.993562,
+        "cumulatedDistance": 2267.778302,
+        "coordinate": [12.444257, 41.883846, 54.039997]
+      }, {
+        "elevation": 54.267523,
+        "course": 143.085938,
+        "speed": 1.970000,
+        "time": 1536904806.998977,
+        "cumulatedDistance": 2303.409243,
+        "coordinate": [12.444572, 41.883628, 54.267523]
+      }, {
+        "elevation": 54.054541,
+        "course": 143.437500,
+        "speed": 0.880000,
+        "time": 1536904809.999135,
+        "cumulatedDistance": 2308.292702,
+        "coordinate": [12.444595, 41.883588, 54.054541]
+      }, {
+        "elevation": 54.308755,
+        "course": 151.875000,
+        "speed": 3.290000,
+        "time": 1536904810.999179,
+        "cumulatedDistance": 2310.858023,
+        "coordinate": [12.444605, 41.883566, 54.308755]
+      }, {
+        "elevation": 53.992853,
+        "course": 152.578125,
+        "speed": 1.830000,
+        "time": 1536904811.999220,
+        "cumulatedDistance": 2313.604956,
+        "coordinate": [12.444617, 41.883543, 53.992853]
+      }, {
+        "elevation": 54.018657,
+        "course": 161.015625,
+        "speed": 0.660000,
+        "time": 1536904813.999290,
+        "cumulatedDistance": 2316.735501,
+        "coordinate": [12.444630, 41.883516, 54.018657]
+      }, {
+        "elevation": 53.833611,
+        "course": 149.765625,
+        "speed": 1.370000,
+        "time": 1536904817.999394,
+        "cumulatedDistance": 2321.874020,
+        "coordinate": [12.444644, 41.883471, 53.833611]
+      }, {
+        "elevation": 53.561552,
+        "course": 168.750000,
+        "speed": 1.300000,
+        "time": 1536904820.999446,
+        "cumulatedDistance": 2326.371652,
+        "coordinate": [12.444651, 41.883431, 53.561552]
+      }, {
+        "elevation": 53.521883,
+        "course": 151.875000,
+        "speed": 1.190000,
+        "time": 1536904829.999509,
+        "cumulatedDistance": 2343.216203,
+        "coordinate": [12.444690, 41.883282, 53.521883]
+      }, {
+        "elevation": 52.958759,
+        "course": 131.484375,
+        "speed": 1.340000,
+        "time": 1536904832.999506,
+        "cumulatedDistance": 2347.773233,
+        "coordinate": [12.444725, 41.883251, 52.958759]
+      }, {
+        "elevation": 52.879651,
+        "course": 154.335938,
+        "speed": 1.470000,
+        "time": 1536904834.999500,
+        "cumulatedDistance": 2351.570576,
+        "coordinate": [12.444745, 41.883220, 52.879651]
+      }, {
+        "elevation": 52.916006,
+        "course": 136.757812,
+        "speed": 1.610000,
+        "time": 1536904844.999429,
+        "cumulatedDistance": 2371.640473,
+        "coordinate": [12.444874, 41.883067, 52.916006]
+      }, {
+        "elevation": 52.629965,
+        "course": 120.937500,
+        "speed": 1.780000,
+        "time": 1536904851.999352,
+        "cumulatedDistance": 2383.715076,
+        "coordinate": [12.444987, 41.882999, 52.629965]
+      }, {
+        "elevation": 52.220290,
+        "course": 105.468750,
+        "speed": 1.680000,
+        "time": 1536904859.999247,
+        "cumulatedDistance": 2397.894599,
+        "coordinate": [12.445145, 41.882951, 52.220290]
+      }, {
+        "elevation": 52.082899,
+        "course": 70.664062,
+        "speed": 1.870000,
+        "time": 1536904870.999087,
+        "cumulatedDistance": 2414.476705,
+        "coordinate": [12.445342, 41.882926, 52.082899]
+      }, {
+        "elevation": 51.970784,
+        "course": 85.078125,
+        "speed": 2.990000,
+        "time": 1536904874.999027,
+        "cumulatedDistance": 2421.372923,
+        "coordinate": [12.445424, 41.882940, 51.970784]
+      }, {
+        "elevation": 52.150684,
+        "course": 82.265625,
+        "speed": 1.920000,
+        "time": 1536904876.998995,
+        "cumulatedDistance": 2425.089628,
+        "coordinate": [12.445468, 41.882946, 52.150684]
+      }, {
+        "elevation": 52.271581,
+        "course": 80.507812,
+        "speed": 0.350000,
+        "time": 1536904894.998711,
+        "cumulatedDistance": 2455.468540,
+        "coordinate": [12.445809, 41.883044, 52.271581]
+      }, {
+        "elevation": 52.476429,
+        "course": 65.742188,
+        "speed": 0.580000,
+        "time": 1536904895.998694,
+        "cumulatedDistance": 2456.283407,
+        "coordinate": [12.445813, 41.883051, 52.476429]
+      }, {
+        "elevation": 52.675077,
+        "course": 79.804688,
+        "speed": 1.660000,
+        "time": 1536904897.998663,
+        "cumulatedDistance": 2459.787238,
+        "coordinate": [12.445851, 41.883064, 52.675077]
+      }, {
+        "elevation": 52.461490,
+        "course": 108.984375,
+        "speed": 2.390000,
+        "time": 1536904900.998615,
+        "cumulatedDistance": 2466.111312,
+        "coordinate": [12.445928, 41.883064, 52.461490]
+      }, {
+        "elevation": 52.712865,
+        "course": 108.632812,
+        "speed": 1.600000,
+        "time": 1536904903.998566,
+        "cumulatedDistance": 2472.074247,
+        "coordinate": [12.445994, 41.883043, 52.712865]
+      }, {
+        "elevation": 52.559815,
+        "course": 96.328125,
+        "speed": 0.970000,
+        "time": 1536904904.998550,
+        "cumulatedDistance": 2473.513919,
+        "coordinate": [12.446011, 41.883041, 52.559815]
+      }, {
+        "elevation": 52.922532,
+        "course": 105.820312,
+        "speed": 1.580000,
+        "time": 1536904909.998468,
+        "cumulatedDistance": 2481.727894,
+        "coordinate": [12.446109, 41.883030, 52.922532]
+      }, {
+        "elevation": 53.238676,
+        "course": 124.804688,
+        "speed": 1.550000,
+        "time": 1536904915.998372,
+        "cumulatedDistance": 2491.348328,
+        "coordinate": [12.446210, 41.882988, 53.238676]
+      }, {
+        "elevation": 53.279704,
+        "course": 140.976562,
+        "speed": 0.940000,
+        "time": 1536904916.998355,
+        "cumulatedDistance": 2492.620459,
+        "coordinate": [12.446216, 41.882978, 53.279704]
+      }, {
+        "elevation": 53.886256,
+        "course": 140.976562,
+        "speed": 0.570000,
+        "time": 1536904919.998306,
+        "cumulatedDistance": 2496.652990,
+        "coordinate": [12.446237, 41.882945, 53.886256]
+      }, {
+        "elevation": 53.864303,
+        "course": 126.210938,
+        "speed": 1.480000,
+        "time": 1536904920.998291,
+        "cumulatedDistance": 2497.883851,
+        "coordinate": [12.446250, 41.882940, 53.864303]
+      }, {
+        "elevation": 54.032208,
+        "course": 142.031250,
+        "speed": 2.010000,
+        "time": 1536904923.998241,
+        "cumulatedDistance": 2504.236987,
+        "coordinate": [12.446306, 41.882901, 54.032208]
+      }, {
+        "elevation": 54.479009,
+        "course": 135.351562,
+        "speed": 1.380000,
+        "time": 1536904927.998176,
+        "cumulatedDistance": 2511.539064,
+        "coordinate": [12.446369, 41.882855, 54.479009]
+      }, {
+        "elevation": 54.523277,
+        "course": 115.312500,
+        "speed": 1.680000,
+        "time": 1536904930.998127,
+        "cumulatedDistance": 2517.563321,
+        "coordinate": [12.446427, 41.882822, 54.523277]
+      }, {
+        "elevation": 54.862508,
+        "course": 87.539062,
+        "speed": 1.750000,
+        "time": 1536904934.998062,
+        "cumulatedDistance": 2525.558802,
+        "coordinate": [12.446523, 41.882820, 54.862508]
+      }, {
+        "elevation": 55.262728,
+        "course": 112.851562,
+        "speed": 1.750000,
+        "time": 1536904936.998030,
+        "cumulatedDistance": 2529.845927,
+        "coordinate": [12.446574, 41.882815, 55.262728]
+      }, {
+        "elevation": 55.371386,
+        "course": 128.320312,
+        "speed": 1.480000,
+        "time": 1536904941.997949,
+        "cumulatedDistance": 2537.527577,
+        "coordinate": [12.446661, 41.882791, 55.371386]
+      }, {
+        "elevation": 55.790279,
+        "course": 150.117188,
+        "speed": 1.460000,
+        "time": 1536904944.997900,
+        "cumulatedDistance": 2541.914159,
+        "coordinate": [12.446680, 41.882754, 55.790279]
+      }, {
+        "elevation": 56.636019,
+        "course": 129.023438,
+        "speed": 1.870000,
+        "time": 1536904957.997688,
+        "cumulatedDistance": 2567.819797,
+        "coordinate": [12.446891, 41.882582, 56.636019]
+      }, {
+        "elevation": 56.918926,
+        "course": 111.445312,
+        "speed": 1.590000,
+        "time": 1536904962.997607,
+        "cumulatedDistance": 2577.213616,
+        "coordinate": [12.446995, 41.882548, 56.918926]
+      }, {
+        "elevation": 57.139988,
+        "course": 132.187500,
+        "speed": 1.860000,
+        "time": 1536904965.997557,
+        "cumulatedDistance": 2582.939439,
+        "coordinate": [12.447053, 41.882521, 57.139988]
+      }, {
+        "elevation": 57.562928,
+        "course": 110.039062,
+        "speed": 1.820000,
+        "time": 1536904969.997492,
+        "cumulatedDistance": 2590.491653,
+        "coordinate": [12.447128, 41.882482, 57.562928]
+      }, {
+        "elevation": 57.408380,
+        "course": 126.562500,
+        "speed": 1.860000,
+        "time": 1536904976.997378,
+        "cumulatedDistance": 2603.435118,
+        "coordinate": [12.447253, 41.882412, 57.408380]
+      }, {
+        "elevation": 57.661066,
+        "course": 126.914062,
+        "speed": 0.490000,
+        "time": 1536904979.997329,
+        "cumulatedDistance": 2609.127227,
+        "coordinate": [12.447298, 41.882374, 57.661066]
+      }, {
+        "elevation": 57.736046,
+        "course": 103.007812,
+        "speed": 1.360000,
+        "time": 1536904980.997313,
+        "cumulatedDistance": 2609.873770,
+        "coordinate": [12.447306, 41.882371, 57.736046]
+      }, {
+        "elevation": 58.018408,
+        "course": 62.578125,
+        "speed": 1.170000,
+        "time": 1536904984.997247,
+        "cumulatedDistance": 2613.387209,
+        "coordinate": [12.447348, 41.882371, 58.018408]
+      }, {
+        "elevation": 57.967015,
+        "course": 40.429688,
+        "speed": 1.120000,
+        "time": 1536904988.997182,
+        "cumulatedDistance": 2617.604892,
+        "coordinate": [12.447379, 41.882401, 57.967015]
+      }, {
+        "elevation": 57.885629,
+        "course": 26.015625,
+        "speed": 1.880000,
+        "time": 1536904990.997149,
+        "cumulatedDistance": 2620.735098,
+        "coordinate": [12.447393, 41.882427, 57.885629]
+      }, {
+        "elevation": 57.674155,
+        "course": 27.421875,
+        "speed": 1.060000,
+        "time": 1536904994.997085,
+        "cumulatedDistance": 2627.157468,
+        "coordinate": [12.447406, 41.882484, 57.674155]
+      }, {
+        "elevation": 57.337356,
+        "course": 2.460938,
+        "speed": 1.070000,
+        "time": 1536904997.997036,
+        "cumulatedDistance": 2630.476453,
+        "coordinate": [12.447423, 41.882512, 57.337356]
+      }, {
+        "elevation": 57.301833,
+        "course": 319.570312,
+        "speed": 1.440000,
+        "time": 1536905000.996987,
+        "cumulatedDistance": 2634.236759,
+        "coordinate": [12.447403, 41.882542, 57.301833]
+      }, {
+        "elevation": 57.460426,
+        "course": 340.664062,
+        "speed": 2.210000,
+        "time": 1536905015.996743,
+        "cumulatedDistance": 2657.161988,
+        "coordinate": [12.447244, 41.882711, 57.460426]
+      }, {
+        "elevation": 57.546032,
+        "course": 332.578125,
+        "speed": 1.080000,
+        "time": 1536905019.996676,
+        "cumulatedDistance": 2666.233722,
+        "coordinate": [12.447264, 41.882791, 57.546032]
+      }, {
+        "elevation": 57.703973,
+        "course": 315.351562,
+        "speed": 1.720000,
+        "time": 1536905025.996579,
+        "cumulatedDistance": 2674.290428,
+        "coordinate": [12.447232, 41.882860, 57.703973]
+      }, {
+        "elevation": 58.241485,
+        "course": 331.523438,
+        "speed": 2.100000,
+        "time": 1536905035.996416,
+        "cumulatedDistance": 2692.707484,
+        "coordinate": [12.447122, 41.883004, 58.241485]
+      }, {
+        "elevation": 58.188276,
+        "course": 334.687500,
+        "speed": 1.370000,
+        "time": 1536905039.996351,
+        "cumulatedDistance": 2699.746471,
+        "coordinate": [12.447074, 41.883056, 58.188276]
+      }, {
+        "elevation": 58.607461,
+        "course": 335.039062,
+        "speed": 2.010000,
+        "time": 1536905050.996171,
+        "cumulatedDistance": 2717.780010,
+        "coordinate": [12.446980, 41.883202, 58.607461]
+      }, {
+        "elevation": 58.467297,
+        "course": 344.179688,
+        "speed": 1.380000,
+        "time": 1536905054.996107,
+        "cumulatedDistance": 2724.371375,
+        "coordinate": [12.446972, 41.883261, 58.467297]
+      }, {
+        "elevation": 58.428010,
+        "course": 342.773438,
+        "speed": 2.040000,
+        "time": 1536905055.996090,
+        "cumulatedDistance": 2726.256649,
+        "coordinate": [12.446969, 41.883278, 58.428010]
+      }, {
+        "elevation": 58.420840,
+        "course": 336.796875,
+        "speed": 1.390000,
+        "time": 1536905056.996074,
+        "cumulatedDistance": 2727.984865,
+        "coordinate": [12.446964, 41.883293, 58.420840]
+      }, {
+        "elevation": 58.542273,
+        "course": 319.218750,
+        "speed": 2.070000,
+        "time": 1536905060.996009,
+        "cumulatedDistance": 2734.984294,
+        "coordinate": [12.446922, 41.883348, 58.542273]
+      }, {
+        "elevation": 58.650300,
+        "course": 335.390625,
+        "speed": 1.740000,
+        "time": 1536905063.995960,
+        "cumulatedDistance": 2740.860092,
+        "coordinate": [12.446894, 41.883396, 58.650300]
+      }, {
+        "elevation": 58.509518,
+        "course": 352.265625,
+        "speed": 1.560000,
+        "time": 1536905065.995927,
+        "cumulatedDistance": 2744.750045,
+        "coordinate": [12.446901, 41.883431, 58.509518]
+      }, {
+        "elevation": 59.238529,
+        "course": 334.687500,
+        "speed": 1.500000,
+        "time": 1536905081.995666,
+        "cumulatedDistance": 2774.979669,
+        "coordinate": [12.446947, 41.883701, 59.238529]
+      }, {
+        "elevation": 59.069320,
+        "course": 323.085938,
+        "speed": 2.140000,
+        "time": 1536905083.995633,
+        "cumulatedDistance": 2779.609895,
+        "coordinate": [12.446925, 41.883739, 59.069320]
+      }, {
+        "elevation": 59.359029,
+        "course": 4.921875,
+        "speed": 1.710000,
+        "time": 1536905086.995584,
+        "cumulatedDistance": 2785.267997,
+        "coordinate": [12.446911, 41.883789, 59.359029]
+      }, {
+        "elevation": 59.538852,
+        "course": 344.531250,
+        "speed": 1.900000,
+        "time": 1536905088.995552,
+        "cumulatedDistance": 2789.442196,
+        "coordinate": [12.446909, 41.883826, 59.538852]
+      }, {
+        "elevation": 59.453155,
+        "course": 329.414062,
+        "speed": 1.840000,
+        "time": 1536905092.995486,
+        "cumulatedDistance": 2797.575849,
+        "coordinate": [12.446866, 41.883892, 59.453155]
+      }, {
+        "elevation": 59.538302,
+        "course": 346.992188,
+        "speed": 1.530000,
+        "time": 1536905094.995454,
+        "cumulatedDistance": 2801.147188,
+        "coordinate": [12.446853, 41.883923, 59.538302]
+      }, {
+        "elevation": 59.634577,
+        "course": 330.468750,
+        "speed": 0.750000,
+        "time": 1536905099.995373,
+        "cumulatedDistance": 2808.776620,
+        "coordinate": [12.446856, 41.883991, 59.634577]
+      }, {
+        "elevation": 59.754280,
+        "course": 351.914062,
+        "speed": 1.470000,
+        "time": 1536905102.995324,
+        "cumulatedDistance": 2813.601146,
+        "coordinate": [12.446861, 41.884035, 59.754280]
+      }, {
+        "elevation": 59.804575,
+        "course": 14.062500,
+        "speed": 2.220000,
+        "time": 1536905109.995210,
+        "cumulatedDistance": 2828.076052,
+        "coordinate": [12.446890, 41.884163, 59.804575]
+      }, {
+        "elevation": 60.025988,
+        "course": 345.234375,
+        "speed": 1.990000,
+        "time": 1536905112.995161,
+        "cumulatedDistance": 2834.467066,
+        "coordinate": [12.446903, 41.884220, 60.025988]
+      }, {
+        "elevation": 59.410101,
+        "course": 345.585938,
+        "speed": 2.820000,
+        "time": 1536905114.995128,
+        "cumulatedDistance": 2838.777280,
+        "coordinate": [12.446892, 41.884258, 59.410101]
+      }, {
+        "elevation": 59.959032,
+        "course": 336.796875,
+        "speed": 1.910000,
+        "time": 1536905116.995096,
+        "cumulatedDistance": 2842.876846,
+        "coordinate": [12.446873, 41.884292, 59.959032]
+      }, {
+        "elevation": 59.816058,
+        "course": 353.671875,
+        "speed": 1.720000,
+        "time": 1536905119.995047,
+        "cumulatedDistance": 2847.358805,
+        "coordinate": [12.446866, 41.884332, 59.816058]
+      }, {
+        "elevation": 60.186790,
+        "course": 333.632812,
+        "speed": 2.100000,
+        "time": 1536905124.994967,
+        "cumulatedDistance": 2855.836364,
+        "coordinate": [12.446860, 41.884408, 60.186790]
+      }, {
+        "elevation": 60.580489,
+        "course": 311.484375,
+        "speed": 1.820000,
+        "time": 1536905127.994915,
+        "cumulatedDistance": 2860.796090,
+        "coordinate": [12.446837, 41.884450, 60.580489]
+      }, {
+        "elevation": 60.519473,
+        "course": 352.968750,
+        "speed": 1.640000,
+        "time": 1536905129.994884,
+        "cumulatedDistance": 2863.832467,
+        "coordinate": [12.446850, 41.884475, 60.519473]
+      }, {
+        "elevation": 62.106724,
+        "course": 12.656250,
+        "speed": 1.620000,
+        "time": 1536905143.994655,
+        "cumulatedDistance": 2891.164507,
+        "coordinate": [12.446919, 41.884716, 62.106724]
+      }, {
+        "elevation": 62.068806,
+        "course": 357.539062,
+        "speed": 1.290000,
+        "time": 1536905146.994607,
+        "cumulatedDistance": 2896.839920,
+        "coordinate": [12.446944, 41.884764, 62.068806]
+      }, {
+        "elevation": 62.829324,
+        "course": 31.640625,
+        "speed": 1.530000,
+        "time": 1536905149.994558,
+        "cumulatedDistance": 2903.178639,
+        "coordinate": [12.446983, 41.884813, 62.829324]
+      }, {
+        "elevation": 63.358551,
+        "course": 47.812500,
+        "speed": 1.480000,
+        "time": 1536905158.994411,
+        "cumulatedDistance": 2920.001623,
+        "coordinate": [12.447130, 41.884916, 63.358551]
+      }, {
+        "elevation": 64.171329,
+        "course": 61.171875,
+        "speed": 0.660000,
+        "time": 1536905164.994314,
+        "cumulatedDistance": 2930.134266,
+        "coordinate": [12.447235, 41.884964, 64.171329]
+      }, {
+        "elevation": 64.302222,
+        "course": 83.671875,
+        "speed": 1.070000,
+        "time": 1536905167.994264,
+        "cumulatedDistance": 2933.696178,
+        "coordinate": [12.447278, 41.884966, 64.302222]
+      }, {
+        "elevation": 64.711091,
+        "course": 69.960938,
+        "speed": 1.710000,
+        "time": 1536905170.994215,
+        "cumulatedDistance": 2939.714809,
+        "coordinate": [12.447345, 41.884986, 64.711091]
+      }, {
+        "elevation": 65.131146,
+        "course": 94.921875,
+        "speed": 1.900000,
+        "time": 1536905175.994135,
+        "cumulatedDistance": 2951.079039,
+        "coordinate": [12.447479, 41.885006, 65.131146]
+      }, {
+        "elevation": 65.344582,
+        "course": 74.179688,
+        "speed": 1.130000,
+        "time": 1536905179.994068,
+        "cumulatedDistance": 2957.918482,
+        "coordinate": [12.447561, 41.885007, 65.344582]
+      }, {
+        "elevation": 65.650583,
+        "course": 76.289062,
+        "speed": 1.860000,
+        "time": 1536905183.994003,
+        "cumulatedDistance": 2965.671931,
+        "coordinate": [12.447648, 41.885033, 65.650583]
+      }, {
+        "elevation": 65.712909,
+        "course": 91.406250,
+        "speed": 1.770000,
+        "time": 1536905185.993971,
+        "cumulatedDistance": 2969.852333,
+        "coordinate": [12.447697, 41.885025, 65.712909]
+      }, {
+        "elevation": 66.014772,
+        "course": 107.578125,
+        "speed": 1.530000,
+        "time": 1536905187.993938,
+        "cumulatedDistance": 2974.400845,
+        "coordinate": [12.447742, 41.885002, 66.014772]
+      }, {
+        "elevation": 65.982073,
+        "course": 127.968750,
+        "speed": 1.550000,
+        "time": 1536905190.993890,
+        "cumulatedDistance": 2981.040856,
+        "coordinate": [12.447796, 41.884958, 65.982073]
+      }, {
+        "elevation": 66.149749,
+        "course": 200.390625,
+        "speed": 0.920000,
+        "time": 1536905193.993841,
+        "cumulatedDistance": 2984.884650,
+        "coordinate": [12.447812, 41.884925, 66.149749]
+      }, {
+        "elevation": 66.168370,
+        "course": 170.156250,
+        "speed": 1.920000,
+        "time": 1536905194.993824,
+        "cumulatedDistance": 2986.828952,
+        "coordinate": [12.447821, 41.884909, 66.168370]
+      }, {
+        "elevation": 66.242692,
+        "course": 124.804688,
+        "speed": 1.590000,
+        "time": 1536905196.993792,
+        "cumulatedDistance": 2991.002268,
+        "coordinate": [12.447860, 41.884885, 66.242692]
+      }, {
+        "elevation": 67.156478,
+        "course": 84.375000,
+        "speed": 1.820000,
+        "time": 1536905207.993613,
+        "cumulatedDistance": 3013.821496,
+        "coordinate": [12.448102, 41.884787, 67.156478]
+      }, {
+        "elevation": 67.326766,
+        "course": 101.953125,
+        "speed": 1.670000,
+        "time": 1536905210.993563,
+        "cumulatedDistance": 3019.078412,
+        "coordinate": [12.448164, 41.884777, 67.326766]
+      }, {
+        "elevation": 67.721227,
+        "course": 87.187500,
+        "speed": 0.830000,
+        "time": 1536905212.993531,
+        "cumulatedDistance": 3020.945080,
+        "coordinate": [12.448184, 41.884769, 67.721227]
+      }, {
+        "elevation": 67.746806,
+        "course": 108.281250,
+        "speed": 1.520000,
+        "time": 1536905214.993498,
+        "cumulatedDistance": 3023.933344,
+        "coordinate": [12.448215, 41.884756, 67.746806]
+      }, {
+        "elevation": 68.206806,
+        "course": 107.929688,
+        "speed": 2.660000,
+        "time": 1536905228.998008,
+        "cumulatedDistance": 3049.911979,
+        "coordinate": [12.448478, 41.884629, 68.206806]
+      }, {
+        "elevation": 68.017732,
+        "course": 100.195312,
+        "speed": 1.940000,
+        "time": 1536905231.998365,
+        "cumulatedDistance": 3056.274572,
+        "coordinate": [12.448550, 41.884610, 68.017732]
+      }, {
+        "elevation": 67.910312,
+        "course": 72.421875,
+        "speed": 1.360000,
+        "time": 1536905234.998668,
+        "cumulatedDistance": 3060.593929,
+        "coordinate": [12.448602, 41.884615, 67.910312]
+      }, {
+        "elevation": 68.131931,
+        "course": 116.367188,
+        "speed": 1.580000,
+        "time": 1536905236.998842,
+        "cumulatedDistance": 3063.924952,
+        "coordinate": [12.448642, 41.884611, 68.131931]
+      }, {
+        "elevation": 68.152413,
+        "course": 89.296875,
+        "speed": 1.580000,
+        "time": 1536905238.998969,
+        "cumulatedDistance": 3067.145239,
+        "coordinate": [12.448680, 41.884605, 68.152413]
+      }, {
+        "elevation": 68.261378,
+        "course": 64.687500,
+        "speed": 1.880000,
+        "time": 1536905240.999073,
+        "cumulatedDistance": 3071.314386,
+        "coordinate": [12.448726, 41.884620, 68.261378]
+      }, {
+        "elevation": 68.624325,
+        "course": 86.835938,
+        "speed": 1.600000,
+        "time": 1536905243.999200,
+        "cumulatedDistance": 3076.093229,
+        "coordinate": [12.448783, 41.884628, 68.624325]
+      }, {
+        "elevation": 69.693268,
+        "course": 70.312500,
+        "speed": 1.820000,
+        "time": 1536905255.999446,
+        "cumulatedDistance": 3094.777310,
+        "coordinate": [12.448996, 41.884573, 69.693268]
+      }, {
+        "elevation": 70.179400,
+        "course": 53.085938,
+        "speed": 1.510000,
+        "time": 1536905259.999467,
+        "cumulatedDistance": 3100.049184,
+        "coordinate": [12.449056, 41.884589, 70.179400]
+      }, {
+        "elevation": 70.203166,
+        "course": 34.101562,
+        "speed": 1.460000,
+        "time": 1536905264.999467,
+        "cumulatedDistance": 3105.849033,
+        "coordinate": [12.449109, 41.884623, 70.203166]
+      }, {
+        "elevation": 70.090233,
+        "course": 26.015625,
+        "speed": 0.820000,
+        "time": 1536905265.999463,
+        "cumulatedDistance": 3106.561947,
+        "coordinate": [12.449112, 41.884629, 70.090233]
+      }, {
+        "elevation": 70.110528,
+        "course": 47.812500,
+        "speed": 1.550000,
+        "time": 1536905266.999460,
+        "cumulatedDistance": 3107.704567,
+        "coordinate": [12.449123, 41.884635, 70.110528]
+      }, {
+        "elevation": 69.425874,
+        "course": 98.437500,
+        "speed": 0.160000,
+        "time": 1536905269.999444,
+        "cumulatedDistance": 3107.872291,
+        "coordinate": [12.449123, 41.884634, 69.425874]
+      }, {
+        "elevation": 69.425874,
+        "course": 98.437500,
+        "speed": 0.160000,
+        "time": 1536905269.999444,
+        "cumulatedDistance": 3107.872291,
+        "coordinate": [12.449123, 41.884634, 69.425874]
+      }, {
+        "elevation": 69.301673,
+        "course": 283.007812,
+        "speed": 1.220000,
+        "time": 1536905270.999437,
+        "cumulatedDistance": 3108.705549,
+        "coordinate": [12.449113, 41.884632, 69.301673]
+      }, {
+        "elevation": 69.313775,
+        "course": 335.742188,
+        "speed": 1.860000,
+        "time": 1536905271.999429,
+        "cumulatedDistance": 3109.980285,
+        "coordinate": [12.449104, 41.884641, 69.313775]
+      }, {
+        "elevation": 68.749492,
+        "course": 59.414062,
+        "speed": 1.230000,
+        "time": 1536905274.999404,
+        "cumulatedDistance": 3114.319739,
+        "coordinate": [12.449145, 41.884665, 68.749492]
+      }, {
+        "elevation": 68.162264,
+        "course": 64.687500,
+        "speed": 1.860000,
+        "time": 1536905281.999332,
+        "cumulatedDistance": 3129.715296,
+        "coordinate": [12.449326, 41.884695, 68.162264]
+      }, {
+        "elevation": 66.131261,
+        "course": 74.179688,
+        "speed": 1.690000,
+        "time": 1536905318.998797,
+        "cumulatedDistance": 3201.934741,
+        "coordinate": [12.450160, 41.884881, 66.131261]
+      }, {
+        "elevation": 66.171725,
+        "course": 56.250000,
+        "speed": 1.440000,
+        "time": 1536905325.998685,
+        "cumulatedDistance": 3214.089194,
+        "coordinate": [12.450304, 41.884898, 66.171725]
+      }, {
+        "elevation": 65.942927,
+        "course": 71.718750,
+        "speed": 1.010000,
+        "time": 1536905328.998637,
+        "cumulatedDistance": 3217.702107,
+        "coordinate": [12.450334, 41.884922, 65.942927]
+      }, {
+        "elevation": 65.829349,
+        "course": 87.890625,
+        "speed": 1.640000,
+        "time": 1536905330.998605,
+        "cumulatedDistance": 3221.053141,
+        "coordinate": [12.450374, 41.884917, 65.829349]
+      }, {
+        "elevation": 66.015938,
+        "course": 343.125000,
+        "speed": 1.740000,
+        "time": 1536905334.998541,
+        "cumulatedDistance": 3225.103720,
+        "coordinate": [12.450377, 41.884953, 66.015938]
+      }, {
+        "elevation": 66.206842,
+        "course": 2.460938,
+        "speed": 1.900000,
+        "time": 1536905337.998492,
+        "cumulatedDistance": 3230.007776,
+        "coordinate": [12.450370, 41.884997, 66.206842]
+      }, {
+        "elevation": 66.447973,
+        "course": 337.851562,
+        "speed": 1.680000,
+        "time": 1536905343.998395,
+        "cumulatedDistance": 3239.654998,
+        "coordinate": [12.450397, 41.885082, 66.447973]
+      }, {
+        "elevation": 66.502921,
+        "course": 5.976562,
+        "speed": 1.830000,
+        "time": 1536905345.998364,
+        "cumulatedDistance": 3242.913928,
+        "coordinate": [12.450394, 41.885111, 66.502921]
+      }, {
+        "elevation": 67.811111,
+        "course": 29.179688,
+        "speed": 1.500000,
+        "time": 1536905363.998072,
+        "cumulatedDistance": 3270.909294,
+        "coordinate": [12.450410, 41.885363, 67.811111]
+      }, {
+        "elevation": 68.142886,
+        "course": 359.648438,
+        "speed": 1.770000,
+        "time": 1536905367.998008,
+        "cumulatedDistance": 3275.517920,
+        "coordinate": [12.450419, 41.885404, 68.142886]
+      }, {
+        "elevation": 68.423920,
+        "course": 343.125000,
+        "speed": 1.760000,
+        "time": 1536905372.997927,
+        "cumulatedDistance": 3285.061744,
+        "coordinate": [12.450411, 41.885489, 68.423920]
+      }, {
+        "elevation": 68.459825,
+        "course": 359.296875,
+        "speed": 1.630000,
+        "time": 1536905376.997863,
+        "cumulatedDistance": 3291.946809,
+        "coordinate": [12.450395, 41.885550, 68.459825]
+      }, {
+        "elevation": 68.669203,
+        "course": 24.257812,
+        "speed": 1.790000,
+        "time": 1536905378.997830,
+        "cumulatedDistance": 3295.916130,
+        "coordinate": [12.450413, 41.885583, 68.669203]
+      }, {
+        "elevation": 68.976197,
+        "course": 52.031250,
+        "speed": 1.610000,
+        "time": 1536905388.997668,
+        "cumulatedDistance": 3316.738688,
+        "coordinate": [12.450576, 41.885726, 68.976197]
+      }, {
+        "elevation": 69.144680,
+        "course": 32.695312,
+        "speed": 1.860000,
+        "time": 1536905390.997636,
+        "cumulatedDistance": 3320.408010,
+        "coordinate": [12.450608, 41.885748, 69.144680]
+      }, {
+        "elevation": 68.839585,
+        "course": 46.406250,
+        "speed": 2.780000,
+        "time": 1536905406.997376,
+        "cumulatedDistance": 3347.905946,
+        "coordinate": [12.450827, 41.885934, 68.839585]
+      }, {
+        "elevation": 68.944754,
+        "course": 46.406250,
+        "speed": 2.160000,
+        "time": 1536905410.997312,
+        "cumulatedDistance": 3357.783261,
+        "coordinate": [12.450929, 41.885981, 68.944754]
+      }, {
+        "elevation": 68.948137,
+        "course": 31.289062,
+        "speed": 1.430000,
+        "time": 1536905412.997279,
+        "cumulatedDistance": 3360.514684,
+        "coordinate": [12.450947, 41.886001, 68.948137]
+      }, {
+        "elevation": 68.923138,
+        "course": 15.117188,
+        "speed": 1.650000,
+        "time": 1536905417.997198,
+        "cumulatedDistance": 3366.946609,
+        "coordinate": [12.450958, 41.886058, 68.923138]
+      }, {
+        "elevation": 68.887722,
+        "course": 358.945312,
+        "speed": 1.780000,
+        "time": 1536905431.996971,
+        "cumulatedDistance": 3390.738452,
+        "coordinate": [12.450996, 41.886271, 68.887722]
+      }, {
+        "elevation": 69.077457,
+        "course": 20.742188,
+        "speed": 2.030000,
+        "time": 1536905436.996891,
+        "cumulatedDistance": 3401.044381,
+        "coordinate": [12.451020, 41.886362, 69.077457]
+      }, {
+        "elevation": 68.864845,
+        "course": 4.921875,
+        "speed": 1.640000,
+        "time": 1536905442.996794,
+        "cumulatedDistance": 3411.431297,
+        "coordinate": [12.451080, 41.886444, 68.864845]
+      }, {
+        "elevation": 68.805683,
+        "course": 24.257812,
+        "speed": 1.910000,
+        "time": 1536905452.996631,
+        "cumulatedDistance": 3427.674555,
+        "coordinate": [12.451111, 41.886588, 68.805683]
+      }, {
+        "elevation": 68.848221,
+        "course": 9.140625,
+        "speed": 1.710000,
+        "time": 1536905457.996549,
+        "cumulatedDistance": 3436.376092,
+        "coordinate": [12.451163, 41.886656, 68.848221]
+      }, {
+        "elevation": 68.948734,
+        "course": 27.070312,
+        "speed": 2.100000,
+        "time": 1536905476.996242,
+        "cumulatedDistance": 3472.583939,
+        "coordinate": [12.451337, 41.886955, 68.948734]
+      }, {
+        "elevation": 68.819445,
+        "course": 9.492188,
+        "speed": 1.870000,
+        "time": 1536905481.996161,
+        "cumulatedDistance": 3481.391766,
+        "coordinate": [12.451386, 41.887025, 68.819445]
+      }, {
+        "elevation": 68.939578,
+        "course": 26.718750,
+        "speed": 1.850000,
+        "time": 1536905498.995884,
+        "cumulatedDistance": 3512.008574,
+        "coordinate": [12.451497, 41.887288, 68.939578]
+      }, {
+        "elevation": 68.795496,
+        "course": 27.773438,
+        "speed": 1.190000,
+        "time": 1536905502.995821,
+        "cumulatedDistance": 3517.779457,
+        "coordinate": [12.451547, 41.887324, 68.795496]
+      }, {
+        "elevation": 68.933925,
+        "course": 3.515625,
+        "speed": 1.680000,
+        "time": 1536905505.995772,
+        "cumulatedDistance": 3522.652447,
+        "coordinate": [12.451583, 41.887359, 68.933925]
+      }, {
+        "elevation": 68.807823,
+        "course": 30.937500,
+        "speed": 1.560000,
+        "time": 1536905512.995658,
+        "cumulatedDistance": 3535.546750,
+        "coordinate": [12.451639, 41.887467, 68.807823]
+      }, {
+        "elevation": 68.791445,
+        "course": 10.195312,
+        "speed": 1.610000,
+        "time": 1536905517.995577,
+        "cumulatedDistance": 3543.878210,
+        "coordinate": [12.451686, 41.887534, 68.791445]
+      }, {
+        "elevation": 68.983840,
+        "course": 30.937500,
+        "speed": 1.920000,
+        "time": 1536905522.995497,
+        "cumulatedDistance": 3552.556507,
+        "coordinate": [12.451741, 41.887600, 68.983840]
+      }, {
+        "elevation": 68.945272,
+        "course": 13.710938,
+        "speed": 1.930000,
+        "time": 1536905527.995416,
+        "cumulatedDistance": 3560.993733,
+        "coordinate": [12.451780, 41.887670, 68.945272]
+      }, {
+        "elevation": 69.065453,
+        "course": 358.242188,
+        "speed": 1.820000,
+        "time": 1536905530.995367,
+        "cumulatedDistance": 3565.881916,
+        "coordinate": [12.451775, 41.887714, 69.065453]
+      }, {
+        "elevation": 69.219864,
+        "course": 16.523438,
+        "speed": 1.240000,
+        "time": 1536905537.995254,
+        "cumulatedDistance": 3577.949276,
+        "coordinate": [12.451770, 41.887822, 69.219864]
+      }, {
+        "elevation": 69.234520,
+        "course": 357.539062,
+        "speed": 1.790000,
+        "time": 1536905540.995204,
+        "cumulatedDistance": 3582.514292,
+        "coordinate": [12.451783, 41.887862, 69.234520]
+      }, {
+        "elevation": 69.023813,
+        "course": 17.929688,
+        "speed": 1.590000,
+        "time": 1536905543.995156,
+        "cumulatedDistance": 3587.776887,
+        "coordinate": [12.451774, 41.887909, 69.023813]
+      }, {
+        "elevation": 69.043052,
+        "course": 357.187500,
+        "speed": 1.750000,
+        "time": 1536905545.995124,
+        "cumulatedDistance": 3591.201824,
+        "coordinate": [12.451777, 41.887940, 69.043052]
+      }, {
+        "elevation": 69.217439,
+        "course": 16.171875,
+        "speed": 1.900000,
+        "time": 1536905553.994994,
+        "cumulatedDistance": 3606.947438,
+        "coordinate": [12.451823, 41.888078, 69.217439]
+      }, {
+        "elevation": 69.135017,
+        "course": 33.046875,
+        "speed": 2.090000,
+        "time": 1536905564.994817,
+        "cumulatedDistance": 3628.469437,
+        "coordinate": [12.451915, 41.888259, 69.135017]
+      }, {
+        "elevation": 69.659984,
+        "course": 13.710938,
+        "speed": 2.030000,
+        "time": 1536905567.994768,
+        "cumulatedDistance": 3632.724943,
+        "coordinate": [12.451935, 41.888294, 69.659984]
+      }, {
+        "elevation": 69.518893,
+        "course": 357.539062,
+        "speed": 2.260000,
+        "time": 1536905571.994828,
+        "cumulatedDistance": 3640.359122,
+        "coordinate": [12.451945, 41.888362, 69.518893]
+      }, {
+        "elevation": 69.703948,
+        "course": 13.007812,
+        "speed": 1.550000,
+        "time": 1536905577.994604,
+        "cumulatedDistance": 3651.513597,
+        "coordinate": [12.451961, 41.888462, 69.703948]
+      }, {
+        "elevation": 69.764494,
+        "course": 30.234375,
+        "speed": 1.550000,
+        "time": 1536905579.994573,
+        "cumulatedDistance": 3655.169466,
+        "coordinate": [12.451989, 41.888488, 69.764494]
+      }, {
+        "elevation": 69.962123,
+        "course": 38.671875,
+        "speed": 2.260000,
+        "time": 1536905580.994557,
+        "cumulatedDistance": 3657.775860,
+        "coordinate": [12.452011, 41.888505, 69.962123]
+      }, {
+        "elevation": 70.086108,
+        "course": 23.203125,
+        "speed": 1.940000,
+        "time": 1536905583.994508,
+        "cumulatedDistance": 3665.534184,
+        "coordinate": [12.452066, 41.888561, 70.086108]
+      }, {
+        "elevation": 70.134223,
+        "course": 39.375000,
+        "speed": 2.110000,
+        "time": 1536905590.994394,
+        "cumulatedDistance": 3680.677592,
+        "coordinate": [12.452188, 41.888663, 70.134223]
+      }, {
+        "elevation": 70.246422,
+        "course": 57.656250,
+        "speed": 1.920000,
+        "time": 1536905594.994330,
+        "cumulatedDistance": 3689.121161,
+        "coordinate": [12.452277, 41.888699, 70.246422]
+      }, {
+        "elevation": 69.947612,
+        "course": 41.484375,
+        "speed": 1.630000,
+        "time": 1536905598.994266,
+        "cumulatedDistance": 3696.675563,
+        "coordinate": [12.452360, 41.888726, 69.947612]
+      }, {
+        "elevation": 70.047431,
+        "course": 65.742188,
+        "speed": 1.320000,
+        "time": 1536905604.994168,
+        "cumulatedDistance": 3705.071796,
+        "coordinate": [12.452434, 41.888778, 70.047431]
+      }, {
+        "elevation": 69.281721,
+        "course": 60.117188,
+        "speed": 2.050000,
+        "time": 1536905615.993989,
+        "cumulatedDistance": 3724.173960,
+        "coordinate": [12.452643, 41.888850, 69.281721]
+      }, {
+        "elevation": 68.970667,
+        "course": 79.101562,
+        "speed": 1.750000,
+        "time": 1536905623.993860,
+        "cumulatedDistance": 3740.967668,
+        "coordinate": [12.452834, 41.888900, 68.970667]
+      }, {
+        "elevation": 68.677896,
+        "course": 101.601562,
+        "speed": 1.750000,
+        "time": 1536905628.993779,
+        "cumulatedDistance": 3749.820552,
+        "coordinate": [12.452936, 41.888876, 68.677896]
+      }, {
+        "elevation": 68.923123,
+        "course": 83.320312,
+        "speed": 1.680000,
+        "time": 1536905636.993649,
+        "cumulatedDistance": 3764.313841,
+        "coordinate": [12.453107, 41.888848, 68.923123]
+      }, {
+        "elevation": 69.430290,
+        "course": 100.195312,
+        "speed": 1.590000,
+        "time": 1536905649.993438,
+        "cumulatedDistance": 3788.029135,
+        "coordinate": [12.453392, 41.888840, 69.430290]
+      }, {
+        "elevation": 70.646843,
+        "course": 115.312500,
+        "speed": 1.690000,
+        "time": 1536905668.999018,
+        "cumulatedDistance": 3822.111969,
+        "coordinate": [12.453775, 41.888729, 70.646843]
+      }, {
+        "elevation": 72.344489,
+        "course": 135.000000,
+        "speed": 1.520000,
+        "time": 1536905685.999588,
+        "cumulatedDistance": 3851.401792,
+        "coordinate": [12.454067, 41.888581, 72.344489]
+      }, {
+        "elevation": 72.821083,
+        "course": 119.882812,
+        "speed": 1.860000,
+        "time": 1536905692.999630,
+        "cumulatedDistance": 3864.648728,
+        "coordinate": [12.454167, 41.888488, 72.821083]
+      }, {
+        "elevation": 73.260648,
+        "course": 137.109375,
+        "speed": 1.530000,
+        "time": 1536905697.999624,
+        "cumulatedDistance": 3873.163431,
+        "coordinate": [12.454253, 41.888446, 73.260648]
+      }, {
+        "elevation": 73.587984,
+        "course": 112.851562,
+        "speed": 2.440000,
+        "time": 1536905700.999609,
+        "cumulatedDistance": 3877.317501,
+        "coordinate": [12.454291, 41.888422, 73.587984]
+      }, {
+        "elevation": 73.942400,
+        "course": 136.054688,
+        "speed": 1.970000,
+        "time": 1536905703.999590,
+        "cumulatedDistance": 3883.900181,
+        "coordinate": [12.454354, 41.888386, 73.942400]
+      }, {
+        "elevation": 74.188349,
+        "course": 158.203125,
+        "speed": 1.850000,
+        "time": 1536905705.999573,
+        "cumulatedDistance": 3887.930193,
+        "coordinate": [12.454364, 41.888350, 74.188349]
+      }, {
+        "elevation": 74.602579,
+        "course": 174.023438,
+        "speed": 1.390000,
+        "time": 1536905708.999546,
+        "cumulatedDistance": 3893.421162,
+        "coordinate": [12.454355, 41.888301, 74.602579]
+      }, {
+        "elevation": 75.001353,
+        "course": 197.578125,
+        "speed": 1.670000,
+        "time": 1536905715.999467,
+        "cumulatedDistance": 3905.612059,
+        "coordinate": [12.454330, 41.888193, 75.001353]
+      }, {
+        "elevation": 76.263017,
+        "course": 176.835938,
+        "speed": 2.020000,
+        "time": 1536905731.999249,
+        "cumulatedDistance": 3936.047257,
+        "coordinate": [12.454228, 41.887930, 76.263017]
+      }, {
+        "elevation": 76.190282,
+        "course": 196.523438,
+        "speed": 1.610000,
+        "time": 1536905734.999205,
+        "cumulatedDistance": 3941.299575,
+        "coordinate": [12.454223, 41.887883, 76.190282]
+      }, {
+        "elevation": 77.423894,
+        "course": 171.562500,
+        "speed": 1.570000,
+        "time": 1536905744.999052,
+        "cumulatedDistance": 3955.475214,
+        "coordinate": [12.454187, 41.887758, 77.423894]
+      }, {
+        "elevation": 77.959944,
+        "course": 156.445312,
+        "speed": 1.920000,
+        "time": 1536905755.998879,
+        "cumulatedDistance": 3972.416504,
+        "coordinate": [12.454234, 41.887610, 77.959944]
+      }, {
+        "elevation": 78.227020,
+        "course": 176.835938,
+        "speed": 1.340000,
+        "time": 1536905760.998800,
+        "cumulatedDistance": 3980.994887,
+        "coordinate": [12.454256, 41.887534, 78.227020]
+      }, {
+        "elevation": 78.347251,
+        "course": 157.851562,
+        "speed": 1.500000,
+        "time": 1536905762.998768,
+        "cumulatedDistance": 3985.135841,
+        "coordinate": [12.454272, 41.887499, 78.347251]
+      }, {
+        "elevation": 78.951722,
+        "course": 145.898438,
+        "speed": 2.220000,
+        "time": 1536905766.998705,
+        "cumulatedDistance": 3994.657438,
+        "coordinate": [12.454337, 41.887428, 78.951722]
+      }, {
+        "elevation": 78.959665,
+        "course": 164.531250,
+        "speed": 2.220000,
+        "time": 1536905768.998673,
+        "cumulatedDistance": 4000.119952,
+        "coordinate": [12.454348, 41.887380, 78.959665]
+      }, {
+        "elevation": 79.148839,
+        "course": 139.570312,
+        "speed": 2.050000,
+        "time": 1536905770.998641,
+        "cumulatedDistance": 4004.396849,
+        "coordinate": [12.454359, 41.887342, 79.148839]
+      }, {
+        "elevation": 79.565400,
+        "course": 140.273438,
+        "speed": 1.290000,
+        "time": 1536905784.998416,
+        "cumulatedDistance": 4024.863514,
+        "coordinate": [12.454450, 41.887171, 79.565400]
+      }, {
+        "elevation": 79.636450,
+        "course": 114.257812,
+        "speed": 1.760000,
+        "time": 1536905788.998352,
+        "cumulatedDistance": 4031.407559,
+        "coordinate": [12.454512, 41.887134, 79.636450]
+      }, {
+        "elevation": 79.970651,
+        "course": 96.328125,
+        "speed": 1.780000,
+        "time": 1536905801.998143,
+        "cumulatedDistance": 4053.299228,
+        "coordinate": [12.454762, 41.887071, 79.970651]
+      }, {
+        "elevation": 79.899618,
+        "course": 75.937500,
+        "speed": 1.590000,
+        "time": 1536905809.998014,
+        "cumulatedDistance": 4066.003287,
+        "coordinate": [12.454915, 41.887059, 79.899618]
+      }, {
+        "elevation": 79.829826,
+        "course": 84.023438,
+        "speed": 2.200000,
+        "time": 1536905811.997982,
+        "cumulatedDistance": 4069.823577,
+        "coordinate": [12.454960, 41.887061, 79.829826]
+      }, {
+        "elevation": 80.254403,
+        "course": 102.656250,
+        "speed": 1.380000,
+        "time": 1536905815.997918,
+        "cumulatedDistance": 4076.983995,
+        "coordinate": [12.455046, 41.887055, 80.254403]
+      }, {
+        "elevation": 80.713363,
+        "course": 98.437500,
+        "speed": 1.990000,
+        "time": 1536905819.997854,
+        "cumulatedDistance": 4083.306082,
+        "coordinate": [12.455119, 41.887038, 80.713363]
+      }, {
+        "elevation": 81.096238,
+        "course": 108.632812,
+        "speed": 1.370000,
+        "time": 1536905824.997773,
+        "cumulatedDistance": 4091.739861,
+        "coordinate": [12.455221, 41.887036, 81.096238]
+      }, {
+        "elevation": 81.909065,
+        "course": 81.562500,
+        "speed": 1.400000,
+        "time": 1536905829.997693,
+        "cumulatedDistance": 4098.229852,
+        "coordinate": [12.455296, 41.887021, 81.909065]
+      }, {
+        "elevation": 82.725447,
+        "course": 66.445312,
+        "speed": 1.740000,
+        "time": 1536905833.997628,
+        "cumulatedDistance": 4105.326474,
+        "coordinate": [12.455373, 41.887049, 82.725447]
+      }, {
+        "elevation": 82.957791,
+        "course": 87.539062,
+        "speed": 1.370000,
+        "time": 1536905835.997596,
+        "cumulatedDistance": 4108.617600,
+        "coordinate": [12.455412, 41.887054, 82.957791]
+      }, {
+        "elevation": 85.057575,
+        "course": 86.132812,
+        "speed": 1.480000,
+        "time": 1536905852.997321,
+        "cumulatedDistance": 4132.164243,
+        "coordinate": [12.455695, 41.887058, 85.057575]
+      }, {
+        "elevation": 85.405241,
+        "course": 63.281250,
+        "speed": 0.940000,
+        "time": 1536905855.997273,
+        "cumulatedDistance": 4136.546901,
+        "coordinate": [12.455742, 41.887077, 85.405241]
+      }, {
+        "elevation": 85.798812,
+        "course": 49.921875,
+        "speed": 1.710000,
+        "time": 1536905858.997225,
+        "cumulatedDistance": 4141.987401,
+        "coordinate": [12.455790, 41.887111, 85.798812]
+      }, {
+        "elevation": 85.889292,
+        "course": 68.906250,
+        "speed": 1.730000,
+        "time": 1536905862.997161,
+        "cumulatedDistance": 4148.805780,
+        "coordinate": [12.455861, 41.887142, 85.889292]
+      }, {
+        "elevation": 86.164720,
+        "course": 82.968750,
+        "speed": 0.950000,
+        "time": 1536905865.997113,
+        "cumulatedDistance": 4153.223891,
+        "coordinate": [12.455914, 41.887142, 86.164720]
+      }, {
+        "elevation": 86.200564,
+        "course": 66.796875,
+        "speed": 0.980000,
+        "time": 1536905868.997065,
+        "cumulatedDistance": 4156.689884,
+        "coordinate": [12.455956, 41.887143, 86.200564]
+      }, {
+        "elevation": 86.184909,
+        "course": 92.460938,
+        "speed": 1.690000,
+        "time": 1536905870.997032,
+        "cumulatedDistance": 4161.152523,
+        "coordinate": [12.456008, 41.887132, 86.184909]
+      }, {
+        "elevation": 86.507863,
+        "course": 94.921875,
+        "speed": 0.520000,
+        "time": 1536905875.996951,
+        "cumulatedDistance": 4172.297497,
+        "coordinate": [12.456104, 41.887062, 86.507863]
+      }, {
+        "elevation": 86.427654,
+        "course": 126.562500,
+        "speed": 0.710000,
+        "time": 1536905876.996935,
+        "cumulatedDistance": 4174.127448,
+        "coordinate": [12.456112, 41.887047, 86.427654]
+      }, {
+        "elevation": 86.428592,
+        "course": 147.656250,
+        "speed": 0.590000,
+        "time": 1536905877.996919,
+        "cumulatedDistance": 4175.980079,
+        "coordinate": [12.456122, 41.887032, 86.428592]
+      }, {
+        "elevation": 86.363664,
+        "course": 142.031250,
+        "speed": 0.710000,
+        "time": 1536905878.996902,
+        "cumulatedDistance": 4177.878637,
+        "coordinate": [12.456133, 41.887017, 86.363664]
+      }, {
+        "elevation": 86.581417,
+        "course": 94.218750,
+        "speed": 1.930000,
+        "time": 1536905880.996871,
+        "cumulatedDistance": 4182.549943,
+        "coordinate": [12.456186, 41.887003, 86.581417]
+      }, {
+        "elevation": 86.429868,
+        "course": 116.367188,
+        "speed": 2.240000,
+        "time": 1536905884.996806,
+        "cumulatedDistance": 4195.552610,
+        "coordinate": [12.456338, 41.886975, 86.429868]
+      }, {
+        "elevation": 86.121005,
+        "course": 110.039062,
+        "speed": 1.480000,
+        "time": 1536905888.996743,
+        "cumulatedDistance": 4202.232857,
+        "coordinate": [12.456418, 41.886967, 86.121005]
+      }, {
+        "elevation": 85.763275,
+        "course": 63.632812,
+        "speed": 1.270000,
+        "time": 1536905890.996710,
+        "cumulatedDistance": 4205.689013,
+        "coordinate": [12.456445, 41.886990, 85.763275]
+      }, {
+        "elevation": 85.723710,
+        "course": 46.054688,
+        "speed": 1.300000,
+        "time": 1536905892.996677,
+        "cumulatedDistance": 4210.539249,
+        "coordinate": [12.456475, 41.887028, 85.723710]
+      }, {
+        "elevation": 85.097117,
+        "course": 84.375000,
+        "speed": 1.660000,
+        "time": 1536905896.996613,
+        "cumulatedDistance": 4218.216902,
+        "coordinate": [12.456543, 41.887075, 85.097117]
+      }, {
+        "elevation": 84.303741,
+        "course": 69.257812,
+        "speed": 1.600000,
+        "time": 1536905903.996501,
+        "cumulatedDistance": 4231.506952,
+        "coordinate": [12.456691, 41.887121, 84.303741]
+      }, {
+        "elevation": 84.192844,
+        "course": 88.242188,
+        "speed": 1.840000,
+        "time": 1536905905.996468,
+        "cumulatedDistance": 4234.946712,
+        "coordinate": [12.456731, 41.887129, 84.192844]
+      }, {
+        "elevation": 82.992683,
+        "course": 114.257812,
+        "speed": 1.880000,
+        "time": 1536905923.996178,
+        "cumulatedDistance": 4268.139903,
+        "coordinate": [12.457127, 41.887087, 82.992683]
+      }, {
+        "elevation": 82.192442,
+        "course": 93.164062,
+        "speed": 1.490000,
+        "time": 1536905928.996098,
+        "cumulatedDistance": 4277.349959,
+        "coordinate": [12.457234, 41.887067, 82.192442]
+      }, {
+        "elevation": 81.834254,
+        "course": 65.742188,
+        "speed": 1.860000,
+        "time": 1536905930.996066,
+        "cumulatedDistance": 4280.473927,
+        "coordinate": [12.457269, 41.887078, 81.834254]
+      }, {
+        "elevation": 81.063380,
+        "course": 49.921875,
+        "speed": 1.930000,
+        "time": 1536905935.995985,
+        "cumulatedDistance": 4290.832698,
+        "coordinate": [12.457367, 41.887136, 81.063380]
+      }, {
+        "elevation": 80.833693,
+        "course": 65.039062,
+        "speed": 1.820000,
+        "time": 1536905938.995935,
+        "cumulatedDistance": 4296.405222,
+        "coordinate": [12.457429, 41.887155, 80.833693]
+      }, {
+        "elevation": 79.747209,
+        "course": 62.578125,
+        "speed": 2.690000,
+        "time": 1536905946.995807,
+        "cumulatedDistance": 4309.613309,
+        "coordinate": [12.457579, 41.887196, 79.747209]
+      }, {
+        "elevation": 79.414166,
+        "course": 50.625000,
+        "speed": 1.420000,
+        "time": 1536905949.995760,
+        "cumulatedDistance": 4315.931774,
+        "coordinate": [12.457650, 41.887216, 79.414166]
+      }, {
+        "elevation": 78.911969,
+        "course": 66.796875,
+        "speed": 1.380000,
+        "time": 1536905954.995679,
+        "cumulatedDistance": 4323.820426,
+        "coordinate": [12.457739, 41.887241, 78.911969]
+      }, {
+        "elevation": 78.795605,
+        "course": 46.406250,
+        "speed": 1.480000,
+        "time": 1536905958.995615,
+        "cumulatedDistance": 4329.297762,
+        "coordinate": [12.457795, 41.887267, 78.795605]
+      }, {
+        "elevation": 78.412033,
+        "course": 28.476562,
+        "speed": 1.920000,
+        "time": 1536905961.995566,
+        "cumulatedDistance": 4333.468176,
+        "coordinate": [12.457821, 41.887299, 78.412033]
+      }, {
+        "elevation": 78.398631,
+        "course": 26.367188,
+        "speed": 1.180000,
+        "time": 1536905962.995551,
+        "cumulatedDistance": 4334.737953,
+        "coordinate": [12.457829, 41.887308, 78.398631]
+      }, {
+        "elevation": 78.651458,
+        "course": 40.078125,
+        "speed": 1.910000,
+        "time": 1536905963.995534,
+        "cumulatedDistance": 4336.223510,
+        "coordinate": [12.457844, 41.887316, 78.651458]
+      }, {
+        "elevation": 78.222473,
+        "course": 55.195312,
+        "speed": 1.310000,
+        "time": 1536905965.995502,
+        "cumulatedDistance": 4339.355604,
+        "coordinate": [12.457881, 41.887322, 78.222473]
+      }, {
+        "elevation": 78.222473,
+        "course": -1.000000,
+        "speed": null,
+        "time": 1536905976.604122,
+        "cumulatedDistance": 4339.355604,
+        "coordinate": [12.457881, 41.887322, 78.222473]
+      }]
+    },
+    "geometry": {
+      "coordinates": [
+        [12.458597, 41.887436, 82.153042],
+        [12.458542, 41.887405, 83.039211],
+        [12.458542, 41.887405, 83.285854],
+        [12.458522, 41.887399, 83.410976],
+        [12.458522, 41.887399, 83.138760],
+        [12.458522, 41.887399, 83.013821],
+        [12.458497, 41.887396, 82.486599],
+        [12.458481, 41.887389, 82.512417],
+        [12.458327, 41.887326, 82.371548],
+        [12.458279, 41.887329, 82.789089],
+        [12.458249, 41.887327, 82.415310],
+        [12.458203, 41.887312, 82.305202],
+        [12.457958, 41.887219, 82.720119],
+        [12.457873, 41.887199, 82.523037],
+        [12.457843, 41.887192, 83.423428],
+        [12.457814, 41.887185, 83.362087],
+        [12.457749, 41.887182, 83.367092],
+        [12.457658, 41.887160, 84.047329],
+        [12.457587, 41.887167, 84.594692],
+        [12.457543, 41.887167, 84.786526],
+        [12.457485, 41.887146, 85.173122],
+        [12.457462, 41.887132, 85.075405],
+        [12.457427, 41.887105, 84.893276],
+        [12.457374, 41.887079, 84.956753],
+        [12.457321, 41.887070, 85.004360],
+        [12.457276, 41.887057, 84.886684],
+        [12.457031, 41.887000, 85.002834],
+        [12.456971, 41.886993, 85.151516],
+        [12.456895, 41.886994, 85.280178],
+        [12.456661, 41.887011, 85.763638],
+        [12.456287, 41.886917, 87.295681],
+        [12.456234, 41.886897, 87.304531],
+        [12.456149, 41.886895, 86.758694],
+        [12.456094, 41.886915, 86.438686],
+        [12.456006, 41.886933, 86.138699],
+        [12.455946, 41.886918, 85.725796],
+        [12.455910, 41.886904, 85.706814],
+        [12.455866, 41.886908, 85.470913],
+        [12.455744, 41.886916, 84.972012],
+        [12.455565, 41.886928, 83.366055],
+        [12.455459, 41.886945, 83.379299],
+        [12.455000, 41.886961, 83.030117],
+        [12.454540, 41.887020, 81.934719],
+        [12.454428, 41.887080, 82.043606],
+        [12.454334, 41.887169, 81.318630],
+        [12.454178, 41.887377, 79.151211],
+        [12.454138, 41.887499, 79.019558],
+        [12.454129, 41.887533, 79.000088],
+        [12.454108, 41.887568, 79.113674],
+        [12.454112, 41.887682, 79.753872],
+        [12.454115, 41.887723, 79.736965],
+        [12.454112, 41.887765, 79.825771],
+        [12.454154, 41.887887, 79.844204],
+        [12.454204, 41.887996, 80.480495],
+        [12.454199, 41.888033, 80.670193],
+        [12.454239, 41.888207, 80.543484],
+        [12.454240, 41.888398, 80.330654],
+        [12.454248, 41.888428, 80.388210],
+        [12.454169, 41.888508, 80.193935],
+        [12.453963, 41.888636, 77.968227],
+        [12.453750, 41.888665, 75.612514],
+        [12.453670, 41.888656, 74.457973],
+        [12.453641, 41.888659, 74.180813],
+        [12.453595, 41.888668, 73.631496],
+        [12.453559, 41.888673, 73.058010],
+        [12.453488, 41.888697, 72.307278],
+        [12.453320, 41.888751, 70.199123],
+        [12.453236, 41.888759, 69.976162],
+        [12.453099, 41.888822, 69.583096],
+        [12.453060, 41.888839, 69.430752],
+        [12.452991, 41.888872, 69.625027],
+        [12.452908, 41.888842, 69.701748],
+        [12.452815, 41.888791, 69.765774],
+        [12.452778, 41.888786, 70.152370],
+        [12.452735, 41.888777, 70.253811],
+        [12.452685, 41.888775, 70.657864],
+        [12.452642, 41.888764, 70.675625],
+        [12.452500, 41.888743, 70.873379],
+        [12.452463, 41.888746, 71.653408],
+        [12.452395, 41.888723, 71.752346],
+        [12.452222, 41.888573, 72.701260],
+        [12.452139, 41.888525, 73.217495],
+        [12.452114, 41.888495, 73.286465],
+        [12.452106, 41.888479, 73.329678],
+        [12.452071, 41.888374, 73.973721],
+        [12.452053, 41.888316, 74.488552],
+        [12.452019, 41.888179, 74.681545],
+        [12.451974, 41.888100, 74.582607],
+        [12.451871, 41.887884, 74.419643],
+        [12.451697, 41.887554, 73.417263],
+        [12.451656, 41.887510, 73.391689],
+        [12.451602, 41.887363, 72.335903],
+        [12.451501, 41.887256, 71.903225],
+        [12.451444, 41.887236, 71.631191],
+        [12.451284, 41.887224, 69.624172],
+        [12.450066, 41.887227, 68.576382],
+        [12.449584, 41.887239, 70.190476],
+        [12.449490, 41.887248, 71.838590],
+        [12.449466, 41.887271, 72.467906],
+        [12.449424, 41.887288, 73.562712],
+        [12.449322, 41.887293, 75.641943],
+        [12.449310, 41.887346, 76.109864],
+        [12.449313, 41.887396, 76.298276],
+        [12.449303, 41.887439, 76.209875],
+        [12.449293, 41.887495, 76.244134],
+        [12.449280, 41.887674, 76.353192],
+        [12.449275, 41.887675, 76.333923],
+        [12.449275, 41.887675, 76.333923],
+        [12.449281, 41.887679, 76.391938],
+        [12.449286, 41.887712, 76.126320],
+        [12.449295, 41.887764, 76.357791],
+        [12.449267, 41.887857, 76.287878],
+        [12.449253, 41.887897, 76.157133],
+        [12.449253, 41.887897, 76.157133],
+        [12.449259, 41.887912, 76.308997],
+        [12.449259, 41.887912, 76.308997],
+        [12.449260, 41.887925, 76.583969],
+        [12.449263, 41.887940, 76.461357],
+        [12.449269, 41.887978, 76.256235],
+        [12.449277, 41.888206, 76.225465],
+        [12.449289, 41.888283, 76.077484],
+        [12.449292, 41.888305, 76.157822],
+        [12.449273, 41.888435, 76.069423],
+        [12.449271, 41.888533, 75.882798],
+        [12.449247, 41.888680, 76.208158],
+        [12.449203, 41.888760, 76.069048],
+        [12.449180, 41.888784, 76.239421],
+        [12.449134, 41.888765, 76.054023],
+        [12.449090, 41.888757, 76.046735],
+        [12.449035, 41.888758, 75.951788],
+        [12.448999, 41.888744, 75.877549],
+        [12.448954, 41.888745, 75.972007],
+        [12.448877, 41.888753, 75.892227],
+        [12.448792, 41.888751, 75.899296],
+        [12.448739, 41.888752, 75.989031],
+        [12.448682, 41.888765, 75.958401],
+        [12.448662, 41.888765, 75.951034],
+        [12.448616, 41.888763, 75.879829],
+        [12.448595, 41.888758, 75.867328],
+        [12.448553, 41.888748, 75.880200],
+        [12.448527, 41.888750, 76.013530],
+        [12.448346, 41.888778, 75.928453],
+        [12.448119, 41.888800, 75.599480],
+        [12.447901, 41.888773, 75.851793],
+        [12.447761, 41.888764, 75.333014],
+        [12.447693, 41.888765, 75.099302],
+        [12.447691, 41.888763, 74.974992],
+        [12.447689, 41.888757, 74.712381],
+        [12.447658, 41.888744, 75.018802],
+        [12.447612, 41.888729, 74.623985],
+        [12.447557, 41.888730, 74.651057],
+        [12.447511, 41.888756, 74.430638],
+        [12.447472, 41.888771, 74.437338],
+        [12.447443, 41.888779, 74.369265],
+        [12.447432, 41.888780, 74.063496],
+        [12.447415, 41.888778, 74.171588],
+        [12.447331, 41.888774, 73.613376],
+        [12.447286, 41.888760, 73.814211],
+        [12.447276, 41.888758, 73.582503],
+        [12.447240, 41.888761, 73.245713],
+        [12.447202, 41.888761, 73.061149],
+        [12.447003, 41.888770, 72.269882],
+        [12.446954, 41.888792, 71.988672],
+        [12.446945, 41.888800, 71.986613],
+        [12.446928, 41.888813, 71.897478],
+        [12.446876, 41.888865, 71.722798],
+        [12.446837, 41.888917, 71.757393],
+        [12.446798, 41.888929, 71.748827],
+        [12.446733, 41.888944, 71.228679],
+        [12.446677, 41.888937, 71.021619],
+        [12.446597, 41.888914, 70.711410],
+        [12.446560, 41.888886, 70.656683],
+        [12.446500, 41.888779, 70.387348],
+        [12.446464, 41.888758, 70.332933],
+        [12.446274, 41.888715, 69.917100],
+        [12.446201, 41.888728, 69.801154],
+        [12.446145, 41.888740, 69.739788],
+        [12.446145, 41.888740, 69.739788],
+        [12.446128, 41.888745, 69.683772],
+        [12.446110, 41.888748, 69.637845],
+        [12.445764, 41.888759, 69.077432],
+        [12.445674, 41.888746, 68.655535],
+        [12.445665, 41.888755, 68.705624],
+        [12.445609, 41.888782, 68.539742],
+        [12.445520, 41.888804, 68.316179],
+        [12.445475, 41.888810, 68.086557],
+        [12.445274, 41.888764, 67.651701],
+        [12.445273, 41.888727, 67.589938],
+        [12.445279, 41.888691, 67.270010],
+        [12.445318, 41.888585, 66.473602],
+        [12.445382, 41.888527, 66.049545],
+        [12.445473, 41.888467, 65.214543],
+        [12.445497, 41.888425, 64.931250],
+        [12.445538, 41.888389, 64.552266],
+        [12.445558, 41.888358, 64.422472],
+        [12.445569, 41.888314, 67.281542],
+        [12.445596, 41.888272, 69.452610],
+        [12.445622, 41.888209, 70.855345],
+        [12.445656, 41.888140, 71.324411],
+        [12.445685, 41.888099, 71.499213],
+        [12.445613, 41.888013, 71.439378],
+        [12.445583, 41.887984, 71.496876],
+        [12.445495, 41.887918, 70.905696],
+        [12.445306, 41.887815, 70.334158],
+        [12.445130, 41.887731, 69.187962],
+        [12.445065, 41.887703, 68.873574],
+        [12.444823, 41.887568, 68.191484],
+        [12.444801, 41.887601, 68.080490],
+        [12.444742, 41.887624, 68.024865],
+        [12.444666, 41.887621, 67.753899],
+        [12.444651, 41.887608, 67.854671],
+        [12.444642, 41.887561, 67.817478],
+        [12.444616, 41.887527, 67.605090],
+        [12.444571, 41.887532, 67.632250],
+        [12.444545, 41.887495, 67.690464],
+        [12.444525, 41.887451, 67.383712],
+        [12.444362, 41.887282, 67.156344],
+        [12.444224, 41.886939, 65.847602],
+        [12.444238, 41.886876, 65.615878],
+        [12.444277, 41.886814, 65.027491],
+        [12.444291, 41.886795, 64.820564],
+        [12.444314, 41.886783, 64.721762],
+        [12.444371, 41.886761, 64.525531],
+        [12.444392, 41.886757, 64.598283],
+        [12.444477, 41.886706, 63.776129],
+        [12.444591, 41.886580, 62.595274],
+        [12.444626, 41.886511, 62.030547],
+        [12.444848, 41.885956, 59.953063],
+        [12.444853, 41.885885, 59.897998],
+        [12.444839, 41.885843, 59.633001],
+        [12.444838, 41.885808, 59.368440],
+        [12.444860, 41.885740, 59.239614],
+        [12.444864, 41.885708, 59.339998],
+        [12.444919, 41.885516, 58.745304],
+        [12.444987, 41.885365, 58.035636],
+        [12.444981, 41.885349, 57.838088],
+        [12.444978, 41.885335, 57.766525],
+        [12.444963, 41.885224, 57.510624],
+        [12.444941, 41.885121, 57.288631],
+        [12.444907, 41.885085, 57.014405],
+        [12.444920, 41.885043, 56.600926],
+        [12.444945, 41.884989, 56.660287],
+        [12.444972, 41.884928, 56.596594],
+        [12.444967, 41.884883, 56.518817],
+        [12.444966, 41.884871, 56.537719],
+        [12.444949, 41.884824, 56.414114],
+        [12.444857, 41.884719, 56.156102],
+        [12.444738, 41.884573, 55.909583],
+        [12.444714, 41.884547, 55.657019],
+        [12.444320, 41.884339, 54.780649],
+        [12.444209, 41.884288, 54.086571],
+        [12.444147, 41.884237, 53.954844],
+        [12.444046, 41.884094, 53.461576],
+        [12.444054, 41.884035, 53.628107],
+        [12.444108, 41.883935, 53.588834],
+        [12.444126, 41.883901, 53.839973],
+        [12.444159, 41.883870, 54.068920],
+        [12.444219, 41.883860, 54.160524],
+        [12.444257, 41.883846, 54.039997],
+        [12.444572, 41.883628, 54.267523],
+        [12.444595, 41.883588, 54.054541],
+        [12.444605, 41.883566, 54.308755],
+        [12.444617, 41.883543, 53.992853],
+        [12.444630, 41.883516, 54.018657],
+        [12.444644, 41.883471, 53.833611],
+        [12.444651, 41.883431, 53.561552],
+        [12.444690, 41.883282, 53.521883],
+        [12.444725, 41.883251, 52.958759],
+        [12.444745, 41.883220, 52.879651],
+        [12.444874, 41.883067, 52.916006],
+        [12.444987, 41.882999, 52.629965],
+        [12.445145, 41.882951, 52.220290],
+        [12.445342, 41.882926, 52.082899],
+        [12.445424, 41.882940, 51.970784],
+        [12.445468, 41.882946, 52.150684],
+        [12.445809, 41.883044, 52.271581],
+        [12.445813, 41.883051, 52.476429],
+        [12.445851, 41.883064, 52.675077],
+        [12.445928, 41.883064, 52.461490],
+        [12.445994, 41.883043, 52.712865],
+        [12.446011, 41.883041, 52.559815],
+        [12.446109, 41.883030, 52.922532],
+        [12.446210, 41.882988, 53.238676],
+        [12.446216, 41.882978, 53.279704],
+        [12.446237, 41.882945, 53.886256],
+        [12.446250, 41.882940, 53.864303],
+        [12.446306, 41.882901, 54.032208],
+        [12.446369, 41.882855, 54.479009],
+        [12.446427, 41.882822, 54.523277],
+        [12.446523, 41.882820, 54.862508],
+        [12.446574, 41.882815, 55.262728],
+        [12.446661, 41.882791, 55.371386],
+        [12.446680, 41.882754, 55.790279],
+        [12.446891, 41.882582, 56.636019],
+        [12.446995, 41.882548, 56.918926],
+        [12.447053, 41.882521, 57.139988],
+        [12.447128, 41.882482, 57.562928],
+        [12.447253, 41.882412, 57.408380],
+        [12.447298, 41.882374, 57.661066],
+        [12.447306, 41.882371, 57.736046],
+        [12.447348, 41.882371, 58.018408],
+        [12.447379, 41.882401, 57.967015],
+        [12.447393, 41.882427, 57.885629],
+        [12.447406, 41.882484, 57.674155],
+        [12.447423, 41.882512, 57.337356],
+        [12.447403, 41.882542, 57.301833],
+        [12.447244, 41.882711, 57.460426],
+        [12.447264, 41.882791, 57.546032],
+        [12.447232, 41.882860, 57.703973],
+        [12.447122, 41.883004, 58.241485],
+        [12.447074, 41.883056, 58.188276],
+        [12.446980, 41.883202, 58.607461],
+        [12.446972, 41.883261, 58.467297],
+        [12.446969, 41.883278, 58.428010],
+        [12.446964, 41.883293, 58.420840],
+        [12.446922, 41.883348, 58.542273],
+        [12.446894, 41.883396, 58.650300],
+        [12.446901, 41.883431, 58.509518],
+        [12.446947, 41.883701, 59.238529],
+        [12.446925, 41.883739, 59.069320],
+        [12.446911, 41.883789, 59.359029],
+        [12.446909, 41.883826, 59.538852],
+        [12.446866, 41.883892, 59.453155],
+        [12.446853, 41.883923, 59.538302],
+        [12.446856, 41.883991, 59.634577],
+        [12.446861, 41.884035, 59.754280],
+        [12.446890, 41.884163, 59.804575],
+        [12.446903, 41.884220, 60.025988],
+        [12.446892, 41.884258, 59.410101],
+        [12.446873, 41.884292, 59.959032],
+        [12.446866, 41.884332, 59.816058],
+        [12.446860, 41.884408, 60.186790],
+        [12.446837, 41.884450, 60.580489],
+        [12.446850, 41.884475, 60.519473],
+        [12.446919, 41.884716, 62.106724],
+        [12.446944, 41.884764, 62.068806],
+        [12.446983, 41.884813, 62.829324],
+        [12.447130, 41.884916, 63.358551],
+        [12.447235, 41.884964, 64.171329],
+        [12.447278, 41.884966, 64.302222],
+        [12.447345, 41.884986, 64.711091],
+        [12.447479, 41.885006, 65.131146],
+        [12.447561, 41.885007, 65.344582],
+        [12.447648, 41.885033, 65.650583],
+        [12.447697, 41.885025, 65.712909],
+        [12.447742, 41.885002, 66.014772],
+        [12.447796, 41.884958, 65.982073],
+        [12.447812, 41.884925, 66.149749],
+        [12.447821, 41.884909, 66.168370],
+        [12.447860, 41.884885, 66.242692],
+        [12.448102, 41.884787, 67.156478],
+        [12.448164, 41.884777, 67.326766],
+        [12.448184, 41.884769, 67.721227],
+        [12.448215, 41.884756, 67.746806],
+        [12.448478, 41.884629, 68.206806],
+        [12.448550, 41.884610, 68.017732],
+        [12.448602, 41.884615, 67.910312],
+        [12.448642, 41.884611, 68.131931],
+        [12.448680, 41.884605, 68.152413],
+        [12.448726, 41.884620, 68.261378],
+        [12.448783, 41.884628, 68.624325],
+        [12.448996, 41.884573, 69.693268],
+        [12.449056, 41.884589, 70.179400],
+        [12.449109, 41.884623, 70.203166],
+        [12.449112, 41.884629, 70.090233],
+        [12.449123, 41.884635, 70.110528],
+        [12.449123, 41.884634, 69.425874],
+        [12.449123, 41.884634, 69.425874],
+        [12.449113, 41.884632, 69.301673],
+        [12.449104, 41.884641, 69.313775],
+        [12.449145, 41.884665, 68.749492],
+        [12.449326, 41.884695, 68.162264],
+        [12.450160, 41.884881, 66.131261],
+        [12.450304, 41.884898, 66.171725],
+        [12.450334, 41.884922, 65.942927],
+        [12.450374, 41.884917, 65.829349],
+        [12.450377, 41.884953, 66.015938],
+        [12.450370, 41.884997, 66.206842],
+        [12.450397, 41.885082, 66.447973],
+        [12.450394, 41.885111, 66.502921],
+        [12.450410, 41.885363, 67.811111],
+        [12.450419, 41.885404, 68.142886],
+        [12.450411, 41.885489, 68.423920],
+        [12.450395, 41.885550, 68.459825],
+        [12.450413, 41.885583, 68.669203],
+        [12.450576, 41.885726, 68.976197],
+        [12.450608, 41.885748, 69.144680],
+        [12.450827, 41.885934, 68.839585],
+        [12.450929, 41.885981, 68.944754],
+        [12.450947, 41.886001, 68.948137],
+        [12.450958, 41.886058, 68.923138],
+        [12.450996, 41.886271, 68.887722],
+        [12.451020, 41.886362, 69.077457],
+        [12.451080, 41.886444, 68.864845],
+        [12.451111, 41.886588, 68.805683],
+        [12.451163, 41.886656, 68.848221],
+        [12.451337, 41.886955, 68.948734],
+        [12.451386, 41.887025, 68.819445],
+        [12.451497, 41.887288, 68.939578],
+        [12.451547, 41.887324, 68.795496],
+        [12.451583, 41.887359, 68.933925],
+        [12.451639, 41.887467, 68.807823],
+        [12.451686, 41.887534, 68.791445],
+        [12.451741, 41.887600, 68.983840],
+        [12.451780, 41.887670, 68.945272],
+        [12.451775, 41.887714, 69.065453],
+        [12.451770, 41.887822, 69.219864],
+        [12.451783, 41.887862, 69.234520],
+        [12.451774, 41.887909, 69.023813],
+        [12.451777, 41.887940, 69.043052],
+        [12.451823, 41.888078, 69.217439],
+        [12.451915, 41.888259, 69.135017],
+        [12.451935, 41.888294, 69.659984],
+        [12.451945, 41.888362, 69.518893],
+        [12.451961, 41.888462, 69.703948],
+        [12.451989, 41.888488, 69.764494],
+        [12.452011, 41.888505, 69.962123],
+        [12.452066, 41.888561, 70.086108],
+        [12.452188, 41.888663, 70.134223],
+        [12.452277, 41.888699, 70.246422],
+        [12.452360, 41.888726, 69.947612],
+        [12.452434, 41.888778, 70.047431],
+        [12.452643, 41.888850, 69.281721],
+        [12.452834, 41.888900, 68.970667],
+        [12.452936, 41.888876, 68.677896],
+        [12.453107, 41.888848, 68.923123],
+        [12.453392, 41.888840, 69.430290],
+        [12.453775, 41.888729, 70.646843],
+        [12.454067, 41.888581, 72.344489],
+        [12.454167, 41.888488, 72.821083],
+        [12.454253, 41.888446, 73.260648],
+        [12.454291, 41.888422, 73.587984],
+        [12.454354, 41.888386, 73.942400],
+        [12.454364, 41.888350, 74.188349],
+        [12.454355, 41.888301, 74.602579],
+        [12.454330, 41.888193, 75.001353],
+        [12.454228, 41.887930, 76.263017],
+        [12.454223, 41.887883, 76.190282],
+        [12.454187, 41.887758, 77.423894],
+        [12.454234, 41.887610, 77.959944],
+        [12.454256, 41.887534, 78.227020],
+        [12.454272, 41.887499, 78.347251],
+        [12.454337, 41.887428, 78.951722],
+        [12.454348, 41.887380, 78.959665],
+        [12.454359, 41.887342, 79.148839],
+        [12.454450, 41.887171, 79.565400],
+        [12.454512, 41.887134, 79.636450],
+        [12.454762, 41.887071, 79.970651],
+        [12.454915, 41.887059, 79.899618],
+        [12.454960, 41.887061, 79.829826],
+        [12.455046, 41.887055, 80.254403],
+        [12.455119, 41.887038, 80.713363],
+        [12.455221, 41.887036, 81.096238],
+        [12.455296, 41.887021, 81.909065],
+        [12.455373, 41.887049, 82.725447],
+        [12.455412, 41.887054, 82.957791],
+        [12.455695, 41.887058, 85.057575],
+        [12.455742, 41.887077, 85.405241],
+        [12.455790, 41.887111, 85.798812],
+        [12.455861, 41.887142, 85.889292],
+        [12.455914, 41.887142, 86.164720],
+        [12.455956, 41.887143, 86.200564],
+        [12.456008, 41.887132, 86.184909],
+        [12.456104, 41.887062, 86.507863],
+        [12.456112, 41.887047, 86.427654],
+        [12.456122, 41.887032, 86.428592],
+        [12.456133, 41.887017, 86.363664],
+        [12.456186, 41.887003, 86.581417],
+        [12.456338, 41.886975, 86.429868],
+        [12.456418, 41.886967, 86.121005],
+        [12.456445, 41.886990, 85.763275],
+        [12.456475, 41.887028, 85.723710],
+        [12.456543, 41.887075, 85.097117],
+        [12.456691, 41.887121, 84.303741],
+        [12.456731, 41.887129, 84.192844],
+        [12.457127, 41.887087, 82.992683],
+        [12.457234, 41.887067, 82.192442],
+        [12.457269, 41.887078, 81.834254],
+        [12.457367, 41.887136, 81.063380],
+        [12.457429, 41.887155, 80.833693],
+        [12.457579, 41.887196, 79.747209],
+        [12.457650, 41.887216, 79.414166],
+        [12.457739, 41.887241, 78.911969],
+        [12.457795, 41.887267, 78.795605],
+        [12.457821, 41.887299, 78.412033],
+        [12.457829, 41.887308, 78.398631],
+        [12.457844, 41.887316, 78.651458],
+        [12.457881, 41.887322, 78.222473],
+        [12.457881, 41.887322, 78.222473]
+      ],
+      "type": "LineString"
+    }
+  }]
+}
