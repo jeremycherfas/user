@@ -114,6 +114,18 @@
         });
         </script>
     {% endblock %}
+
+    
 </body>
 </html>
+ 
+{# set myvar = ['foo','bar','crap'] %}
+{% set newvar = (attribute (myvar, 2)) %} 
+{% set newvar = ( page.header.import|slice(0, 1)) #}
+
+
+{{ dump(myvar) }}
+{{ dump(newvar) }}
 {{ dump(page.header.title) }}
+{{ dump(page.header.imports) }}
+
