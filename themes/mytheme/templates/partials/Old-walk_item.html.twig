@@ -1,0 +1,54 @@
+<div class="list-item h-entry">
+<a class="u-author" href="https://jeremycherfas.net"></a>
+    <div class="list-blog-header">
+        <span class="list-blog-date">
+            <time class="dt-published" datetime="{{ page.date|date("c") }}">
+                <span>{{ page.date|date("d") }}</span>
+                <em>{{ page.date|date("M") }}</em>
+                                <em>{{ page.date|date("Y") }}</em>
+            </time>
+        </span>
+            <h1 class="p-name"><a href="{{ page.url }}" class="u-url">{{ page.title }}</a></h1>
+
+			{% if page.header.subhead %} 
+			<h2 class="subhead">
+				{{ page.header.subhead }}
+			</h2>
+			{% endif%} 
+
+{# Header image stuff removed from here and above. Restore from blog_item.html.twig when needed #}
+
+    </div> // End list blog header
+
+    <div class="list-blog-padding">
+
+        <span class="e-content">
+            {{ page.content }}
+        </span>    
+
+        {% if page.taxonomy.tag %}
+        <span class="tags">
+            {% for tag in page.taxonomy.tag %}
+            <a href="{{ blog.url|rtrim('/') }}/tag{{ config.system.param_sep }}{{ tag }}" class="p-category">{{ tag }}</a>
+            {% endfor %}
+        </span>
+        {% endif %}
+
+        </div> // End item content
+
+        {% set show_prev_next = true %}
+
+    {% if show_prev_next %}
+
+        <p class="prev-next">
+            {% if not page.isFirst %}
+                <a class="button" href="{{ page.nextSibling.url }}"><i class="fa fa-chevron-left"></i> Next post </a>
+            {% endif %}
+
+            {% if not page.isLast %}
+                <a class="button" href="{{ page.prevSibling.url }}">Previous post <i class="fa fa-chevron-right"></i></a>
+            {% endif %}
+        </p>
+
+
+    </div>
