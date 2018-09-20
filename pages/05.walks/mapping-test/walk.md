@@ -1,9 +1,10 @@
 ---
 title: 'Mapping from external JSON'
+date: '2018-09-18'
 twig_first: true
 process:
     twig: true
-template: item
+template: 'item'
 ---
 
 It's only a proof of concept, so far.
@@ -23,7 +24,7 @@ var myTiles = L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?
 	id: 'mapbox.streets'
 }); // Creates the actual map tiles .addTo(mymap) remnoved
 
-$.getJSON("/early.json", function(data) {
+$.getJSON("http://localhost:8888/grav-admin/walks/mapping-test/early.json", function(data) {
 	var geojson = L.geoJson(data, {
 //		onEachFeature: function (feature, layer) { Don't need for now
 //			layer.bindPopup(feature.properties.name); Don't need for now
