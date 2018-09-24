@@ -17,10 +17,10 @@
         {
             if (property_exists($this->grav['page']->header(),'imports')) {
 
-                $imports = $this->grav['page']->header()->imports;
+                $imports = $this->grav['page']->header()->imports; //gets the filename 
                 $parsed = [];
 
-                if (is_array($imports)) {
+                if (is_array($imports)) { //multiple import files
                     foreach ($imports as $import) {
                         if (Utils::endswith($import, '.yaml')) {
                             $key = basename($import, '.yaml');
@@ -30,7 +30,7 @@
                             $parsed[$key] = json_decode($this->getContents($import), true);
                         }
                     }
-                } else {
+                } else { //single import file
                     $import = $imports;
                     if (Utils::endswith($import, '.yaml')) {
                         $parsed = Yaml::parse($this->getContents($import));
@@ -39,7 +39,9 @@
                     }
                 }
 
-                $this->grav['page']->header()->imports = $parsed;
+$parsed[] = $imports; //add the filename as the final element in the returned array
+
+                $this->grav['page']->header()->imports = $parsed; //rewrites imports
             }
         }
 
