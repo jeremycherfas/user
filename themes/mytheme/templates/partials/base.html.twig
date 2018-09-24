@@ -114,9 +114,11 @@
         });
         </script>
     {% endblock %}
-
+    
+     
     
 </body>
 </html>
-{{ dump(page.header.imports) }}
+{{ dump(page.header.imports|last) }}
+
 

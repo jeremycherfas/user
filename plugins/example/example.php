@@ -1,7 +1,7 @@
 <?php
 namespace Grav\Plugin;
 use \Grav\Common\Plugin;
-class MymapPlugin extends Plugin
+class ExamplePlugin extends Plugin
 {
     public static function getSubscribedEvents()
     {
@@ -11,7 +11,7 @@ class MymapPlugin extends Plugin
     }
     public function onTwigExtensions()
     {
-        require_once(__DIR__ . '/twig/MymapTwigExtension.php');
-        $this->grav['twig']->twig->addExtension(new MymapTwigExtension());
+        require_once(__DIR__ . '/twig/ExampleTwigExtension.php');
+        $this->grav['twig']->twig->addExtension(new ExampleTwigExtension());
     }
 }

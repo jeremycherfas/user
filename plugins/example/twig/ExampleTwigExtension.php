@@ -1,10 +1,10 @@
 <?php
 namespace Grav\Plugin;
-class MymapTwigExtension extends \Twig_Extension
+class ExampleTwigExtension extends \Twig_Extension
 {
     public function getName()
     {
-        return 'MymapTwigExtension';
+        return 'ExampleTwigExtension';
     }
     public function getFunctions()
     {
