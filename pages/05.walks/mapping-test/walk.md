@@ -3,6 +3,7 @@ title: 'Mapping from external JSON'
 date: '2018-09-18'
 twig_first: true
 process:
+    markdown: true
     twig: true
 template: 'item'
 ---
