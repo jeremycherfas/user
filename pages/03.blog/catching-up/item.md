@@ -1,22 +1,18 @@
 ---
 title: 'Catching up'
 published: true
-date: '22-03-2005 18:30'
+date: '23-09-2004 13:14'
 taxonomy:
     category:
         - blog
     tag:
-        - General
-subhead: ' '
-header_image: '0'
-summary:
-    enabled: '1'
+        - link
 ---
 
-So Alitalia managed to lose our two bags on the way home from Montpellier on Saturday. On Sunday they called to say my bag had been found and would be in Rome at about 4 pm. They would phone to arrange delivery. They didn't. Early next morning, Monday, we phoned to ask if they could deliver it to work rather than home. Oh no, it has already been consigned. But there was not yet any sign of my colleague's bag. Later that afternoon, I got a call asking whether I was at home and could they deliver it now. No, I said, but you can leave it with the porter. And when I got home: joy. It had arrived.
+"[Genetically modified foods are as safe as the conventional ones,](http://allafrica.com/stories/200409210049.html) but require more testing on long-term safety and the effects on the environment, a UN official has said in Nairobi." I've lost the plot here. If they as safe, why do they require more testing? And GM pollen has [set a new world record](http://news.bbc.co.uk/1/hi/sci/tech/3675706.stm), a feat impossile to measure without GM.
 
-Except that it wasn't my bag, it was my colleague's. And I still didn't have the stuff that I had packed, like power supplies for the laptop and cellphone and the work I had done there.
+From the Silver Lining Department: ['Shroom boom.](http://www.ncbuy.com/news/2004-09-22/1010644.html) 
 
-Today my colleague got a call to say her bag had arrived in Rome, and she went through the same charade of trying to change the delivery address, with the same result. Then I got a message saying it had indeed arrived at her place and she would bring it to work tomorrow. I hope it is actually mine.
+(All links, and jokes, courtesy Luigi. When does he sleep?)
 
-All of which is very boring indeed. But it does perhaps explain why I haven't done anything here since getting back. and I didn't do anything there because internet access was bizarrely expensive and weird: 10 euros for two hours access, which lasted only 24 hours. Use it or lose it. So Orange lost it. Somebody is going to have to find a simpler way to aggregate and sell wi-fi airtime.
+_18 September 2016: Two items removed, because the links are rotten and I've no energy to find them._
