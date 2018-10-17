@@ -1,5 +1,13 @@
 ---
 title: 'Tantalising pursuit of webmentions'
+published: true
+date: '01-01-2018 08:47'
+taxonomy:
+    category:
+        - blog
+    tag:
+        - Geeky
+        - Indieweb
 subhead: 'One step forward, two steps back'
 header_image: '0'
 ---

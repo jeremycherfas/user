@@ -1,6 +1,13 @@
 ---
 title: 'Opening old wounds'
+date: '01-05-2018 08:41'
+taxonomy:
+    category:
+        - blog
+    tag:
+        - General
 subhead: 'In a nice way'
+header_image: '0'
 ---
 
 After a frustrating afternoon pursuing deep geekiness (with some progress, and which I may write more about) I decided to cheer myself up by continuing the endless, thankless and probably pointless task of bringing old posts over here. Three of the five aroused intense memories.
