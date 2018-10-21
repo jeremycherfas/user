@@ -1,9 +1,16 @@
+<!-- Try and get the variable out of import -->
+{% set summary = page.header.imports %}
+
+{% set mytitle = summary.properties.title %}
+
+{% set myfeatures = summary.features.0 %}
+
+{% set mytime = myfeatures.properties.time %}
+
+{% set myproperties = myfeatures.properties.summaryStatistics %}
+
 <div class="list-item h-entry">
 <a class="u-author" href="https://jeremycherfas.net"></a>
-    {% set header_image = page.header.header_image|defined(true) %}
-    {% set header_image_width  = page.header.header_image_width|defined(900) %}
-    {% set header_image_height = page.header.header_image_height|defined(300) %}
-    {% set header_image_file = page.header.header_image_file %}
 
     <div class="list-blog-header">
         <span class="list-blog-date">
@@ -28,6 +35,17 @@
         <span class="e-content">        
             {{ page.content }}
         </span>
+<div class=”summarystats”>
+<h2>Here are the details</h2>
+<p>What: {{ mytitle }}</p>
+<p>When: {{mytime|date("d M Y") }}</p>
+<h4>Summary Statistics</h4>
+<Ul>
+{% for key,value in myproperties %}
+<li>{{ (key) }} : {{value|number_format(2)}}</li>
+{% endfor %}
+</ul>
+</div>
                     {% if page.taxonomy.tag %}
         <span class="tags">
             {% for tag in page.taxonomy.tag %}
