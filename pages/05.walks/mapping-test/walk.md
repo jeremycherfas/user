@@ -5,7 +5,7 @@ twig_first: true
 process:
     markdown: true
     twig: true
-template: 'item'
+template: 'walk'
 ---
 
 It's only a proof of concept, so far.
