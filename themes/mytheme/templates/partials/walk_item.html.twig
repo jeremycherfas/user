@@ -55,7 +55,7 @@
 
     </div>
     
-{% set myfile = ((page.url(true)) ~ '/early.json')  %}
+{% set myfile = ((page.url(true)) ~ '/' ~ page.header.datafilename )  %}
 
 <script>
 var thefile = "{{ myfile }}"
@@ -79,5 +79,4 @@ var map = L.map('mapid').fitBounds(geojson.getBounds());
 	geojson.addTo(map);
 });
 </script> 
-
    

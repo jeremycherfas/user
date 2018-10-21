@@ -1,6 +1,7 @@
 ---
 title: 'Mapping from external JSON'
 date: '2018-09-18'
+datafilename: 'early.json'
 twig_first: true
 process:
     markdown: true
