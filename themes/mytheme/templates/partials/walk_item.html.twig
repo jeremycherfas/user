@@ -13,16 +13,7 @@
                                 <em>{{ page.date|date("Y") }}</em>
             </time>
         </span>
-        {% if page.header.link %}
-            <h1 class="p-name">
-                {% if page.header.continue_link is not sameas(false) %}
-                <a href="{{ page.url }}"><i class="fa fa-angle-double-right u-url"></i></a>
-                {% endif %}
-                <a href="{{ page.header.link }}" class="u-url">{{ page.title }}</a>
-            </h1>
-        {% else %}
             <h1 class="p-name"><a href="{{ page.url }}" class="u-url">{{ page.title }}</a></h1>
-        {% endif %}
 
 			{% if page.header.subhead %} 
 			<h2 class="subhead">
@@ -30,44 +21,13 @@
 			</h2>
 			{% endif%} 
 
-        {% if header_image %}
-            {% if header_image_file %}
-                {% set header_image_media = page.media.images[header_image_file] %}
-            {% else %}
-                {% set header_image_media = page.media.images|first %}
-            {% endif %}
-            {{ header_image_media.cropZoom(header_image_width, header_image_height).html }}
-        {% endif %}
-
     </div>
 
     <div class="list-blog-padding">
 
-    {% if page.header.continue_link is sameas(false) %}
         <span class="e-content">        
             {{ page.content }}
         </span>
-        {% if not truncate %}
-        {% set show_prev_next = true %}
-        {% endif %}
-    {% elseif truncate and page.summary != page.content %}
-        <div class="p-summary">
-        <span class="e-content">
-            {{ page.summary }}
-            <p><a href="{{ page.url }}">More this way ...</a></p>
-        </span>
-        </div>
-    {% elseif truncate %}
-        <div class="p-summary">
-        <span class="e-content">
-            {{ page.content }}
-            <p><a href="{{ page.url }}">More this way ...</a></p>
-		</span>
-        </div>
-    {% else %}
-        <span class="e-content">
-            {{ page.content }}
-        </span>    
                     {% if page.taxonomy.tag %}
         <span class="tags">
             {% for tag in page.taxonomy.tag %}
@@ -79,7 +39,6 @@
         </div>
 
         {% set show_prev_next = true %}
-    {% endif %}
 
     {% if show_prev_next %}
 
@@ -120,4 +79,5 @@ var map = L.map('mapid').fitBounds(geojson.getBounds());
 	geojson.addTo(map);
 });
 </script> 
+
    
