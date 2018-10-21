@@ -1,19 +1,19 @@
 ---
 title: 'Testing import'
+date: '2018-11-21'
 imports: 'early.json'
 datafilename: 'early.json'
 twig_first: true
 process:
-    twig: true
-template: item
+	markdown: true
+	twig: true
+template: walk
 ---
 
 Nothing much to see here; just want the data import details.
 
 ===
 
-
-### Output
 <div id="mapid" style="width: 100%; height: 400px;"></div>
 
 
