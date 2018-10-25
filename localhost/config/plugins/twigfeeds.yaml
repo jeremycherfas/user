@@ -1,0 +1,18 @@
+enabled: true
+cache: true
+static_cache: true
+debug: true
+cache_time: 900
+pass_headers: false
+silence_security: false
+twig_feeds:
+  -
+    source: 'https://stream.jeremycherfas.net/content/all?_t=rss'
+    name: Stream
+    start: 0
+    end: 9
+  -
+    source: 'https://www.reading.am/jeremycherfas/posts.rss'
+    name: Reading
+    start: 0
+    end: 4

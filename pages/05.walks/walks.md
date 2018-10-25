@@ -2,6 +2,7 @@
 title: 'Jeremy Cherfas: Walks'
 body_classes: 'header-image fullwidth'
 menu: Walks
+display_template: 'walks'
 content:
     items:
         - '@self.children'
