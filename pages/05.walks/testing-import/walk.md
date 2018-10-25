@@ -1,6 +1,6 @@
 ---
 title: 'Testing import'
-date: '2018-11-21'
+date: '2018-09-21'
 imports: 'early.json'
 datafilename: 'early.json'
 twig_first: true
