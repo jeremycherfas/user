@@ -225,3 +225,9 @@ td {
 	    flex-basis: 25%;
 	Border: 1px black;
 }
+
+p.caption {
+font-size: 1em;
+font-style: italic;
+text-align: center;
+}
