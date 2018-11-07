@@ -1,0 +1,4 @@
+enabled: false
+route: /sitemap
+changefreq: daily
+priority: !!float 1
