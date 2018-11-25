@@ -7,13 +7,14 @@ taxonomy:
         - blog
     tag:
         - Photos
+process:
+    markdown: true
+    twig: true
+never_cache_twig: true
 subhead: ' '
 header_image: '1'
 summary:
     enabled: '1'
-process:
-    twig: true
-    never_cache_twig: true
 unitegallery:
     gallery_theme: tiles
     assets_in_meta: true

@@ -1,4 +1,4 @@
-enabled: false
+enabled: true
 
 enable_on_routes:
   - '/blog'
@@ -51,8 +51,20 @@ form:
           type: hidden
           evaluateDefault: grav.uri.path
 
-        - 
-          name: honeypot
+        - name: test
+          type: radio
+          label: What is eight times five?
+          default: no
+          options:
+            alaska: 32
+            oklahoma: 40
+            california: 48
+          validate:
+            required: true
+            pattern: "^oklahoma$"
+            message: Not quite, try that math again.
+
+        - name: honeypot
           type: honeypot
 
 
