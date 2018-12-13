@@ -509,6 +509,8 @@ img.ug-sepia-effect{
 }
 
 
+
+
 .--------------ZOOM_PANEL------------------{}
 
 .ug-slider-wrapper .ug-zoompanel{
@@ -869,13 +871,21 @@ img.ug-sepia-effect{
 	padding-top:7px;
 }
 
+/* 
 .ug-lightbox .ug-textpanel-title,
 .ug-lightbox .ug-textpanel-description{
 	font-size: 14px;
 	font-weight: normal;
 	color: #e5e5e5;
 }
-
+ */
+.ug-lightbox .ug-textpanel-title,
+.ug-lightbox .ug-textpanel-description{
+	font-size: 1.6em;
+	text-align: center;
+	font-weight: normal;
+	color: #e5e5e5;
+}
 .ug-lightbox-compact .ug-textpanel-title,
 .ug-lightbox-compact .ug-textpanel-description{
 	color:#F3F3F3;
