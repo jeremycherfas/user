@@ -82,9 +82,9 @@ var thefile = "{{ myfile }}"
 // Read the basic data
 $.getJSON(thefile, function(data) {
 var geojson = L.geoJson(data, {
-// 	onEachFeature: function (feature, layer) { Don't need for now
-// 		layer.bindPopup(feature.properties.name); Don't need for now
-//	}
+ 	onEachFeature: function (feature, layer) { 
+ 		layer.bindPopup(feature.properties.name); // There's something in there.
+	}
 });
 
 // initialise the map
