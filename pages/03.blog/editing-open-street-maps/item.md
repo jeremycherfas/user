@@ -13,7 +13,7 @@ summary:
     enabled: '1'
 ---
 
-An interesting post from Ton Zilstra, <a class="u-in-reply-to" href="URL" >on his first edit to Open Street Map</a >, prompted me to do the same. I have two main motivations. One is that checkins on my stream use OSM and I like the idea of giving back. The bigger reason is that those checkins are often not very accurate, at least with respect to the place, rather than the pure location, and I thought it would be good to know how to add places even if they become visible only after the event. More generally, I want a better understanding of geographical information and how to use it.
+An interesting post from Ton Zilstra, <a class="u-in-reply-to" href="https://www.zylstra.org/blog/2019/01/my-first-open-street-map-edit/" >on his first edit to Open Street Map</a >, prompted me to do the same. I have two main motivations. One is that checkins on my stream use OSM and I like the idea of giving back. The bigger reason is that those checkins are often not very accurate, at least with respect to the place, rather than the pure location, and I thought it would be good to know how to add places even if they become visible only after the event. More generally, I want a better understanding of geographical information and how to use it.
 
 ===
 
