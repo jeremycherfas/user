@@ -74,7 +74,7 @@ class CommentsPlugin extends Plugin
 
     public function onTwigSiteVariables() {
         $this->grav['twig']->enable_comments_plugin = $this->enable;
-        $this->grav['twig']->comments = $this->fetchComments();
+        $this->grav['twig']->comments = $this->fetchComments(); //where is it fetching from?
     }
 
     /**
@@ -88,8 +88,8 @@ class CommentsPlugin extends Plugin
 
         $path = $uri->path();
 
-        if (!in_array($path, $disable_on_routes)) {
-            if (in_array($path, $enable_on_routes)) {
+        if (!in_array($path, $disable_on_routes)) { //not disabled
+            if (in_array($path, $enable_on_routes)) { //is enabled
                 $this->enable = true;
             } else {
                 foreach($enable_on_routes as $route) {
@@ -144,11 +144,11 @@ class CommentsPlugin extends Plugin
         ]);
 
         if (strpos($uri->path(), $this->config->get('plugins.admin.route') . '/' . $this->route) === false) {
-            return;
+            return; //path not found
         }
 
         $page = $this->grav['uri']->param('page');
-        $comments = $this->getLastComments($page);
+        $comments = $this->getLastComments($page); // for display on admin
 
         if ($page > 0) {
             echo json_encode($comments);
@@ -164,14 +164,16 @@ class CommentsPlugin extends Plugin
     public function onPluginsInitialized()
     {
         if ($this->isAdmin()) {
-            $this->initializeAdmin();
+            $this->initializeAdmin(); // back at l135
         } else {
-            $this->initializeFrontend();
+            $this->initializeFrontend(); // back at l108
         }
     }
 
     /**
      * Handle form processing instructions.
+     *
+     * This is where the content of the form gets added to a file
      *
      * @param Event $event
      */
@@ -187,14 +189,17 @@ class CommentsPlugin extends Plugin
 
         switch ($action) {
             case 'addComment':
-                $post = isset($_POST['data']) ? $_POST['data'] : [];
+// added by me
+if (isset($_POST)){
+  $post = $_POST;
 
-                $lang = filter_var(urldecode($post['lang']), FILTER_SANITIZE_STRING);
+                $lang = filter_var(urldecode($post['lang']), FILTER_SANITIZE_STRING); //lang is not the problem
                 $path = filter_var(urldecode($post['path']), FILTER_SANITIZE_STRING);
                 $text = filter_var(urldecode($post['text']), FILTER_SANITIZE_STRING);
                 $name = filter_var(urldecode($post['name']), FILTER_SANITIZE_STRING);
                 $email = filter_var(urldecode($post['email']), FILTER_SANITIZE_STRING);
                 $title = filter_var(urldecode($post['title']), FILTER_SANITIZE_STRING);
+}
 
                 if (isset($this->grav['user'])) {
                     $user = $this->grav['user'];
@@ -209,23 +214,23 @@ class CommentsPlugin extends Plugin
                 $lang = $language->getLanguage();
 
                 $filename = DATA_DIR . 'comments';
-                $filename .= ($lang ? '/' . $lang : '');
+                $filename .= ($lang ? '/' . $lang : ''); //concatenates if lang is not NULL
                 $filename .= $path . '.yaml';
-                $file = File::instance($filename);
+                $file = File::instance($filename); // "A static function of the File class; an aray of strings???
 
-                if (file_exists($filename)) {
-                    $data = Yaml::parse($file->content());
+                if (file_exists($filename)) { // The file has been created?
+                    $data = Yaml::parse($file->content()); //YAML's parse applied to file content
 
-                    $data['comments'][] = [
+                    $data['comments'][] = [ // adding new array of data
                         'text' => $text,
                         'date' => date('D, d M Y H:i:s', time()),
                         'author' => $name,
                         'email' => $email
                     ];
-                } else {
+                } else { //file does not yet exist so create it
                     $data = array(
-                        'title' => $title,
-                        'lang' => $lang,
+                        'title' => $title, // These exist once per file
+                        'lang' => $lang,   // These exist once per file
                         'comments' => array([
                             'text' => $text,
                             'date' => date('D, d M Y H:i:s', time()),
@@ -244,7 +249,7 @@ class CommentsPlugin extends Plugin
         }
     }
 
-    private function getFilesOrderedByModifiedDate($path = '') {
+    private function getFilesOrderedByModifiedDate($path = '') { // Used only by Admin ???
         $files = [];
 
         if (!$path) {
@@ -255,7 +260,7 @@ class CommentsPlugin extends Plugin
             Folder::mkdir($path);
         }
 
-        $dirItr     = new \RecursiveDirectoryIterator($path, \RecursiveDirectoryIterator::SKIP_DOTS);
+        $dirItr     = new \RecursiveDirectoryIterator($path, \RecursiveDirectoryIterator::SKIP_DOTS); //Grav functions
         $filterItr  = new RecursiveFolderFilterIterator($dirItr);
         $itr        = new \RecursiveIteratorIterator($filterItr, \RecursiveIteratorIterator::SELF_FIRST);
 
@@ -294,7 +299,7 @@ class CommentsPlugin extends Plugin
         return $files;
     }
 
-    private function getLastComments($page = 0) {
+    private function getLastComments($page = 0) { //for display on Admin ???
         $number = 30;
 
         $files = [];
@@ -336,7 +341,7 @@ class CommentsPlugin extends Plugin
     /**
      * Return the comments associated to the current route
      */
-    private function fetchComments() {
+    private function fetchComments() { // Called by onTwigSiteVariables
         $cache = $this->grav['cache'];
         //search in cache
         if ($comments = $cache->fetch($this->comments_cache_id)) {
@@ -356,7 +361,7 @@ class CommentsPlugin extends Plugin
     /**
      * Return the latest commented pages
      */
-    private function fetchPages() {
+    private function fetchPages() { // called by initializeAdmin
         $files = [];
         $files = $this->getFilesOrderedByModifiedDate();
 
@@ -377,7 +382,7 @@ class CommentsPlugin extends Plugin
     /**
      * Given a data file route, return the YAML content already parsed
      */
-    private function getDataFromFilename($fileRoute) {
+    private function getDataFromFilename($fileRoute) { // Called by fetchComments
 
         //Single item details
         $fileInstance = File::instance(DATA_DIR . 'comments/' . $fileRoute);
