@@ -7,10 +7,10 @@ taxonomy:
         - blog
     tag:
         - Geeky
+subhead: 'It works for me'
+header_image: '0'
 summary:
     enabled: '1'
-subhead: "It works for me"
-header_image: '0'
 ---
 
 Comments to posts here are sufficiently rare that I get a teeny thrill when an email announces "Incoming". How quickly that turned to dust when I realised that although I had received the notification, of the comment itself there was absolutely no sign in the system. As in so many others CMSs, comments here are handled by a plugin, and when I went to check it was clear that the plugin, although authored by the core team, hadn't had any love in a long time.
