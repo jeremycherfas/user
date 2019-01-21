@@ -6,7 +6,7 @@ taxonomy:
     category:
         - blog
     tag:
-        - Bread and Cheese
+        - Bread & Cheese
 summary:
     enabled: '1'
 subhead: " "

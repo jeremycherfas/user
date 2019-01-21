@@ -7,7 +7,7 @@ taxonomy:
         - blog
     tag:
         - General
-        - 'Bread and Cheese'
+        - 'Bread & Cheese'
 summary:
     enabled: '1'
 subhead: ' '

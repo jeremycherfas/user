@@ -8,7 +8,7 @@ taxonomy:
         - blog
     tag:
         - link
-        - 'Bread and Cheese'
+        - 'Bread & Cheese'
 subhead: ' '
 header_image: '0'
 summary:

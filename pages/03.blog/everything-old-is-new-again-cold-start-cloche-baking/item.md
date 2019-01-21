@@ -7,7 +7,7 @@ taxonomy:
     category:
         - blog
     tag:
-        - 'Bread and Cheese'
+        - 'Bread & Cheese'
 subhead: 'Everything old is new again'
 header_image: '0'
 summary:
