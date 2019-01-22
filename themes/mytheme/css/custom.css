@@ -109,13 +109,13 @@ code {
 	}
 	
 .commenter {
-	font-size: 1.em;
 	font-style: Italic;
-	text-Align: right;
+	text-align: right;
 	}
 
 .commenter p {
-	Margin-right: 0.8em;
+	font-size: 0.8em;
+	margin-right: 0.8em;
 	}
 
 table.comment_table {
