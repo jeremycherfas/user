@@ -1,5 +1,5 @@
 ---
-title: 'I'm conflicted, again'
+title: "I'm conflicted, again"
 published: true
 date: '10-11-2009 19:16'
 taxonomy:
