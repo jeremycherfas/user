@@ -26,7 +26,7 @@ The main takeaway from this being that I need to learn to use the browser's deve
 
 I then wasted a lot of time trying to build the query in the Twig template, because I thought I had to concantenate the path with the data. But no.
 
-A Twig variable is just expressed as whatever it contains. So the code is 
+A Twig variable is just expressed as whatever it contains. So the code is: 
 
 ````
 <embed src= "{{ url('theme://images/sparkline.svg') }}?7,6,3,4,2,23,14,6,2,,2,0,5,10,4," width="100" height="15">
