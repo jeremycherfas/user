@@ -1,7 +1,8 @@
-enabled: true
+enabled: false
 built_in_css: false
 name: 'Jeremy Cherfas'
 title: 'Freelance Communicator'
+show_title: true
 description: 'In essence, I see myself as a translator. I speak Science, and I speak English, and I work hard to make the two understand one another. Mostly, I like to help people tell their stories. I''m a biologist by training and by inclination, and my main joy is applying that to food and the agriculture and industries that supply it. I also have side interests in economics and many other things.'
 picture_src:
   user/plugins/aboutme/assets/avatars/zoot.jpg:
@@ -45,6 +46,11 @@ social_pages:
       title: Instagram
       position: 6
       url: 'https://www.instagram.com/eatthispodcast/'
+    mb:
+      title: 'Micro Blog'
+      icon: microblog.svg
+      position: 5
+      url: 'https://micro.blog/jeremycherfas'
     pnut:
       icon: share-square-o
       title: pnut
