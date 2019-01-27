@@ -1,3 +1,19 @@
+# v3.3.4
+## 16-01-2019
+
+1. [](#bugfix)
+    * Silent fallback from file exists check
+    * Change filename-hash to use entire source-URL
+    * Fix config-reference in Parser
+2. [](#improved)
+    * Grav version requirement bump
+
+# v3.3.3
+## 08-01-2019
+
+1. [](#bugfix)
+    * Fix config-reference in Parser
+
 # v3.3.2
 ## 03-06-2018
 

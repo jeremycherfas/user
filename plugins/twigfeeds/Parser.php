@@ -34,10 +34,13 @@ class Parser
 
     /**
      * Instantiate TwigFeeds Parser
+     *
+     * @var array $config Plugin-configuration
      */
-    public function __construct()
+    public function __construct($config)
     {
         $this->filesystem = new Filesystem();
+        $this->config = $config;
     }
 
     /**
@@ -49,6 +52,9 @@ class Parser
      */
     public function readFeed($file)
     {
+        if (!file_exists($file)) {
+            return false;
+        }
         $feed = file_get_contents($file);
         $json = json_decode($feed, true);
         return $json;
@@ -82,7 +88,7 @@ class Parser
                     $resource = $reader->download($args['source']);
                 }
             } catch (InvalidCertificateException $e) {
-                if ($config['silence_security'] === false) {
+                if ($this->config['silence_security'] != 'true') {
                     throw new \Exception($e);
                 }
             }
