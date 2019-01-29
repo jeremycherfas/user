@@ -7,7 +7,7 @@ form:
         -
             name: name
             label: Name
-            placeholder: 'Enter your name'
+            placeholder: 'Please enter your name'
             autofocus: 'on'
             autocomplete: 'on'
             type: text
@@ -16,7 +16,7 @@ form:
         -
             name: email
             label: Email
-            placeholder: 'Enter your email address'
+            placeholder: 'Your email address'
             type: text
             validate:
                 rule: email
@@ -25,7 +25,7 @@ form:
             name: message
             label: Message
             size: long
-            placeholder: 'Enter your message'
+            placeholder: 'Your message'
             type: textarea
             validate:
                 required: true
@@ -33,6 +33,8 @@ form:
         -
             type: submit
             value: Submit
+            type: reset
+            value: Reset
             classes: 'button'
     process:
         -
