@@ -8,7 +8,7 @@
 {# tests for whether the Tag is link #}
 	{% if check == "link" %}
 
-	<h1><i class="fa fa-angle-double-right" aria-hidden="true"></i><a href="{{p.header.link}}"> {{ p.title }}</a></h1>
+	<h1><img src="{{ url('theme://images/angle-double-right.svg') }}" alt="double angle right" height="32" width="32" style="display: inline;" ></i><a href="{{p.header.link}}"> {{ p.title }}</a></h1>
 
 	{% else %}
 

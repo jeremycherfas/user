@@ -231,3 +231,14 @@ font-size: 1em;
 font-style: italic;
 text-align: center;
 }
+
+#footer {
+Background: transparent;
+}
+
+#footer .totop span {
+Background: #fff;
+}
+
+
+
