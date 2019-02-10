@@ -8,7 +8,7 @@ summary:
 taxonomy:
     tag:
         - Food
-        - 'Bread & Cheese'
+        - 'Bread and Cheese'
     category:
         - blog
 ---

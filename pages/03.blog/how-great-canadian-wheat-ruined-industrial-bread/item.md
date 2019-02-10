@@ -6,7 +6,7 @@ taxonomy:
     category:
         - blog
     tag:
-        - 'Bread & Cheese'
+        - 'Bread and Cheese'
 subhead: 'The cheaper the flour, the more profitable the bread'
 header_image: '0'
 summary:

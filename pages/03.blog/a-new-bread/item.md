@@ -7,7 +7,7 @@ taxonomy:
         - blog
     tag:
         - link
-        - 'Bread & Cheese'
+        - 'Bread and Cheese'
 link: 'http://www.fornacalia.com/2016/trying-a-new-approach-to-half-and-half-wholewheat/'
 ---
 

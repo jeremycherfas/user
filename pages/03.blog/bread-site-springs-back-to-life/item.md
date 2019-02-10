@@ -7,7 +7,7 @@ taxonomy:
     category:
         - blog
     tag:
-        - 'Bread & Cheese'
+        - 'Bread and Cheese'
 subhead: ' Do nothing bread'
 header_image: '0'
 summary:

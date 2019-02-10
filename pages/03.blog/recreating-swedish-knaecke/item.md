@@ -7,7 +7,7 @@ summary:
     format: short
 taxonomy:
     tag:
-        - 'Bread & Cheese'
+        - 'Bread and Cheese'
     category:
         - blog
 ---

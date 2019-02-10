@@ -6,7 +6,7 @@ taxonomy:
     category:
         - blog
     tag:
-        - 'Bread & Cheese'
+        - 'Bread and Cheese'
 header_image: '0'
 ---
 

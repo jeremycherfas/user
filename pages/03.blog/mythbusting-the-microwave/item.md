@@ -8,7 +8,7 @@ taxonomy:
     category:
         - blog
     tag:
-        - 'Bread & Cheese'
+        - 'Bread and Cheese'
 subhead: 'Not as bad as you''ve been told'
 summary:
     enabled: '1'
