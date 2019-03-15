@@ -85,11 +85,11 @@
 
         <p class="prev-next">
             {% if not page.isFirst %}
-                <a class="button" href="{{ page.nextSibling.url }}"><img src="{{ url('theme://images/chevron-left.svg') }}" alt="chevron-left" style="display: inline; vertical-align: middle;" width="32" height="32"></i> Next post </a>
+<a class="button" href="{{ page.prevSibling.url }}"><img src="{{ url('theme://images/chevron-left.svg') }}" alt="chevron-left" style="display: inline; vertical-align: middle;" width="32" height="32"></i> Previous post</a>
             {% endif %}
 
             {% if not page.isLast %}
-                <a class="button" href="{{ page.prevSibling.url }}">Previous post <img src="{{ url('theme://images/chevron-right.svg') }}" alt="chevron-right" style="display: inline; vertical-align: middle;" width="32" height="32"></i></a>
+                                <a class="button" href="{{ page.nextSibling.url }}">Next post <img src="{{ url('theme://images/chevron-right.svg') }}" alt="chevron-right" style="display: inline; vertical-align: middle;" width="32" height="32"></i></a>
             {% endif %}
         </p>
     {% endif %}
