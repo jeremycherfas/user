@@ -240,5 +240,53 @@ Background: transparent;
 Background: #fff;
 }
 
+/* For listens grid */
+.my-list-blog-header {
+margin-top: 1em;
+display: grid;
+grid-template-columns: 150px 0px auto 100px;
+grid-template-rows: 50% 50%;
+grid-template-areas: "art icon headline date" ". . summary .";
+grid-gap: 1em 1em;
+align-content: start;
+}
+
+.my-artwork {
+    width: 150px;
+    height: 150px;
+/* background-color: Red; */
+grid-area: art;
+}
+
+.my-icon {
+    /* background-color: Yellow; */
+    Width = 64px;
+    Height = 64px;
+grid-area: icon;
+}
+
+.my-headline {
+/* background-color: Blue; */
+grid-area: headline;
+font-size: 1.4em;
+justify-self: left;
+align-self: center;
+}
+
+.my-summary {
+/* background-color: Green; */
+grid-area: summary;
+Font-size: 1em;
+}
+
+.my-date {
+    /* background-color: Teal; */
+    grid-area: date;
+}
+
+.my-ref {
+text-align: right;
+}
+
 
 

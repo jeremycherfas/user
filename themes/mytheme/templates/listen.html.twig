@@ -1,0 +1,67 @@
+{% embed 'partials/base.html.twig' %}
+
+	{% block content %}
+		{% if config.plugins.breadcrumbs.enabled %}
+			{% include 'partials/breadcrumbs.html.twig' %}
+		{% endif %}
+		
+		<div class="blog-content-item grid pure-g-r">
+			<div id="item" class="block pure-u-2-3">
+			    {% include 'partials/listen_item.html.twig' with {'blog':page.parent, 'truncate':false} %}
+
+<!-- 
+Added for comments
+ -->
+
+<!-- 
+This for example webmentions
+<script id="webmention-hosted" src="https://webmention.herokuapp.com/api/embed?example"></script>
+ -->
+
+<h2>Reactions from around the web</h2>
+<!-- 
+Great to make display of the above conditional
+ -->
+
+<div class="comment">
+<h3>Webmentions</h3>
+</div>
+
+<script id="webmention-hosted">
+(function () {
+var sn = document.createElement("script"), s = document.getElementsByTagName("script")[0], url;
+url = document.querySelectorAll ? document.querySelectorAll("link[rel~=canonical]") : false;
+url = url && url[0] ? url[0].href : false;
+sn.type = "text/javascript"; sn.async = true;
+sn.src = "//webmention.herokuapp.com/api/embed?url=" + encodeURIComponent(url || window.location);
+s.parentNode.insertBefore(sn, s);
+}());
+</script>
+
+<form id="webmention-form" action="https://webmention.herokuapp.com/api/webmention" method="post">
+	<div>
+		<label for="webmention-source">If you write something on your own site that links to this post, send me a <a href="http://indieweb.org/webmention">Webmention</a> by putting your post's URL in here:</label>
+		<input id="webmention-source" type="url" name="source" placeholder="URL/Permalink of your article">
+	</div>
+	<div class="buttons">
+		<button id="webmention-submit" type="submit" class="button" name="submit">Do it!</button>
+	</div>
+	<input id="webmention-target" type="hidden" name="target" value="{{ page.permalink }}" >
+</form>
+
+{#
+	{% if config.plugins.comments.enabled %}			    
+		 {% include 'partials/comments.html.twig' with {'page': page} %}
+	{% endif %}
+#}	
+<!-- 
+			</div>
+			<div id="sidebar" class="block size-1-3 pure-u-1-3">
+				{% include 'partials/sidebar.html.twig' with {'blog':page.parent}%}
+			</div>
+		</div>
+ -->
+	{% endblock %}
+
+{% endembed %}
+
