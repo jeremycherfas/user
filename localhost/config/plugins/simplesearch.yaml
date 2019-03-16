@@ -7,8 +7,10 @@ route: /search
 search_content: rendered
 template: simplesearch_results
 filters:
-  category: blog
-filter_combinator: and
+  category:
+    - blog
+    - stream
+filter_combinator: or
 ignore_accented_characters: false
 order:
   by: date
