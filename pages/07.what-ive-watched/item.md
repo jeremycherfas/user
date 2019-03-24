@@ -1,5 +1,6 @@
 ---
 title: 'What I''ve watched'
+visible: false
 summary:
     enabled: '0'
 ---
