@@ -288,5 +288,29 @@ Font-size: 1em;
 text-align: right;
 }
 
+/* For What I've Watched page */
+.log-entry {
+display: Grid;
+grid-template-columns: 2em auto;
+margin-top: .8em;
+}
+
+.log-month {
+width: 100%;
+background-color: #fef1e3;
+}
+
+.log-day {
+grid-column-start: 1;
+list-style: none;
+/* background-color: Blue; */
+}
+
+.log-item {
+grid-column-start: 2;
+list-style: None;
+/* background-color: Green; */
+}
+
 
 

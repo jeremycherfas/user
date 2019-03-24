@@ -25,6 +25,13 @@
 </div>
 {% endif %}
 
+{% if page.url != '/grav-admin/what-ive-watched' %}
+
+<h4>What I've Watched</h4>
+<a href={{base_url}}/what-ive-watched>A media log, of sorts</a>
+
+{% endif %}
+
 {% if config.plugins.feed.enabled %}
 <div class="sidebar-content syndicate">
      <h4>Subscribe</h4>
