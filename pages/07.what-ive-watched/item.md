@@ -3,11 +3,31 @@ title: 'What I''ve watched'
 visible: false
 summary:
     enabled: '0'
+header_image: '1'
 ---
 
-<!-- Outer List -->
+ <!-- Outer List -->
 <ul class="log">
+    <li class="log-month">April</li>
+    <ul class="log-entry">
+        <li class="log-day">18</li>
+            <ul>
+              <li class="log-item"><em>Godless S01</em> <strong>T</strong> Finished, and what a treat it was. Of all the genres, I really do like westerns best of all, I think, and this one was really up there. Predictable, but what's wrong with that? I can't imagine there will be a second series, but I can hope.</li>
+            </ul>
+         </ul>
+         <ul class="log-entry">
+        <li class="log-day">11</li>
+            <ul>
+              <li class="log-item"><em>Rebellion S02</em> <strong>T</strong> Finished, just as I returned from a week in Ireland. I don't have any clear notion of how accurate the series is, but the drama is good and gripping and the production values high. Most enjoyable.</li>
+            </ul>
+         </ul>
 <li class="log-month">March</li>
+    <ul class="log-entry">
+        <li class="log-day">25</li>
+          <ul>
+            <li class="log-item"><em>Stranger Things s01</em> <strong>T</strong> Not yet sure what all the fuss is about. I can't stand the cheap trick of sudden superloud noise = scary. Because it is.</li>
+          </ul>
+    </ul>
 <ul class="log-entry">
     <li class="log-day">23</li>
     <ul>
