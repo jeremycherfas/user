@@ -312,5 +312,20 @@ list-style: None;
 /* background-color: Green; */
 }
 
+/* For format of hours worked table */
+.worktable {
+	table-layout: fixed;
+	width: 100%;
+	white-space: nowrap;
+}
+
+.bigrow {
+width: 20%;
+}
+
+.smallrow {
+width: 10%;
+}
+
 
 

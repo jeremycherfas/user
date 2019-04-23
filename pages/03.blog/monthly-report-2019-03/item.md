@@ -35,21 +35,108 @@ Hard to operate with the previous calendar month in the Exist website, but steps
 
 Logged 158 hours for the month and worked on 27 of the 31 days. Looking back from a distance, I can't be sure what took that much time.
 
-|Month		|	Total		|	Daily		|	Admin %		|	ETP %		|Other %		|
-|-:		|:-:			|:-:			|:-:			|:-:			|:-:			|
-|	03		| 158			| 7.5			|44			|28		| 28 |
-|	02		| 121			| 6.0			|32			|42		| 26 |
-|	2019-01		| 95			| 5.4			|39			|13		| 48 |
-|	10		| 100			| 4.2			|41			|34		| 25 |
-|	09		| 131			| 6.5			|45			|23		| 32 |
-|	08		| 185			| 8.0			|14			|85		| 1 |
-|	07		| 68			| 5.25			|25			|63		| 12 |
-|	06		| 96			| 5.75			|34			|9		| 57 |
-|	05		| 151			| 6.0			|36			|20		| 44 |
-|	04		| 159			| 7.5			|29			|29		| 40 |
-|	2018-03		|	152		|		7.0	|	20		|	10	| 70 |
-
-
+<table class="worktable">
+<thead>
+<tr>
+<th style="text-align: right;" class="bigrow">Month</th>
+<th style="text-align: center;" class="bigrow">Total</th>
+<th style="text-align: center;" class="smallrow">Daily</th>
+<th style="text-align: center;"class="smallrow">Admin %</th>
+<th style="text-align: center;"class="smallrow">ETP %</th>
+<th style="text-align: center;"class="smallrow">Other %</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: right;">03</td>
+<td style="text-align: center;">158</td>
+<td style="text-align: center;">7.5</td>
+<td style="text-align: center;">44</td>
+<td style="text-align: center;">28</td>
+<td style="text-align: center;">28</td>
+</tr>
+<tr>
+<td style="text-align: right;">02</td>
+<td style="text-align: center;">121</td>
+<td style="text-align: center;">6.0</td>
+<td style="text-align: center;">32</td>
+<td style="text-align: center;">42</td>
+<td style="text-align: center;">26</td>
+</tr>
+<tr>
+<td style="text-align: right;">2019-01</td>
+<td style="text-align: center;">95</td>
+<td style="text-align: center;">5.4</td>
+<td style="text-align: center;">39</td>
+<td style="text-align: center;">13</td>
+<td style="text-align: center;">48</td>
+</tr>
+<tr>
+<td style="text-align: right;">10</td>
+<td style="text-align: center;">100</td>
+<td style="text-align: center;">4.2</td>
+<td style="text-align: center;">41</td>
+<td style="text-align: center;">34</td>
+<td style="text-align: center;">25</td>
+</tr>
+<tr>
+<td style="text-align: right;">09</td>
+<td style="text-align: center;">131</td>
+<td style="text-align: center;">6.5</td>
+<td style="text-align: center;">45</td>
+<td style="text-align: center;">23</td>
+<td style="text-align: center;">32</td>
+</tr>
+<tr>
+<td style="text-align: right;">08</td>
+<td style="text-align: center;">185</td>
+<td style="text-align: center;">8.0</td>
+<td style="text-align: center;">14</td>
+<td style="text-align: center;">85</td>
+<td style="text-align: center;">1</td>
+</tr>
+<tr>
+<td style="text-align: right;">07</td>
+<td style="text-align: center;">68</td>
+<td style="text-align: center;">5.25</td>
+<td style="text-align: center;">25</td>
+<td style="text-align: center;">63</td>
+<td style="text-align: center;">12</td>
+</tr>
+<tr>
+<td style="text-align: right;">06</td>
+<td style="text-align: center;">96</td>
+<td style="text-align: center;">5.75</td>
+<td style="text-align: center;">34</td>
+<td style="text-align: center;">9</td>
+<td style="text-align: center;">57</td>
+</tr>
+<tr>
+<td style="text-align: right;">05</td>
+<td style="text-align: center;">151</td>
+<td style="text-align: center;">6.0</td>
+<td style="text-align: center;">36</td>
+<td style="text-align: center;">20</td>
+<td style="text-align: center;">44</td>
+</tr>
+<tr>
+<td style="text-align: right;">04</td>
+<td style="text-align: center;">159</td>
+<td style="text-align: center;">7.5</td>
+<td style="text-align: center;">29</td>
+<td style="text-align: center;">29</td>
+<td style="text-align: center;">40</td>
+</tr>
+<tr>
+<td style="text-align: right;">2018-03</td>
+<td style="text-align: center;">152</td>
+<td style="text-align: center;">7.0</td>
+<td style="text-align: center;">20</td>
+<td style="text-align: center;">10</td>
+<td style="text-align: center;">70</td>
+</tr>
+</tbody>
+</table>
 
 ###Goals
 
