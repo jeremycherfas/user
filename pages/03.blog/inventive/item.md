@@ -21,6 +21,8 @@ summary:
 
 ![dough spread with prosciutto and sun-dried tomatoes](necci06.jpg){.center} 
 
+===
+
 When I joined the [secret confraternity of home bread bakers](/blog/stories-to-savour) back in the summer [of 2009], the restaurant Necci 1924 fed us a remarkable lunch to tide us over the rising of the bread. Among the items was the most delicious kind of savoury Chelsea bun, a spiral confection of soft bread, prosciutto, tomatoes and, maybe (though I don't remember) herbs like rosemary. I ate my fill, and lusted after more. But I didn't know what they were called. So I threw myself on the assembled wisdom of [The Fresh Loaf](http://www.thefreshloaf.com/node/14353/i-want-recipe-something-and-i-don039t-even-know-what-it-called), where Scott Hall emerged from the chaos with some recommendations.[^1]
 
 [^1]: Looking back now, the specific comment seems to have vanished. I have asked why.
