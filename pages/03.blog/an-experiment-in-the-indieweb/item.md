@@ -24,4 +24,4 @@ More news here when the experiment is ready for its close-up.
 
 [^1]: Or pay extra for them to deal with security and suchlike additionally.
 
-P.s. 3 January 2016: The experiment continues, still at [vaviblog.com(http://vaviblog.com) and raises questions. Will Grav be able to embrace Indieweb principles? Not much sign of that yet. And will I be able to resurrect the old contents of that site, possibly here?
+P.s. 3 January 2016: The experiment continues, still at [vaviblog.com](http://vaviblog.com) and raises questions. Will Grav be able to embrace Indieweb principles? Not much sign of that yet. And will I be able to resurrect the old contents of that site, possibly here?
