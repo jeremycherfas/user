@@ -1,7 +1,7 @@
 ---
 title: 'Clean clickety-clack keyboard'
 published: true
-date: '20-04-2010 16:30'
+date: '25-05-2019 16:56'
 taxonomy:
     category:
         - blog
