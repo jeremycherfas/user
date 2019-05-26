@@ -4,9 +4,9 @@ published: true
 date: 26-05-2019 08:11
 taxonomy:
 category:
-	- stream // My taxonomy; yours may differ
+	- stream
 tag:
-	- podcasts // My taxonomy, yours may differ
+	- podcasts
 summary:
 enabled: '0'
 header_image: '0'
