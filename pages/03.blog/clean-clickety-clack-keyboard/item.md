@@ -35,7 +35,7 @@ I carried on removing keys, using an old credit card to lever them up. The big o
 
 ![dirty keyboard with all keycaps removed](keyboard-filthy.png){.center} 
 
-With all the keys off it was a matter of carefully removing the accumulated cruft -- a mixture of dog hair, my hair and who knows what -- with a stiff brush and then, more carefully still, with a dampened Q-tip. There was a lot of it.
+With all the keys off it was a matter of carefully removing the accumulated cruft -- a mixture of dog hair, my hair and who knows what -- with a stiff brush and then, more carefully still, with a dampened Q-tip. There was a lot of it.
 
 ![accumulated grunge and dirty Q-tips](filth.png){.center} 
 
