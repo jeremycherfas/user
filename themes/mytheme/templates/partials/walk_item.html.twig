@@ -22,17 +22,17 @@
         </span>
             <h1 class="p-name"><a href="{{ page.url }}" class="u-url">{{ page.title }}</a></h1>
 
-			{% if page.header.subhead %} 
+			{% if page.header.subhead %}
 			<h2 class="subhead">
 				{{ page.header.subhead }}
 			</h2>
-			{% endif%} 
+			{% endif%}
 
     </div>
 
     <div class="list-blog-padding">
 
-        <span class="e-content">        
+        <span class="e-content">
             {{ page.content }}
         </span>
 <div class=”summarystats”>
@@ -72,7 +72,7 @@
     {% endif %}
 
     </div>
-    
+
 {% set myfile = ((page.url(true)) ~ '/' ~ page.header.datafilename )  %}
 
 <script>
@@ -82,7 +82,7 @@ var thefile = "{{ myfile }}"
 // Read the basic data
 $.getJSON(thefile, function(data) {
 var geojson = L.geoJson(data, {
- 	onEachFeature: function (feature, layer) { 
+ 	onEachFeature: function (feature, layer) {
  		layer.bindPopup(feature.properties.name); // There's something in there.
 	}
 });
@@ -97,11 +97,10 @@ var myTiles = L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?
 		'<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
 		'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
 	id: 'mapbox.streets'
-}); 
+});
 
 // Put it on the map
 	myTiles.addTo(map);
 	geojson.addTo(map);
 });
-</script> 
-   
+</script>
