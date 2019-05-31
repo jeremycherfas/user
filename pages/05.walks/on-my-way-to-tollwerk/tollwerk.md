@@ -20,7 +20,7 @@ The *bakerei* was open so I managed to get coffee and a sandwich. Unfortunately,
 
 <div id="mapid" style="width: 100%; height: 400px;"></div>
 
-Updated to check against Production
+
 
 
 
