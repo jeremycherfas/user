@@ -21,7 +21,7 @@ But I'm getting there (which is as it should be for mapping)
 
 <div id="mapid" style="width: 100%; height: 400px;"></div>
 
-Updated to check with production.
+
 
 
 
