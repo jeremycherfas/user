@@ -36,10 +36,10 @@
 NB No need for the map div in the template, because it is in the post.
 
  -->
-
         <span class="e-content">
             {{ page.content }}
         </span>
+{% if mytitle %}
 <div class=”summarystats”>
 <h2>Here are the details</h2>
 <p>What: {{ mytitle }}</p>
@@ -51,6 +51,7 @@ NB No need for the map div in the template, because it is in the post.
 {% endfor %}
 </ul>
 </div>
+{% endif %}
                     {% if page.taxonomy.tag %}
         <span class="tags">
             {% for tag in page.taxonomy.tag %}
