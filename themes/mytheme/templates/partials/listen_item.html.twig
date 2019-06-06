@@ -17,10 +17,14 @@
 			{% set thecontent = ( page.content | split('</p>') ) %}
 				<span class="e-content"> {{ page.content | split('</p>') | first }} </span>
 				<div class="my-ref" style="font-size:1.0em;">Listen <a href="{{page.header.theurl }}">here</a>.</div>
-				
+			{% set contentlength = 	(thecontent|length) %}
 			</div>
 			</div>
-			{{ thecontent[1] }}
+			{% for i in 1..contentlength %}
+			<p> 
+			{{ thecontent[i] }}
+			</p>
+			{% endfor %}
 			</article>
 			{% if page.taxonomy.tag %} <span class="tags"> {% for tag in page.taxonomy.tag %} <a href="{{ blog.url|rtrim('/') }}/tag{{ config.system.param_sep }}{{ tag }}" class="p-category">{{ tag }}</a> {% endfor %} </span> {% endif %} 
 
