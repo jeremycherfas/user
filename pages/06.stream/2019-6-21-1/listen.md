@@ -11,6 +11,6 @@ summary:
 enabled: '0'
 header_image: '0'
 theurl: https://percolator.today/redirect.php?url=https%3A%2F%2Fpercolator.today%2Fmedia%2FEpisode_24.mp3
-theimage: 
+theimage: artwork-resized.jpeg
 --- 
 Episode summary: A live interview on xray.fm in Portland where I talked about the IndieWeb
