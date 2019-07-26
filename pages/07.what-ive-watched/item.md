@@ -84,8 +84,6 @@ header_image: '1'
 <li class="log-day">08</li>
 <ul>
 <li class="log-item">Finished <em>Stranger Things S01</em> <strong>T</strong> Great fun, and the kids -- especially Eleven -- are just great. I still hate the loud noise = scary trope, but there's not much I can do about that. Will we watch S02? Not entirely a given at the moment.</li>
-</ul>
-<ul>
 <li class="log-item">Finished <em>Three Hands in the Fountain</em> <strong>B</strong> [Another jolly good Roman romp](https://www.jeremycherfas.net/reviews/three-hands-in-the-fountain).</li>
 </ul>
 </ul>
