@@ -8,18 +8,70 @@ header_image: '1'
 
 <!-- Outer List -->
 <ul class="log">
+<li class="log-month">July</li>
+
+<ul class="log-entry">
+<li class="log-day">25</li>
+<ul>
+<li class="log-item"><em>The Sheltering Sky</em> in Piazza San Cosimato <strong>F</strong> A show of two halves; the death of Port Moresby and Among the Tuareg. Beautifully shot, not too much in the way of good sense.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">22</li>
+<ul>
+<li class="log-item">Started watching <em>Stranger Things s03</em> and my, how the kids have grown up. <strong>T</strong> Some signs that success has gone to the Duffers' heads, via their wallets. The big, period set pieces are overdone, rather like what happened to Mrs Maisel.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">21</li>
+<ul>
+<li class="log-item">Finished watching <em>Years & Years</em> <strong>T</strong> The very end, with Edith's brain dump and re-animation, was possibly the weakest part of the show, but I suppose they had to offer some sort of hope. I'd pay money to see the current PM dressed in red and scuttling down a red corridor.</li>
+</ul>
+</ul> 
+
 <li class="log-month">June</li>
+
+<ul class="log-entry">
+<li class="log-day">25</li>
+<ul>
+<li class="log-item"><em>The Dead Don't Die</em>  <strong>F</strong> Absolutely wonderful genre-benre from Jim Jarmusch taking everything everyone knows about zombie movies and subverting it. Superb deadpan performances from Adam Driver and Bill Murray; Tilda Swinton is gloriously loopy; the whole thing a blast from start to (inevitable) finish. Concept reminded me a whole lot of Let The Right One In.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">23</li>
+<ul>
+<li class="log-item">Started watching <em>Years & Years</em> in iTunes <strong>T</strong> Wonderfully prescient, and terrific opening sequence of those few years passing by.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">22</li>
+<ul>
+<li class="log-item">Started watching <em>Designated Survivor S03</em> on Netflix <strong>T</strong> More heart-warming tosh, I'm glad to say.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">13</li>
+<ul>
+<li class="log-item"><em>The Name of the Rose</em> on Netflix <strong>T</strong> At last it's over, the huge budget spent, the fake snow swept away, the extras with interesting faces sent home. Alas, William of Baskerville did not utter the immortal "I expect you're wondering why I've asked you to gather in the library," but he should have.</li>
+</ul>
+</ul>
+
 <ul class="log-entry">
 <li class="log-day">05</li>
 <ul>
-<li class="log-item"><em>The Power of Metaphor</em> by Mike Hill <strong>Tk</strong> Really interesting, very detiled look at Joseph Campbell and Carl Gustav Jung in the movies especially, for me, in Jurassic Park, which I now want to see again.</li>
+<li class="log-item"><em>The Power of Metaphor</em> by Mike Hill <strong>Tk</strong> Really interesting, very detailed look at Joseph Campbell and Carl Gustav Jung in the movies especially, for me, in Jurassic Park, which I now want to see again.</li>
 </ul>
 </ul>
 <li class="log-month">May</li>
 <ul class="log-entry">
 <li class="log-day">30</li>
 <ul>
-<li class="log-item"><em>The Hare With Amber Eyes: A Hidden Inheritance</em> by Edmund de Waal <strong>B</strong> So. Very. Good.</li>
+<li class="log-item"><em>The Hare With Amber Eyes: A Hidden Inheritance</em> by Edmund de Waal <strong>B</strong> [So. Very. Good.](https://www.jeremycherfas.net/reviews/the-hare-with-amber-eyes)</li>
 </ul>
 </ul>
 <ul class="log-entry">
