@@ -181,6 +181,11 @@ img.right {
     padding-left: 1em;
      }
 
+.cover {
+	float: left 
+}
+
+
 /* Module shading */
 .white {
 	background-color: #fff;
