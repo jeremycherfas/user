@@ -43,7 +43,7 @@ form:
               toggleable: true
               label: Image File
               help: image filename that exists in the page folder. If not provided, will use the first image found.
-              placeholder: For example: myimage.jpg
+              placeholder: "For example: myimage.jpg"
 
             header.header_image_width:
               type: text
@@ -89,7 +89,7 @@ form:
               label: Format
               classes: fancy
               options:
-                'short': 'Use the first occurence of delimter or size'
+                'short': 'Use the first occurence of delimiter or size'
                 'long': 'Summary delimiter will be ignored'
 
             header.summary.size:
