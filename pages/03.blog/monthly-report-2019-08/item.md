@@ -42,6 +42,8 @@ Tagged reading on 27 of the 31 days, and [some fun books](https://www.jeremycher
 
 Mood average dropped from 4.7 on 4 August to 4.4 on 1 September. Doesn't feel too bad. And although I don't deeply analyse what I've done each day, the word frequencies for each of my mood ratings is quite fun.[^1]
 
+![Chart of the words associated with mood ranks](mood.png%20.png){.center} 
+
 [^1]: I should note that I seem to have a horribly sunny disposition; only 5% of my days rank a 3, with 4s and 5s making up 90%. The remainder I failed to rank.
 
 ##Work
