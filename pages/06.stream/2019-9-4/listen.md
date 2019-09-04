@@ -7,6 +7,7 @@ category:
 	- stream
 tag:
 	- podcasts
+	- reviews
 summary:
 enabled: '0'
 header_image: '0'
@@ -14,3 +15,8 @@ theurl: https://play.podtrac.com/npr-510289/edge1.pod.npr.org/anon.npr-mp3/npr/p
 theimage: artwork-resized.png
 --- 
 Episode summary: How to get the best value from the salad bar? Why do Americans refrigerate their eggs? What’s the deal with Choco Pies? It’s the food edition of listener questions.
+
+I don't recall asking for this myself, and Lord knows there's enough one can say about food and economics without this level of absurdity. Indeed, Planet Money used to do a really good job of that.
+
+I'm outta here, after a long, long time, and on the hunt for a new way to learn about economics.
+
