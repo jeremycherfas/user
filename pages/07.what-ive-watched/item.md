@@ -4,6 +4,126 @@ visible: false
 enabled: '0'
 header_image: '1'
 ---
+<ul class="log">
+<li class="log-month">August</li>
+
+<ul class="log-entry">
+<li class="log-day">31</li>
+<ul>
+<li class="log-item">Watched <em>Blinded by the Light</em> at the Nuovo Olympia <strong>F</strong> Two fairy tales in one week. My cup runneth over. Great movie, well done. I wonder what the rest of the world will make of Luton?</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">29</li>
+<ul>
+<li class="log-item">Started watching <em>When they see us</em> on Netflix <strong>T</strong> Harrowing</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">28</li>
+<ul>
+<li class="log-item">Started watching <em>Diagnosis</em> On Netflix <strong>T</strong> A little too "emotional" for my taste, but that goes with the territory.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">27</li>
+<ul>
+<li class="log-item">Finished watching <em>Designated Survivor s03</em> on Netflix <strong>F</strong> Still tosh, still entertaining.</li>
+<li class="log-item">Started reading <em>The Crooked Scythe</em> by George Ewart Evans <strong>B</strong> </li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">26</li>
+<ul>
+<li class="log-item">Watched <em>The Biggest Little Farm</em> outdoors at the Nuovo Sacher <strong>F</strong> A fairy story for grownups, and enjoyable for all that. But they aren't the first, and, I hope, won't be the last. I'd love to see the balance sheet though.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">25</li>
+<ul>
+<li class="log-item">Watched <em>The Man Who Would Be King</em> on iTunes <strong>F</strong> and a very watchable epic it was too. <a href="https://www.jeremycherfas.net/blog/by-jingo-i-do-enjoy-kipling">By Jingo, I do enjoy Kipling</a>.
+<li class="log-item">Watched <em>The World-wide Work</em> by Ethan Marcotte at New Adventures conference <strong>Tk</strong> Extremely interesting, though <a href="https://www.jeremycherfas.net/blog/time-for-a-talk">I disagree on one, fairly small, point</a>.
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">24</li>
+<ul>
+<li class="log-item">Finished reading <em>The Man Who Would Be King</em> by Rudyard Kipling <strong>B</strong> Very enjoyable, although one problem with Gutenberg editions is the lack of explanatory footnotes. Things Kipling could take as read, I couldn't always fathom from context.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">23</li>
+<ul>
+<li class="log-item">Started reading <em>The Man Who Would Be King</em> by Rudyard Kipling, from Gutenberg  <strong>B</strong></li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">21</li>
+<ul>
+<li class="log-item">Finished reading <em>The Appian Way: Ghost Road, Queen of Roads </em>by Robert A. Kaster <strong>B</strong> Very entertaining; a lot of learning, lightly worn, delightfully transmitted.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">17</li>
+<ul>
+<li class="log-item">Watched <em>Baby Driver </em>on Netflix <strong>F</strong> This I had seen before, on a flight, and loved it then. But the Main Squeeze had not. Is this *The Princess Bride* for boys? (We both enjoyed both, a lot, so do not take this as a serious genedered comment.) Great soundtrack, great chases, good resolution, if a little fabulous.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">16</li>
+<ul>
+<li class="log-item">Watched <em>The Princess Bride </em> on Netflix <strong>F</strong> I know, how can I not have already seen this? But I hadn't. Now I have. And it was delightful.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">13</li>
+<ul>
+<li class="log-item">Started reading <em>The Appian Way: Ghost Road, Queen of Roads </em>by Robert A. Kaster <strong>B</strong></li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">12</li>
+<ul>
+<li class="log-item">Finished reading <em>Kim</em> by Rudyard Kipling <strong>B</strong> Comment tk</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">11</li>
+<ul>
+<li class="log-item">Finished watching <em>Stranger Things s03</em> on Netflix <strong>T</strong> Cracking good stuff, and for all the money sloshing about that I moaned about before, very well done. I'm still a bit dubious about the Mindflayer's biomechanics, but that's almost certainly just me. The final tease sequence suggests the vague possibility that Hopper endures, which will be interesting if, as rumours suggest, he may have to face Eleven in s04.</li>
+</ul>
+</ul> 
+
+<li class="log-month">July</li>
+
+<ul class="log-entry">
+<li class="log-day">29</li>
+<ul>
+<li class="log-item">Watched <em>Vice</em> on iTunes  <strong>F</strong> Very weird, very entertaining, and overall quite scary.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">28</li>
+<ul>
+<li class="log-item">Finished reading <em>Love Among the Chickens</em> by P.G. Wodehouse, from Gutenberg. <strong>B</strong> Entertaining, slight romp; not enough about chickens (and especially not about <a href="https://cdnc.ucr.edu/cgi-bin/cdnc?a=d&amp;d=PRP18841227.2.7.2&amp;e=-------en--20--1--txt-txIN--------1">roup and how to treat it</a>
+). More to the point, <a href="https://www.jeremycherfas.net/reviews/love-among-the-chickens">Ukridge is Johnson</a>
+.</li>
+</ul>
+</ul>
 
 <ul class="log">
 <li class="log-month">July</li>
