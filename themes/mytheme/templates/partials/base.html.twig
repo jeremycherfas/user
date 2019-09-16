@@ -80,6 +80,8 @@
         </footer>
         {% endblock %}
     </div>
+    {% block bottom %}
+        {{ assets.js('bottom') }}
     {% block sidebar_navigation %}
         <div class="sb-slidebar sb-left sb-width-thin">
             <div id="panel">
@@ -87,8 +89,7 @@
             </div>
         </div>
     {% endblock %}
-    {% block bottom %}
-        {{ assets.js('bottom') }}
+	
         <script>
         $(function () {
             $(document).ready(function() {
@@ -99,6 +100,7 @@
             });
         });
         </script>
+
     {% endblock %}
 </body>
 </html>
