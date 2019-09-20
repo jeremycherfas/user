@@ -34,6 +34,6 @@ Little-known fact: Levy's original study was funded by the Animal Health Institu
 
 Amen.
 
-Eat This Podcast's episode [Antibiotics and agriculture](https://www.eatthispodcast.com/antibiotics-and-agriculture/) examined this history of antibiotics on farms and one possible solution.
+! Eat This Podcast's episode [Antibiotics and agriculture](https://www.eatthispodcast.com/antibiotics-and-agriculture/) examined this history of antibiotics on farms and one possible solution.
 
 ! Syndicated from [Eat This Podcast](https://www.eatthispodcast.com/antibiotic-resistance-in-livestock-high-and-growing/)

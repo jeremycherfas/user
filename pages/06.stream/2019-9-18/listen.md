@@ -14,3 +14,5 @@ theurl: https://www.podtrac.com/pts/redirect.mp3/audio.wnyc.org/radiolab_podcast
 theimage: artwork-resized.jpg
 --- 
 Episode summary: 
+
+That empty Episode summary, as provided by the Radiolab, more or less sums up the episode, for me. I don't know why, but I just don't get on with Radiolab, no matter how often I try. So I may stop trying even when the topic interests me.
