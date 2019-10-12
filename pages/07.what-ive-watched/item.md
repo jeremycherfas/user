@@ -171,13 +171,10 @@ header_image: '1'
 <li class="log-day">28</li>
 <ul>
 <li class="log-item">Finished reading <em>Love Among the Chickens</em> by P.G. Wodehouse, from Gutenberg. <strong>B</strong> Entertaining, slight romp; not enough about chickens (and especially not about <a href="https://cdnc.ucr.edu/cgi-bin/cdnc?a=d&amp;d=PRP18841227.2.7.2&amp;e=-------en--20--1--txt-txIN--------1">roup and how to treat it</a>
-). More to the point, <a href="https://www.jeremycherfas.net/reviews/love-among-the-chickens">Ukridge is Johnson</a>
-.</li>
+). More to the point, <a href="https://www.jeremycherfas.net/reviews/love-among-the-chickens">Ukridge is Johnson</a>.</li>
 </ul>
 </ul>
 
-<ul class="log">
-<li class="log-month">July</li>
 <ul class="log-entry">
 <li class="log-day">25</li>
 <ul>
