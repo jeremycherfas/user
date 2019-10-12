@@ -5,6 +5,57 @@ enabled: '0'
 header_image: '1'
 ---
 <ul class="log">
+<li class="log-month">September</li>
+
+<ul class="log-entry">
+<li class="log-day">29</li>
+<ul>
+<li class="log-item">Started watching <em>Diagnosis s01</em> on Netflix <strong>T</strong> Interesting, although I find it too "emotional" and not enough about actual diagnosis. I'm sure I'm in a minority.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">26</li>
+<ul>
+<li class="log-item">Started watching <em>Jack Taylor s01</em> on Netflix <strong>T</strong> Rather good Irish rogue cop with drinking and family problems.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">22</li>
+<ul>
+<li class="log-item">Watched <em>Dogtown and Z-boys</em> on iTunes <strong>F</strong> It had been on my list for a long time, and now that I've seen it, I'm very glad I have. Such fun, and terrifying.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">20</li>
+<ul>
+<li class="log-item">Finished <em>The Spy</em> on Netflix <strong>T</strong> Really excellent, and in a way I'm glad we were told how it would end. The muted tones of the Israeli scenes were very good. Sacha Baron Cohen was terrifically impressive.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">16</li>
+<ul>
+<li class="log-item">Started watching <em>The Bletchley Circle San Francisco s01</em> on Netflix <strong>T</strong> Rather good period stuff, a bit anachronistic in places, but ripping good fun.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">09</li>
+<ul>
+<li class="log-item">Watched <em>The Spy e01</em> on Netflix <strong>T</strong> Promising. Sacha Baron Cohen is very good</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">08</li>
+<ul>
+<li class="log-item">Watched <em>American Factory</em> on Netflix <strong>F</strong> Solid, straightforward treatment; no surprises, no prognostications.</li>
+</ul>
+</ul>
+
 <li class="log-month">August</li>
 
 <ul class="log-entry">
