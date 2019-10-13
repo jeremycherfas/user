@@ -23,7 +23,7 @@ And then, just moments ago, I revisited something I wrote 13 years ago: [Take pr
 
 And then, a final strange connection. Last night I happened to read an [article in The New Yorker about a former Economist journalist called Jonathan Ledgard](https://www.newyorker.com/magazine/2019/09/23/jonathan-ledgard-believes-imagination-could-save-the-world). And blow me if that article didn't trumpet one of Ledgard's passel of huge ideas:
 
-> Many species are at risk of local extinction because they have no independent means to change their financial value," Ledgard explained. The goals is to "pick a local spcies that is threatened with extinction, give it some financial agency in the world, and then work out how the value that it holds can be distrobuted to the local human community."
+> "Many species are at risk of local extinction because they have no independent means to change their financial value," Ledgard explained. The goals is to "pick a local species that is threatened with extinction, give it some financial agency in the world, and then work out how the value that it holds can be distributed to the local human community."
 
 > A few months later, Ledgard called me to say that he had refined the concept to focus on the promotion of insect life on European farms.
 
