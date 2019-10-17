@@ -1,0 +1,39 @@
+<svg version="1.1"
+     baseProfile="full"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:ev="http://www.w3.org/2001/xml-events"
+     width="100%" height="100%"
+     onload='draw()'>
+  <script><![CDATA[
+    function draw() {
+        var parts = [], mx = -99999999, mn = 9999999;
+        svgRoot = document.getElementsByTagName("svg")[0]
+        var ln = document.createElementNS ("http://www.w3.org/2000/svg", "polyline");
+        var x=0;
+        location.search.substr(1).split(",").forEach(function(n) {
+            if (n !=='') {
+                var y = parseInt(n, 10);
+                var pt = svgRoot.createSVGPoint();
+                pt.x = x;
+                pt.y = y;
+                ln.points.appendItem(pt);
+                mx = Math.max(mx, y);
+                mn = Math.min(mn, y);
+                x=x+1;
+            }
+        });
+        ln.setAttribute("stroke", "#e15e0e");
+        ln.setAttribute("stroke-width", "0.5%");
+        ln.setAttribute("fill","none");
+        var height = mx-mn+1; 
+        var width = x;
+        var offset = height+mn*2; // flip co-ordinates and move back into frame
+        ln.setAttribute("transform","matrix(1 0 0 -1 0 " + offset +")");
+        svgRoot.appendChild(ln);
+        svgRoot.setAttribute("viewBox","0 " + mn +" "+ width + " " + height);
+        svgRoot.setAttribute("preserveAspectRatio","none");
+    }   
+     
+  ]]></script>
+</svg>

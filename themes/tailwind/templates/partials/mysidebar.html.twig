@@ -1,0 +1,58 @@
+{% set feed_url = blog.url == '/' or blog.url == base_url_relative ? (base_url_relative~'/'~blog.slug) : blog.url %}
+{% set new_base_url = blog.url == '/' ? '' : blog.url %}
+
+<div class="sidebar flex-col my-4 border-solid border-t-2 border-gray-600 md:w-1/3 md:ml-12 md:mt-0 md:border-t-0 md:border-l-2 ">
+
+<div class="hidden md:block mt-4">
+<h3 class="text-center">Search</h3>
+        <div class="searchbox z-40 bg-white opacity-100 pt-2 pb-2">
+            <div class="flex justify-center items-center">
+                {% include 'partials/simplesearch_searchbox.html.twig' %}
+            </div>
+        </div> <!-- end searchbox -->
+</div>
+
+{% if config.plugins.twigfeeds.enabled %}
+<div class="sidebar-content">
+<div class="stream ">
+<h3 class="text-center">Stream</h3>
+
+{% for name, feed in twig_feeds if name == 'Stream' %}
+    {% for item in feed.items %}
+        <div class="flex flex-row text-lg px-2 md:px-4">
+            <time class="w-1/4 text-base flex-shrink-0">{{ item.date.date|nicetime(false) }}</time><a class=" " href="{{ item.url }}">{{ item.title }}</a>
+        </div>
+
+    {% endfor %}
+{% endfor %}
+</div>
+
+</div>
+{% endif %}
+
+{{ page.find('/modules/sidebar').content|raw }}
+
+{% if config.plugins.archives.enabled %}
+<div class="sidebar-content">
+    <h3>{{ 'THEME_QUARK.SIDEBAR.ARCHIVES.HEADLINE'|t }}</h3>
+	{% include 'partials/archives.html.twig' with {'base_url':new_base_url} %}
+</div>
+{% endif %}
+
+{% block spammers %}
+
+{% include 'partials/sparklines.html.twig' %}
+
+{% endblock %}
+
+{% if config.plugins.feed.enabled %}
+
+    <h3 class="text-center">Feeds</h3>
+<div class="feeds flex flex-row justify-center pb-2">
+    <a class=" hover:bg-transparent" href="{{ feed_url }}.atom"><div class=" flex-shrink-0 hover:bg-orange-200 text-orange-700 hover:text-blue-700 py-2 px-4 md:mx-4 border border-blue-700 hover:border-orange-700 rounded md:text-lg">Atom 1.0</div></a>
+    <a class="class="flex-shrink-0 hover:bg-transparent" href="{{ feed_url }}.rss"><div class="hover:bg-orange-200 text-orange-700 hover:text-blue-700 py-2 px-4 mx-2 md:mx-4 border border-blue-700 hover:border-orange-700 rounded md:text-lg">RSS</div></a>
+    {% if config.plugins.feed.enable_json_feed %}<a class="class="hover:bg-transparent" href="{{ feed_url }}.json"><div class="flex-shrink-0 hover:bg-orange-200 text-orange-700 hover:text-blue-700 py-2 px-4 md:mx-4 border border-blue-700 hover:border-orange-700 rounded md:text-lg">JSON</div></a>{% endif %}
+</div>
+
+{% endif %}
+</div>
