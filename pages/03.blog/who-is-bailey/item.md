@@ -14,7 +14,7 @@ image: who-is-bailey.jpg
 
 *In the process of bringing over old posts from previous sites, I''ve come across old reviews. They''re not the same as the more recent ones, but I want to preserve them nevertheless. This was originally published on 1 June 2013.*
 
-#Who is Bailey?
+###Who is Bailey?
 
 We'll never know. All we know is that Lionel Essrog can't help shouting "EatmeBailey" at inopportune moments. And much else besides. Essrog, you see, has Tourette's Syndrome. And is a wannabe detective. 
 

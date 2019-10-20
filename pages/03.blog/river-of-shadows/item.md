@@ -37,8 +37,6 @@ It is in these final pages that she ties a final ribbon on the braid, noting tha
 
 > The world seems run from Silicon Valley now, run by engineers whose decisions affect us all, those engineers whose constant question is never why, but only how.
 
-</div>
-
 <div class="citation">
 Solnit, Rebecca. <i>River of Shadows: Eadweard Muybridge and the Technological Wild West</i>. Viking Penguin, 2013.
 </div>

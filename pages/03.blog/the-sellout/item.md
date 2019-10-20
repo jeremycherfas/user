@@ -187,7 +187,5 @@ As a footnote, I really want to understand the role of agriculture in the lives 
 |:-|:-|
 |hikikomori|    A nice word. but is it more than an antiisocial loner?|
 
-</div>
-
 | <a href="https://www.goodreads.com/review/show/1814268201">My review on Goodreads.</a> | [Buy it on Amazon](http://amzn.to/2nSgRFv) |
 |:- | -: |

@@ -26,19 +26,17 @@ The Circle was published in 2013, and five years on the slightly more intrusive 
 
 Here's one from The Circle:
 
-<blockquote>Why was there so much animosity in the world? And then it occurred to her, in a brief and blasphemous flash: she didn’t want to know how they felt.</blockquote>
+> Why was there so much animosity in the world? And then it occurred to her, in a brief and blasphemous flash: she didn’t want to know how they felt.
 
 And one from SSTLS:
 
-<blockquote>I had no idea that some unknown individual or group of individuals would breach my privacy and Eunice’s to pillage our GlobalTeens accounts and put together the text you see on your screen.</blockquote>
+ >I had no idea that some unknown individual or group of individuals would breach my privacy and Eunice’s to pillage our GlobalTeens accounts and put together the text you see on your screen.
 
 Nice touch that, given that I was in fact reading on my Kindle.
 
 In the end, though, I found it hard to believe that even a big, evil corporation would be able to blow a Staten Island ferry out of the water, and therefor not nearly as engaged with the future of SSTLS. That a big, evil corporation could know more about me and my friends than I know myself, that it could create no hiding place for corruption while becoming utterly corrupt itself, that is all too believable. 
 
 Having finished both books in quick succession, I thought I had done with this sort of thing for a fair old while. Enough is enough. However, I then made the mistake of chatting about both books with yet another friend whose opinion I trust, and now I have a reading list of four titles, all pretty well-known to people who like this sort of thing. I may yet get round to them.
-
-</div>
 
 <div class="citation">
 Eggers, Dave. <i>The Circle (Penguin Essentials)</i>. Penguin Books Ltd, 2013. Kindle edition.

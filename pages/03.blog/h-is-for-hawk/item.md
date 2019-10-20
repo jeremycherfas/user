@@ -87,7 +87,6 @@ There are so many bits of writing -- sentences, phrases -- that I could have not
 </div>
 <div class="noteText">
     The deer in procession resemble charcoal cave paintings rendered manifest. Art’s magic working backwards.
-</div>
         
 </div>
 <div class="noteHeading">

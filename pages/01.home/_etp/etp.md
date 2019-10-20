@@ -9,7 +9,7 @@ title: 'ETP'
 <div class="mb-4 md:flex md:flex-row md:items-start md:justify-between md:w-3/4 md:mx-auto md:mb-8">
 
 <div class="hidden md:px-4 md:object-contain md:block md:flex-grow md:w-1/3 md:shadow-xl ">
-<img class=" " src="http://localhost:8888/grav-quark/user/themes/tailwind/images/citrus-repeat-cover.png" alt="james beard medal">
+<img class=" " src="/grav-admin/user/themes/tailwind/images/citrus-repeat-cover.png" alt="james beard medal">
 </div>
 
 <div class="text-sm md:text-xl pl-2 md:mr-4 md:ml-2 md:w-2/3 ">
