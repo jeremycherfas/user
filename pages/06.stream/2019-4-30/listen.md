@@ -11,6 +11,8 @@ summary:
 enabled: '0'
 header_image: '0'
 theurl: https://traffic.megaphone.fm/DGT6728713241.mp3
-theimage: artwork-resized.png
---- 
+image: artwork-resized.png
+template: item
+---
+ 
 Episode summary: Everyone hates grammar and ethics cops. Until they need one.

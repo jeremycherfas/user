@@ -11,6 +11,8 @@ summary:
     enabled: '0'
 header_image: '0'
 theurl: https://overcast.fm/+Dob21SqtM
-theimage: artwork-resized.png
---- 
+image: artwork-resized.png
+template: item
+---
+ 
 Episode summary: A sample of my new podcast

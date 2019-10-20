@@ -11,8 +11,10 @@ summary:
 enabled: '0'
 header_image: '0'
 theurl: https://overcast.fm/+HuIifSIMs
-theimage: artwork-resized.png
---- 
+image: artwork-resized.png
+template: item
+---
+ 
 Episode summary: The story behind two sneaky forces that drive us to buy more products, more often: Planned obsolescence and psychological obsolescence.
 
 Interesting enough episode, but for some reason I found the mix annoying. Too much of it, and too far forward.

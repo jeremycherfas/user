@@ -11,6 +11,8 @@ summary:
 enabled: '0'
 header_image: '0'
 theurl: https://overcast.fm/+HuIhrsfS0
-theimage: artwork-resized.png
---- 
+image: artwork-resized.png
+template: item
+---
+ 
 Episode summary: Thieves are stealing billions of dollars worth of gasoline in Mexico. The President is taking drastic action to cut them off, and it comes at a serious cost. Content warning: Audio of deadly pipeline explosion.

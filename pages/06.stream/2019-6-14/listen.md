@@ -11,6 +11,8 @@ summary:
 enabled: '0'
 header_image: '0'
 theurl: https://leopard.megaphone.fm/DGT8789092879.mp3?updated=1559698156
-theimage: artwork-resized.jpg
---- 
+image: artwork-resized.jpg
+template: item
+---
+ 
 Episode summary: Revisionist History presents Solvable, a new show from Pushkin Industries and the Rockefeller Foundation that showcases the world’s most innovative thinkers and their ideas about how to solve the world’s most daunting problems. The interviews, conducted by journalists like Malcolm Gladwell and Jacob Weisberg, dive into the complexity of issues like maternal mortality, food waste, and viral disinformation, while inspiring hope that such immense problems are, in fact, solvable.In episode one, Malcolm Gladwell talks to Rosanne Haggerty about ending homelessness for everyone. Forever.

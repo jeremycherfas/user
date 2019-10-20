@@ -11,6 +11,8 @@ summary:
 enabled: '0'
 header_image: '0'
 theurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automatorsrelay/automators020.mp3
-theimage: artwork-resized.jpg
---- 
+image: artwork-resized.jpg
+template: item
+---
+ 
 Episode summary: Brett Terpstra, the mad scientist automator, joins to talk about how he got started in automation and share some great workflows for keyboard and trackpad automation, extending automation to your home, and more.

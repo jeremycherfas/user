@@ -11,6 +11,8 @@ summary:
     enabled: '0'
 header_image: '0'
 theurl: https://overcast.fm/+D0B--XrVg
-theimage: artwork-resized.png
---- 
+image: artwork-resized.png
+template: item
+---
+ 
 Episode summary: Dinner under Pressure

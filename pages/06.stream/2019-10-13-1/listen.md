@@ -11,6 +11,8 @@ summary:
 enabled: '0'
 header_image: '0'
 theurl: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07q4gsj.mp3
-theimage: artwork-resized.png
---- 
+image: artwork-resized.png
+template: item
+---
+ 
 Episode summary: Are the shocking statistics true? and how do you count people who don’t wish to be found?

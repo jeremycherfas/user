@@ -11,6 +11,8 @@ summary:
 enabled: '0'
 header_image: '0'
 theurl: http://gimletmedia.com/shows/reply-all
-theimage: artwork-resized.jpg
---- 
+image: artwork-resized.jpg
+template: item
+---
+ 
 Episode summary: We’ll be taking calls from listeners about all of your tech questions big and small, two times this week! Wednesday, March 20th from 4-6 Thursday, March 21st from 12-2Call us at (862) 205-3275!

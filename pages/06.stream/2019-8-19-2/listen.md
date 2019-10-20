@@ -11,6 +11,8 @@ summary:
 enabled: '0'
 header_image: '0'
 theurl: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07k74wj.mp3
-theimage: artwork-resized.png
---- 
+image: artwork-resized.png
+template: item
+---
+ 
 Episode summary: Do immigrants commit more crime than native-born Americans in the United States?

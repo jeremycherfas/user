@@ -11,6 +11,8 @@ summary:
 enabled: '0'
 header_image: '0'
 theurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automatorsrelay/automators029.mp3
-theimage: artwork-resized.jpg
---- 
+image: artwork-resized.jpg
+template: item
+---
+ 
 Episode summary: In this episode David and Rose talk to Adam Tow. From having photos taken on his DLSR automatically shared to him via iMessage to playing text adventure games with Shortcuts, there is plenty of automation fun to be had!

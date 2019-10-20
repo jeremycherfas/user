@@ -11,6 +11,8 @@ summary:
 enabled: '0'
 header_image: '0'
 theurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automatorsrelay/automators030.mp3
-theimage: artwork-resized.jpg
---- 
+image: artwork-resized.jpg
+template: item
+---
+ 
 Episode summary: Rose and David share some of their favorite recently created automations ranging from email, to meetings, to Rose’s experiments on her new Mac mini.

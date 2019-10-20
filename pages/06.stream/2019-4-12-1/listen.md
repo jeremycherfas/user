@@ -11,8 +11,10 @@ summary:
 enabled: '0'
 header_image: '0'
 theurl: 
-theimage: artwork-resized.jpg
---- 
+image: artwork-resized.jpg
+template: item
+---
+ 
 Episode summary: 
 
 Hmm. Still not regularly getting show info out of Huffduffer, nor do I seem able to update my Avatar there. Hey ho.

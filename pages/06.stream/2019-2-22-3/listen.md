@@ -11,6 +11,8 @@ summary:
     enabled: '0'
 header_image: '0'
 theurl: https://overcast.fm/+LXDGVQ84Q
-theimage: artwork-resized.jpg
---- 
+image: artwork-resized.jpg
+template: item
+---
+ 
 Episode summary: A young politician ruins a promising career with numerous financial and sexual scandals. Prelude: The unsolved murder of Tamara Greene.Learn more about your ad choices. Visit megaphone.fm/adchoices

@@ -11,6 +11,8 @@ summary:
     enabled: '0'
 header_image: '0'
 theurl: https://overcast.fm/+NG9JYQ9B0
-theimage: artwork-resized.png
---- 
+image: artwork-resized.png
+template: item
+---
+ 
 Episode summary: Malcolm Gladwell sits down with comedian, guitarist, and legendary metalhead Dave Hill, as he recounts how an email exchange between his alter ego Lance and a Norwegian black metal impresario named Saiitham (pronounced “satan”) led to the formation of the darkest metal band of all time. Dave Hill also performs a mediocre rendition of “Hammer Smashed Face,” plus we debut his single “Are You Ready (to Black Metal)?”Learn more about your ad choices. Visit megaphone.fm/adchoices

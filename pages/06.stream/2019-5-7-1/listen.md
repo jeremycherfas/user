@@ -11,6 +11,8 @@ summary:
 enabled: '0'
 header_image: '0'
 theurl: https://traffic.megaphone.fm/DGT1328889228.mp3
-theimage: artwork-resized.png
---- 
+image: artwork-resized.png
+template: item
+---
+ 
 Episode summary: The authenticator ref absolves everyone of blame. And sometimes generates money out of thin air.

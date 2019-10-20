@@ -11,6 +11,8 @@ summary:
 enabled: '0'
 header_image: '0'
 theurl: https://traffic.megaphone.fm/DGT4682432063.mp3
-theimage: artwork-resized.png
---- 
+image: artwork-resized.png
+template: item
+---
+ 
 Episode summary: What kind of person makes a neutral referee? It’s not the kind of person you think.

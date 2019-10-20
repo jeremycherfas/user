@@ -11,6 +11,8 @@ summary:
 enabled: '0'
 header_image: '0'
 theurl: https://overcast.fm/+FIOXanknI
-theimage: artwork-resized.png
---- 
+image: artwork-resized.png
+template: item
+---
+ 
 Episode summary: “How attached are you to the idea of being white?” Chenjerai Kumanyika puts that question to host John Biewen, as they revisit an unfinished conversation from a previous episode. Part 7 of our series, Seeing White.

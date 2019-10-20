@@ -11,6 +11,8 @@ summary:
 enabled: '0'
 header_image: '0'
 theurl: https://traffic.megaphone.fm/GLT6743488325.mp3?updated=1570130265
-theimage: artwork-resized.png
---- 
+image: artwork-resized.png
+template: item
+---
+ 
 Episode summary: It’s the spring of 2018, four years after Alex and Matt launched Gimlet, and things are not going well. Audiences are flat, ad sales are flagging, and the company is burning through cash at an alarming rate. And with all of those pressures, Alex and Matt have started to fight.

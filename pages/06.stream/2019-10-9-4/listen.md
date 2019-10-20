@@ -11,6 +11,8 @@ summary:
 enabled: '0'
 header_image: '0'
 theurl: https://rss.art19.com/episodes/3dd82a2d-fc68-46bb-b94f-1ad66310ab26.mp3
-theimage: artwork-resized.jpg
---- 
+image: artwork-resized.jpg
+template: item
+---
+ 
 Episode summary: 

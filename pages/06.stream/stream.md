@@ -17,6 +17,8 @@ feed:
     description: 'Stream from Jeremy Cherfas'
     limit: 10
 pagination: true
+template: item
 ---
+
 
 

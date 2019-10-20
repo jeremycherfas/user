@@ -11,6 +11,8 @@ summary:
 enabled: '0'
 header_image: '0'
 theurl: http://media.phoneboy.com/ps/ps1197.mp3
-theimage: artwork-resized.png
---- 
+image: artwork-resized.png
+template: item
+---
+ 
 Episode summary: 

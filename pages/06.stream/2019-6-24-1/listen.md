@@ -11,6 +11,8 @@ summary:
 enabled: '0'
 header_image: '0'
 theurl: https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/memory/1148a693-9645-44a6-8d8b-8b3b857edec2/thememorypalace.mp3
-theimage: artwork-resized.jpg
---- 
+image: artwork-resized.jpg
+template: item
+---
+ 
 Episode summary: As on every year, here is an episode I released a few days after the murders at the Pulse Nightclub in Orlando, Florida on June 12, 2016.

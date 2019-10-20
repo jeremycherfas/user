@@ -11,6 +11,8 @@ summary:
     enabled: '0'
 header_image: '0'
 theurl: https://overcast.fm/+JlGxkl_g0
-theimage: artwork-resized.png
---- 
+image: artwork-resized.png
+template: item
+---
+ 
 Episode summary: Coming up next on Showcase: The Stoop. The Stoop celebrates black joy, digging deeper into stories about blackness that we don’t hear enough about. Hosts Leila Day and Hana Baba bring you honest, lively conversations from across the black diaspora. The Stoop is produced and hosted by Leila Day and Hana Baba, edited by Julie Caine, engineered by Seth Samuel, and associate produced by Jessica Jupiter. Music by Daoud Anthony and artwork by Neema Iyer. Special thanks to KALW, the NPR Story Lab , and California Humanities. Find out more at radiotopia.fm/showcase.

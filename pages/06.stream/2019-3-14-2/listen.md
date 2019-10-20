@@ -11,6 +11,8 @@ summary:
     enabled: '0'
 header_image: '0'
 theurl: https://overcast.fm/+LXDEyZ8Ls
-theimage: artwork-resized.jpg
---- 
+image: artwork-resized.jpg
+template: item
+---
+ 
 Episode summary: The FBI turns to a career con artist to assist with an undercover sting operation that ensnares multiple members of the United States Congress. Prelude: Mel Weinberg’s lifetime of scams finally catches up with him.Learn more about your ad choices. Visit megaphone.fm/adchoices

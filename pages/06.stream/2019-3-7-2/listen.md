@@ -11,6 +11,8 @@ summary:
     enabled: '0'
 header_image: '0'
 theurl: https://overcast.fm/+NvaLFJu6E
-theimage: artwork-resized.jpg
---- 
+image: artwork-resized.jpg
+template: item
+---
+ 
 Episode summary: Web programmer John Siracusa joins the Automators to share his thoughts on automation workflows, the best programming language for automation, and how automating your Mac desktop can become a road to madness.

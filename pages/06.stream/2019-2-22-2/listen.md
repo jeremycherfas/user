@@ -11,6 +11,8 @@ summary:
     enabled: '0'
 header_image: '0'
 theurl: https://overcast.fm/+NvaKUaT-I
-theimage: artwork-resized.jpg
---- 
+image: artwork-resized.jpg
+template: item
+---
+ 
 Episode summary: This week David and Rose come to us live from PodCon with a very enthusiastic audience where they take the opportunity to dive into some of their travel automation setups. Once back in the studio they then go through the feedback they’ve received.

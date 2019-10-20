@@ -11,6 +11,8 @@ summary:
 enabled: '0'
 header_image: '0'
 theurl: https://traffic.megaphone.fm/DGT7371955703.mp3?updated=1557251069
-theimage: artwork-resized.png
---- 
+image: artwork-resized.png
+template: item
+---
+ 
 Episode summary: Judges now want us to know they’re human. But maybe we’d be better off if we didn’t know.

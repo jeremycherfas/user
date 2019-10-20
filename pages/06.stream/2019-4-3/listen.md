@@ -11,6 +11,8 @@ summary:
 enabled: '0'
 header_image: '0'
 theurl: 
-theimage: artwork-resized.jpg
---- 
+image: artwork-resized.jpg
+template: item
+---
+ 
 Episode summary: 
