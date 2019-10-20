@@ -1,0 +1,23 @@
+<!-- [NAVIGATION BAR] -->
+<nav id="page-nav">
+<!-- [THE HAMBURGER] -->
+<label for="hamburger">&#9776;</label>
+<input type="checkbox" id="hamburger"/>
+<!-- [MENU ITEMS] -->
+
+{% set options = { items: {'@root.descendants':''}, 'order': {'by': 'folder', 'dir': 'asc'}} %}
+{% set my_collection = page.collection(options) %}
+<ul class="block border-t" >
+{% for p in my_collection %}
+{% if p.header.menu %}
+
+    {% if page.slug == p.slug %}
+        <li class="{{ p.slug }} active"><span>{{ p.menu }}</span></li>
+    {% else %}
+        <li class="{{ p.slug }}"><a href="{{ p.url }}">{{ p.menu }}</a></li>
+    {% endif %}
+    </ul>
+{% endif %}
+{% endfor %}
+
+</nav>

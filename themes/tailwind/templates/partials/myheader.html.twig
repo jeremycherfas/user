@@ -1,0 +1,57 @@
+<div class="headblock h-64 relative"> <!-- w-full md:max-w-5xl lg:max-w-6xl mx-auto flex flex-col -->
+
+<!-- <div class="navbar flex-row top w-full md:max-w-5xl lg:max-w-6xl mx-auto flex lg:flex-col mb-2"> -->
+<!--     <div class="absolute top ml-4 pr-4 w-full md:max-w-5xl lg:max-w-6xl"> <!~~ Seems to have done the trick ~~> -->
+
+{% block header_navigation %}
+
+{# % include 'partials/navigation.html.twig' % #}
+
+{% set options = { items: {'@root.descendants':''}, 'order': {'by': 'folder', 'dir': 'asc'}} %}
+{% set my_collection = page.collection(options) %}
+
+
+<nav class="pb-2">
+    <section class="pt-4 md:pb-4 md:bg-white md:opacity-75 md:16 md:mx-0 md:px-4 md:relative md:flex md:flex-grow md:items-center md:content-center">
+<!--     <div class="flex md:bg-white md:opacity-50 pb-2"> -->
+    <div class="flex-shrink-0 flex justify-between px-4">
+        <a href="{{ base_url }}" class="">
+            <h1 class="text-2xl m-0 text-blue-700">Jeremy Cherfas</h1>
+        </a>
+
+        <section class="flex items-center md:hidden"> <!-- The actual hamburger -->
+
+            <button id="menu-toggle" class="text-blue-700"> <!-- for laffs -->
+            <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="block w-6"><path fill="currentColor" d="M16 132h416c8.837 0 16-7.163 16-16V76c0-8.837-7.163-16-16-16H16C7.163 60 0 67.163 0 76v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16z"/></svg>
+          </button>
+        </section>
+    </div> <!-- End logo and hamburger -->
+<!-- </div> -->
+
+<div class="md:hidden">
+        <div class="searchbox z-40 pt-2 pb-2">
+            <div class="flex justify-center items-center">
+                {% include 'partials/simplesearch_searchbox.html.twig' %} <!-- Add placeholder color -->
+            </div>
+</div>
+        </div> <!-- end searchbox -->
+
+
+    <div class="md:w-5/6 md:inline-block">
+        <ul id="navigation" class="bg-white md:bg-transparent opacity-75 pl-2 py-4 h-full md:flex md:items-center md:px-0 md:py-0 md:justify-end"> <!-- The links change for Medium -->
+        {% for p in my_collection %}
+        {% if p.header.menu %}
+            {% if page.slug == p.slug %}
+                <li class="menu"><a href="" class="text-blue-700 inline-block mb-0 tracking-wide uppercase text-base font-bold md:px-4">{{ p.menu }}</a></li>
+            {% else %}
+                <li class="menu"><a href="{{ p.url }}" class="text-blue-700 inline-block mb-0 tracking-wide uppercase text-base md:px-4">{{ p.menu }}</a></li>
+            {% endif %}
+        {% endif %}
+        {% endfor %}
+        </ul>
+    </div> <!-- End nav links -->
+    </section>
+</nav>
+{% endblock %} <!-- header-navigation -->
+
+                    </div>
