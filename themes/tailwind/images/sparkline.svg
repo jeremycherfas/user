@@ -23,17 +23,17 @@
                 x=x+1;
             }
         });
-        ln.setAttribute("stroke", "#e15e0e");
-        ln.setAttribute("stroke-width", "0.5%");
+        ln.setAttribute("stroke", "#b46100");
+        ln.setAttribute("stroke-width", "1");
         ln.setAttribute("fill","none");
-        var height = mx-mn+1; 
+        var height = mx-mn+1;
         var width = x;
         var offset = height+mn*2; // flip co-ordinates and move back into frame
         ln.setAttribute("transform","matrix(1 0 0 -1 0 " + offset +")");
         svgRoot.appendChild(ln);
         svgRoot.setAttribute("viewBox","0 " + mn +" "+ width + " " + height);
         svgRoot.setAttribute("preserveAspectRatio","none");
-    }   
-     
+    }
+
   ]]></script>
 </svg>
