@@ -17,7 +17,7 @@
             {% endif %}
         </p>
         {% for page in search_results %}
-            {% include 'partials/simplesearch_item.html.twig' with {'page': page} %}
+            {% include 'partials/blog-list-item.html.twig' with {'page': page} %}
         {% endfor %}
     </div>
 {% endblock %}
