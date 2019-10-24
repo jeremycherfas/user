@@ -3,10 +3,10 @@ title: "Listened to: Episode 142: Private Robinson on Pawnee Rock"
 published: true
 date: 30-05-2019 09:37
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

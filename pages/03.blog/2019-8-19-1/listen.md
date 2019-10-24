@@ -3,10 +3,10 @@ title: "Listened to: Episode 146: Two Memorials, Last Week of July, 2019"
 published: true
 date: 19-08-2019 08:26
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

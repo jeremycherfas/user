@@ -3,10 +3,10 @@ title: "Listened to: Sir Thomas Browne"
 published: true
 date: 16-06-2019 11:56
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

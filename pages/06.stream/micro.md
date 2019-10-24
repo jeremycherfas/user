@@ -11,6 +11,5 @@ content:
     pagination: true
 template: blog
 routable: true
-template: item
 ---
 

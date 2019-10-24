@@ -3,10 +3,10 @@ title: "Listened to: The Socialite (Anna Delvey)"
 published: true
 date: 22-07-2019 08:54
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

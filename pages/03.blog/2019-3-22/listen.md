@@ -3,10 +3,10 @@ title: "Listened to: Italy vs France vs Brexit"
 published: true
 date: 22-03-2019 11:14
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

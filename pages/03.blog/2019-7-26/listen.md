@@ -3,10 +3,10 @@ title: "Listened to: #145 Louder"
 published: true
 date: 26-07-2019 16:08
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

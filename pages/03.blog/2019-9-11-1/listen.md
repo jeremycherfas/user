@@ -3,10 +3,10 @@ title: "Listened to: Automators 31: Making Your ScreenFlow Flow and More with J.
 published: true
 date: 11-09-2019 19:17
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

@@ -3,10 +3,10 @@ title: "Listened to: Is There A Perfect Diet Just For You? The Future of Persona
 published: true
 date: 27-07-2019 20:31
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

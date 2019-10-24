@@ -3,10 +3,10 @@ title: "Listened to: Automators 29: The Dark Dungeon with Adam Tow"
 published: true
 date: 12-08-2019 08:22
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

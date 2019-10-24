@@ -3,10 +3,10 @@ title: "Listened to: Talking Politics Guide to … Summer Reading"
 published: true
 date: 16-08-2019 10:03
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

@@ -3,10 +3,10 @@ title: "Listened to: Alex Talks to Missouri Star Quilt Company Co-Founder Jenny 
 published: true
 date: 05-09-2019 11:23
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

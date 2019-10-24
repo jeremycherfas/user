@@ -3,10 +3,10 @@ title: "Listened to: Waiting for Boris"
 published: true
 date: 20-07-2019 18:29
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

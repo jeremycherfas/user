@@ -3,10 +3,10 @@ title: "Listened to: Automators 30: Some Favorite Automations"
 published: true
 date: 29-08-2019 17:26
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

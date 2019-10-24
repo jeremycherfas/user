@@ -3,10 +3,10 @@ title: "Listened to: Mirror Image"
 published: true
 date: 12-06-2019 15:16
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

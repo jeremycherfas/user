@@ -3,10 +3,10 @@ title: "Listened to: 357- The Barney Design redux"
 published: true
 date: 22-06-2019 15:48
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

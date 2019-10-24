@@ -3,10 +3,10 @@ title: "Listened to: Oulipo"
 published: true
 date: 29-03-2019 09:38
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

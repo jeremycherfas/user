@@ -3,10 +3,10 @@ title: "Listened to: 358- The Anthropocene Reviewed"
 published: true
 date: 29-06-2019 18:56
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

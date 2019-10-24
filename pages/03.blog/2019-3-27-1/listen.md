@@ -3,10 +3,10 @@ title: "Listened to: 30 and Counting, Episode 23: Apple + Services"
 published: true
 date: 27-03-2019 10:03
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

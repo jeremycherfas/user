@@ -3,10 +3,10 @@ title: "Listened to: Learn/Do"
 published: true
 date: 10-10-2019 19:01
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

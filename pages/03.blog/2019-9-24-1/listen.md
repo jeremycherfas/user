@@ -3,10 +3,10 @@ title: "Listened to: The Fundraiser (Johnny Bobbitt Jr.)"
 published: true
 date: 24-09-2019 22:03
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

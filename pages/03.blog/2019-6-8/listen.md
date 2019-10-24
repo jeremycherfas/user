@@ -3,10 +3,10 @@ title: "Listened to: 355- Depave Paradise"
 published: true
 date: 08-06-2019 15:01
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

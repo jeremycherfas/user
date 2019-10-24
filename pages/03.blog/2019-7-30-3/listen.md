@@ -3,10 +3,10 @@ title: "Listened to: Alex Talks to Elaine Welteroth"
 published: true
 date: 30-07-2019 15:17
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

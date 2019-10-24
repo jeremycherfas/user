@@ -3,10 +3,10 @@ title: "Listened to: The spread of fact-checking in Africa"
 published: true
 date: 10-08-2019 18:21
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

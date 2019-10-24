@@ -3,10 +3,10 @@ title: "Listened to: WS More or Less: Deforestation in Brazil"
 published: true
 date: 19-09-2019 16:43
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

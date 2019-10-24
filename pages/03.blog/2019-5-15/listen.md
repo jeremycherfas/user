@@ -3,10 +3,10 @@ title: "Listened to: Jane Mayer on Thomas, Trump, and Twitter"
 published: true
 date: 15-05-2019 08:15
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

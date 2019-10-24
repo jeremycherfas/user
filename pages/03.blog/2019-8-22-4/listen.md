@@ -3,10 +3,10 @@ title: "Listened to: Chutzpah vs. Chutzpah"
 published: true
 date: 22-08-2019 17:23
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

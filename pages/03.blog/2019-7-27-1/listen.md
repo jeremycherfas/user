@@ -3,10 +3,10 @@ title: "Listened to: Episode 5: The Politician"
 published: true
 date: 27-07-2019 09:34
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

@@ -3,10 +3,10 @@ title: "Listened to: 373- The Kirkbride Plan"
 published: true
 date: 14-10-2019 09:00
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

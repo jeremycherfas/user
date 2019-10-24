@@ -3,10 +3,10 @@ title: "Listened to: Bundyville Live Q&A, July 2019"
 published: true
 date: 16-08-2019 09:41
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

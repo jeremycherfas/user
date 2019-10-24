@@ -3,10 +3,10 @@ title: "Listened to: #71: Geloso vs. invidioso: How to say jealous in Italian"
 published: true
 date: 10-10-2019 18:55
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

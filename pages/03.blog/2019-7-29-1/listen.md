@@ -3,10 +3,10 @@ title: "Listened to: #68: DA vs. PER: What’s the difference?"
 published: true
 date: 29-07-2019 10:11
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

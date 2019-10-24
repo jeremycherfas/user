@@ -3,11 +3,11 @@ title: "Listened to: Listen Closer"
 published: true
 date: 21-09-2019 17:41
 taxonomy:
-category:
-	- stream
-	- Reviews
-tag:
-	- podcasts
+    category:
+         - stream
+         - reviews
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

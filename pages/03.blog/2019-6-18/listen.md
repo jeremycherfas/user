@@ -3,10 +3,10 @@ title: "Listened to: #918: The Day Of Two Noons"
 published: true
 date: 18-06-2019 18:33
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

@@ -3,10 +3,10 @@ title: "Listened to: Making music out of Money"
 published: true
 date: 31-05-2019 09:54
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

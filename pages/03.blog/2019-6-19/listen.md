@@ -3,10 +3,10 @@ title: "Listened to: WS More or Less: The things we fail to see"
 published: true
 date: 19-06-2019 11:07
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

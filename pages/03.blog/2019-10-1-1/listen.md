@@ -3,10 +3,10 @@ title: "Listened to: Bonus: Malcolm Gladwell on Oprah’s SuperSoul Conversation
 published: true
 date: 01-10-2019 10:11
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

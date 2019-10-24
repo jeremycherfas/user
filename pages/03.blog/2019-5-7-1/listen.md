@@ -3,10 +3,10 @@ title: "Listened to: The Hand of Leonardo"
 published: true
 date: 07-05-2019 11:27
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

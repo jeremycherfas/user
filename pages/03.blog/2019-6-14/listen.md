@@ -3,10 +3,10 @@ title: "Listened to: Revisionist History Presents: Solvable"
 published: true
 date: 14-06-2019 14:44
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

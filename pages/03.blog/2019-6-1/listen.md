@@ -3,10 +3,10 @@ title: "Listened to: Bonus Live Episode: Michael Lewis and Malcolm Gladwell"
 published: true
 date: 01-06-2019 14:09
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

@@ -3,10 +3,10 @@ title: "Listened to: 1984 (the BOOK not the year)"
 published: true
 date: 30-08-2019 08:54
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

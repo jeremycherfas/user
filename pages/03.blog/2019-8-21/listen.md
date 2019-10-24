@@ -3,10 +3,10 @@ title: "Listened to: In Magdalenian Footsteps"
 published: true
 date: 21-08-2019 11:26
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

@@ -3,10 +3,10 @@ title: "Listened to: Paul Mason on the Human Future"
 published: true
 date: 01-05-2019 10:57
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

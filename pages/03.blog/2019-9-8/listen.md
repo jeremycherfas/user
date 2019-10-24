@@ -3,10 +3,10 @@ title: "Listened to: How to Run a Small-Town Paper When Your Town Is East Hampto
 published: true
 date: 08-09-2019 15:30
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

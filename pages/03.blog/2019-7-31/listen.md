@@ -3,10 +3,10 @@ title: "Listened to: Dr. Rock’s Taxonomy"
 published: true
 date: 31-07-2019 08:51
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

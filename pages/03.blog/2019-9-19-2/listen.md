@@ -3,10 +3,10 @@ title: "Listened to: Like a Light Bulb"
 published: true
 date: 19-09-2019 17:57
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

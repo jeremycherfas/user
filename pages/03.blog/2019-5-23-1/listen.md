@@ -3,10 +3,10 @@ title: "Listened to: 32- Contempt Power"
 published: true
 date: 23-05-2019 15:08
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

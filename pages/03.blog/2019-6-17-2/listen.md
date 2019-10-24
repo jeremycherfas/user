@@ -3,10 +3,10 @@ title: "Listened to: Automators 25: WWDC 2019 Automation Update"
 published: true
 date: 17-06-2019 19:02
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

@@ -3,10 +3,10 @@ title: "Listened to: 360- The Universal Page"
 published: true
 date: 12-07-2019 12:46
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

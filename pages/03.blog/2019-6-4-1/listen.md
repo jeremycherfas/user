@@ -3,10 +3,10 @@ title: "Listened to: Automators 24: Automating with Airtable"
 published: true
 date: 04-06-2019 18:20
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

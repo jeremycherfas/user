@@ -3,10 +3,10 @@ title: "Listened to: Alex Talks to Gretchen Carlson"
 published: true
 date: 26-06-2019 17:20
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

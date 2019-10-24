@@ -3,10 +3,10 @@ title: "Listened to: Supreme Court"
 published: true
 date: 23-09-2019 17:27
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

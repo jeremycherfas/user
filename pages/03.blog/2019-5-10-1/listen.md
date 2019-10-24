@@ -3,10 +3,10 @@ title: "Listened to: President Bernie?"
 published: true
 date: 10-05-2019 12:18
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

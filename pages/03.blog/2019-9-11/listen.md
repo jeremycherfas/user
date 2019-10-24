@@ -3,10 +3,10 @@ title: "Listened to: Is It Legal?"
 published: true
 date: 11-09-2019 08:52
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

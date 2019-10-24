@@ -3,10 +3,10 @@ title: "Listened to: Alex Talks to CEO Whisperer Jerry Colonna"
 published: true
 date: 27-07-2019 09:03
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

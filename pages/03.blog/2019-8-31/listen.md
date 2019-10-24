@@ -3,10 +3,10 @@ title: "Listened to: Keeping Faith"
 published: true
 date: 31-08-2019 17:11
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

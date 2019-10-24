@@ -3,10 +3,10 @@ title: "Listened to: #41 What It Looks Like"
 published: true
 date: 20-05-2019 11:58
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

@@ -3,10 +3,10 @@ title: "Listened to: Supreme Court II & Italy!"
 published: true
 date: 01-10-2019 09:27
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

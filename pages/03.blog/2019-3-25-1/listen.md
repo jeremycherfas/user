@@ -3,10 +3,10 @@ title: "Listened to: An Editor’s Fingerprints - Transom"
 published: true
 date: 25-03-2019 18:24
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

@@ -3,10 +3,10 @@ title: "Listened to: 365- On Beeing"
 published: true
 date: 15-08-2019 09:55
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

@@ -3,10 +3,10 @@ title: "Listened to: News in Slow Italian #333 - Learn Italian through current e
 published: true
 date: 11-06-2019 18:53
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

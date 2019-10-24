@@ -3,10 +3,10 @@ title: "Listened to: WS More or Less: Peaty v. Bolt: Which is the greatest world
 published: true
 date: 02-10-2019 19:27
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

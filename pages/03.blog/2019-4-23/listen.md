@@ -3,10 +3,10 @@ title: "Listened to: Episode 7 - Fermentation as a Co-Evolutionary Force"
 published: true
 date: 23-04-2019 13:51
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

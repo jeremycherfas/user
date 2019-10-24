@@ -3,10 +3,10 @@ title: "Listened to: Perta: Life Just Before Rock Stardom"
 published: true
 date: 01-05-2019 11:35
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

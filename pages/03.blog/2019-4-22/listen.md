@@ -3,10 +3,10 @@ title: "Listened to: The Copernican Principle"
 published: true
 date: 22-04-2019 09:58
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

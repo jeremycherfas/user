@@ -3,10 +3,10 @@ title: "Listened to: 33- Obstruction"
 published: true
 date: 02-10-2019 18:52
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

@@ -3,10 +3,10 @@ title: "Listened to: Moment of Truth?"
 published: true
 date: 31-03-2019 14:00
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

@@ -3,10 +3,10 @@ title: "Listened to: Episode 145: Stories about the St. Louis"
 published: true
 date: 01-08-2019 08:53
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

@@ -3,10 +3,10 @@ title: "Listened to: Automators 21: Invoicing, Writing, and Regular Expressions 
 published: true
 date: 25-04-2019 11:38
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

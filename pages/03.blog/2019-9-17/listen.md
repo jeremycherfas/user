@@ -3,10 +3,10 @@ title: "Listened to: Adam Tooze on the Global Slowdown"
 published: true
 date: 17-09-2019 09:09
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

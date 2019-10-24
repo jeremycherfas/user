@@ -3,10 +3,10 @@ title: "Listened to: Authoritarian Schizophrenia"
 published: true
 date: 28-05-2019 19:34
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

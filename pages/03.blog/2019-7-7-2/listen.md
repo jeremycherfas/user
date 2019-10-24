@@ -3,10 +3,10 @@ title: "Listened to: The Nod’s Eric Eddings Talks to Erika Alexander"
 published: true
 date: 07-07-2019 17:54
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

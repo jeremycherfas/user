@@ -3,10 +3,10 @@ title: "Listened to: Alex Talks to Award-Winning Chef Edouardo Jordan"
 published: true
 date: 20-05-2019 20:03
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

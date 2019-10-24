@@ -3,10 +3,10 @@ title: "Listened to: Our Company Has Problems"
 published: true
 date: 12-10-2019 09:07
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

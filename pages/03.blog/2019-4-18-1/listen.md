@@ -3,10 +3,10 @@ title: "Listened to: Bad Recommendations"
 published: true
 date: 18-04-2019 09:32
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

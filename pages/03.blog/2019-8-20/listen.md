@@ -3,10 +3,10 @@ title: "Listened to: #932: Deep Learning With The Elephants"
 published: true
 date: 20-08-2019 17:58
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

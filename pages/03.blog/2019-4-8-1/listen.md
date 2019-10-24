@@ -3,10 +3,10 @@ title: "Listened to: Smile"
 published: true
 date: 08-04-2019 23:00
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

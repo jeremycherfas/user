@@ -3,10 +3,10 @@ title: "Listened to: Automators 23: Diving into Drafts Automation with Tim “Th
 published: true
 date: 23-05-2019 14:47
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

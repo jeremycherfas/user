@@ -3,10 +3,10 @@ title: "Listened to: Adam Tooze on US vs China"
 published: true
 date: 15-05-2019 09:35
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

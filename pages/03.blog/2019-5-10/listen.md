@@ -3,10 +3,10 @@ title: "Listened to: #141 Adam Pisces and the $2 Coke"
 published: true
 date: 10-05-2019 10:07
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

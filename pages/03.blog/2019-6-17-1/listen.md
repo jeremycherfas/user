@@ -3,10 +3,10 @@ title: "Listened to: Alex Talks to Pose Co-Creator Steven Canals"
 published: true
 date: 17-06-2019 12:30
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

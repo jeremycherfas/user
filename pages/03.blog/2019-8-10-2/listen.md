@@ -3,10 +3,10 @@ title: "Listened to: #931: The IT Guy Vs. The Con Artist"
 published: true
 date: 10-08-2019 18:39
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

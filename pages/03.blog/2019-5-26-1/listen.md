@@ -3,10 +3,10 @@ title: "Listened to: Jeff Daniels Was Supposed to Take Over the Family Lumber Bu
 published: true
 date: 26-05-2019 12:00
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

@@ -3,10 +3,10 @@ title: "Listened to: Estates"
 published: true
 date: 14-10-2019 20:05
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

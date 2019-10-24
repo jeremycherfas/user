@@ -3,10 +3,10 @@ title: "Listened to: Bellwether’s Speculative Journalism - Transom"
 published: true
 date: 27-08-2019 11:18
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

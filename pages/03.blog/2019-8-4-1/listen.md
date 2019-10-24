@@ -3,10 +3,10 @@ title: "Listened to: Influencers (complete told you so version)"
 published: true
 date: 04-08-2019 11:22
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

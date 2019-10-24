@@ -3,10 +3,10 @@ title: "Listened to: The Tour (Jered Threatin)"
 published: true
 date: 24-08-2019 16:57
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

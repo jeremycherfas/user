@@ -3,10 +3,10 @@ title: "Listened to: The Standard Case"
 published: true
 date: 27-07-2019 21:09
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'

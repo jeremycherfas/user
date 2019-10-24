@@ -3,10 +3,10 @@ title: "Listened to: PhoneBoy Speaks Ep 1199: Blinking Lights Blinking Data"
 published: true
 date: 04-09-2019 09:31
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+         - stream
+    tag:
+         - podcasts
 summary:
 enabled: '0'
 header_image: '0'
