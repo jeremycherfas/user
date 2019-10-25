@@ -7,9 +7,15 @@
 <div class="md:flex ">
     <div class=" ">
 <!--         <h1 class="search-header">{{ "PLUGIN_SIMPLESEARCH.SEARCH_RESULTS"|t }}</h1> -->
-        <div class="center">
-            {% include 'partials/simplesearch_searchbox.html.twig' %}
-        </div>
+<div class="hidden md:block mt-4">
+
+        <div class="searchbox z-40 bg-white opacity-100 pt-2 pb-2">
+            <div class="flex flex-row items-center">
+<div class="flex w-1/4 ">Search again?</div>
+<div class="flex b-1 ">{% include 'partials/simplesearch_searchbox.html.twig' %}</div>
+            </div>
+        </div> <!-- end searchbox -->
+</div>
 
             {% if query %}
                 {% set count = search_results ? search_results.count : 0 %}
