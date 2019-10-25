@@ -1,51 +1,49 @@
 {% extends 'partials/simplesearch_base.html.twig' %}
-
 {% block body %}
-
-{% block content %}
+{% block content %} 
+<div class=" ">
+<!--         <h1 class="search-header">{{ "PLUGIN_SIMPLESEARCH.SEARCH_RESULTS"|t }}</h1> -->
+	{% if query %} {% set count = search_results ? search_results.count : 0 %} {% if count is same as( 1 ) %} 
+</div>
 
 <div class="md:flex ">
-    <div class=" ">
-<!--         <h1 class="search-header">{{ "PLUGIN_SIMPLESEARCH.SEARCH_RESULTS"|t }}</h1> -->
+	<h3 class="pl-2 md:pl-4 text-xl md:text-4xl ">
+		Your search for <strong>{{ (query|e)|raw }}</strong> yielded <strong>{{ count }}</strong> result. 
+	</h3>
+	{% else %} 
+	<h3 class="pl-2 md:pl-4 text-xl md:text-4xl ">
+		Your search for <strong>{{ (query|e)|raw }}</strong> yielded <strong>{{ count }}</strong> results. 
+	</h3>
+	{% endif %} {% endif %} 
 
-            {% if query %}
-                {% set count = search_results ? search_results.count : 0 %}
-                {% if count is same as( 1 ) %}
-<h3 class=" ">Your search for <strong>{{ (query|e)|raw }}</strong> yielded <strong>{{ count }}</strong> result. </h3>
-                {% else %}
-<h3 class=" ">Your search for <strong>{{ (query|e)|raw }}</strong> yielded <strong>{{ count }}</strong> results. </h3>
-                {% endif %}
-            {% endif %}
-<div class="hidden md:block mt-4">
-
-        <div class="searchbox z-40 bg-white opacity-100 pt-2 pb-2">
-            <div class="flex flex-row items-center">
-<div class="flex pr-4 ">Search again?</div>
-<div class="flex b-1 ">{% include 'partials/simplesearch_searchbox.html.twig' %}</div>
-            </div>
-        </div><!-- end searchbox -->
+	<div class="hidden md:block mt-4">
+		<div class="searchbox z-40 bg-white opacity-100 pt-2 pb-2 md:pl-4">
+			<div class="flex flex-row items-center ">
+				<div class="flex pr-4 ">
+					Search again? 
+				</div>
+				<div class="flex b-1 ">
+					{% include 'partials/simplesearch_searchbox.html.twig' %} 
+				</div>
+			</div>
+		</div>
+<!-- end searchbox -->
+	</div>
 </div>
 
-            </div>
+<div class="md:flex md:flex-row ">
+	<div class="all-items flex flex-col relative md:w-2/3 ">
+		{% for page in search_results %} {% include 'partials/blog-list-item.html.twig' with {'page': page} %} {% endfor %} 
+	</div>
 
-     <div class=" ">       
-        <div class="all-items flex flex-col relative md:w-2/3 ">
-        {% for page in search_results %}
-            {% include 'partials/blog-list-item.html.twig' with {'page': page} %}
-        {% endfor %}
-        </div>
-    </div>
-    </div>
+
+
 {% endblock content %}
-
 {% block sidebar %}
 {% include 'partials/mysidebar.html.twig' %}
-{% endblock sidebar%}
+{% endblock sidebar%} 
+
 
 </div>
-    
-    {% block footer %}
-{% include 'partials/myfooter.html.twig' %}
-{% endblock footer %}
 
-{% endblock body %}
+{% block footer %} {% include 'partials/myfooter.html.twig' %} {% endblock footer %} {% endblock body %} 
