@@ -33,8 +33,8 @@
             <div class="flex justify-center items-center">
                 {% include 'partials/simplesearch_searchbox.html.twig' %} <!-- Add placeholder color -->
             </div>
-</div>
-        </div> <!-- end searchbox -->
+		</div>
+</div> <!-- end searchbox -->
 
 
     <div class="md:w-5/6 md:inline-block">
@@ -52,6 +52,16 @@
     </div> <!-- End nav links -->
     </section>
 </nav>
+
+{% if page.template == 'modular' %}
+<!-- <h1/>Modular</h1> -->
+        <div class="searchbox hidden z-40 md:block md:pb-2 md:mt-20">
+            <div class="flex justify-center items-center">
+                {% include 'partials/simplesearch_searchbox.html.twig' %} <!-- Add placeholder color -->
+            </div>
+		</div>
+{% endif %}
+
 {% endblock %} <!-- header-navigation -->
 
                     </div>
