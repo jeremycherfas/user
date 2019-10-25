@@ -1,7 +1,7 @@
 enabled: true
 built_in_css: false
 built_in_js: true
-display_button: false
+display_button: true
 min_query_length: 3
 route: /search
 search_content: rendered
