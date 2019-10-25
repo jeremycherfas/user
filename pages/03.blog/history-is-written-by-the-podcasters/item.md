@@ -23,7 +23,7 @@ Let's  get one thing out of the way at the outset. I have no idea who is respons
 
 ===
 
-Benjamen Walker's Theory of Everything had a recent episode on [Secret Histories of Podcasting](http://toe.prx.org/2015/10/secret-histories-of-podcasting/) that I listened to with great pleasure. The episode was well-made, featured some good voices and made some good points, not least that there are several ways to tell the history of podcasting and that, like _Rashomon_ or _The Alexandria Quartet_, different people tell the story in different ways. And yet ...
+Benjamen Walker's Theory of Everything had a recent episode on [Secret Histories of Podcasting](http://toe.prx.org/2015/10/secret-histories-of-podcasting/) that I listen ed to with great pleasure. The episode was well-made, featured some good voices and made some good points, not least that there are several ways to tell the history of podcasting and that, like _Rashomon_ or _The Alexandria Quartet_, different people tell the story in different ways. And yet ...
 
 You might think an [honest-to-god timeline](http://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1PCTbosxqjGWzq2p84zxqAqAY4rVBjsHJlgFPJUEHR-Q&font=Default&lang=en&initial_zoom=2&height=650) from Vanessa Quirk, a fellow at Columbia University's Tow Center for Digital Journalism, would get things straight, but that too reflects the author's selectivity. How could it not?
 
@@ -43,7 +43,7 @@ And then there was the comparison of radio and podcasting. These days, all the p
 
 [^3]: Who coined the term _podcasting_ in the rush to make an extra line in a print story. Ironic, or what?
 
-That's the crucial part about podcasting; you don't have to persuade some no-account "commissioning editor" who "can't hear it on the page" that people might want to listen to your stuff. You make it, and if people want to listen, they can. And, as someone [^1] perspicaciously noted, it was the "quality" of most broadcast radio that drove many people -- makers and listeners -- to podcasting in the first place.
+That's the crucial part about podcasting; you don't have to persuade some no-account "commissioning editor" who "can't hear it on the page" that people might want to listen to your stuff. You make it, and if people want to listen , they can. And, as someone [^1] perspicaciously noted, it was the "quality" of most broadcast radio that drove many people -- makers and listeners -- to podcasting in the first place.
 
 Looking forward, to the history yet to be made, I'm pretty certain something new will turn up in podcasting, just as I am pretty sure the same old stuff will continue to be made. The democratisation of radio, like the democratisation of print before it, is a wonderful thing, which offers opportunities that could barely be dreamed of even 20 years ago.
 

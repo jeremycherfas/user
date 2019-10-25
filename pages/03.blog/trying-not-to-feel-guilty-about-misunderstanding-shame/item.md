@@ -13,7 +13,7 @@ summary:
     enabled: '1'
 ---
 
-Garret Hardin's idea that the emotion of [shame can help to manage a common resource](http://www.garretthardinsociety.org/articles/art_ecolate_view_human_predicament.html) has always been a favourite for me. Up to 150 people, as Hardin suggested, can help one another do the right thing (for them all) by instilling a feeling of shame in transgressors. Seems he and I have been wrong. Not about the role of shame, but about what to call it. Brené Brown told me so in her TED talk, [Listening to Shame](http://www.ted.com/talks/brene_brown_listening_to_shame.html).
+Garret Hardin's idea that the emotion of [shame can help to manage a common resource](http://www.garretthardinsociety.org/articles/art_ecolate_view_human_predicament.html) has always been a favourite for me. Up to 150 people, as Hardin suggested, can help one another do the right thing (for them all) by instilling a feeling of shame in transgressors. Seems he and I have been wrong. Not about the role of shame, but about what to call it. Brené Brown told me so in her TED talk, [listening to Shame](http://www.ted.com/talks/brene_brown_listening_to_shame.html).
 
 ===
 

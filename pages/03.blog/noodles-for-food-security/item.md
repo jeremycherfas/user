@@ -21,7 +21,7 @@ Because ...
 
 ===
 
-This [singular fact](http://web.archive.org/web/20131130025801/http://www.boston.com/2013/09/08/ramen/slwhJDp9yoE6M5C1uokrlJ/story.html) stuck with me as I listened to [Laurie Taylor interviewing Deborah Gewertz](http://www.bbc.co.uk/programmes/b03bfk9h) about her new book [The Noodle Narratives: The Global Rise of an Industrial Food into the Twenty-First Century](http://www.amazon.com/The-Noodle-Narratives-Industrial-Twenty-First/dp/0520276345). The entire story was full of fascinating insights into the global phenomenon of instant noodles, which at base are nothing more than (very) cheap calories that can easily be tailored to any culture's preferred flavour profile. 
+This [singular fact](http://web.archive.org/web/20131130025801/http://www.boston.com/2013/09/08/ramen/slwhJDp9yoE6M5C1uokrlJ/story.html) stuck with me as I listen ed to [Laurie Taylor interviewing Deborah Gewertz](http://www.bbc.co.uk/programmes/b03bfk9h) about her new book [The Noodle Narratives: The Global Rise of an Industrial Food into the Twenty-First Century](http://www.amazon.com/The-Noodle-Narratives-Industrial-Twenty-First/dp/0520276345). The entire story was full of fascinating insights into the global phenomenon of instant noodles, which at base are nothing more than (very) cheap calories that can easily be tailored to any culture's preferred flavour profile. 
 
 Gewertz and her co-authors explain that instant noodles serve "an important role in satiating hunger and in sustaining lives for many worldwide, including those hanging on under difficult circumstances. ...  As a protean food designed for quotidian consumption, instant noodles have already shown a remarkable capacity to ease themselves into diverse lives." 
 

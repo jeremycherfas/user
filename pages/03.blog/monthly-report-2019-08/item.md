@@ -197,7 +197,7 @@ Mood average dropped from 4.7 on 4 August to 4.4 on 1 September. Doesn't feel to
 
 Six posts this month! 400% increase. But still quite pathetic.
 
-Listened to 42 podcasts, although my script recorded only 40 because it has a flaw that I have not yet found time to fix. Standouts were, I suppose, Benjamen Walker's two episodes about 1984, The Food Programme talking to Jamie Oliver and Talking Politics' guide to being a civil servant.
+listen ed to 42 podcasts, although my script recorded only 40 because it has a flaw that I have not yet found time to fix. Standouts were, I suppose, Benjamen Walker's two episodes about 1984, The Food Programme talking to Jamie Oliver and Talking Politics' guide to being a civil servant.
 
 As promised, made more use of my new keyboard shortcuts, but did not create any new ones.
 

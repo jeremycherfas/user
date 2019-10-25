@@ -15,4 +15,4 @@ image: artwork-resized.jpg
 template: item
 ---
  
-Episode summary: John Herrman EXPOSES the truth about YouTube’s paranoid style. ToE’s Andrew Callaway DESTROYS Jordan Peterson. (Must listen!!!)
+Episode summary: John Herrman EXPOSES the truth about YouTube’s paranoid style. ToE’s Andrew Callaway DESTROYS Jordan Peterson. (Must listen !!!)

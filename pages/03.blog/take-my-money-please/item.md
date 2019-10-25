@@ -24,7 +24,7 @@ It all looks so seductively easy. Register with the BBC Store, hand over credit 
 
 OK, by now I'm losing the will to live. But there's an option to stream, so let's try that. Nope. You need Flash.
 
-Hello, BBC. It's 2016. Even [the New York Times is giving up on Flash](http://open.blogs.nytimes.com/2016/02/08/flash-free-video-in-2016/?_r=0). But heck, I've paid my money and I want to see the bloody show. So we stream, and that goes well until it doesn't. Stuttering, stop-starts, and the final indignity, that I don't have the bandwidth. Listen, mate, I have bandwidth to spare. It's your end, dolt.
+Hello, BBC. It's 2016. Even [the New York Times is giving up on Flash](http://open.blogs.nytimes.com/2016/02/08/flash-free-video-in-2016/?_r=0). But heck, I've paid my money and I want to see the bloody show. So we stream, and that goes well until it doesn't. Stuttering, stop-starts, and the final indignity, that I don't have the bandwidth. listen  , mate, I have bandwidth to spare. It's your end, dolt.
 
 This is a farce. No wonder people like me do indeed steal stuff, stuff that we would be happy enough to pay for.
 

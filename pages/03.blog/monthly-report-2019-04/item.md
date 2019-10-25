@@ -149,11 +149,11 @@ Logged 128 hours for the month and worked on 20 of the 30 days. Given that I did
 
 ###Goals
 
-Still bad! Only 4 posts on this website. Listened to 46 podcasts.
+Still bad! Only 4 posts on this website. listen  ed to 46 podcasts.
 
 ##Niggles
 
-The Listen posts are working well, whcih suggests that getting back onto  posts that contain geo-information would be a good thing, in advance of the IndieWebCamp in Utrecht. I should continue doing more to automate or simplify some of the more repetitive things I do. Having bought a little keyboard, I need to play with it more.
+The listen posts are working well, whcih suggests that getting back onto  posts that contain geo-information would be a good thing, in advance of the IndieWebCamp in Utrecht. I should continue doing more to automate or simplify some of the more repetitive things I do. Having bought a little keyboard, I need to play with it more.
 
 ##Final remarks
 

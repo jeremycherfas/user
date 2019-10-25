@@ -15,4 +15,4 @@ image: artwork-resized.jpg
 template: item
 ---
  
-Episode summary: A couple of years ago I wrote a story for the truth podcast, Radiotopia’s one-of-a-kind audio fiction show. Part One ran on the Truth and Part Two ran here. Now that there are actual camps I believe this story warrants another listen.
+Episode summary: A couple of years ago I wrote a story for the truth podcast, Radiotopia’s one-of-a-kind audio fiction show. Part One ran on the Truth and Part Two ran here. Now that there are actual camps I believe this story warrants another listen .

@@ -39,7 +39,7 @@ Having re-established the value of expertise, I found some solace in Ian Dunt's 
 ##3 History
 [History tells us what may happen next with Brexit & Trump](https://medium.com/@theonlytoby/history-tells-us-what-will-happen-next-with-brexit-trump-a3fefd154714#.fja9zwxqu) by Tobias Stone reminds us that we have seen this sort of thing before, and it doesn't often end well.
 
->Ignoring and mocking the experts , as people are doing around Brexit and Trump’s campaign, is no different to ignoring a doctor who tells you to stop smoking, and then finding later you’ve developed incurable cancer. A little thing leads to an unstoppable destruction that could have been prevented if you’d listened and thought a bit. But people smoke, and people die from it. That is the way of the human.
+>Ignoring and mocking the experts , as people are doing around Brexit and Trump’s campaign, is no different to ignoring a doctor who tells you to stop smoking, and then finding later you’ve developed incurable cancer. A little thing leads to an unstoppable destruction that could have been prevented if you’d listen ed and thought a bit. But people smoke, and people die from it. That is the way of the human.
 
 There is a newer piece responding to some comments, but I haven't read it yet.
 

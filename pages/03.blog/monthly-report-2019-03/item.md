@@ -23,7 +23,7 @@ I have mostly managed to keep up with journaling, thanks to which I can note:
 - Continuing to use Anki, continuing uncertain as to the difference it is making. Have not added it as a habit to record in Exist. Maybe I should. I read somewhere that I should try and do it towards the end of the day, as sleep is probably important to consolidate long-term memory. That kind of lets me off the hook, and makes it a feature rather than a bug when I finally remember to do it late in the day.
 - Spring arrived, and I managed to get some solid work in on the terrace plants, almost all of which survived the winter unscathed.
 - The new email software became easier to use as I became more familiar with its foibles. That's good, but some friends have said they think it needs to be visually more attractive. Not sure I have the time.
-- Knuckled down and wrote a PHP program to automatically post the podcasts I have listened to. Been meaning to do that for a long time, and it was good to get stuck in. It is by no means flawless yet, but with a little bit of hand holding does a pretty good job populating my [Stream](https://jeremycherfas.net/stream).
+- Knuckled down and wrote a PHP program to automatically post the podcasts I have listen ed to. Been meaning to do that for a long time, and it was good to get stuck in. It is by no means flawless yet, but with a little bit of hand holding does a pretty good job populating my [Stream](https://jeremycherfas.net/stream).
 - On a similar note, I finally published a log of things I've watched, mostly on the small screen at home. Decided it cluttered the menu too much, so it isn't there, but it is [public and easy to find](/what-ive-watched)
 - I made what turned out to be a false start on the book of Our Daily Bread, and on the plus side, interest is growing in having me teach bread-making courses.
 
@@ -140,7 +140,7 @@ Logged 158 hours for the month and worked on 27 of the 31 days. Looking back fro
 
 ###Goals
 
-Still bad! Only 5 posts on this website, and one of those was the monthly for February. Still, that's better than in February. And there are all those Listened posts, though I have no intention of counting them.
+Still bad! Only 5 posts on this website, and one of those was the monthly for February. Still, that's better than in February. And there are all those listen ed posts, though I have no intention of counting them.
 
 ##Niggles
 

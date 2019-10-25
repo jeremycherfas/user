@@ -15,4 +15,4 @@ image: artwork-resized.jpg
 template: item
 ---
  
-Episode summary: A chemical technician risks her life to expose corporate misdeeds at a nuclear facility in Oklahoma. Prelude: Energy mogul Robert S. Kerr becomes the “uncrowned king of the Senate”. Support the show by becoming a ValuedListener™ at Patreon.com/Swindled. Buy something at SwindledPodcast.com/Shop. Original music by Trevor Howard (The Lungs). ‘Snake Song’ written and performed by Jess Williamson. Follow Jess on Spotify. Learn more about your ad choices. Visit megaphone.fm/adchoices
+Episode summary: A chemical technician risks her life to expose corporate misdeeds at a nuclear facility in Oklahoma. Prelude: Energy mogul Robert S. Kerr becomes the “uncrowned king of the Senate”. Support the show by becoming a Valuedlistener™ at Patreon.com/Swindled. Buy something at SwindledPodcast.com/Shop. Original music by Trevor Howard (The Lungs). ‘Snake Song’ written and performed by Jess Williamson. Follow Jess on Spotify. Learn more about your ad choices. Visit megaphone.fm/adchoices

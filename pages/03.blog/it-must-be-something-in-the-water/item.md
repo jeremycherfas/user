@@ -19,7 +19,7 @@ summary:
     format: short
 ---
 
-There is, apparently, a huge difference between pizza made in New York and pizza made elsewhere. So I learned on a podcast I listened to this morning, and I confess, I've heard the same said of New York bagels. The folk belief is that it must be something in the water. The podcast went on to explain in loving detail how someone conducted a trial of different waters, decanting store-bought waters into plain bottles, numbering the bottles and having his wife switch the numbers. Oooh, double-blind. Science! Then schlepping the whole lot off to a great pizza restaurant to conduct the tasting. [And you know what][seriouseats]:
+There is, apparently, a huge difference between pizza made in New York and pizza made elsewhere. So I learned on a podcast I listen ed to this morning, and I confess, I've heard the same said of New York bagels. The folk belief is that it must be something in the water. The podcast went on to explain in loving detail how someone conducted a trial of different waters, decanting store-bought waters into plain bottles, numbering the bottles and having his wife switch the numbers. Oooh, double-blind. Science! Then schlepping the whole lot off to a great pizza restaurant to conduct the tasting. [And you know what][seriouseats]:
 
 > As far as pizza goes, use whatever water you want. ... Clearly, the small differences that arise naturally in the course of making a good pizza by hand far outweigh the minor differences that water could make.
 

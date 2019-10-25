@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Three Requests for SMYM Listeners"
+title: "Listened to: Three Requests for SMYM listeners"
 published: true
 date: 22-02-2019 11:36
 taxonomy:

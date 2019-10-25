@@ -15,4 +15,4 @@ image: artwork-resized.jpg
 template: item
 ---
  
-Episode summary: A Russian-born con artist posing as a wealthy German heiress scams businesses and acquaintances in an attempt to develop her own art foundation in New York. Prelude: Kari Ferrell’s Brooklyn exploits earn her the nickname “The Hipster Grifter”. Support the show by becoming a ValuedListener™ at Patreon.com/Swindled. Buy something at SwindledPodcast.com/Shop. Learn more about your ad choices. Visit megaphone.fm/adchoices
+Episode summary: A Russian-born con artist posing as a wealthy German heiress scams businesses and acquaintances in an attempt to develop her own art foundation in New York. Prelude: Kari Ferrell’s Brooklyn exploits earn her the nickname “The Hipster Grifter”. Support the show by becoming a Valuedlistener™ at Patreon.com/Swindled. Buy something at SwindledPodcast.com/Shop. Learn more about your ad choices. Visit megaphone.fm/adchoices

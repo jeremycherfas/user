@@ -30,7 +30,7 @@ One of the themes that runs through _Cuisine and Empire_ is the way that food is
 
 It's a puzzle, for sure. I certainly don't have answers, although I am convinced that one problem is the way we keep the score. The cost of abundance is paid elsewhere -- in health care, environmental damage, animal welfare, human rights.
 
-Which is why the other Econtalk show I listened to had me hopping mad. The host, Russ Roberts, talked about [the economics of buy local](http://www.econtalk.org/archives/2007/04/boudreaux_on_th.html) with his colleague and co-author Don Boudreaux. Two things in particular made me cross.
+Which is why the other Econtalk show I listen ed to had me hopping mad. The host, Russ Roberts, talked about [the economics of buy local](http://www.econtalk.org/archives/2007/04/boudreaux_on_th.html) with his colleague and co-author Don Boudreaux. Two things in particular made me cross.
 
 One was the overuse of _reductio ad absurdam_ as a rhetorical device. Like, if you have a local economy then you have to have a local car manufacturer, and that would make cars so expensive that nobody could afford to buy them anyway. Or, if the Chinese decided to set fire to a nominal $400 million trade deficit with the USA:
 

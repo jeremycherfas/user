@@ -48,7 +48,7 @@ Here's my current understanding:
 
 ![Authentication flowchart](auth.png){.center} 
 
-! I really mean it about telling me where I am wrong. I may not listen, but I want to hear.
+! I really mean it about telling me where I am wrong. I may not listen , but I want to hear.
 
 
 [^2]: I plan to try Martijn van der Ven's <a href="https://indieweb.org/selfauth">selfauth</a> on this Grav site (which is currently littered with `rel=me` links, just as soon as I have posted this.

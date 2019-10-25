@@ -19,7 +19,7 @@ Alex Blumberg interviewed Pierre Sutton and his daughter Keisha on a recent epis
 
 ![wfil-fm logo](WFILFMsmall_copy.jpg){.left} To understand why, you need to know that aside from creating black-owned radio, Pierre Sutton also brought FM transmission to non-classical music. Most radio was AM and that, as Alex explained for the kids, "was scratchy and tinny, and only in mono. FM was rich and full, and in stereo". But most FM transmitters were not great in cities. Pierre Sutton met [a man who had invented an antenna that vastly improved FM transmitters](http://mmone.org/t-mitchell-hastings/), and changed music radio forever. [^1]
 
-[^1]: Listen to the episode to understand just how much.
+[^1]: listen to the episode to understand just how much.
 
 This was some time around the late 1960s early 1970s. And in the summer of 1970 I was on my first visit to the United States, land of wonder, as a counsellor with Camp America. After a summer in Vermont, we had two weeks and 100 dollars to explore the country, and with some of my new-found friends I headed off to Florida. On the way, we stopped in a friend's house in Philadelphia. I cannot for the life of me remember whose house it was, but I was given the spare room in the basement.
 

@@ -16,7 +16,7 @@ Last week was a funny old week for podcast-prompted nostalgia. First, there was 
 
 ===
 
-Listening to Phyllis and Tim took me back to my own days studying animal behaviour. Although my own studies were lab-bound and anything but long-term, my subjects being destined for a life free of my intervention after a week or so, ten days at most, I hung around with the rugged field biologists when they came back to base and lived their lives of adventure and derring do vicariously. And, of course, visiting them on holiday in the field was an adventure most tourists could only dream of.
+listening to Phyllis and Tim took me back to my own days studying animal behaviour. Although my own studies were lab-bound and anything but long-term, my subjects being destined for a life free of my intervention after a week or so, ten days at most, I hung around with the rugged field biologists when they came back to base and lived their lives of adventure and derring do vicariously. And, of course, visiting them on holiday in the field was an adventure most tourists could only dream of.
 
 I do sometimes wonder how life would have turned out for me if I had pursued some of my research topics with a little bit more commitment. Probably very differently, but that's as far as I can go. Not better, not worse; just different. And that's OK.
 

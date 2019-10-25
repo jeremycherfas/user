@@ -32,7 +32,7 @@ Displaying my location more publicly will require more work., although Rose is b
 
 Some fantastic other demonstrations finished the hack day. Martijn built a search engine. Frank built a script to import OPML files into an indie reader. Björn made a thing that scrapes the cover art and summary of a book from one of several sources. Dylan cleaned up his site and reviewed his travel coffee maker. Johan created a Docker container for Aperture; I haven't the faintest idea what that entails, but I know that it is difficult and important. Rose and Sebastiaan worked on Seb's reader map. Julia worked away but is saving the reveal for later. 
 
-It was also gratifying to see Rose take my script for sucking up podcast listens from Overcast and, first, tidying it up (though I wish I had a slo-mo recording of what exactly she did)[^1] and then actually using her version to get a list of the podcasts she had listened to. I learned a huge amount about giving, taking, and sharing.
+It was also gratifying to see Rose take my script for sucking up podcast listen s from Overcast and, first, tidying it up (though I wish I had a slo-mo recording of what exactly she did)[^1] and then actually using her version to get a list of the podcasts she had listen ed to. I learned a huge amount about giving, taking, and sharing.
 
 [^1]: And it was super interesting to note that Ton had <a class="u-in-reply-to" href="https://www.zylstra.org/blog/2019/05/watch-and-learn/" >an exactly similar experience</a >. Watching someone work, especially if they slow down to help or, even better, having them watch you, is clearly a worthwhile practice.
 

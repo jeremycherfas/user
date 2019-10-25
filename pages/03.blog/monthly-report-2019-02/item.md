@@ -28,8 +28,8 @@ Other things the daily diary helped me remember:
 - Moved email management from MailChimp to [Buttondown](https://buttondown.email/). Some teething problems, for sure, but overall happy to have made the switch.
 - Had a great weekend in Milan, around doing an interview for the podcast.
 - Got invited to a very exciting event in Wales in June. 
-- Progressed on work to automatically record some information about podcasts I've listened to. This became more urgent when I discovered I simply could not remember where and when I had heard about a particular thing, and all my searching and ransacking meat memory came to naught.
-- Stalled on recording other things I've watched or listened to.
+- Progressed on work to automatically record some information about podcasts I've listen ed to. This became more urgent when I discovered I simply could not remember where and when I had heard about a particular thing, and all my searching and ransacking meat memory came to naught.
+- Stalled on recording other things I've watched or listen ed to.
 
 ## Our Daily Bread
 

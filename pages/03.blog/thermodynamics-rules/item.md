@@ -20,7 +20,7 @@ There's a long and throughly-researched article at Mosaic, [^2] the Wellcome Tru
 
 > Calories consumed minus calories burned: it’s the simple formula for weight loss or gain. But dieters often find that it doesn’t work.
 
-The article is by Cynthia Graber and Nicola Twilley and is based on a recent episode of their [Gastropod][gastropod]. I read the article before I listened to the episode, and as I read it I grew upset by what I saw as a bait-and-switch. The premise of the article, and the promise of the episode, is that dieters who think all they need to do is expend more calories than they consume are somehow getting short-changed. That thread, and two hapless dieters, run though the argument like fudge and peanut butter though a large tub of Chubby Hubby.
+The article is by Cynthia Graber and Nicola Twilley and is based on a recent episode of their [Gastropod][gastropod]. I read the article before I listen ed to the episode, and as I read it I grew upset by what I saw as a bait-and-switch. The premise of the article, and the promise of the episode, is that dieters who think all they need to do is expend more calories than they consume are somehow getting short-changed. That thread, and two hapless dieters, run though the argument like fudge and peanut butter though a large tub of Chubby Hubby.
 
 The bulk of the story, though, is about how to measure calories, human basal metabolism, the avaliable energy in food prepared in different ways and all that. In other words, about how the calories you read on a label or ignore on a menu should all be taken with a pinch of salt.
 

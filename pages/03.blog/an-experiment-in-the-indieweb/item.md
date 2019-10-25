@@ -12,7 +12,7 @@ taxonomy:
         - blog
 ---
 
-Listening to @phoneboyspeaks [Episode 919](https://phoneboy.com/ps/919) about Social Network News stiffened my resolve to take back control of my online presence(s). While dismissing the Ello iOS app, as everyone else has, Dameon casually mentioned Yet Another Social Platform that he signed up for "because". I too like to sign up for and play with all the shiny new things, but I also want to make life easier for myself and anyone who has the slightest interest in interacting with me.
+listening to @phoneboyspeaks [Episode 919](https://phoneboy.com/ps/919) about Social Network News stiffened my resolve to take back control of my online presence(s). While dismissing the Ello iOS app, as everyone else has, Dameon casually mentioned Yet Another Social Platform that he signed up for "because". I too like to sign up for and play with all the shiny new things, but I also want to make life easier for myself and anyone who has the slightest interest in interacting with me.
 
 So I've signed up for a shiny new thing.
 

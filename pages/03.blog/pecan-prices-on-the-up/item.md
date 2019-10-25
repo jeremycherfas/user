@@ -18,4 +18,4 @@ First, pecans are alternate bearing. That is, like many other tree crops, good y
 
 But there's good news too. Nuts harvested in 2012 are still available, having been kept in cold storage, and might well be cheaper. Are they as good? I've no idea, and the Dallas Morning News doesn't say, although it does say you can tell the older nuts because they are darker. And 2014 will probably see lower prices, both because it will be time for a heavier crop and because a recent drought has now ended.
 
-[Listen to the podcast with James McWilliams](http://www.eatthispodcast.com/pecans-and-history/).
+[listen to the podcast with James McWilliams](http://www.eatthispodcast.com/pecans-and-history/).

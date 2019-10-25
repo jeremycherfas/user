@@ -181,7 +181,7 @@ I know that my logging has been less than comprehensive over the past two months
 
 Three posts here in two months! That's appalling. But lots of reading; that's great. 
 
-Listened to 47 podcasts in June and 45 in July. The highlights were Bundyville: The Remnant from [Oregon Public Broadcasting](https://www.opb.org/news/series/burns-oregon-standoff-bundy-militia-news-updates/bundyville-occupation-podcast/) and [Longreads](https://longreads.com/bundyville/) and Malcolm Gladwell's episode of Revisionist History dedicated to [Randy Newman's Good Old Boys](http://revisionisthistory.com/episodes/34-good-old-boys). And having written that sentence, is the first time I have put those two thoughts together.
+listen ed to 47 podcasts in June and 45 in July. The highlights were Bundyville: The Remnant from [Oregon Public Broadcasting](https://www.opb.org/news/series/burns-oregon-standoff-bundy-militia-news-updates/bundyville-occupation-podcast/) and [Longreads](https://longreads.com/bundyville/) and Malcolm Gladwell's episode of Revisionist History dedicated to [Randy Newman's Good Old Boys](http://revisionisthistory.com/episodes/34-good-old-boys). And having written that sentence, is the first time I have put those two thoughts together.
 
 In May I started to remap various keyboard shortcuts; a couple have become ingrained but I need to add more slowly and allow each one to become a habit. A cheatsheet might help.
 

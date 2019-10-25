@@ -19,4 +19,4 @@ feed:
 
 And then there's this:
 
-[Listening to certain people with strategic pretensions is like listening to someone afflicted with a spontaneous, naturally occurring affliction of buzzword bingo](https://cultureby.com/2008/07/intellectual-ca.html). 
+[listening to certain people with strategic pretensions is like listening to someone afflicted with a spontaneous, naturally occurring affliction of buzzword bingo](https://cultureby.com/2008/07/intellectual-ca.html). 

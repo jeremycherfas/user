@@ -30,7 +30,7 @@ On the formal learning front, I did a course on PHP that was really interesting 
 
 The whole question of websites remains something unsettled. I still really like Grav, which runs this site, but it seems to be getting more and more complex and I'm having trouble keeping up. I'm not too keen on the way WordPress is developing. That's the engine behind Eat This Podcast, Fornacalia and the evergreen [agricultural biodiversity weblog](https://agro.biodiver.se/), which is now almost entirely fed by Luigi (I just keep the lights on). The first two are not so big that I couldn't move them, but ABW is a beast. The biggest worry, though, is Known. It was my gateway into the IndieWeb and it just works, but it does so in idiosyncratic (and to me unfathomable) ways. 
 
-So, the big question: to carry on with it, or to spend more time building the tools ([Micropub](https://indieweb.org/Micropub), mostly) that would allow me to create a stream right here in Grav? I've made some good progress with that over the past year, and it would definitely give me the concerted and useful project I need to work on. It would be so handy to automatically gather here the bookmarks, likes, things I've watched or listened to or read etc. 
+So, the big question: to carry on with it, or to spend more time building the tools ([Micropub](https://indieweb.org/Micropub), mostly) that would allow me to create a stream right here in Grav? I've made some good progress with that over the past year, and it would definitely give me the concerted and useful project I need to work on. It would be so handy to automatically gather here the bookmarks, likes, things I've watched or listen ed to or read etc. 
 
 ##The low-level stuff
 

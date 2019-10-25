@@ -21,7 +21,7 @@ Stewart Butterfield is the chap who accidentally invented Flickr and then Slack.
 
 The conversation was really interesting and very wide ranging, but one thing stood out for me. Butterfield talked about endless games -- the kind children are involved in when they're "just playing" -- which have no real point, in the sense that nobody actually wins or loses. You just play for the fun of it. And he said something about how Flickr in part grew up out of the messaging that was built into the first continuous game he and his partners were trying to develop. In essence, if I'm not paraphrasing him incorrectly, the social chit chat, the back and forth, was the most important part of the game.
 
-Listening to that, it occurred to me that my favorite online social interactions are, in and of themselves, the game. That's what I love about the few people with whom I message one-to-one most frequently. It's what I loved about ADN. And it is what I love about [10 centuries](https://10centuries.org), which is where I hang out to play now that ADN is almost of blessed memory.
+listening to that, it occurred to me that my favorite online social interactions are, in and of themselves, the game. That's what I love about the few people with whom I message one-to-one most frequently. It's what I loved about ADN. And it is what I love about [10 centuries](https://10centuries.org), which is where I hang out to play now that ADN is almost of blessed memory.
 
 It isn't that we're playing an actual game, with rules or anything. Rather that mostly we are being playful, which in my experience is not something that happens -- at least in my circles -- on any of my other social channels. Maybe Instagram, a bit.
 

@@ -15,4 +15,4 @@ image: artwork-resized.jpg
 template: item
 ---
  
-Episode summary: A French breast implant manufacturing company’s method of cutting costs incites a global health scare. Prelude: Concerns over safety issues related to silicone breast implants leads to a moratorium on sales in the United States. Support the show by becoming a ValuedListener™ at Patreon.com/Swindled. Buy something at SwindledPodcast.com/Shop. Original music by Trevor Howard (The Lungs).Learn more about your ad choices. Visit megaphone.fm/adchoices
+Episode summary: A French breast implant manufacturing company’s method of cutting costs incites a global health scare. Prelude: Concerns over safety issues related to silicone breast implants leads to a moratorium on sales in the United States. Support the show by becoming a Valuedlistener™ at Patreon.com/Swindled. Buy something at SwindledPodcast.com/Shop. Original music by Trevor Howard (The Lungs).Learn more about your ad choices. Visit megaphone.fm/adchoices

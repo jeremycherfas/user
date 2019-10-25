@@ -15,4 +15,4 @@ image: artwork-resized.jpg
 template: item
 ---
  
-Episode summary: A disastrous European tour reveals that an American rock band manufactured an entire fan base. Prelude: German R&B duo, Milli Vanilli, are exposed for lip syncing. Support the show by becoming a ValuedListener™ at Patreon.com/Swindled. Buy something at SwindledPodcast.com/Shop. Original music by Trevor Howard (The Lungs). Learn more about your ad choices. Visit megaphone.fm/adchoices
+Episode summary: A disastrous European tour reveals that an American rock band manufactured an entire fan base. Prelude: German R&B duo, Milli Vanilli, are exposed for lip syncing. Support the show by becoming a Valuedlistener™ at Patreon.com/Swindled. Buy something at SwindledPodcast.com/Shop. Original music by Trevor Howard (The Lungs). Learn more about your ad choices. Visit megaphone.fm/adchoices

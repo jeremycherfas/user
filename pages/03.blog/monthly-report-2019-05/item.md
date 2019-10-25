@@ -166,7 +166,7 @@ Logged 145 hours for the month and worked on 20 of the 31 days. That seems exces
 
 ###Goals
 
-Seven posts published on this blog, and some elsewhere too. I think I brought in one or two older ones, but I failed to record them. Listened to 53 podcasts.
+Seven posts published on this blog, and some elsewhere too. I think I brought in one or two older ones, but I failed to record them. listen  ed to 53 podcasts.
 
 ##Niggles
 Having got my mapping posts working again, and at least one successful post with data collected by Overland and stored in Compass, I realise two things.

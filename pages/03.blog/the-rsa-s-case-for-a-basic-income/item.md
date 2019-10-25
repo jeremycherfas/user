@@ -27,6 +27,6 @@ All, I have to say, not exactly persuasive, but encouraging. I'll probably be de
 
 Here's to the future.
 
-[^1]: Full disclosure: I'm a fellow, but anyone can listen
+[^1]: Full disclosure: I'm a fellow, but anyone can listen 
 [^2]: It's at Medium, which is bad for all sorts of reasons, not least that it makes copying from a page way too hard.
 [^3]: Brian Eno, in his [John Peel Lecture](http://www.bbc.co.uk/programmes/b06dcmxl), said that being on the dole, so he didn't have to take a job in which he would be trapped, was an essential factor that enabled him to make music. 

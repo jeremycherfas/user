@@ -1,5 +1,5 @@
 ---
-title: "Sucking up the podcasts I've listened to"
+title: "Sucking up the podcasts I've listen ed to"
 published: true
 date: '16-03-2019 12:30'
 taxonomy:
@@ -14,7 +14,7 @@ subhead: "Days to save minutes"
 header_image: '0'
 --- 
 
-Finally, I have succeeded in importing [all the podcasts I have listened to with the Overcast app](https://www.jeremycherfas.net/stream), at least as far back as May 2018.
+Finally, I have succeeded in importing [all the podcasts I have listen ed to with the Overcast app](https://www.jeremycherfas.net/stream), at least as far back as May 2018.
 
 ===
 
@@ -30,6 +30,6 @@ I'm leaning towards comparing the current OPML file with its predecessor and ext
 
 As far as the information itself is concerned, I'm broadly happy with that too. Right now, each post contains the data supplied by the podcast to Overcast, untouched by human hand, and a link to the episode on Overcast. Ideally, when I have caught up, I would have time to add any notes I may have, and maybe even edit the official summary where I think it could use a clean-up.
 
-The other thing I need to do is work out how best to handle skipping an episode and deleting ones I have listened to. Currently, that's all manual. If I let Overcast handle it, the OPML file might be easier to use.
+The other thing I need to do is work out how best to handle skipping an episode and deleting ones I have listen ed to. Currently, that's all manual. If I let Overcast handle it, the OPML file might be easier to use.
 
-The time spent, I regard as worth it, for two reasons. First, learning more about PHP and Grav (or about anything, for that matter) is always worthwhile. Secondly, even though manual steps are still needed, if I had to enter each podcast manually as I listened to it, I wouldn't.
+The time spent, I regard as worth it, for two reasons. First, learning more about PHP and Grav (or about anything, for that matter) is always worthwhile. Secondly, even though manual steps are still needed, if I had to enter each podcast manually as I listen ed to it, I wouldn't.

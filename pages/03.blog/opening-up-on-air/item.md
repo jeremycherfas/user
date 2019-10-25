@@ -28,7 +28,7 @@ I thought nothing more of it, except for occasionally coming across that note, b
 
 Which he never did, until last week, when my subscription to Anxious Machine sprang back to life.
 
-Here -- a year later -- was [part two of the series](http://www.anxiousmachine.com/podcast/2017/5/24/electric-torture-device), an honest, sometimes raw, often funny account of the missing year And his problems. Listening, I could only imagine what he had gone through and what it took to make this episode. And I have no idea whether his idea is even still alive. That's not the point, really.[^2] The point is, Rob is podcasting again and I am glad he is, as it seems to be part of the solution. And while I am looking forward to part three, or whatever else comes next, I won't worry too much about when it will arrive, because when it does my subscription will spring back to life again.
+Here -- a year later -- was [part two of the series](http://www.anxiousmachine.com/podcast/2017/5/24/electric-torture-device), an honest, sometimes raw, often funny account of the missing year And his problems. listen  ing, I could only imagine what he had gone through and what it took to make this episode. And I have no idea whether his idea is even still alive. That's not the point, really.[^2] The point is, Rob is podcasting again and I am glad he is, as it seems to be part of the solution. And while I am looking forward to part three, or whatever else comes next, I won't worry too much about when it will arrive, because when it does my subscription will spring back to life again.
 
 [^1]: One reason why I very seldom delete subscriptions just because they're dormant. I may move them to a holding pen, but that's all. 
 
