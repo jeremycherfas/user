@@ -16,6 +16,8 @@ header_image: '0'
 
 "More tomorrow," I said in [part 1](https://www.jeremycherfas.net/blog/indiewebcamp-brighton-1) and, as usual, life got in the way.
 
+===
+
 Before heading to Brighton I had hoped that my new Grav theme would already be up and running, so that I could use the hack day to smooth things out and use the assembled wisdom to help me get the microformats all fixed up. Life got in the way, a familiar refrain. In the end I dedicated the day to pushing the new theme live, and the result is before you now.
 
 The work was essentially solitary. The only other IndieWeb  person I knew of who was actively using Grav gave up on it (although she is still full of wisdom and helpfulness) and most of the problems I faced in going live were Grav problems, so I just ploughed on.
