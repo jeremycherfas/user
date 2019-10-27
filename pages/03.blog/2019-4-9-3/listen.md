@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Sarah Kliff and the Insane Saga of American Emergency Room Bills"
+title: "&#127911; Sarah Kliff and the Insane Saga of American Emergency Room Bills"
 published: true
 date: 09-04-2019 15:53
 taxonomy:

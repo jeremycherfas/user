@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Alex Talks to a Turnaround Specialist"
+title: "&#127911; Alex Talks to a Turnaround Specialist"
 published: true
 date: 07-03-2019 07:11
 taxonomy:

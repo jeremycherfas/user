@@ -1,5 +1,5 @@
 ---
-title: "Listened to: PhoneBoy Speaks Ep 1197: How I Reversed My Type 2 Diabetes"
+title: "&#127911; PhoneBoy Speaks Ep 1197: How I Reversed My Type 2 Diabetes"
 published: true
 date: 22-08-2019 09:37
 taxonomy:

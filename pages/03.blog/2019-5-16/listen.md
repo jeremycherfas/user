@@ -1,5 +1,5 @@
 ---
-title: "Listened to: The Gordon Riots"
+title: "&#127911; The Gordon Riots"
 published: true
 date: 16-05-2019 10:59
 taxonomy:

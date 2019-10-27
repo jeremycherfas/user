@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Snobbery"
+title: "&#127911; Snobbery"
 published: true
 date: 27-02-2019 10:25
 taxonomy:

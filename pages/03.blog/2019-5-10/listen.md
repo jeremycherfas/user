@@ -1,5 +1,5 @@
 ---
-title: "Listened to: #141 Adam Pisces and the $2 Coke"
+title: "&#127911; #141 Adam Pisces and the $2 Coke"
 published: true
 date: 10-05-2019 10:07
 taxonomy:

@@ -1,5 +1,5 @@
 ---
-title: "Listened to: WS More or Less: Florence Nightingale – recognising the nurse statistician"
+title: "&#127911; WS More or Less: Florence Nightingale – recognising the nurse statistician"
 published: true
 date: 06-06-2019 10:21
 taxonomy:

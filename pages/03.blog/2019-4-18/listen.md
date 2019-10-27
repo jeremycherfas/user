@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Geoffrey Horne and the Mysterious Disappearance of a Dreamboat"
+title: "&#127911; Geoffrey Horne and the Mysterious Disappearance of a Dreamboat"
 published: true
 date: 18-04-2019 09:04
 taxonomy:

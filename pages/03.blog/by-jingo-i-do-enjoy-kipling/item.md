@@ -1,5 +1,5 @@
 ---
-title: 'By Jingo, I do enjoy Kipling'
+title: '&#128214; By Jingo, I do enjoy Kipling'
 published: true
 date: '26-08-2019 17:30'
 taxonomy:

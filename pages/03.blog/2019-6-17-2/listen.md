@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Automators 25: WWDC 2019 Automation Update"
+title: "&#127911; Automators 25: WWDC 2019 Automation Update"
 published: true
 date: 17-06-2019 19:02
 taxonomy:

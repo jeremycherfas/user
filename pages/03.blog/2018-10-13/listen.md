@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Wine, Olives, and Sheep: The Etruscan Guide to 21st Century Foodways"
+title: "&#127911; Wine, Olives, and Sheep: The Etruscan Guide to 21st Century Foodways"
 published: true
 date: 13-10-2018 17:34
 taxonomy:

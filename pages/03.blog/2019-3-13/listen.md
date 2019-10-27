@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Spacebridge #2 – Foreign Policy According to Freud"
+title: "&#127911; Spacebridge #2 – Foreign Policy According to Freud"
 published: true
 date: 13-03-2019 16:46
 taxonomy:

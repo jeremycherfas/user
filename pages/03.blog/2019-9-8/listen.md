@@ -1,5 +1,5 @@
 ---
-title: "Listened to: How to Run a Small-Town Paper When Your Town Is East Hampton"
+title: "&#127911; How to Run a Small-Town Paper When Your Town Is East Hampton"
 published: true
 date: 08-09-2019 15:30
 taxonomy:

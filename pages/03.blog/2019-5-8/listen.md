@@ -1,5 +1,5 @@
 ---
-title: "Listened to: The Greater Firewall"
+title: "&#127911; The Greater Firewall"
 published: true
 date: 08-05-2019 09:43
 taxonomy:

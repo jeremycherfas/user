@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Bellwether’s Speculative Journalism - Transom"
+title: "&#127911; Bellwether’s Speculative Journalism - Transom"
 published: true
 date: 27-08-2019 11:18
 taxonomy:

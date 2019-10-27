@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Nailed It! Ancient Roman Edition featuring Farrell Monaco"
+title: "&#127911; Nailed It! Ancient Roman Edition featuring Farrell Monaco"
 published: true
 date: 17-04-2019 12:44
 taxonomy:

@@ -1,5 +1,5 @@
 ---
-title: "Listened to: YouTube’s Inferno"
+title: "&#127911; YouTube’s Inferno"
 published: true
 date: 30-06-2019 08:52
 taxonomy:

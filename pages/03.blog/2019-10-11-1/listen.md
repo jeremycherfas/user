@@ -1,5 +1,5 @@
 ---
-title: "Listened to: WS More or Less: Who fought in World War 1?"
+title: "&#127911; WS More or Less: Who fought in World War 1?"
 published: true
 date: 11-10-2019 10:12
 taxonomy:

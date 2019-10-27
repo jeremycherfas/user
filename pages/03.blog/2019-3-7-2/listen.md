@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Automators 18: Terminal Automation with John Siracusa"
+title: "&#127911; Automators 18: Terminal Automation with John Siracusa"
 published: true
 date: 07-03-2019 07:11
 taxonomy:

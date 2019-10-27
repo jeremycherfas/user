@@ -1,5 +1,5 @@
 ---
-title: "Listened to: The Forgetting"
+title: "&#127911; The Forgetting"
 published: true
 date: 08-03-2019 10:13
 taxonomy:

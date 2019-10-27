@@ -1,5 +1,5 @@
 ---
-title: "Listened to: #149 30-50 Feral Hogs"
+title: "&#127911; #149 30-50 Feral Hogs"
 published: true
 date: 17-10-2019 11:02
 taxonomy:

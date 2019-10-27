@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Trump After Mueller"
+title: "&#127911; Trump After Mueller"
 published: true
 date: 09-04-2019 13:53
 taxonomy:

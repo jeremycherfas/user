@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Inside the Bubble with Ayesha Hazarika: Live!"
+title: "&#127911; Inside the Bubble with Ayesha Hazarika: Live!"
 published: true
 date: 22-10-2019 17:28
 taxonomy:

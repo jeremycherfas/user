@@ -1,5 +1,5 @@
 ---
-title: "Listened to: #917: Quit Threat!"
+title: "&#127911; #917: Quit Threat!"
 published: true
 date: 12-06-2019 09:15
 taxonomy:

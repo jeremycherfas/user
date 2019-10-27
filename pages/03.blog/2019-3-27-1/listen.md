@@ -1,5 +1,5 @@
 ---
-title: "Listened to: 30 and Counting, Episode 23: Apple + Services"
+title: "&#127911; 30 and Counting, Episode 23: Apple + Services"
 published: true
 date: 27-03-2019 10:03
 taxonomy:

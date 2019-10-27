@@ -1,5 +1,5 @@
 ---
-title: "Listened to: WS More or Less: Peaty v. Bolt: Which is the greatest world record?"
+title: "&#127911; WS More or Less: Peaty v. Bolt: Which is the greatest world record?"
 published: true
 date: 02-10-2019 19:27
 taxonomy:

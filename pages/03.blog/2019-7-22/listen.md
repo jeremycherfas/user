@@ -1,5 +1,5 @@
 ---
-title: "Listened to: The Socialite (Anna Delvey)"
+title: "&#127911; The Socialite (Anna Delvey)"
 published: true
 date: 22-07-2019 08:54
 taxonomy:

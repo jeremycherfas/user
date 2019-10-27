@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Chess cheats and the GOAT"
+title: "&#127911; Chess cheats and the GOAT"
 published: true
 date: 17-04-2019 11:08
 taxonomy:

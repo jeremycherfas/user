@@ -1,5 +1,5 @@
 ---
-title: "Listened to: #71: Geloso vs. invidioso: How to say jealous in Italian"
+title: "&#127911; #71: Geloso vs. invidioso: How to say jealous in Italian"
 published: true
 date: 10-10-2019 18:55
 taxonomy:

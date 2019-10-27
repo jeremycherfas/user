@@ -1,5 +1,5 @@
 ---
-title: "Listened to: WS More or Less: The things we fail to see"
+title: "&#127911; WS More or Less: The things we fail to see"
 published: true
 date: 19-06-2019 11:07
 taxonomy:

@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Autumn of Chaos"
+title: "&#127911; Autumn of Chaos"
 published: true
 date: 25-07-2019 09:41
 taxonomy:

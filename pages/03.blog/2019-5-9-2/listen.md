@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Nero"
+title: "&#127911; Nero"
 published: true
 date: 09-05-2019 12:40
 taxonomy:

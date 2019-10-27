@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Bonus: Malcolm Gladwell on Oprah’s SuperSoul Conversations"
+title: "&#127911; Bonus: Malcolm Gladwell on Oprah’s SuperSoul Conversations"
 published: true
 date: 01-10-2019 10:11
 taxonomy:

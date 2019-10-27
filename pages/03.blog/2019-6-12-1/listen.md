@@ -1,5 +1,5 @@
 ---
-title: "Listened to: WS More or Less: Volcanoes versus humans"
+title: "&#127911; WS More or Less: Volcanoes versus humans"
 published: true
 date: 12-06-2019 09:24
 taxonomy:

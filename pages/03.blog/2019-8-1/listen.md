@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Episode 145: Stories about the St. Louis"
+title: "&#127911; Episode 145: Stories about the St. Louis"
 published: true
 date: 01-08-2019 08:53
 taxonomy:

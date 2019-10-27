@@ -1,5 +1,5 @@
 ---
-title: "Listened to: The Sting (Abscam)"
+title: "&#127911; The Sting (Abscam)"
 published: true
 date: 14-03-2019 12:01
 taxonomy:

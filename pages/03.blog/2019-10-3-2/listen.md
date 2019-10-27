@@ -1,5 +1,5 @@
 ---
-title: "Listened to: A Grenfell Story"
+title: "&#127911; A Grenfell Story"
 published: true
 date: 03-10-2019 10:54
 taxonomy:

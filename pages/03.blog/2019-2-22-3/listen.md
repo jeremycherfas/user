@@ -1,5 +1,5 @@
 ---
-title: "Listened to: The Mayor (Kwame Kilpatrick)"
+title: "&#127911; The Mayor (Kwame Kilpatrick)"
 published: true
 date: 22-02-2019 11:59
 taxonomy:

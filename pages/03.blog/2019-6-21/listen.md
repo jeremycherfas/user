@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Nocturne"
+title: "&#127911; Nocturne"
 published: true
 date: 21-06-2019 09:48
 taxonomy:

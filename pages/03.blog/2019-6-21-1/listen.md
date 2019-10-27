@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Episode 24: What is the IndieWeb?"
+title: "&#127911; Episode 24: What is the IndieWeb?"
 published: true
 date: 21-06-2019 10:03
 taxonomy:

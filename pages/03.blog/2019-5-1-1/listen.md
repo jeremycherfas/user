@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Perta: Life Just Before Rock Stardom"
+title: "&#127911; Perta: Life Just Before Rock Stardom"
 published: true
 date: 01-05-2019 11:35
 taxonomy:

@@ -1,5 +1,5 @@
 ---
-title: "Listened to: The boy who cried wolf"
+title: "&#127911; The boy who cried wolf"
 published: true
 date: 02-10-2019 19:18
 taxonomy:

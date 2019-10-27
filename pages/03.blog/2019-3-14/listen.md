@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Why is CBD on everyone’s lips?"
+title: "&#127911; Why is CBD on everyone’s lips?"
 published: true
 date: 14-03-2019 12:04
 taxonomy:

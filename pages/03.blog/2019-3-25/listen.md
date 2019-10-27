@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Alex Talks to an HR Maverick"
+title: "&#127911; Alex Talks to an HR Maverick"
 published: true
 date: 25-03-2019 18:37
 taxonomy:

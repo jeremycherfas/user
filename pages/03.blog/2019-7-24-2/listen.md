@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Back to Black"
+title: "&#127911; Back to Black"
 published: true
 date: 24-07-2019 18:49
 taxonomy:

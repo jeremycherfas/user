@@ -1,5 +1,5 @@
 ---
-title: "Listened to: #145 Louder"
+title: "&#127911; #145 Louder"
 published: true
 date: 26-07-2019 16:08
 taxonomy:

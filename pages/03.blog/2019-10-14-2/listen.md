@@ -1,5 +1,5 @@
 ---
-title: "Listened to: 373- The Kirkbride Plan"
+title: "&#127911; 373- The Kirkbride Plan"
 published: true
 date: 14-10-2019 09:00
 taxonomy:

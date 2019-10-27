@@ -1,5 +1,5 @@
 ---
-title: "Listened to: WS More or Less: Does San Francisco have more rough sleepers than Britain?"
+title: "&#127911; WS More or Less: Does San Francisco have more rough sleepers than Britain?"
 published: true
 date: 13-10-2019 08:52
 taxonomy:

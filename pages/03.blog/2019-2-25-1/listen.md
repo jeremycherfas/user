@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Antitrust 2: The Paradox"
+title: "&#127911; Antitrust 2: The Paradox"
 published: true
 date: 25-02-2019 08:11
 taxonomy:

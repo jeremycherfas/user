@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Best Political Novels"
+title: "&#127911; Best Political Novels"
 published: true
 date: 01-03-2019 11:50
 taxonomy:

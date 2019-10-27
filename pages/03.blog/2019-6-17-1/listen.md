@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Alex Talks to Pose Co-Creator Steven Canals"
+title: "&#127911; Alex Talks to Pose Co-Creator Steven Canals"
 published: true
 date: 17-06-2019 12:30
 taxonomy:

@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Lang Lang Plays"
+title: "&#127911; Lang Lang Plays"
 published: true
 date: 30-09-2019 08:41
 taxonomy:

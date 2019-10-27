@@ -1,5 +1,5 @@
 ---
-title: "Listened to: The Digital Humanities"
+title: "&#127911; The Digital Humanities"
 published: true
 date: 16-01-2019 08:25
 taxonomy:

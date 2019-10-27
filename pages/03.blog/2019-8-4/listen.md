@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Good Enough for Granny: What’s so special about the food our grandmothers cook?"
+title: "&#127911; Good Enough for Granny: What’s so special about the food our grandmothers cook?"
 published: true
 date: 04-08-2019 10:38
 taxonomy:

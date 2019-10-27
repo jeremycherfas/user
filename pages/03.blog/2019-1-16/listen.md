@@ -1,5 +1,5 @@
 ---
-title: "Listened to: The End of Male Supremacy? (MEN, Part 12)"
+title: "&#127911; The End of Male Supremacy? (MEN, Part 12)"
 published: true
 date: 16-01-2019 08:27
 taxonomy:

@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Luminating on the Luminary Announcement"
+title: "&#127911; Luminating on the Luminary Announcement"
 published: true
 date: 19-03-2019 08:53
 taxonomy:

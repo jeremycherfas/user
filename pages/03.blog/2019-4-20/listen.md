@@ -1,5 +1,5 @@
 ---
-title: "Listened to: The Seven Minute Rule"
+title: "&#127911; The Seven Minute Rule"
 published: true
 date: 20-04-2019 12:20
 taxonomy:

@@ -1,5 +1,5 @@
 ---
-title: "Listened to: The Cowboy Philosopher | Hidden Brain : NPR"
+title: "&#127911; The Cowboy Philosopher | Hidden Brain : NPR"
 published: true
 date: 02-04-2019 10:13
 taxonomy:

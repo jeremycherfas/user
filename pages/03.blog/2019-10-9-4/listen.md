@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Slow Fashion"
+title: "&#127911; Slow Fashion"
 published: true
 date: 09-10-2019 18:07
 taxonomy:

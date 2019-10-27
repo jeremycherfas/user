@@ -1,5 +1,5 @@
 ---
-title: "Listened to: 45: Asymcar 45: The Cost of Technology Made That Impossible"
+title: "&#127911; 45: Asymcar 45: The Cost of Technology Made That Impossible"
 published: true
 date: 09-09-2018 16:10
 taxonomy:

@@ -1,5 +1,5 @@
 ---
-title: "Listened to: The Blue Time"
+title: "&#127911; The Blue Time"
 published: true
 date: 20-02-2019 08:43
 taxonomy:

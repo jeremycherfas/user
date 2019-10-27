@@ -1,5 +1,5 @@
 ---
-title: 'Heroes of the Frontier'
+title: '&#128214; Heroes of the Frontier'
 published: true
 date: '14-08-2016 16:00'
 taxonomy:

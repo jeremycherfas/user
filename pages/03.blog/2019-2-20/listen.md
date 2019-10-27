@@ -1,5 +1,5 @@
 ---
-title: "Listened to: The Cultural Marxism Industry"
+title: "&#127911; The Cultural Marxism Industry"
 published: true
 date: 20-02-2019 08:43
 taxonomy:

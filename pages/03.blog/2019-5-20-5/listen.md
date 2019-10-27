@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Alex Talks to Award-Winning Chef Edouardo Jordan"
+title: "&#127911; Alex Talks to Award-Winning Chef Edouardo Jordan"
 published: true
 date: 20-05-2019 20:03
 taxonomy:

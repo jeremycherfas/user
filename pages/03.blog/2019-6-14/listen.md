@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Revisionist History Presents: Solvable"
+title: "&#127911; Revisionist History Presents: Solvable"
 published: true
 date: 14-06-2019 14:44
 taxonomy:

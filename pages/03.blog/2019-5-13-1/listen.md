@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Guilty Pleasures"
+title: "&#127911; Guilty Pleasures"
 published: true
 date: 13-05-2019 10:13
 taxonomy:

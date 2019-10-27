@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Alex Talks to Former Senator Heidi Heitkamp"
+title: "&#127911; Alex Talks to Former Senator Heidi Heitkamp"
 published: true
 date: 08-08-2019 16:57
 taxonomy:

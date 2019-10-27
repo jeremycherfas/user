@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Talking Politics Guide to … European Union before the EU"
+title: "&#127911; Talking Politics Guide to … European Union before the EU"
 published: true
 date: 28-08-2019 08:32
 taxonomy:

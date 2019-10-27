@@ -1,5 +1,5 @@
 ---
-title: "Listened to: #921: Tales From The Parking Lot"
+title: "&#127911; #921: Tales From The Parking Lot"
 published: true
 date: 07-07-2019 17:54
 taxonomy:

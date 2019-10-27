@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Automators 21: Invoicing, Writing, and Regular Expressions with Dr. Drang"
+title: "&#127911; Automators 21: Invoicing, Writing, and Regular Expressions with Dr. Drang"
 published: true
 date: 25-04-2019 11:38
 taxonomy:

@@ -1,5 +1,5 @@
 ---
-title: 'The Sellout'
+title: '&#128214; The Sellout'
 published: true
 date: '19-03-2017 15:00'
 taxonomy:

@@ -1,5 +1,5 @@
 ---
-title: 'Thomas Meaney on Timothy Snyder On Tyranny'
+title: '&#128214; Thomas Meaney on Timothy Snyder On Tyranny'
 published: true
 date: '01-05-2017 15:07'
 taxonomy:

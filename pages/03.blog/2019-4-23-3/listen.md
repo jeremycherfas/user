@@ -1,5 +1,5 @@
 ---
-title: "Listened to: CEO Society - Time Management"
+title: "&#127911; CEO Society - Time Management"
 published: true
 date: 23-04-2019 18:02
 taxonomy:

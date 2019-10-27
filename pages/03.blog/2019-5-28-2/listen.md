@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Authoritarian Schizophrenia"
+title: "&#127911; Authoritarian Schizophrenia"
 published: true
 date: 28-05-2019 19:34
 taxonomy:

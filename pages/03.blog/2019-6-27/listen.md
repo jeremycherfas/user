@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Outlasting Trump"
+title: "&#127911; Outlasting Trump"
 published: true
 date: 27-06-2019 20:16
 taxonomy:

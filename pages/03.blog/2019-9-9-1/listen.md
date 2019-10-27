@@ -1,5 +1,5 @@
 ---
-title: "Listened to: The Queen of Cuba"
+title: "&#127911; The Queen of Cuba"
 published: true
 date: 09-09-2019 18:38
 taxonomy:

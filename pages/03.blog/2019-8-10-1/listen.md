@@ -1,5 +1,5 @@
 ---
-title: "Listened to: The spread of fact-checking in Africa"
+title: "&#127911; The spread of fact-checking in Africa"
 published: true
 date: 10-08-2019 18:21
 taxonomy:

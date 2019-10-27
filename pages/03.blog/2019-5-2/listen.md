@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Episode 8 - The Opium Poppies of Anatolia"
+title: "&#127911; Episode 8 - The Opium Poppies of Anatolia"
 published: true
 date: 02-05-2019 09:11
 taxonomy:

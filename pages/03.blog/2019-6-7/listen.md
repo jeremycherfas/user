@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Moby on Living Large and Falling Hard"
+title: "&#127911; Moby on Living Large and Falling Hard"
 published: true
 date: 07-06-2019 09:33
 taxonomy:

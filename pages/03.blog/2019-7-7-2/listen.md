@@ -1,5 +1,5 @@
 ---
-title: "Listened to: The Nod’s Eric Eddings Talks to Erika Alexander"
+title: "&#127911; The Nod’s Eric Eddings Talks to Erika Alexander"
 published: true
 date: 07-07-2019 17:54
 taxonomy:

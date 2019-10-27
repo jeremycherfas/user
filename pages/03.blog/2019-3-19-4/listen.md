@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Failure (interlude)"
+title: "&#127911; Failure (interlude)"
 published: true
 date: 19-03-2019 09:08
 taxonomy:

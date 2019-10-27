@@ -1,5 +1,5 @@
 ---
-title: "Listened to: #901: Bad Cops Are Expensive"
+title: "&#127911; #901: Bad Cops Are Expensive"
 published: true
 date: 27-03-2019 09:49
 taxonomy:

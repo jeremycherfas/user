@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Emily Buehler, Author of Bread Science"
+title: "&#127911; Emily Buehler, Author of Bread Science"
 published: true
 date: 03-06-2019 09:26
 taxonomy:

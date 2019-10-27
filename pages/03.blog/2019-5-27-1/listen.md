@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Getting Inside Someone Else’s Skin - Transom"
+title: "&#127911; Getting Inside Someone Else’s Skin - Transom"
 published: true
 date: 27-05-2019 16:58
 taxonomy:

@@ -1,5 +1,5 @@
 ---
-title: "Listened to: #69: What does “casino” mean in Italian? (it might not be what you think)"
+title: "&#127911; #69: What does “casino” mean in Italian? (it might not be what you think)"
 published: true
 date: 16-09-2019 11:26
 taxonomy:

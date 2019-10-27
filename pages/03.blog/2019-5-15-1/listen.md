@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Adam Tooze on US vs China"
+title: "&#127911; Adam Tooze on US vs China"
 published: true
 date: 15-05-2019 09:35
 taxonomy:

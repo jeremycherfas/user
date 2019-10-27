@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Chenjerai’s Challenge (Seeing White, Part 7) Rebroadcast"
+title: "&#127911; Chenjerai’s Challenge (Seeing White, Part 7) Rebroadcast"
 published: true
 date: 23-04-2019 13:51
 taxonomy:

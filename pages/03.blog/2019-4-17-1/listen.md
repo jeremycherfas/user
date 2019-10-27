@@ -1,5 +1,5 @@
 ---
-title: "Listened to: The Producer (Joe Francis)"
+title: "&#127911; The Producer (Joe Francis)"
 published: true
 date: 17-04-2019 11:08
 taxonomy:

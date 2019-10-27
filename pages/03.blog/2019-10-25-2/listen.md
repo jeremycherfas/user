@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Serial killers"
+title: "&#127911; Serial killers"
 published: true
 date: 25-10-2019 17:34
 taxonomy:

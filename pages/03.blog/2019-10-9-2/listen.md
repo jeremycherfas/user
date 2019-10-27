@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Introducing StartUp: The Final Chapter"
+title: "&#127911; Introducing StartUp: The Final Chapter"
 published: true
 date: 09-10-2019 14:30
 taxonomy:

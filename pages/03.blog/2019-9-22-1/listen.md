@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Epstein’s funeral"
+title: "&#127911; Epstein’s funeral"
 published: true
 date: 22-09-2019 18:58
 taxonomy:

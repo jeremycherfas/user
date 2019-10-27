@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Frankenstein"
+title: "&#127911; Frankenstein"
 published: true
 date: 28-05-2019 12:42
 taxonomy:

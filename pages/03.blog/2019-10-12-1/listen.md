@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Our Company Has Problems"
+title: "&#127911; Our Company Has Problems"
 published: true
 date: 12-10-2019 09:07
 taxonomy:

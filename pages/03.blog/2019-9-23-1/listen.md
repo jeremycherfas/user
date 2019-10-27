@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Episode 122: Professor Quaalude"
+title: "&#127911; Episode 122: Professor Quaalude"
 published: true
 date: 23-09-2019 18:21
 taxonomy:

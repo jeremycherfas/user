@@ -1,5 +1,5 @@
 ---
-title: "Listened to: 370- The Pool and the Stream Redux"
+title: "&#127911; 370- The Pool and the Stream Redux"
 published: true
 date: 20-09-2019 09:59
 taxonomy:

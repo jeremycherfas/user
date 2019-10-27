@@ -1,5 +1,5 @@
 ---
-title: "Listened to: The gender gap in tech"
+title: "&#127911; The gender gap in tech"
 published: true
 date: 18-03-2019 17:52
 taxonomy:

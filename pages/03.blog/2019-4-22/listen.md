@@ -1,5 +1,5 @@
 ---
-title: "Listened to: The Copernican Principle"
+title: "&#127911; The Copernican Principle"
 published: true
 date: 22-04-2019 09:58
 taxonomy:

@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Dr. Rock’s Taxonomy"
+title: "&#127911; Dr. Rock’s Taxonomy"
 published: true
 date: 31-07-2019 08:51
 taxonomy:

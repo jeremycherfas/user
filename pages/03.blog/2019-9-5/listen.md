@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Alex Talks to Missouri Star Quilt Company Co-Founder Jenny Doan"
+title: "&#127911; Alex Talks to Missouri Star Quilt Company Co-Founder Jenny Doan"
 published: true
 date: 05-09-2019 11:23
 taxonomy:

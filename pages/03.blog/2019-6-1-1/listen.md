@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Jared Diamond"
+title: "&#127911; Jared Diamond"
 published: true
 date: 01-06-2019 14:46
 taxonomy:

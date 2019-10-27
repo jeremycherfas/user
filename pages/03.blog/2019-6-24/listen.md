@@ -1,5 +1,5 @@
 ---
-title: "Listened to: #143 Permanent Record"
+title: "&#127911; #143 Permanent Record"
 published: true
 date: 24-06-2019 07:46
 taxonomy:

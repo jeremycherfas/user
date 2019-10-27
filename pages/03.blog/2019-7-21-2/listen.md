@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Episode 1: The Explosion"
+title: "&#127911; Episode 1: The Explosion"
 published: true
 date: 21-07-2019 09:15
 taxonomy:

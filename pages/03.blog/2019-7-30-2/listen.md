@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Episode 7: The Bombshell"
+title: "&#127911; Episode 7: The Bombshell"
 published: true
 date: 30-07-2019 10:38
 taxonomy:

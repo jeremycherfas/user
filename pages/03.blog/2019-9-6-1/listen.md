@@ -1,5 +1,5 @@
 ---
-title: "Listened to: WS More or Less: Ethiopia’s 350m trees in a day"
+title: "&#127911; WS More or Less: Ethiopia’s 350m trees in a day"
 published: true
 date: 06-09-2019 10:51
 taxonomy:

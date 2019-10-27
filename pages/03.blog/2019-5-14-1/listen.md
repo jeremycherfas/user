@@ -1,5 +1,5 @@
 ---
-title: "Listened to: The Neutral"
+title: "&#127911; The Neutral"
 published: true
 date: 14-05-2019 18:06
 taxonomy:

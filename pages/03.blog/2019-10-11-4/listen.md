@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Dorothy Hodgkin"
+title: "&#127911; Dorothy Hodgkin"
 published: true
 date: 11-10-2019 18:47
 taxonomy:

@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Mirror Image"
+title: "&#127911; Mirror Image"
 published: true
 date: 12-06-2019 15:16
 taxonomy:

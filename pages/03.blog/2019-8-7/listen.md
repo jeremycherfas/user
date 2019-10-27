@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Descend into the Particular"
+title: "&#127911; Descend into the Particular"
 published: true
 date: 07-08-2019 09:03
 taxonomy:

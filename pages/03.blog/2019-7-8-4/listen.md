@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Bundyville: The Remnant Trailer"
+title: "&#127911; Bundyville: The Remnant Trailer"
 published: true
 date: 08-07-2019 13:53
 taxonomy:

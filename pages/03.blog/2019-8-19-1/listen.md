@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Episode 146: Two Memorials, Last Week of July, 2019"
+title: "&#127911; Episode 146: Two Memorials, Last Week of July, 2019"
 published: true
 date: 19-08-2019 08:26
 taxonomy:

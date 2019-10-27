@@ -1,5 +1,5 @@
 ---
-title: "Listened to: 32- Contempt Power"
+title: "&#127911; 32- Contempt Power"
 published: true
 date: 23-05-2019 15:08
 taxonomy:

@@ -1,5 +1,5 @@
 ---
-title: "Listened to: A White Horse"
+title: "&#127911; A White Horse"
 published: true
 date: 24-06-2019 07:55
 taxonomy:

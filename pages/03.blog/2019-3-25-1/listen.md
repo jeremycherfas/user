@@ -1,5 +1,5 @@
 ---
-title: "Listened to: An Editor’s Fingerprints - Transom"
+title: "&#127911; An Editor’s Fingerprints - Transom"
 published: true
 date: 25-03-2019 18:24
 taxonomy:

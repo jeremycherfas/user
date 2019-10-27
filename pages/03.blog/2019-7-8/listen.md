@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Adam Schiff Tells All: Could Have Gone to Med School, Mom Livid"
+title: "&#127911; Adam Schiff Tells All: Could Have Gone to Med School, Mom Livid"
 published: true
 date: 08-07-2019 11:07
 taxonomy:

@@ -1,5 +1,5 @@
 ---
-title: "Listened to: How Julie Brown Broke Open the Jeffrey Epstein Story"
+title: "&#127911; How Julie Brown Broke Open the Jeffrey Epstein Story"
 published: true
 date: 21-06-2019 18:07
 taxonomy:

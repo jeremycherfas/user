@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Bad Recommendations"
+title: "&#127911; Bad Recommendations"
 published: true
 date: 18-04-2019 09:32
 taxonomy:

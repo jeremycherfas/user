@@ -1,5 +1,5 @@
 ---
-title: "Listened to: The Ring"
+title: "&#127911; The Ring"
 published: true
 date: 22-11-2018 09:13
 taxonomy:

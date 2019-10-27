@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Talking Politics Guide to … Summer Reading"
+title: "&#127911; Talking Politics Guide to … Summer Reading"
 published: true
 date: 16-08-2019 10:03
 taxonomy:

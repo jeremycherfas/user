@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Episode 148: Safe Passage"
+title: "&#127911; Episode 148: Safe Passage"
 published: true
 date: 02-10-2019 18:53
 taxonomy:

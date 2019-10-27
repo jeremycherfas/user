@@ -1,5 +1,5 @@
 ---
-title: "Listened to: #147 The Woman in the Air Conditioner"
+title: "&#127911; #147 The Woman in the Air Conditioner"
 published: true
 date: 22-09-2019 18:29
 taxonomy:

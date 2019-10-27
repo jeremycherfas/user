@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Episode 143: The Only One"
+title: "&#127911; Episode 143: The Only One"
 published: true
 date: 19-06-2019 11:20
 taxonomy:

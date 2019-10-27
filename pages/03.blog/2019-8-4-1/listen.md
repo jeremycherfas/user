@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Influencers (complete told you so version)"
+title: "&#127911; Influencers (complete told you so version)"
 published: true
 date: 04-08-2019 11:22
 taxonomy:

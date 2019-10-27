@@ -1,5 +1,5 @@
 ---
-title: "Listened to: The Magic Shoebox"
+title: "&#127911; The Magic Shoebox"
 published: true
 date: 24-05-2019 16:14
 taxonomy:

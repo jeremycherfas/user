@@ -1,5 +1,5 @@
 ---
-title: 'Love Among the Chickens'
+title: '&#128214; Love Among the Chickens'
 subtitle: 'A story of the haps and mishaps on an English Chicken farm'
 published: true
 date: '28-07-2019 17:30'

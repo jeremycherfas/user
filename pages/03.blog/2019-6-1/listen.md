@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Bonus Live Episode: Michael Lewis and Malcolm Gladwell"
+title: "&#127911; Bonus Live Episode: Michael Lewis and Malcolm Gladwell"
 published: true
 date: 01-06-2019 14:09
 taxonomy:

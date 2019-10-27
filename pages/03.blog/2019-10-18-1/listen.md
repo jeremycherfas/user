@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Thanksgiving in Stockholm"
+title: "&#127911; Thanksgiving in Stockholm"
 published: true
 date: 18-10-2019 18:42
 taxonomy:

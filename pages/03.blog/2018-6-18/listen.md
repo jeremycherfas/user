@@ -1,5 +1,5 @@
 ---
-title: "Listened to: 6.07: People Do Reject Technologies, Part 1"
+title: "&#127911; 6.07: People Do Reject Technologies, Part 1"
 published: true
 date: 18-06-2018 07:18
 taxonomy:

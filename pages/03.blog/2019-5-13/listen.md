@@ -1,5 +1,5 @@
 ---
-title: "Listened to: 352- Uptown Squirrel"
+title: "&#127911; 352- Uptown Squirrel"
 published: true
 date: 13-05-2019 09:02
 taxonomy:

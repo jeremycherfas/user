@@ -1,5 +1,5 @@
 ---
-title: 'River of Shadows'
+title: '&#128214; River of Shadows'
 subtitle: 'Eadweard Muybridge and the technological wild west'
 published: true
 date: '08-11-2018 09:30'

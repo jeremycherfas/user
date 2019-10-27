@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Episode 119: He’s Still Neutral"
+title: "&#127911; Episode 119: He’s Still Neutral"
 published: true
 date: 30-07-2019 09:03
 taxonomy:

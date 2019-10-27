@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Bundyville Live Q&A, July 2019"
+title: "&#127911; Bundyville Live Q&A, July 2019"
 published: true
 date: 16-08-2019 09:41
 taxonomy:

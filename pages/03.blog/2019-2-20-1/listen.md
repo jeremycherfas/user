@@ -1,5 +1,5 @@
 ---
-title: "Listened to: #136 The Founder"
+title: "&#127911; #136 The Founder"
 published: true
 date: 20-02-2019 08:43
 taxonomy:

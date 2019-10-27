@@ -1,5 +1,5 @@
 ---
-title: "Listened to: WS More or Less: Deforestation in Brazil"
+title: "&#127911; WS More or Less: Deforestation in Brazil"
 published: true
 date: 19-09-2019 16:43
 taxonomy:

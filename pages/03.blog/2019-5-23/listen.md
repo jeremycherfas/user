@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Automators 23: Diving into Drafts Automation with Tim “The Drafts Man” Nahumck"
+title: "&#127911; Automators 23: Diving into Drafts Automation with Tim “The Drafts Man” Nahumck"
 published: true
 date: 23-05-2019 14:47
 taxonomy:

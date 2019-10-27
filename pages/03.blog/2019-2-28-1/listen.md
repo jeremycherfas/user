@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Pheromones"
+title: "&#127911; Pheromones"
 published: true
 date: 28-02-2019 10:17
 taxonomy:

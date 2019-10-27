@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Good Old Boys"
+title: "&#127911; Good Old Boys"
 published: true
 date: 24-07-2019 18:22
 taxonomy:

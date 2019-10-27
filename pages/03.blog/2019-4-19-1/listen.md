@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Branding"
+title: "&#127911; Branding"
 published: true
 date: 19-04-2019 11:24
 taxonomy:

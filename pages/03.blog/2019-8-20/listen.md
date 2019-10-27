@@ -1,5 +1,5 @@
 ---
-title: "Listened to: #932: Deep Learning With The Elephants"
+title: "&#127911; #932: Deep Learning With The Elephants"
 published: true
 date: 20-08-2019 17:58
 taxonomy:

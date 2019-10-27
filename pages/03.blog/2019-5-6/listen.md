@@ -1,5 +1,5 @@
 ---
-title: "Listened to: A Midsummer Night’s Dream"
+title: "&#127911; A Midsummer Night’s Dream"
 published: true
 date: 06-05-2019 09:29
 taxonomy:

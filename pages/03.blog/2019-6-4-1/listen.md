@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Automators 24: Automating with Airtable"
+title: "&#127911; Automators 24: Automating with Airtable"
 published: true
 date: 04-06-2019 18:20
 taxonomy:

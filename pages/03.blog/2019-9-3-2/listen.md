@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Where Power Stops"
+title: "&#127911; Where Power Stops"
 published: true
 date: 03-09-2019 13:43
 taxonomy:

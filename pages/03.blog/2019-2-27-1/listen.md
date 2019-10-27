@@ -1,5 +1,5 @@
 ---
-title: "Listened to: A Memory Palace/Radio Diaries Crossover Event"
+title: "&#127911; A Memory Palace/Radio Diaries Crossover Event"
 published: true
 date: 27-02-2019 10:59
 taxonomy:

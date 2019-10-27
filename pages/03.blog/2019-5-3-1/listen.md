@@ -1,5 +1,5 @@
 ---
-title: "Listened to: The economic impact of mega sporting events"
+title: "&#127911; The economic impact of mega sporting events"
 published: true
 date: 03-05-2019 11:37
 taxonomy:

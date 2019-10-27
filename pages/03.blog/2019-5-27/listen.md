@@ -1,5 +1,5 @@
 ---
-title: "Listened to: The Dark Revolt"
+title: "&#127911; The Dark Revolt"
 published: true
 date: 27-05-2019 09:29
 taxonomy:

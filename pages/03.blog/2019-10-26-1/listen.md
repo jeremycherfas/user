@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Esther Duflo and women in economics"
+title: "&#127911; Esther Duflo and women in economics"
 published: true
 date: 26-10-2019 17:11
 taxonomy:

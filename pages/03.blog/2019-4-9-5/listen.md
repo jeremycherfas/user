@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Is Mansa Musa the richest person of all time?"
+title: "&#127911; Is Mansa Musa the richest person of all time?"
 published: true
 date: 09-04-2019 16:52
 taxonomy:

@@ -1,5 +1,5 @@
 ---
-title: "&#127911; - Not Over Yet"
+title: "&#127911; Not Over Yet"
 published: true
 date: 25-10-2019 16:50
 taxonomy:

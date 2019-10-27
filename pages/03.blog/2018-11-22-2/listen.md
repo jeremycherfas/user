@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Next on Showcase: The Stoop"
+title: "&#127911; Next on Showcase: The Stoop"
 published: true
 date: 22-11-2018 09:13
 taxonomy:

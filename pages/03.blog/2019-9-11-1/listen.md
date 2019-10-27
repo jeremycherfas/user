@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Automators 31: Making Your ScreenFlow Flow and More with J.F. Brissette"
+title: "&#127911; Automators 31: Making Your ScreenFlow Flow and More with J.F. Brissette"
 published: true
 date: 11-09-2019 19:17
 taxonomy:

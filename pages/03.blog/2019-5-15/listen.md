@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Jane Mayer on Thomas, Trump, and Twitter"
+title: "&#127911; Jane Mayer on Thomas, Trump, and Twitter"
 published: true
 date: 15-05-2019 08:15
 taxonomy:

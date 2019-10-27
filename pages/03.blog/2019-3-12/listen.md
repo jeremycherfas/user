@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Antarah ibn Shaddad"
+title: "&#127911; Antarah ibn Shaddad"
 published: true
 date: 12-03-2019 09:12
 taxonomy:

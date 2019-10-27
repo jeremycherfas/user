@@ -1,5 +1,5 @@
 ---
-title: "Listened to: #918: The Day Of Two Noons"
+title: "&#127911; #918: The Day Of Two Noons"
 published: true
 date: 18-06-2019 18:33
 taxonomy:

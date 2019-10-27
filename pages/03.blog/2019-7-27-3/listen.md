@@ -1,5 +1,5 @@
 ---
-title: "Listened to: The Standard Case"
+title: "&#127911; The Standard Case"
 published: true
 date: 27-07-2019 21:09
 taxonomy:

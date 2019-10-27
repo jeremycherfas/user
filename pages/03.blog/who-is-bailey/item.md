@@ -1,5 +1,5 @@
 ---
-title: 'Motherless Brooklyn'
+title: '&#128214; Motherless Brooklyn'
 published: true
 date: '19-08-2017 17:19'
 taxonomy:

@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Automators 22: Text Expansion"
+title: "&#127911; Automators 22: Text Expansion"
 published: true
 date: 09-05-2019 09:50
 taxonomy:

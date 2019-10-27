@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Bonus: Stephen Fry meets Philippe Sands"
+title: "&#127911; Bonus: Stephen Fry meets Philippe Sands"
 published: true
 date: 24-10-2018 10:39
 taxonomy:

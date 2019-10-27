@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Spacebridge #3 – A Live Studio Audience"
+title: "&#127911; Spacebridge #3 – A Live Studio Audience"
 published: true
 date: 27-03-2019 09:25
 taxonomy:

@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Chutzpah vs. Chutzpah"
+title: "&#127911; Chutzpah vs. Chutzpah"
 published: true
 date: 22-08-2019 17:23
 taxonomy:

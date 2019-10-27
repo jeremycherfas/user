@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Insectageddon"
+title: "&#127911; Insectageddon"
 published: true
 date: 13-03-2019 08:28
 taxonomy:

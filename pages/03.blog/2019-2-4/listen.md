@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Resolutions"
+title: "&#127911; Resolutions"
 published: true
 date: 04-02-2019 07:55
 taxonomy:

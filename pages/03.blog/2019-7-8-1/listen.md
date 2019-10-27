@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Baking in the Nordics: The Bread Adventures of Chef Magnus Nilsson"
+title: "&#127911; Baking in the Nordics: The Bread Adventures of Chef Magnus Nilsson"
 published: true
 date: 08-07-2019 11:07
 taxonomy:

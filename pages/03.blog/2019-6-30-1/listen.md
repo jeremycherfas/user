@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Puzzle Rush"
+title: "&#127911; Puzzle Rush"
 published: true
 date: 30-06-2019 10:17
 taxonomy:

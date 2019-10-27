@@ -1,5 +1,5 @@
 ---
-title: "Listened to: The Tour (Jered Threatin)"
+title: "&#127911; The Tour (Jered Threatin)"
 published: true
 date: 24-08-2019 16:57
 taxonomy:

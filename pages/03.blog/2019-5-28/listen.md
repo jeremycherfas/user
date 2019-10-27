@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Bonus: The Refugee (Wyclef Jean)"
+title: "&#127911; Bonus: The Refugee (Wyclef Jean)"
 published: true
 date: 28-05-2019 10:20
 taxonomy:

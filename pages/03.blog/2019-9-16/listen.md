@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Musical"
+title: "&#127911; Musical"
 published: true
 date: 16-09-2019 11:18
 taxonomy:

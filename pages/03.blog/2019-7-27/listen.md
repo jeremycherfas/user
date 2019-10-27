@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Alex Talks to CEO Whisperer Jerry Colonna"
+title: "&#127911; Alex Talks to CEO Whisperer Jerry Colonna"
 published: true
 date: 27-07-2019 09:03
 taxonomy:

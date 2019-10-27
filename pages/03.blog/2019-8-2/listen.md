@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Talking Politics Guide to … The Gilded Age"
+title: "&#127911; Talking Politics Guide to … The Gilded Age"
 published: true
 date: 02-08-2019 09:52
 taxonomy:

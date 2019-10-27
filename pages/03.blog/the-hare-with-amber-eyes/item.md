@@ -1,5 +1,5 @@
 ---
-title: 'The Hare with Amber Eyes'
+title: '&#128214; The Hare with Amber Eyes'
 subtitle: 'A hidden inheritance'
 published: true
 date: '8-06-2019 14:30'

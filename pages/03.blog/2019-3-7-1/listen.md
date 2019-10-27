@@ -1,5 +1,5 @@
 ---
-title: "Listened to: #137 Fool’s Trade"
+title: "&#127911; #137 Fool’s Trade"
 published: true
 date: 07-03-2019 16:32
 taxonomy:

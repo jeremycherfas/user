@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Jeff Daniels Was Supposed to Take Over the Family Lumber Business"
+title: "&#127911; Jeff Daniels Was Supposed to Take Over the Family Lumber Business"
 published: true
 date: 26-05-2019 12:00
 taxonomy:

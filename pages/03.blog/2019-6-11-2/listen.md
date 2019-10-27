@@ -1,5 +1,5 @@
 ---
-title: "Listened to: News in Slow Italian #333 - Learn Italian through current events"
+title: "&#127911; News in Slow Italian #333 - Learn Italian through current events"
 published: true
 date: 11-06-2019 18:53
 taxonomy:

@@ -1,5 +1,5 @@
 ---
-title: "Listened to: The Fundraiser (Johnny Bobbitt Jr.)"
+title: "&#127911; The Fundraiser (Johnny Bobbitt Jr.)"
 published: true
 date: 24-09-2019 22:03
 taxonomy:

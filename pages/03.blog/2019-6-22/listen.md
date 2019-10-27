@@ -1,5 +1,5 @@
 ---
-title: "Listened to: 357- The Barney Design redux"
+title: "&#127911; 357- The Barney Design redux"
 published: true
 date: 22-06-2019 15:48
 taxonomy:

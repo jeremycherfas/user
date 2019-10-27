@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Episode 23: Thinking about a Website for Events"
+title: "&#127911; Episode 23: Thinking about a Website for Events"
 published: true
 date: 22-01-2019 11:15
 taxonomy:

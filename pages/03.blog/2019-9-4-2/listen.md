@@ -1,5 +1,5 @@
 ---
-title: "Listened to: PhoneBoy Speaks Ep 1199: Blinking Lights Blinking Data"
+title: "&#127911; PhoneBoy Speaks Ep 1199: Blinking Lights Blinking Data"
 published: true
 date: 04-09-2019 09:31
 taxonomy:

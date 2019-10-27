@@ -1,5 +1,5 @@
 ---
-title: "Listened to: A Mockery of Democracy?"
+title: "&#127911; A Mockery of Democracy?"
 published: true
 date: 05-05-2019 09:09
 taxonomy:

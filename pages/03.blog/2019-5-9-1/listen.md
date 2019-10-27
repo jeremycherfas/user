@@ -1,5 +1,5 @@
 ---
-title: "Listened to: No-Go Zones and Dangerous Holidays"
+title: "&#127911; No-Go Zones and Dangerous Holidays"
 published: true
 date: 09-05-2019 11:42
 taxonomy:

@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Automators 29: The Dark Dungeon with Adam Tow"
+title: "&#127911; Automators 29: The Dark Dungeon with Adam Tow"
 published: true
 date: 12-08-2019 08:22
 taxonomy:

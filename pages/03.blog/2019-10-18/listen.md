@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Episode 124: A Bucket, a Mop, and a Sledgehammer"
+title: "&#127911; Episode 124: A Bucket, a Mop, and a Sledgehammer"
 published: true
 date: 18-10-2019 18:42
 taxonomy:

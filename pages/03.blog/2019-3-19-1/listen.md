@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Itzhak Perlman Cracks Wise"
+title: "&#127911; Itzhak Perlman Cracks Wise"
 published: true
 date: 19-03-2019 11:37
 taxonomy:

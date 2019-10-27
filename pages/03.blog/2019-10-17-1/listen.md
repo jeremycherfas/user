@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Going Karura"
+title: "&#127911; Going Karura"
 published: true
 date: 17-10-2019 11:02
 taxonomy:

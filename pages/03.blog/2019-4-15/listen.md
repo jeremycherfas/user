@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Automators 20: Mad Science Automation with Brett Terpstra"
+title: "&#127911; Automators 20: Mad Science Automation with Brett Terpstra"
 published: true
 date: 15-04-2019 08:06
 taxonomy:

@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Adam Tooze on the Global Slowdown"
+title: "&#127911; Adam Tooze on the Global Slowdown"
 published: true
 date: 17-09-2019 09:09
 taxonomy:

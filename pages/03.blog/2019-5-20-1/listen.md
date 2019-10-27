@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Death of the Republic"
+title: "&#127911; Death of the Republic"
 published: true
 date: 20-05-2019 11:26
 taxonomy:

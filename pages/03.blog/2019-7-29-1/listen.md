@@ -1,5 +1,5 @@
 ---
-title: "Listened to: #68: DA vs. PER: What’s the difference?"
+title: "&#127911; #68: DA vs. PER: What’s the difference?"
 published: true
 date: 29-07-2019 10:11
 taxonomy:

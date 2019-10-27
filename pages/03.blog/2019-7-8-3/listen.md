@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Museums and Cultural Activities"
+title: "&#127911; Museums and Cultural Activities"
 published: true
 date: 08-07-2019 11:07
 taxonomy:

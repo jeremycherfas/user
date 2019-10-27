@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Episode 116: Jessica and the Bunny Ranch"
+title: "&#127911; Episode 116: Jessica and the Bunny Ranch"
 published: true
 date: 17-06-2019 10:54
 taxonomy:

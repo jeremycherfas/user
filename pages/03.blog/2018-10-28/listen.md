@@ -1,5 +1,5 @@
 ---
-title: "Listened to: 42: Avery Trufelman"
+title: "&#127911; 42: Avery Trufelman"
 published: true
 date: 28-10-2018 11:56
 taxonomy:

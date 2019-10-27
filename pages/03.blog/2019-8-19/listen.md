@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Biscuit Blues"
+title: "&#127911; Biscuit Blues"
 published: true
 date: 19-08-2019 08:26
 taxonomy:

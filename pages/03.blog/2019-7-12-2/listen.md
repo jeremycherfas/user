@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Is nuclear power actually safer than you think?"
+title: "&#127911; Is nuclear power actually safer than you think?"
 published: true
 date: 12-07-2019 12:07
 taxonomy:

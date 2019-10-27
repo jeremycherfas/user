@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Talking to the Enemy, with Michael Sandel & Maria Exner | Polarised"
+title: "&#127911; Talking to the Enemy, with Michael Sandel & Maria Exner | Polarised"
 published: true
 date: 03-03-2019 16:06
 taxonomy:

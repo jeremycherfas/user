@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Episode 7 - Fermentation as a Co-Evolutionary Force"
+title: "&#127911; Episode 7 - Fermentation as a Co-Evolutionary Force"
 published: true
 date: 23-04-2019 13:51
 taxonomy:

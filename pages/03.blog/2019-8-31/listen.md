@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Keeping Faith"
+title: "&#127911; Keeping Faith"
 published: true
 date: 31-08-2019 17:11
 taxonomy:

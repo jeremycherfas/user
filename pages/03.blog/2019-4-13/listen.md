@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Episode 111: Silvon Simmons"
+title: "&#127911; Episode 111: Silvon Simmons"
 published: true
 date: 13-04-2019 08:02
 taxonomy:

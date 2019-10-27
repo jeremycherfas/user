@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Steven Lee Myers’ Putin Primer"
+title: "&#127911; Steven Lee Myers’ Putin Primer"
 published: true
 date: 26-02-2019 10:21
 taxonomy:

@@ -1,5 +1,5 @@
 ---
-title: "Listened to: #931: The IT Guy Vs. The Con Artist"
+title: "&#127911; #931: The IT Guy Vs. The Con Artist"
 published: true
 date: 10-08-2019 18:39
 taxonomy:

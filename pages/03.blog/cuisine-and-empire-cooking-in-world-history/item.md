@@ -1,5 +1,5 @@
 ---
-title: 'Cuisine and Empire: Cooking in World History'
+title: '&#128214; Cuisine and Empire: Cooking in World History'
 published: true
 date: '05-07-2016 16:04'
 taxonomy:

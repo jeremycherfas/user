@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Oulipo"
+title: "&#127911; Oulipo"
 published: true
 date: 29-03-2019 09:38
 taxonomy:

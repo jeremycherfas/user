@@ -1,5 +1,5 @@
 ---
-title: "Listened to: James Caan: Last of the Tough-Guy Movie Stars"
+title: "&#127911; James Caan: Last of the Tough-Guy Movie Stars"
 published: true
 date: 17-09-2019 11:17
 taxonomy:

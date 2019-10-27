@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Rousseau on Education"
+title: "&#127911; Rousseau on Education"
 published: true
 date: 18-10-2019 18:42
 taxonomy:

@@ -1,5 +1,5 @@
 ---
-title: "Listened to: The Hand of Leonardo"
+title: "&#127911; The Hand of Leonardo"
 published: true
 date: 07-05-2019 11:27
 taxonomy:

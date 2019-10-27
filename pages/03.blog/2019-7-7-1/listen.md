@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Episode 144: Nature Naturally"
+title: "&#127911; Episode 144: Nature Naturally"
 published: true
 date: 07-07-2019 17:54
 taxonomy:

@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Ox Tales Episode 5 - The Liver is the Message"
+title: "&#127911; Ox Tales Episode 5 - The Liver is the Message"
 published: true
 date: 24-05-2018 17:48
 taxonomy:

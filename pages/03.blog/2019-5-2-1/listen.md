@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Detective fiction - homicide and social media"
+title: "&#127911; Detective fiction - homicide and social media"
 published: true
 date: 02-05-2019 11:25
 taxonomy:

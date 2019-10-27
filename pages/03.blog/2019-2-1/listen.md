@@ -1,5 +1,5 @@
 ---
-title: "Listened to: 24 – Paris, Potentially"
+title: "&#127911; 24 – Paris, Potentially"
 published: true
 date: 01-02-2019 11:50
 taxonomy:

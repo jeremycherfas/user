@@ -1,5 +1,5 @@
 ---
-title: "Listened to: The Great Irish Famine"
+title: "&#127911; The Great Irish Famine"
 published: true
 date: 10-04-2019 12:16
 taxonomy:

@@ -1,5 +1,5 @@
 ---
-title: "Listened to: President Bernie?"
+title: "&#127911; President Bernie?"
 published: true
 date: 10-05-2019 12:18
 taxonomy:

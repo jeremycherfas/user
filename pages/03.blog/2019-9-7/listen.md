@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Self-Portrait"
+title: "&#127911; Self-Portrait"
 published: true
 date: 07-09-2019 16:36
 taxonomy:

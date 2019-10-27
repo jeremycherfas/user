@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Automators 30: Some Favorite Automations"
+title: "&#127911; Automators 30: Some Favorite Automations"
 published: true
 date: 29-08-2019 17:26
 taxonomy:

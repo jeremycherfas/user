@@ -1,5 +1,5 @@
 ---
-title: "Listened to: The Obscure Virus Club"
+title: "&#127911; The Obscure Virus Club"
 published: true
 date: 03-09-2019 12:57
 taxonomy:

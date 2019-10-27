@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Alex Talks to Gretchen Carlson"
+title: "&#127911; Alex Talks to Gretchen Carlson"
 published: true
 date: 26-06-2019 17:20
 taxonomy:

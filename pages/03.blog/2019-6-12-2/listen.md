@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Operation Three-Eyed Raven"
+title: "&#127911; Operation Three-Eyed Raven"
 published: true
 date: 12-06-2019 09:45
 taxonomy:

@@ -1,5 +1,5 @@
 ---
-title: "Listened to: Revisionist History Presents: Dave Hill and the Epistemology of Norwegian Black Metal"
+title: "&#127911; Revisionist History Presents: Dave Hill and the Epistemology of Norwegian Black Metal"
 published: true
 date: 22-01-2019 08:37
 taxonomy:

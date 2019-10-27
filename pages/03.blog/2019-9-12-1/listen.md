@@ -1,5 +1,5 @@
 ---
-title: "Listened to: WS More or Less: Amazon forest fires"
+title: "&#127911; WS More or Less: Amazon forest fires"
 published: true
 date: 12-09-2019 18:19
 taxonomy:
