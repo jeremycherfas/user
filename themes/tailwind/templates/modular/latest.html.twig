@@ -1,24 +1,14 @@
-{% set mycollection = page.find('/blog').children.order('date', 'desc') %}
-{# % for p in page.find('/blog').children.order('date', 'desc').slice(0, 1) if p.name == 'item.md' % #}
+{% set collection = taxonomy.findTaxonomy({'category':'blog'}) %}
+{% set ordered_collection = collection.order('date','desc').slice(0,10) %}
 
-{# % set collection = page.evaluate([{'@page.children':'/blog', '@taxonomy.tag':'photography'}]) % #}
-{% set collection = page.evaluate([{'@page.children':'/blog', '@taxonomy.tag': 'podcasts'}]) %}
-{# % set collection = page.find( ('/blog').children, ('taxonomy.category') == 'blog' ) % #}
-{% set ordered_collection = collection.order('date','desc') %}
-
-{{ dump(collection) }}
-
-{% for p in ordered_collection %}
-{{dump (p.taxonomy.tag) }}
-{{ dump(p.header) }}
-{% endfor %}
-
+{% for p in ordered_collection|slice(0, 1)%}
 {% set mydate = p.header.date | date("U") %} 
 
 <div class="flex flex-col pt-2 ">
 	<h1 class="mb-0 px-2 md:px-4 md:pt-2 text-3xl md:text-3xl text-grey-700">
 		Latest post
 	</h1>
+	
 	<div class="md:flex md:flex-col md:items-start md:w-3/4 md:mx-auto ">
 			<div class="text-sm md:text-2xl ">
 				<div class="md:flex-row md:items-start md:justify-between ">
@@ -44,7 +34,7 @@
 				</div>
 			</div>
 <!-- Ends item -->
-
+{% endfor %}
 
 			
 
