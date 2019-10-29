@@ -17,6 +17,6 @@ For the past three weeks, I have each day downloaded my website's access log by 
 
 ===
 
-I'm nowhere near that, yet, but storing the logs files here is crucial. Soon, I'll be travelling without my laptop for a while, and I don't want to lose the files, so it was time to automate the process. I ended up with a very simple script that first downloads and then renames the file. The cool bit was finding out that it is relatively easy to get yesterday's date in bash. `$( date -v-1d +%F )` gives me exactly what I need.
+I'm nowhere near that, yet, but storing the log files here is crucial. Soon, I'll be travelling without my laptop for a while, and I don't want to lose the files as they are rotated off the server, so it was time to automate the process. I ended up with a very simple script that first downloads and then renames the file. The cool bit was finding out that it is relatively easy to get yesterday's date in bash. `$( date -v-1d +%F )` gives me exactly what I need.
 
 Tomorrow I'll run the script one more time to check and then add it to my `cron` jobs. And while I'm about it, I might just add the other two backups that I do by hand most days.
