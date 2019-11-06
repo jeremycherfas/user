@@ -1,4 +1,4 @@
-<div class="flex flex-column flex-shrink mb-2">
+<div class="h-entry flex flex-column flex-shrink mb-2">
 
     <div class="flex-shrink-0 w-full pt-4">
         <div class="text-sm md:text-2xl">
@@ -10,7 +10,9 @@
         </div>
 <!--     </div> <!~~ End title stuff ~~> -->
 
-    <div class="card-body hidden md:pl-4 md:text-lg lg:text-2xl md:block ">
+{% include 'partials/hcard.html.twig' %}
+
+    <div class="card-body e-content hidden md:pl-4 md:text-lg lg:text-2xl md:block ">
 
         {% if page.summary != page.content %}
             {{ page.summary|raw }}
