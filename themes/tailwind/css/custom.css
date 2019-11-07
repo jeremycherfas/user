@@ -109,3 +109,56 @@ summary {
   color: #b46100;
 }
 
+/* For format of hours worked table */
+.worktable {
+	table-layout: fixed;
+	width: 100%;
+	white-space: nowrap;
+}
+
+.bigrow {
+width: 20%;
+}
+
+.smallrow {
+width: 10%;
+}
+
+
+/* Styling webmentions */
+
+.webmention-container {
+}
+
+.webmention-container > :first-child {
+    margin-top: 1em;
+}
+
+.webmention-mention {
+    padding-left: 6em;
+    position: relative;
+	margin-bottom: 0.5em;
+	Padding-bottom: 0.5em;
+	border-bottom: 1px solid;
+}
+
+.webmention-mention:last-child{
+margin-bottom:0
+}
+
+.webmention-author img {
+position: absolute;
+top: 0;
+left: 0px;
+width: 5em;
+border-radius: 4.2em;
+}
+
+.webmention-summary { 
+background-color: transparent;
+}
+
+.webmention-published {
+Background-color: transparent;
+}
+
