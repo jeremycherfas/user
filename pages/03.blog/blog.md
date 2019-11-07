@@ -1,9 +1,9 @@
 ---
 title: 'Jeremy Cherfas: Posts'
-body_classes: 'header-image fullwidth'
 menu: Posts
 content:
-    items: '@self.children'
+    items:
+        '@taxonomy.category': blog
     limit: 5
     pagination: true
     url_taxonomy_filters: true
