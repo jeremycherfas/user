@@ -1,12 +1,13 @@
 {% extends 'partials/simplesearch_base.html.twig' %}
 {% block body %}
 {% block content %} 
-<div class=" ">
+
 <!--         <h1 class="search-header">{{ "PLUGIN_SIMPLESEARCH.SEARCH_RESULTS"|t }}</h1> -->
 	{% if query %} {% set count = search_results ? search_results.count : 0 %} {% if count is same as( 1 ) %} 
-</div>
 
-<div class="md:flex ">
+
+<div class="md:flex md:flex-row ">
+<div class="md:w-2/3 ">
 	<h3 class="pl-2 md:pl-4 text-xl md:text-4xl ">
 		Your search for <strong>{{ (query|e)|raw }}</strong> yielded <strong>{{ count }}</strong> result. 
 	</h3>
@@ -31,8 +32,7 @@
 	</div>
 </div>
 
-<div class="md:flex md:flex-row ">
-	<div class="all-items flex flex-col relative md:w-2/3 ">
+<div class="md:flex md:flex-row ">	<div class="all-items flex flex-col relative md:w-2/3 ">
 		{% for page in search_results %} {% include 'partials/blog-list-item.html.twig' with {'page': page} %} {% endfor %} 
 	</div>
 
