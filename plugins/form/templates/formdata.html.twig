@@ -5,9 +5,6 @@
 {% endif  %}
 
 {% block content %}
-<div class="md:flex md:flex-row">
-
-<div class="pl-2 flex flex-col relative md:w-2/3 ">
     {{ content|raw }}
 
     {% if form %}
@@ -19,10 +16,5 @@
     {% else %}
         <div class="notices warning yellow"><p>{{ 'PLUGIN_FORM.NO_FORM_DATA'|t }}</p></div>
     {% endif %}
-</div>
+
 {% endblock %}
-
-
-{% block sidebar %}
-{% include 'partials/mysidebar.html.twig' %}
-{% endblock sidebar%}
