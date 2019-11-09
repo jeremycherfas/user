@@ -124,6 +124,25 @@ width: 20%;
 width: 10%;
 }
 
+/* Display and padding for images */
+img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
+img.left {
+    float: Left;
+    padding-right: 1em;
+     }
+
+img.right {
+    float: right;
+    padding-left: 1em;
+     }
+
+.cover {
+	float: left 
+}
 
 /* Styling webmentions */
 
