@@ -2,6 +2,7 @@
 
 
 <div class="h-entry flex-shrink-0 w-full pt-4"> <!-- Essential for sidebar position -->
+<article>
         <div class="text-sm md:text-2xl">
             {% include 'partials/blog/date.html.twig' %}
         </div>
@@ -19,11 +20,19 @@
 
 <div class="e-content text-sm md:text-lg lg:text-2xl pl-2 md:mr-4 md:ml-2">
 {% if page.header.image %}
-<img class="float-left mt-2 mr-4" src="{{ page.url ~ '/' ~ page.header.image }}" alt="Podcast artwork" height="150" width="150">
-{% endif %}
-        {{ page.content|raw }}
-    </div>
+<a href="{{page.header.theurl}}" class="u-listen-of"><img class="float-left mt-2 mr-4" src="{{ page.url ~ '/' ~ page.header.image }}" alt="Podcast artwork" height="150" width="150"></a>
+{% block listen %}
+{% include 'partials/listen-item.html.twig' %}
+{% endblock listen %}
+<!-- <img class="float-left mt-2 mr-4" src="{{ page.url ~ '/' ~ page.header.image }}" alt="Podcast artwork" height="150" width="150"> -->
 
+{% else %}
+        {{ page.content|raw }}
+{% endif %}
+    
+</div>
+
+</article>
 
 {% if page.header.form == 'contact-form' %}
 <hr class="mt-2 mb-2 md:mb-4" >
@@ -42,7 +51,7 @@
 <div class="button">
     {% if not page.isLast %}
  <button class="bg-transparent hover:bg-orange-200 text-orange-500 font-semibold hover:text-blue-700 py-2 px-4 border border-blue-700 hover:border-transparent rounded">
-            <a class="btn" href="{{ page.prevSibling.url }}"><i class="fa fa-angle-left"></i> {{ 'THEME_QUARK.BLOG.ITEM.PREV_POST'|t }}</a>
+            <a class="btn" href="{{ page.prevSibling.url }}"><i class="fa fa-angle-left"></i> Previous</a>
 </button>
     {% endif %}
 </div>
@@ -50,7 +59,7 @@
 <div class="button">
     {% if not page.isFirst %}
 <button class="bg-transparent hover:bg-orange-200 text-orange-500 font-semibold hover:text-blue-700 py-2 px-4 border border-blue-700 hover:border-transparent rounded">
-        <a class="btn" href="{{ page.nextSibling.url }}">{{ 'THEME_QUARK.BLOG.ITEM.NEXT_POST'|t }} <i class="fa fa-angle-right"></i></a>
+        <a class="btn" href="{{ page.nextSibling.url }}">Next <i class="fa fa-angle-right"></i></a>
     {% endif %}
 </button>
 </div>
@@ -84,7 +93,7 @@ s.parentNode.insertBefore(sn, s);
 		<input class="border-2 pl-2 w-full" id="webmention-source" type="url" name="source" placeholder="URL/Permalink of your article">
 	</div>
 	<div class="buttons">
-		<button class="button block text-center justify-center hover:bg-orange-200 text-orange-800 font-semibold hover:text-blue-700 py-2 mt-2 w-1/4 m-auto border border-blue-700 hover:border-transparent rounded" id="webmention-submit" type="submit" class="button" name="submit">Do it!</button>
+		<button class="button block text-center justify-center hover:bg-orange-200 text-orange-800 font-semibold hover:text-blue-700 py-2 mt-2 w-1/4 m-auto border border-blue-700 hover:border-transparent rounded" id="webmention-submit" type="submit" class="button" name="submit">Do it</button>
 	</div>
 	<input id="webmention-target" type="hidden" name="target" value="{{ page.permalink }}" >
 </form>
