@@ -5,6 +5,57 @@ enabled: '0'
 header_image: '1'
 ---
 <ul class="log">
+<li class="log-month">October</li>
+
+<ul class="log-entry">
+<li class="log-day">29</li>
+<ul>
+<li class="log-item">Started reading <em>Defectors</em> by Joseph Kanon <strong>B</strong> and was pretty immediately taken with it.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">25</li>
+<ul>
+<li class="log-item">Finished reading <em>Machines Like Me</em> by Ian McEwan <strong>B</strong> and found myself wondering why it needed to be an alternative history, apart from one very obvious reason.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">15</li>
+<ul>
+<li class="log-item">Started reading <em>Machines Like Me</em> By Ian McEwan <strong>B</strong></li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">12</li>
+<ul>
+<li class="log-item">Started watching <em>Rotten s01</em> on Netflix <strong>T</strong> A bit like being bludgeoned over the head with a farmed salmon, and didn't tell me enough about avocados as plants, other than they are drinking the people's water. Also, [Balls, Nuts & Avocados](https://medium.com/@davidbowles/mexican-x-plainer-balls-nuts-avocados-6611eab0a64f) by David Bowles ought to have cut the head off that zombie factoid, but still it lurches on.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">12</li>
+<ul>
+<li class="log-item">Finished <em>The Cockroach</em> <strong>B</strong> and very good it was too. I still have no idea what reversalism is, or even whether it is a genuine thing, but it worked brilliantly.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">11</li>
+<ul>
+<li class="log-item">Started reading <em>The Cockroach</em> by Ian McEwan <strong>B</strong> Startlingly prescient and very funny.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">07</li>
+<ul>
+<li class="log-item">Started watching <em>Peaky Blinders s05</em> on Netflix <strong>T</strong> Those haircuts!</li>
+</ul>
+</ul> 
+
 <li class="log-month">September</li>
 
 <ul class="log-entry">
