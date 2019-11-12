@@ -9,6 +9,7 @@ content:
         dir: desc
     limit: 10
     pagination: true
+    url_taxonomy_filters: true
 template: blog
 routable: true
 ---
