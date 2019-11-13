@@ -1,5 +1,5 @@
 ---
-title: 'Boosting the public\'s mistrust of science'
+title: "Boosting the public's mistrust of science"
 published: true
 date: '31-12-2010 15:32'
 taxonomy:
