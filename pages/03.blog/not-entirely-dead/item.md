@@ -29,6 +29,8 @@ There wasn't anything as simple as search on Andrew's site, at least not that I 
 
 Why am I telling you this? Because it sort of amuses me, and I realise this is a stone thrown by a glasshouse dweller, to see that even an "idealistic technocrat" can make mistakes when moving old posts to a new engine, one reason why I continue to do it slowly, by hand.
 
-I wonder whether he accepts webmentions?
+I wonder whether he accepts webmentions?[^2]
 
 [^1]: I'm not counting the credit for the photographer, who is still there on Flickr.
+
+[^2]: Nope.
