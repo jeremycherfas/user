@@ -199,3 +199,15 @@ background-color: transparent;
 Background-color: transparent;
 }
 
+pre {
+ white-space: pre-wrap;       /* css-3 */
+ white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+ white-space: -pre-wrap;      /* Opera 4-6 */
+ white-space: -o-pre-wrap;    /* Opera 7 */
+ word-wrap: break-word;       /* Internet Explorer 5.5+ */
+ border-left: 3px solid #2B6CB0;
+ padding: 1em 1.5em;
+ font-size: 1.0rem;
+}
+
+

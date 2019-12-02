@@ -40,6 +40,8 @@ I had been relying on faulty logic to tell Grav which template to use for which 
 
 And, as far as I have been able to tell, it works.
 
-Next I'll probably tidy up the actual content of a few Reviews that used to use the old template and have not been properly adjusted.
+Next I'll probably tidy up the actual content of a few Reviews that used to use the old template and have not been properly adjusted.[^2]
 
 [^1]: The main reason is that I hard-code things that would almost certainly have different values for other people.
+
+[^2]: Actually, next was emergency work to change the presentation of `<pre>` blocks, but I won't count that.
