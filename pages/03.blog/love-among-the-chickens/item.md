@@ -5,12 +5,13 @@ published: true
 date: '28-07-2019 17:30'
 taxonomy:
     category:
+        - blog
         - Reviews
     tag:
         - Fiction
 visible: true
 image: latc-us.jpg
-image-alt: "Book cover"
+imagealt: "Book cover"
 
 ---
 

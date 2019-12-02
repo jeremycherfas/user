@@ -4,6 +4,7 @@ published: true
 date: '07-04-2018 18:00'
 taxonomy:
     category:
+        - blog 
         - Reviews
     tag:
         - Notes
