@@ -210,4 +210,32 @@ pre {
  font-size: 1.0rem;
 }
 
+/* Styling Kindle notes in Reviews */
+.bookTitle {
+	background-color: #Fcf4f2;;
+	Padding-left: 1.0rem;
+}
+.authors {
+	Padding-left: 1.0rem;
+	background-color: #Fcf4f2;;
+}
+.sectionHeading {
+	background-color: #ffdc86; /* 25% darker than Cosmic latte */
+	Padding-left: 1.0rem;
+	font-size: 1.2rem;
+	}
+
+.noteHeading {
+	background-color: #fff8e7; /* Cosmic latte */
+	Padding-left: 1.0rem;
+	font-size: 1.2rem;
+	font-style: italic;
+	}
+
+.noteText{
+	background-color: #fffff0; /* ivory */
+	Padding-left: 1.0rem;
+	font-size: 1.2rem;
+	}
+
 

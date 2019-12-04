@@ -4,6 +4,7 @@ published: true
 date: '05-07-2016 16:04'
 taxonomy:
     category:
+        - blog
         - Reviews
     tag:
         - Non-fiction
@@ -14,17 +15,6 @@ image: cuisine-and-empire.jpg
 Really excellent guide to changes in cuisine through history, and the forces that drove them. A useful antidote to the rose-tinted myth that the cooking of times gone by was so much better than the food we have now. Some people have described the book as too dry; I disagree. It is scholarly and informative, rather than the once-over-lightly so common in so many "factual" works.
 
 ===
-
-<div class="bookTitle">
-                Cuisine and Empire: Cooking in World History (California Studies in Food and Culture Book 43)
-</div>
-<div class="authors">
-                Laudan, Rachel
-</div>
-<div class="citation">
-                Citation (Chicago Style): Laudan, Rachel. <i>Cuisine and Empire: Cooking in World History (California Studies in Food and Culture Book 43)</i>. University of California Press, 2013. Kindle edition.
-</div>
-<hr />
             
 <div class="sectionHeading">
     1. Mastering Grain Cookery, 20,000–300 B.C.E.
@@ -37,25 +27,26 @@ Really excellent guide to changes in cuisine through history, and the forces tha
 </div>
 
 <div class="noteHeading">
+Highlight - Location 471|My note
 </div>
-
-|Highlight - Location 471|My note|			
-|:-			|:-			|
-|		bile	|	 Really?		|
+<div class="noteText">
+"bile"	Really?
+</div>
 
 
 <div class="noteHeading">
     Highlight - Location 1014
 </div>
 <div class="noteText">
-    There is considerable evidence that following the Black Death in the mid-fourteenth century, for example, the survivors ate better as a result of the drop in population. Conversely,
-</div>
-<div class="noteHeading">
+    There is considerable evidence that following the Black Death in the mid-fourteenth century, for example, the survivors ate better as a result of the drop in population.
 </div>
 
-|    Highlight - Location 1049|My note |
-|:-|:-|
-|   Italian|Mental health quote|
+<div class="noteHeading">
+Highlight - Location 1049|My note
+</div>
+<div class="noteText">
+"Italian" Mental health quote
+</div>
 
 <div class="noteHeading">
     Highlight - Location 1064
@@ -86,12 +77,10 @@ Really excellent guide to changes in cuisine through history, and the forces tha
 </div>
 
 <div class="noteHeading">
+Highlight - Location 2275|My note
 </div>
-
-|    Highlight - Location 2275|My note|
-|:-|:-|
-|    Since grains bound society together—peasant to family, family to village, family to ruler, and family to ancestors—to abstain from grain was to reject society.|    Taoists |
-
+<div class="noteText">
+"Since grains bound society together—peasant to family, family to village, family to ruler, and family to ancestors—to abstain from grain was to reject society." Taoists
 </div>
 
 <div class="sectionHeading">
@@ -104,38 +93,34 @@ Really excellent guide to changes in cuisine through history, and the forces tha
     khand, whence our word “candy”
 </div>
 <div class="noteHeading">
+Highlight - Location 2916|My note
 </div>
-
-|    Highlight - Location 2916|My note|
-|:-|:-|
-|tough, chewy Champa (Vietnamese) rice, which the government insisted they grow, in the south.| Which is what?|
-
+<div class="noteText">
+"tough, chewy Champa (Vietnamese) rice, which the government insisted they grow, in the south." Which is what?
+</div>
 <div class="sectionHeading">
     4. Islam Transforms the Cuisines of Central and West Asia, 800–1650 C.E.
 </div>
 
 <div class="noteHeading">
+Highlight - Location 3098|My note
 </div>
-
-|    Highlight - Location 3098|My note|
-|:-|:-|
-|Only pork and blood were forbidden. To avoid the latter, animals were slaughtered by cutting their throats and allowing the blood to drain out.| Did they do anything with the blood? |
+<div class="noteText">
+"Only pork and blood were forbidden. To avoid the latter, animals were slaughtered by cutting their throats and allowing the blood to drain out."  Did they do anything with the blood?
+</div>
+<div class="noteHeading">
+Highlight - Location 3488|My note
+</div>
+<div class="noteText">
+"Bread" Details would be useful.
+</div>
 
 <div class="noteHeading">
+Highlight - Location 3495|My note
 </div>
-
-|    Highlight - Location 3488|My note|
-|:-|:-|
-| Bread| Details would be useful. |
-
-
-<div class="noteHeading">
+<div class="noteText">
+"pastirma" History of pastrami
 </div>
-
-|    Highlight - Location 3495|My note|
-|:-|:-|
-| pastirma| History of pastrami |
-
 <div class="noteHeading">
     Highlight - Location 3570
 </div>
@@ -154,29 +139,26 @@ Really excellent guide to changes in cuisine through history, and the forces tha
 </div>
 
 <div class="noteHeading">
+Highlight - Location 4457|My note
 </div>
-
-|    Highlight - Location 4457|My note|
-|:-|:-|
-| This exchange of raw materials should not blind us to the fact that they all have to be processed to become food. European and Asian food-processing and cooking technology was transferred wholesale to the New World, whereas essentially no American food-processing technology was moved to the Old World. |    Not even mixtalisation?|
-
+<div class="noteText">
+"This exchange of raw materials should not blind us to the fact that they all have to be processed to become food. European and Asian food-processing and cooking technology was transferred wholesale to the New World, whereas essentially no American food-processing technology was moved to the Old World." Not even mixtalisation?
+</div>
 <div class="noteHeading">
+Highlight - Location 4457|My note
 </div>
-
-|    Highlight - Location 4457|My note|
-|:-|:-|
-|    From a culinary perspective, then, as opposed to a biological or ecological one, there was no Columbian Exchange; there was yet one more largely one-way culinary transfer.|    Underappreciated point. |
-
+<div class="noteText">
+"From a culinary perspective, then, as opposed to a biological or ecological one, there was no Columbian Exchange; there was yet one more largely one-way culinary transfer."    Underappreciated point.
+</div>
 <div class="sectionHeading">
     6. Prelude to Modern Cuisines: Northern Europe, 1650–1800
 </div>
 <div class="noteHeading">
+Highlight - Location 4603|My note
 </div>
-
-|    Highlight - Location 4603|My note|
-|:-|:-|
-|    Giving everyone the same cuisine meant bringing down the cost of food.|Seems one could argue that bringing down the cost of food came first.|
-
+<div class="noteText">
+"Giving everyone the same cuisine meant bringing down the cost of food." Seems one could argue that bringing down the cost of food came first.
+</div>
 <div class="noteHeading">
     Highlight - Location 4789
 </div>
@@ -196,17 +178,11 @@ Really excellent guide to changes in cuisine through history, and the forces tha
     Each May, two thousand herring-busses (haringbuizen), each with a crew of fifteen, sailed out of ports such as Rotterdam and Amsterdam for the two-month season when fat herring started breeding.
 </div>
 <div class="noteHeading">
-    Highlight - Location 5311
+Highlight - Location 5341|My note
 </div>
-
-
-<div class="noteHeading">
+<div class="noteText">
+"loblolly or burgoo" How did these get transferred to pines, pudding and squirrel stew?
 </div>
-
-|    Highlight - Location 5341|My note|
-|:-|:-|
-|    loblolly or burgoo| How did these get transferred to pines, pudding and squirrel stew?|
-
 <div class="sectionHeading">
     7. Modern Cuisines: The Expansion of Middling Cuisines, 1810–1920
 </div>
@@ -224,43 +200,38 @@ Really excellent guide to changes in cuisine through history, and the forces tha
 </div>
 
 <div class="noteHeading">
+Highlight - Location 6209|My note
 </div>
-
-|    Highlight - Location 6209|My note|
-|:-|:-|
-|    By 1900, every leading Bordeaux producer used the word “château,” leading one historian to comment that there are “few better examples of the invention of tradition than the process that some wines underwent in this period.”|Wine Geese|
-
+<div class="noteText">
+"By 1900, every leading Bordeaux producer used the word “château,” leading one historian to comment that there are “few better examples of the invention of tradition than the process that some wines underwent in this period".” Wine Geese
+</div>
 <div class="noteHeading">
+Highlight - Location 6563|My note
 </div>
-
-|    Highlight - Location 6563|My note|
-|:-|:-|
-|    To persuade German, British, and other European biologists and biochemists to come to the new Imperial University of Tokyo in the 1870s, the Japanese government ... |    Story???|
-
+<div class="noteText">
+"To persuade German, British, and other European biologists and biochemists to come to the new Imperial University of Tokyo in the 1870s, the Japanese government ..." Story???
+</div>
 <div class="noteHeading">
+Highlight - Location 6622|My note|
 </div>
-
-|    Highlight - Location 6622|My note|
-|:-|:-|
-|    Maurizio charged that rich countries that attempted to shift the diet of ethnic minorities to white bread were guilty of “dietary imperialism.”|Nice phrase|
- 
+<div class="noteText">
+"Maurizio charged that rich countries that attempted to shift the diet of ethnic minorities to white bread were guilty of “dietary imperialism".” Nice phrase
+</div>
 <div class="noteHeading">
+Highlight - Location 6668|My note
 </div>
-
-|    Highlight - Location 6668|My note|
-|:-|:-|
-|    Feminists saw communal dining as a way to escape domesticity. In Australia,|Story???|
-
+<div class="noteText">
+"Feminists saw communal dining as a way to escape domesticity. In Australia," Story???|
+</div>
 <div class="sectionHeading">
     8. Modern Cuisines: The Globalization of Middling Cuisines, 1920–2000
 </div>
 <div class="noteHeading">
+Highlight - Location 7016|My note|
 </div>
-
-|    Highlight - Location 7016|My note|
-|:-|:-|
-|Sturgeon ...    When they found that the fish had nonstandard scales, exports resumed.|Story???|
-
+<div class="noteText">
+"Sturgeon ...    When they found that the fish had nonstandard scales, exports resumed." Story???|
+</div>
 <div class="noteHeading">
     Highlight - Location 7115
 </div>
@@ -292,8 +263,19 @@ Really excellent guide to changes in cuisine through history, and the forces tha
 <div class="noteText">
     Industrialized food processing was as necessary to the weakening of social hierarchy as the mastery of grains had been to its appearance.
 </div>
-
-<div class="noteHeading">
+----
+<div class="text-lg ">
+<div class="citation">
+Laudan, Rachel. <i>Cuisine and Empire: Cooking in World History (California Studies in Food and Culture Book 43)</i>. University of California Press, 2013. Kindle edition.
 </div>
-| <a href="https://www.goodreads.com/book/show/19090951-cuisine-and-empire">My review on Goodreads.</a> | [Buy it on Amazon](https://www.amazon.com/Cuisine-Empire-Cooking-History-California-ebook/dp/B00FAI6XEY/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1488446478&sr=1-1&keywords=cuisine+and+empire&linkCode=ll1&tag=agricubiodivw-20&linkId=253afa0117dd421cfd8cd4c914b408d8) |
-|:- | -: |
+
+<div class="flex flex-row w-full">
+<div class="flex w-1/2 pl-4">
+<a href="https://www.goodreads.com/book/show/19090951-cuisine-and-empire">My review on Goodreads.</a>
+</div>
+
+<div class="flex w-1/2 ">
+<a href="https://www.amazon.com/Cuisine-Empire-Cooking-History-California-ebook/dp/B00FAI6XEY/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1488446478&sr=1-1&keywords=cuisine+and+empire&linkCode=ll1&tag=agricubiodivw-20&linkId=253afa0117dd421cfd8cd4c914b408d8">Find it on Amazon</a>
+</div>
+</div>
+</div>

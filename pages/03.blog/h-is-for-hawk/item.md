@@ -4,6 +4,7 @@ published: true
 date: '13-01-2017 15:31'
 taxonomy:
     category:
+        - blog
         - Reviews
     tag:
         - Non-fiction
@@ -19,22 +20,14 @@ The writing is not lyrical as I understand it. It is sharp, penetrating, incisiv
 
 There are so many bits of writing -- sentences, phrases -- that I could have noted. These are just a few of the ones that struck me even more forcefully.
 
-<div class="bookTitle">
-                H is for Hawk
-</div>
-<div class="authors">
-                Macdonald, Helen
-</div>
-<div class="citation">
-                
-</div>
-<div class="sectionHeading">
+
+<div class="sectionHeading ">
     Part I
 </div>
-<div class="noteHeading">
+<div class="noteHeading ">
     Highlight - 1. Patience > Page 2 · Location 65
 </div>
-<div class="noteText">
+<div class="noteText ">
     like someone’s tipped a snow leopard into your kitchen and you find it eating the cat.
 </div>
 <div class="noteHeading">
@@ -87,11 +80,20 @@ There are so many bits of writing -- sentences, phrases -- that I could have not
 </div>
 <div class="noteText">
     The deer in procession resemble charcoal cave paintings rendered manifest. Art’s magic working backwards.
-        
 </div>
-<div class="noteHeading">
+----
+<div class="text-lg ">
+<div class="citation">
+Helen Macdonald <i>H is for Hawk</i>. Grove Press, 2016.
 </div>
-| <a href="https://www.goodreads.com/book/show/22888372-h-is-for-hawk">My review on Goodreads.</a> | [Get it on Amazon](https://www.amazon.com/H-Hawk-Helen-Macdonald-ebook/dp/B00JLLD7TU/ref=sr_1_1?s=books&ie=UTF8&qid=1488447007&sr=1-1&keywords=h+is+for+hawk+by+helen+macdonald) [^1] |
-|:- | -: |
 
-[^1]: Not an affiliate link.
+<div class="flex flex-row w-full">
+<div class="flex w-1/2 pl-4">
+<a href="https://www.goodreads.com/book/show/22888372-h-is-for-hawk">My review on Goodreads.</a>
+</div>
+
+<div class="flex w-1/2 ">
+<a href="https://www.amazon.com/H-Hawk-Helen-Macdonald/dp/0802124739/ref=as_li_ss_tl?keywords=h+is+for+hawk&qid=1575453547&sr=8-1&linkCode=ll1&tag=agricubiodivw-20&linkId=17de164ab7c64504b7d899389efa3c27&language=en_US">Find it on Amazon</a>
+</div>
+</div>
+</div>
