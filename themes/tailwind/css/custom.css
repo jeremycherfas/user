@@ -238,4 +238,28 @@ pre {
 	font-size: 1.2rem;
 	}
 
+/* 
+summary {
+}
+
+summary[open] {
+}
+
+summary p {
+font-size: 1.0rem;
+background-color: Ivory;
+}
+
+summary[open] p {
+background-color: Red;
+}
+
+
+
+details {
+}
+
+details[open] {
+}
+ */
 

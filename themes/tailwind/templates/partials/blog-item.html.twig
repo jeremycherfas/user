@@ -75,8 +75,10 @@ Great to make display of the above conditional
 <summary>
 <span class=" text-xl md:text-4xl ">Reactions from around the web</span>
 </summary>
+
 <div class="comment">
 <h3 class="mt-2 text-xl md:text-3xl" >Webmentions</h3>
+<p><a href="https://indieweb.org/Webmention">Webmentions</a> allow conversations across the web, based on a web standard. They are a powerful building block for the decentralized social web.<p>
 </div>
 
 <script id="webmention-hosted">
@@ -100,7 +102,6 @@ s.parentNode.insertBefore(sn, s);
 	</div>
 	<input id="webmention-target" type="hidden" name="target" value="{{ page.permalink }}" >
 </form>
-
 {% if config.plugins.comments.enabled %}
 	 {% include 'partials/comments.html.twig' with {'page': page} %}
 {% endif %}

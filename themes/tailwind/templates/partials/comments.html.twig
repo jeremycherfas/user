@@ -5,9 +5,9 @@
     {% if grav.twig.comments|length %}
 
 <div class="comment">
-        <h3>{{'PLUGIN_COMMENTS.COMMENTS'|t}}</h3>
+        <h3>“Ordinary” comments</h3>
 </div>
-
+<p>These are not webmentions, but ordinary old-fashioned comments left by using the form below.</p>
 <!-- Changed presentation from table to div -->
 
             {% for comment in grav.twig.comments|array_reverse %}
@@ -25,9 +25,9 @@
 <!-- End of presentation block -->
 
 <div class="comment">
-    <h3 class="mt-2 text-xl md:text-3xl ">{{'PLUGIN_COMMENTS.ADD_COMMENT'|t}}</h3>
+    <h3 class="mt-2 text-xl md:text-3xl ">“Ordinary” comments</h3>
 </div>
-
+<p>These are not webmentions, but ordinary old-fashioned comments left by using the form below.</p>
     <form name="{{ grav.config.plugins.comments.form.name }}"
           action="{{ grav.config.plugins.comments.form.action ?  base_url ~ grav.config.plugins.comments.form.action : page.url }}"
           method="{{ grav.config.plugins.comments.form.method|upper|default('POST') }}">
@@ -59,7 +59,7 @@
 
         <div class="buttons">
         {% for button in grav.config.plugins.comments.form.buttons %}
-            <button class="button block text-center justify-center hover:bg-orange-200 text-orange-800 font-semibold hover:text-blue-700 py-2 mt-2 w-1/4 m-auto border border-blue-700 hover:border-transparent rounded" type="{{ button.type|default('submit') }}">{{ button.value|t|default('Submit') }}</button>
+            <button class="button block text-center justify-center hover:bg-orange-200 text-orange-800 font-semibold hover:text-blue-700 py-2 mt-2 w-1/4 m-auto border border-blue-700 hover:border-transparent rounded" type="{{ button.type|default('submit') }}">{{ button.value|t|default('Do it') }}</button>
         {% endfor %}
         </div>
 
