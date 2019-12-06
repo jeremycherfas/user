@@ -11,7 +11,7 @@ taxonomy:
         - Challenge
 summary:
     enabled: '1'
-subhead: "Tweaking Wembmentions and Comments "
+subhead: "Tweaking Webmentions and Comments "
 header_image: '0'
 --- 
 
