@@ -19,19 +19,30 @@
 
 
 <div class="e-content text-sm md:text-lg lg:text-2xl pl-2 md:mr-4 md:ml-2">
+
+{% if page.header.image %}
+<!-- Is there an image in the front matter?  -->
+
 {% if page.header.image | starts_with('artwork-resized') %}
+<!-- This is a listen with a podcast image -->
+
 <a href="{{page.header.theurl}}" class="u-listen-of"><img class="float-left mt-2 mr-4" src="{{ page.url ~ '/' ~ page.header.image }}" alt="Podcast artwork" height="150" width="150"></a>
 {% block listen %}
 {% include 'partials/listen-item.html.twig' %}
 {% endblock listen %}
-<!-- <img class="float-left mt-2 mr-4" src="{{ page.url ~ '/' ~ page.header.image }}" alt="Podcast artwork" height="150" width="150"> -->
 {% endif %}
 
+
 {% if not page.header.image | starts_with('artwork-resized') %}
+<!-- This is a review, with an image that is not podcast artwork -->
+
 <a href="{{page.header.theurl}}" class=" "><img class="float-left mt-2 mr-4" src="{{ page.url ~ '/' ~ page.header.image }}" alt="{{ page.header.imagealt }}" height="150" width="150"></a>
 {% endif %}
+{% endif %}
 
 {% if not page.header.image | starts_with('artwork-resized') %}
+<!-- Do not repeat content if this is a podcast listen -->
+
 {{ page.content|raw }}
 {% endif %}
     
