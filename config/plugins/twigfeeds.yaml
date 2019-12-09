@@ -1,10 +1,15 @@
 enabled: true
 cache: true
-static_cache: true
-debug: true
+static_cache: false
+debug: false
 cache_time: 900
 pass_headers: false
 silence_security: false
+request_options:
+  allow_redirects: true
+  connect_timeout: 30
+  timeout: 30
+  http_errors: false
 twig_feeds:
   -
     source: 'https://stream.jeremycherfas.net/content/all?_t=rss'
@@ -16,3 +21,4 @@ twig_feeds:
     name: Reading
     start: 0
     end: 4
+  -

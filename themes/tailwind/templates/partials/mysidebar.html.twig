@@ -19,11 +19,12 @@
 {% for name, feed in twig_feeds if name == 'Stream' %}
     {% for item in feed.items %}
         <div class="flex flex-row text-lg px-2 md:px-4">
-            <time class="w-1/4 text-base flex-shrink-0">{{ item.date.date|nicetime(false) }}</time><a class=" " href="{{ item.url }}">{{ item.title }}</a>
+            <time class="w-1/4 text-base flex-shrink-0">{{ item.lastModified|nicetime(false) }}</time><a class=" " href="{{ item.url }}">{{ item.title }}</a>
         </div>
 
     {% endfor %}
 {% endfor %}
+
 </div>
 
 </div>
