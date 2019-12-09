@@ -238,6 +238,14 @@ pre {
 	font-size: 1.2rem;
 	}
 
+/* Override bar styles on bar charts. Bars are also strokes so you have maximum freedom in styling them. */
+.ct-series-a .ct-bar {
+  /* Colour of your bars */
+  stroke: blue;
+  /* The width of your bars */
+  stroke-width: 1px;
+}
+
 /* 
 summary {
 }
