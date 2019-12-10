@@ -5,6 +5,66 @@ enabled: '0'
 header_image: '1'
 ---
 <ul class="log">
+
+<li class="log-month">November</li>
+
+<ul class="log-entry">
+<li class="log-day">26</li>
+<ul>
+<li class="log-item">Started watching <em>Ray Donovan s07</em> on Netflix <strong>T</strong> Same old, same old. Emminently watchable.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">18</li>
+<ul>
+<li class="log-item">Saw <em>The Irishman</em> at the Nuovo Sacher <strong>F</strong> Astonishingly good. Can they give three Best Actor Oscars to a single film?</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">17</li>
+<ul>
+<li class="log-item">Started watching <em>The Crown s03</em> on Netflix <strong>T</strong> Class on a stick.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">15</li>
+<ul>
+<li class="log-item">Finished watching <em>Jack Taylor s03</em> on Netflix <strong>T</strong> Not all that innovative, but solid, clichéed hard-drinking, loner, ex-cop. The murder rate in his patch though beggars belief, as usual.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">13</li>
+<ul>
+<li class="log-item">Started watching <em>Lilyhammer s02</em> on Netflix <strong>T</strong> I know I shouldn't laugh, but ...</li>
+</ul>
+</ul>
+
+
+<ul class="log-entry">
+<li class="log-day">12</li>
+<ul>
+<li class="log-item">Watched <em>Laundromat</em> on Netflix <strong>F</strong> Quirky would be putting it mildly, and I question how much one would learn if one didn't already understand.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">06</li>
+<ul>
+<li class="log-item">Finished watching <em>Peaky Blinders</em> on Netflix s05 <strong>T</strong> Kind of knew in advance that the ultimate plan could not succeed, but confused as to how, actually, it was thwarted. And the ending was sufficiently open to permit another series, but I kind of hope they'll let it go now.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">03</li>
+<ul>
+<li class="log-item">Finished reading <em>Defectors</em> by Joseph Kanon <strong>B</strong> Cracking good spy thriller, mixing real people with fictional ones and casting the doubt of double agents over everything, right until the very last sentence.</li>
+</ul>
+</ul>
+
 <li class="log-month">October</li>
 
 <ul class="log-entry">
