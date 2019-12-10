@@ -1,7 +1,7 @@
 ---
 title: 'IndieWeb Challenge Day 10'
 published: true
-date: '10-12-2019 09:30'
+date: '10-12-2019 12:30'
 taxonomy:
     category:
         - blog
@@ -21,7 +21,7 @@ First, though, I got rid of a few things that my new theme was loading and that 
 
 <div class="ct-chart ct-minor-seventh"></div>
 
-This is actually a daily plot of the number of spam comments I get over on the stream. It was the biggest set of data I could easily lay my hands on. To get it to display intelligibly I had to meddle with the styling of the bars on the chart in my `custom.css`, and I am hoping I may be able to do that on the fly in future. I also suppressed labels on the abscissa, because I don't have the actual dates.[^1]
+This is actually a daily plot of the number of spam comments I get over on the stream. It was the biggest set of data I could easily lay my hands on. To get it to display intelligibly I had to meddle with the styling of the bars on the chart in my `custom.css`, and I am hoping I may be able to do that on the fly in future; [tricky, but possible](https://gionkunz.github.io/chartist-js/getting-started.html#customizing-the-default-css). I also suppressed labels on the abscissa, because I don't have the actual dates.[^1]
 
 [^1]: Well, I have the start date, so I could reconstruct the series, but life is too short. 
 
