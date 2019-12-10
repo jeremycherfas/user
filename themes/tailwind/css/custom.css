@@ -87,8 +87,9 @@ blockquote p {
 }
 
 .footnotes > ol {
-    list-style-position: inside;
     list-style-type: decimal;
+    padding-top: 1.0rem;
+    font-size: 1.2rem;
 }
 
 ol, ul {
