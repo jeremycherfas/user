@@ -1,12 +1,12 @@
 ---
-title: "Listened to: Johnson Gets His Mandate"
+title: "&#127911; Johnson Gets His Mandate"
 published: true
 date: 15-12-2019 10:40
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+        - stream
+    tag:
+        - podcasts
 header_image: '0'
 theurl: https://media.acast.com/talkingpolitics/johnsongetshismandate/media.mp3
 image: artwork-resized.png

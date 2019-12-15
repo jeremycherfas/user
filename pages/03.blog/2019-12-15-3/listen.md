@@ -1,12 +1,12 @@
 ---
-title: "Listened to: Revisionist History Presents: The Pushkin Industries Holiday Variety Show"
+title: "&#127911; Revisionist History Presents: The Pushkin Industries Holiday Variety Show"
 published: true
 date: 15-12-2019 11:43
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+        - stream
+    tag:
+        - podcasts
 header_image: '0'
 theurl: https://leopard.megaphone.fm/CAD7532613801.mp3
 image: artwork-resized.jpg

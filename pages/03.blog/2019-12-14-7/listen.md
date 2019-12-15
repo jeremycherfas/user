@@ -1,12 +1,12 @@
 ---
-title: "Listened to: Automators 38: Simon Leeb and Pushcut"
+title: "&#127911; Automators 38: Simon Leeb and Pushcut"
 published: true
 date: 14-12-2019 14:57
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+        - stream
+    tag:
+        - podcasts
 header_image: '0'
 theurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automatorsrelay/automators038.mp3
 image: artwork-resized.jpg
