@@ -247,6 +247,13 @@ pre {
   stroke-width: 1px;
 }
 
+.ct-series-b .ct-bar {
+  /* Colour of your bars */
+  stroke: green;
+  /* The width of your bars */
+  stroke-width: 1px;
+}
+
 /* 
 summary {
 }
