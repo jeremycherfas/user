@@ -23,4 +23,4 @@ It's about automatically harvesting Tweets using a tool called [TAGS – Twitter
 
 That is all correct, if you don't want to break Twitter's terms. If you're adding valuable information to a website, should that be your primary worry? I know there are people who save tweets, their own and others', to the Internet Archive, and I assume that may be breaking the terms too. But it strikes me that if, like James Morley, you are curating some information to make it more accessible, more interesting and more valuable, then you have some sort of right to ensure that it doesn't just vanish.
 
-How exactrly to do that is beyond me.
+How exactly to do that is beyond me.
