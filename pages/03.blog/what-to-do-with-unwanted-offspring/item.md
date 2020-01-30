@@ -22,3 +22,5 @@ If the ban is upheld, the only outcome I can foresee is more expensive eggs. The
 Livestock researchers have been working for decades on reliable and affordable methods for sexing sperm, because there would be a huge and immediate market to avoid the “waste” of the unwanted sex. Of course that wouldn’t work for chickens, because it is the egg, rather than the sperm, that determines the sex of the offspring, but that might actually make it easier. Some sort of meiotic drive might be a solution, leading either male or female ova to die. Or maybe chickens could be selected (or manipulated?) so that, like many reptiles, the sex of the offspring is determined by the temperature during incubation.
 
 In the meantime, if you object to the culling of male chicks (or, indeed, the unwanted sex of any livestock) your best bet is probably to seek out old-fashioned farmers who still raise multi-purpose breeds.
+
+!!! Also at [Eat This Podcast](https://www.eatthispodcast.com/what-to-do-with-unwanted-offspring/)
