@@ -1,7 +1,7 @@
 ---
 title: 'What to do with unwanted offspring'
 published: true
-date: ’30-01-2020 13:13’
+date: '30-01-2020 13:13'
 taxonomy:
     category:
         - blog
