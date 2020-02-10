@@ -5,8 +5,8 @@ published: true
 date: '10-11-2019 17:30'
 taxonomy:
     category:
-        - Reviews
         - blog
+        - Reviews
     tag:
         - Fiction
 visible: true
