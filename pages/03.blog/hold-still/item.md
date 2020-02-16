@@ -4,10 +4,10 @@ published: true
 date: '14-04-2017 16:30'
 taxonomy:
     category:
-        - Blog
+        - blog
+        - Reviews
     tag:
         - Non-fiction
-        - Reviews
 visible: true
 image: hold-still.jpg
 ---

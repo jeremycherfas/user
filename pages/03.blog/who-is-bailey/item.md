@@ -4,10 +4,10 @@ published: true
 date: '19-08-2017 17:19'
 taxonomy:
     category:
-        - Blog
+        - blog
+        - Reviews
     tag:
         - Fiction
-        - Reviews
 visible: true
 image: who-is-bailey.jpg
 ---

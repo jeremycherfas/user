@@ -4,10 +4,10 @@ published: true
 date: '01-05-2017 15:07'
 taxonomy:
     category:
-        - Blog
+        - blog
+        - Reviews
     tag:
         - Non-fiction
-        - Reviews
 visible: true
 image: on-tyranny.png
 ---

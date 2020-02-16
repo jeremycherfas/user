@@ -5,10 +5,10 @@ published: true
 date: '08-05-2019 09:30'
 taxonomy:
     category:
-        - Blog
+        - blog
+        - Reviews
     tag:
         - Fiction
-        - Reviews
 visible: true
 image: three-hands-in-the-fountain.jpg
 --- 
