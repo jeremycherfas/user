@@ -13,7 +13,7 @@ subhead: " "
 header_image: '0'
 --- 
 
-Continuing my occasional efforts to bring old posts in, top of the logs yesterday was this post from 2006: [Indefensible](http://jeremycherfas.net/blog/indefensible/). And that started off referring to two earlier posts on the same topic, [Gurt big confusion](http://jeremycherfas.net/blog/gurt-big-confusion/) and [Gene flow ... again](http://jeremycherfas.net/blog/gurt-big-confusion/). So I had to deal with all three.[^1]
+Continuing my occasional efforts to bring old posts in, top of the logs yesterday was this post from 2006: [Indefensible](http://jeremycherfas.net/blog/indefensible/). And that started off referring to two earlier posts on the same topic, [Gurt big confusion](http://jeremycherfas.net/blog/gurt-big-confusion/) and [Gene flow ... again](http://jeremycherfas.net/blog/gene-flow-...-again/). So I had to deal with all three.[^1]
 
 ===
 
