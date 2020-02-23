@@ -1,7 +1,7 @@
 ---
 title: 'Nothing new in the GURT world'
 published: true
-date: '22-03-2020 09:40'
+date: '22-02-2020 09:40'
 taxonomy:
     category:
         - blog
