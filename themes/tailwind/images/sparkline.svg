@@ -24,7 +24,7 @@
             }
         });
         ln.setAttribute("stroke", "#b46100");
-        ln.setAttribute("stroke-width", "1");
+        ln.setAttribute("stroke-width", ".5%");
         ln.setAttribute("fill","none");
         var height = mx-mn+1;
         var width = x;
