@@ -115,6 +115,7 @@ summary {
 	table-layout: fixed;
 	width: 100%;
 	white-space: nowrap;
+	font-size: smaller;
 }
 
 .bigrow {
