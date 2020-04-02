@@ -47,7 +47,6 @@ In the end the many little twists and the large ones do offer opportunities to t
 That hit home.
 
 ----
-<div class="text-lg ">
 <div class="citation">
 Ian McEwan <i>The Cockroach</i>. Jonathan Cape, 2020.
 </div>
@@ -75,4 +74,4 @@ Ian McEwan <i>Machines Like Me</i>. Jonathan Cape, 2019.
 <a href="https://www.amazon.com/Machines-Like-Me-Ian-McEwan/dp/1529111250/ref=as_li_ss_tl?_encoding=UTF8&qid=1573322223&sr=1-1&linkCode=ll1&tag=agricubiodivw-20&linkId=c260f1f9f50e37e463a2369890f6f15c&language=en_US">Find it on Amazon</a>
 </div>
 </div>
-</div>
+

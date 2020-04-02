@@ -13,3 +13,4 @@ content:
 template: blog
 routable: true
 ---
+
