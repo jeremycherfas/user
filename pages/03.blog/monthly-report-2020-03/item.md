@@ -27,11 +27,11 @@ Hard to believe that this time last month I wrote “just another month. … Cov
 - Added transcripts to new shows for Eat This Podcast.
 - The girlie Ghostbusters is much better than I had heard.
 
-##Exist.io
+### Exist.io
 
 Weight unchanged, sleep unchanged. Stability is not always a good thing.
 
-##Activities
+### Activities
 
 March:  
 * Walking with sticks: 5
@@ -47,11 +47,11 @@ February:
 * Podcasts: 37
 * 7-minutes: 6
 
-##Work
+### Work
 
 A new big project came in at the end of the month, which is nice. Less Admin and more ETP is always good to see.
 
-##Hours logged per month
+#### Hours logged per month
 <noscript>
     <style type="text/css">
         .ct-minor-seventh {display:none;}
@@ -65,7 +65,7 @@ A new big project came in at the end of the month, which is nice. Less Admin and
 <li><span style="color:red;">2020</span></li><li><span style="color:green;">2019</span></li><li><span style="color:blue;">2018</span></li></ul>
 </div>
 
-##Percent of logged hours: 2020
+#### Percent of logged hours: 2020
 <noscript>
     <style type="text/css">
         .ct-minor-seventh {display:none;}
@@ -81,7 +81,7 @@ A new big project came in at the end of the month, which is nice. Less Admin and
 
 Previous years are on [an archive page](https://jeremycherfas.net/blog/working-life).
 
-##Goals
+### Goals
 
 Eight new posts in February! And three old ones, which were:
 
@@ -91,11 +91,11 @@ Eight new posts in February! And three old ones, which were:
 
 And in connection with that last one, I wonder whether it is possible, or even a good idea, to resurrect those “you’re it” blog chains. I do believe I will. Try.
 
-##Niggles
+### Niggles
 
 None, really. I updated Grav, as I hoped to, but haven’t pushed the button yet. It should be almost unnoticeable when I do.
 
-##Final remarks
+### Final remarks
 
 The lockdown has not been nearly as awful as it might be, and we’re still perfectly healthy, as far as we know.
 
