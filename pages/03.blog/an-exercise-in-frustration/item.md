@@ -1,7 +1,7 @@
 ---
 title: 'An exercise in frustration'
 published: true
-date: '03-04-2020 14:37’
+date: '03-04-2020 14:37'
 taxonomy:
     category:
         - blog
