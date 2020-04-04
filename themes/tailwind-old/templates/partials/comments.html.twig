@@ -1,0 +1,75 @@
+{% if grav.twig.enable_comments_plugin %}
+
+<!-- Moved here from below to change order of presentation -->
+
+    {% if grav.twig.comments|length %}
+
+<div class="comment">
+        <h3>“Ordinary” comments</h3>
+</div>
+<p>These are not webmentions, but ordinary old-fashioned comments left by using the form below.</p>
+<!-- Changed presentation from table to div -->
+
+            {% for comment in grav.twig.comments|array_reverse %}
+<div class="comment-content">
+                    {{comment.text}}
+</div>
+<div class="commenter">
+<p>{{comment.author}}<br />
+{{comment.date|e}}</p>
+</div>
+            {% endfor %}
+
+    {% endif %}
+
+<!-- End of presentation block -->
+
+<div class="comment">
+    <h3 class="mt-2 text-xl md:text-3xl ">“Ordinary” comments</h3>
+</div>
+<p>These are not webmentions, but ordinary old-fashioned comments left by using the form below.</p>
+    <form name="{{ grav.config.plugins.comments.form.name }}"
+          action="{{ grav.config.plugins.comments.form.action ?  base_url ~ grav.config.plugins.comments.form.action : page.url }}"
+          method="{{ grav.config.plugins.comments.form.method|upper|default('POST') }}">
+
+        {% for field in grav.config.plugins.comments.form.fields %}
+            {% set value = form.value(field.name) %}
+            {% if field.evaluateDefault %}
+                {% set value = evaluate(field.evaluateDefault) %}
+            {% endif %}
+
+            {% if config.plugins.login.enabled and grav.user.authenticated %}
+                {% if field.name == 'name' %}
+                    <input type="hidden" name="{{field.name}}" value="{{grav.user.fullname}}">
+                {% elseif field.name == 'email' %}
+                    <input type="hidden" name="{{field.name}}" value="{{grav.user.email}}">
+                {% else %}
+                    <div class="w-full ">
+                        {% include "forms/fields/#{field.type}/#{field.type}.html.twig" %}
+                    </div>
+                {% endif %}
+            {% else %}
+                <div class="w-full ">
+                    {% include "forms/fields/#{field.type}/#{field.type}.html.twig" %}
+                </div>
+            {% endif %}
+        {% endfor %}
+
+        {% include "forms/fields/formname/formname.html.twig" %}
+
+        <div class="buttons">
+        {% for button in grav.config.plugins.comments.form.buttons %}
+            <button class="button block text-center justify-center hover:bg-orange-200 text-orange-800 font-semibold hover:text-blue-700 py-2 mt-2 w-1/4 m-auto border border-blue-700 hover:border-transparent rounded" type="{{ button.type|default('submit') }}">{{ button.value|t|default('Do it') }}</button>
+        {% endfor %}
+        </div>
+
+        {{ nonce_field('form', 'form-nonce')|raw }}
+    </form>
+
+    <div class="alert">{{ form.message }}</div>
+
+<!--  Presentation was here -->
+
+{% endif %}
+
+{{ dump(grav.twig.comments) }}
