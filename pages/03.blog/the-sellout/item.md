@@ -4,10 +4,10 @@ published: true
 date: '19-03-2017 15:00'
 taxonomy:
     category:
-        - Blog
+        - blog
+        - Reviews
     tag:
         - Fiction
-        - Reviews
 visible: true
 image: the-sellout.jpg
 ---

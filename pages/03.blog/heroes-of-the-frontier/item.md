@@ -4,10 +4,10 @@ published: true
 date: '14-08-2016 16:00'
 taxonomy:
     category:
-        - Blog
+        - blog
+        - Reviews
     tag:
         - Fiction
-        - Reviews
 visible: true
 image: heroes-of-the-frontier.jpg
 ---

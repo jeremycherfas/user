@@ -4,10 +4,10 @@ published: true
 date: '23-01-2018 17:00'
 taxonomy:
     category:
-        - Blog
+        - blog
+        - Reviews
     tag:
         - Fiction
-        - Reviews
 visible: true
 image: dystopian.png
 ---

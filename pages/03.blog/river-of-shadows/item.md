@@ -5,10 +5,10 @@ published: true
 date: '08-11-2018 09:30'
 taxonomy:
     category:
-        - Blog
+        - blog
+        - Reviews
     tag:
         - Non-fiction
-        - Reviews
 visible: true
 image: river-of-shadows.jpg
 ---

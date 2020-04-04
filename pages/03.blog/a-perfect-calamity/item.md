@@ -5,9 +5,9 @@ date: '15-05-2006 20:27'
 taxonomy:
     category:
         - blog
+        - Reviews
     tag:
         - General
-        - Reviews
 subhead: ' '
 header_image: '0'
 summary:

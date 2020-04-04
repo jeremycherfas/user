@@ -19,7 +19,7 @@
 {% for name, feed in twig_feeds if name == 'Stream' %}
     {% for item in feed.items %}
         <div class="flex flex-row text-lg px-2 md:px-4">
-            <time class="w-1/4 text-base flex-shrink-0">{{ item.lastModified|nicetime(false) }}</time><a class=" " href="{{ item.url }}">{{ item.title }}</a>
+            <time class="w-1/4 text-base flex-shrink-0">{{ item.lastModified|nicetime(false) }}</time><a class=" " href="{{ item.link }}">{{ item.title }}</a>
         </div>
 
     {% endfor %}
@@ -29,6 +29,11 @@
 
 </div>
 {% endif %}
+
+<div class="sidebar-content">
+<h3 class="text-center">What I've watched</h3>
+<p class="text-lg px-2 md:px-4">I keep <a href="{{base_url_absolute}}/what-ive-watched.html">a little log</a>.</p>
+</div>
 
 {{ page.find('/modules/sidebar').content|raw }}
 
@@ -55,4 +60,12 @@
 </div>
 
 {% endif %}
+
+<h3 class="text-center">Webring</h3>
+<div style="text-align: center;" >
+<p>An IndieWeb <a href="https://en.wikipedia.org/wiki/Webring">Webring</a> 🕸💍</p>
+<a href="https://xn--sr8hvo.ws/%F0%9F%8C%A5%F0%9F%8D%9A%F0%9F%90%A3/previous">←</a>
+  I feel lucky
+  <a href="https://xn--sr8hvo.ws/%F0%9F%8C%A5%F0%9F%8D%9A%F0%9F%90%A3/next">→</a>
+</div>
 </div>

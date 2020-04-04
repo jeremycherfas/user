@@ -5,6 +5,7 @@ published: true
 date: '8-06-2019 14:30'
 taxonomy:
     category:
+        - blog
         - Reviews
     tag:
         - Non-fiction
