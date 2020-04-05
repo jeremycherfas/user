@@ -151,7 +151,6 @@ new Chartist.Bar('.ct-chart-2', {
 
 </script>
 
-
 ----
 
 ## Here's the table
