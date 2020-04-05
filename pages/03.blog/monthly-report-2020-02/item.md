@@ -78,7 +78,7 @@ Chugging along nicely, after taking it easy in January. The drop in Admin and ET
 <li><span style="color:blue;">Admin</span></li><li><span style="color:green;">Eat This Podcast</span></li></ul>
 </div> 
 
-As promised last month, I have relegated previous years to [an archive page](https://jeremycherfas.net/blog/working-life).
+As promised last month, I have relegated previous years to [an archive page](/blog/working-life).
 
 ##Goals
 
@@ -150,6 +150,22 @@ new Chartist.Bar('.ct-chart-2', {
 });
 
 </script>
+
+<style type="text/css">
+/* .ct-series-a .ct-bar, .ct-series-a .ct-line, .ct-series-a .ct-point, .ct-series-a .ct-slice-donut { */
+svg g.ct-series.ct-series-a > .ct-bar {
+ stroke: blue !important;
+ stroke-width: 3px
+}
+svg g.ct-series.ct-series-b > .ct-bar {
+ stroke: green !important;
+ stroke-width: 3px
+}
+svg g.ct-series.ct-series-c > .ct-bar {
+ stroke:red !important;
+ stroke-width:3px
+}
+</style>
 
 ----
 

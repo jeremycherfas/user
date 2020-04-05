@@ -1,10 +1,12 @@
 ---
-title: "What I've watched"
+title: "What I’ve watched"
 visible: false
 enabled: '0'
 header_image: '1'
 template: item
 ---
+
+![surveillance cameras on a railway platform](watching.jpg){.center}
 
 <p>Key: <strong>(B)</strong> = book | <strong>(F)</strong> = film | <strong>(T)</strong> = television series | <strong>(P)</strong> = podcast series | <strong>(TH)</strong> = theater performance | <strong>(M)</strong> = musical performance |<strong>[R]</strong> = reread/rewatch/relisten | <strong>(Tk)</strong> = talk</p>
 
