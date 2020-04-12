@@ -155,7 +155,7 @@ session:
   split: true
   path: null
 gpm:
-  releases: stable
+  releases: testing
   proxy_url: null
   method: auto
   verify_peer: true

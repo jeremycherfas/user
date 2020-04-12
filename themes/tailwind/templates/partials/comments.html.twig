@@ -2,13 +2,13 @@
 
 <!-- Moved here from below to change order of presentation -->
 
-    {% if grav.twig.comments|length %}
-
 <div class="comment">
-        <h3>“Ordinary” comments</h3>
+        <h4>“Ordinary” comments</h4>
 </div>
 <p>These are not webmentions, but ordinary old-fashioned comments left by using the form below.</p>
 <!-- Changed presentation from table to div -->
+
+    {% if grav.twig.comments|length %}
 
             {% for comment in grav.twig.comments|array_reverse %}
 <div class="comment-content">
@@ -16,7 +16,7 @@
 </div>
 <div class="commenter">
 <p>{{comment.author}}<br />
-{{comment.date|e}}</p>
+{{comment.date|nicetime}}</p>
 </div>
             {% endfor %}
 
@@ -24,10 +24,6 @@
 
 <!-- End of presentation block -->
 
-<div class="comment">
-    <h3 class="mt-2 text-xl md:text-3xl ">“Ordinary” comments</h3>
-</div>
-<p>These are not webmentions, but ordinary old-fashioned comments left by using the form below.</p>
     <form name="{{ grav.config.plugins.comments.form.name }}"
           action="{{ grav.config.plugins.comments.form.action ?  base_url ~ grav.config.plugins.comments.form.action : page.url }}"
           method="{{ grav.config.plugins.comments.form.method|upper|default('POST') }}">

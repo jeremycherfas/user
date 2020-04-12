@@ -1,7 +1,7 @@
 <div class="h-entry flex flex-column flex-shrink mb-2">
 
     <div class="flex-shrink-0 w-full pt-4">
-        <div class="text-sm md:text-2xl">
+        <div class="date-block ">
             {% include 'partials/blog/date.html.twig' %}
         </div>
 
@@ -12,7 +12,7 @@
 
 {% include 'partials/hcard.html.twig' %}
 
-    <div class="card-body e-content hidden md:pl-4 md:text-lg lg:text-2xl md:block ">
+    <div class="card-body e-content hidden md:pl-4 md:block ">
 
         {% if page.summary != page.content %}
             {{ page.summary|raw }}
