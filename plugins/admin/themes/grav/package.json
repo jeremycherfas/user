@@ -40,7 +40,7 @@
     "toastr": "^2.1.4",
     "watchjs": "0.0.0",
     "whatwg-fetch": "^2.0.4",
-    "yarn": "^1.21.1"
+    "yarn": "^1.22.0"
   },
   "devDependencies": {
     "babel-core": "^6.25.0",
