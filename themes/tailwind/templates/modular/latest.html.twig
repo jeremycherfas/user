@@ -1,39 +1,34 @@
 {% set collection = taxonomy.findTaxonomy({'category':'blog'}) %}
 {% set ordered_collection = collection.order('date','desc').slice(0,10) %}
-
-{% for p in ordered_collection|slice(0, 1)%}
-{% set mydate = p.header.date | date("U") %}
+{% for p in ordered_collection|slice(0, 1)%} 
 
 <div class="flex flex-col pt-2 ">
 	<h1 class="mb-0 px-2 md:px-4 md:pt-2 text-grey-700">
-		Latest post
+		Latest post 
 	</h1>
 
 	<div class="md:flex md:flex-col md:items-start md:w-3/4 md:mx-auto ">
-			<div class=" ">
-				<div class="md:flex-row md:items-start md:justify-between ">
-					{% include 'partials/blog/date.html.twig' %}
+		<div class=" ">
+			<div class="md:flex-row md:items-start md:justify-between ">
+				<span class="blog-date px-4 md:pr-0" style="float: right;"> <time class="dt-published" datetime="{{ p.header.date|date(" c") }}"> <span class="inline-block">{{ p.header.date|date("d") }}</span> <span class="inline-block md:uppercase">{{ p.header.date|date("M") }}</span> <span class="block">{{ p.header.date|date("Y") }}</span> </time> </span> 
 				<div class="mytitle px-2 md:pl-4">
-					{# % include 'partials/blog/title.html.twig' % #}
+					{# % include 'partials/blog/title.html.twig' % #} 
 					<h1 class="p-name mt-1 md:text-orange-500 hover:text-blue-700">
-						<a href="{{ p.url }}" class="u-url">{{ p.header.title }}</a>
+						<a href="{{ p.url }}" class="u-url">{{ p.header.title }}</a> 
 					</h1>
 <!-- p.url here is the path to that post         -->
-					{% if page.header.subtitle %}
+					{% if page.header.subtitle %} 
 					<h2 class=" md:mr-4">
-						{{ p.header.subtitle }}
+						{{ p.header.subtitle }} 
 					</h2>
-					{% endif %}
+					{% endif %} 
 				</div>
 <!-- End title stuff -->
 				<div class="e-content text-base mb-2 md:text-xl pl-2 pr-2 md:mr-4 md:ml-2 md:mb-2">
-					{{ p.content }}
+					{{ p.content }} 
 				</div>
 			</div>
 <!-- Ends item -->
-{% endfor %}
-
-
-
+			{% endfor %} 
 		</div>
-</div>
+	</div>
