@@ -16,6 +16,102 @@ template: item
 <!-- Outer List -->
 
 <ul class="log">
+<li class="log-month">April</li>
+
+<ul class="log-entry">
+<li class="log-day">19</li>
+<ul>
+<li class="log-item">Watched <em>Nikita</em> on iTunes <strong>F</strong> I could have sworn I had seen this, but couldn't remember any of it. Turns out I was thinking of Léon. Luc Besson clearly has a thing for gorgeous women assassins.</li>
+</ul>
+</ul> 
+
+
+<ul class="log-entry">
+<li class="log-day">11</li>
+<ul>
+<li class="log-item">Started watching <em>Unorthdox</em> On Netflix <strong>T</strong> Rather good, especially the lead.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">05</li>
+<ul>
+<li class="log-item">Finished watching <em>The Code s01</em> <strong>T</strong> Really rather well done disturbed genius hacker stuff. There's a second series, but I'm not sure it can sustain that.</li>
+</ul>
+</ul> 
+
+<li class="log-month">March</li>
+
+<ul class="log-entry">
+<li class="log-day">28</li>
+<ul>
+<li class="log-item">Started watching <em>Ozark s03</em> on Netflix <strong>T</strong> So compelling.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">25</li>
+<ul>
+<li class="log-item">Finished watching <em>Wanted s03</em> <strong>T</strong> as they drove slowly into peace of the sunset. For how long?</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">23</li>
+<ul>
+<li class="log-item">Started watching <em>The Code s01</em> on Netflix <strong>T</strong> Rather good Aussie crime in high places caper.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">21</li>
+<ul>
+<li class="log-item">Watched <em>The Rose Tattoo</em> on iTunes <strong>F</strong> Strange film, shot on Key West, which was why we watched it, with Anna Magnina and Burt Lancaster. She plays a woman widowed by her cheating husband, who eventually falls for Burt. Dated, histrionic, fun. Tennessee Williams wrote. Now, a competition: who was the worst young Italian? Burt, in this, or Warren Beatty in _The Roman Spring of Mrs Stone_, another Williams classic.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">18</li>
+<ul>
+<li class="log-item">Watched <em>Ghostbusters</em> on Netflix <strong>F</strong> The girlie one; I thought it was excellent. Why all the hate?</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">15</li>
+<ul>
+<li class="log-item">Started watching <em>The Road to Calvary</em> on Netflix <strong>T</strong> Russian period drama, strangely entertaining, like a Russian Gone with the Wind.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">10</li>
+<ul>
+<li class="log-item">Started watching <em>Wanted s03</em> on Netflix <strong>T</strong> They're still on the run; Huntingdon's seems like a bit of a McGuffin.</li>
+</ul>
+</ul>
+
+
+<ul class="log-entry">
+<li class="log-day">08</li>
+<ul>
+<li class="log-item">Finished watching <em>Ottomans</em> on Netflix <strong>T</strong> Mehmed got there in the end, as we knew he would. </li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">06</li>
+<ul>
+<li class="log-item">Finished watching <em>The Stranger s01</em> on Netflix <strong>T</strong> Very satisfying, in the end, but although they are clearly leaving enough loose ends for a second season, I'm not sure how compelling it will really be.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">03</li>
+<ul>
+<li class="log-item">Finished reading <em>The Oldest Road: The Ridgeway</em> <strong>B</strong> and can't wait to start tramping, coronavirus willing.</li>
+</ul>
+</ul> 
 
 <li class="log-month">February</li>
 
