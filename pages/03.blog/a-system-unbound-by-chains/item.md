@@ -1,5 +1,5 @@
 ---
-title: 'A system unbound by chains’
+title: 'A system unbound by chains'
 published: true
 date: '06-05-2020 16:30'
 taxonomy:
