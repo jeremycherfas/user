@@ -8,7 +8,7 @@ taxonomy:
         - blog
         - Reviews
     tag:
-        - Fiction
+        - Commentary
 visible: true
 
 ---
