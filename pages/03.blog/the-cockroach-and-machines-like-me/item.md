@@ -12,7 +12,7 @@ taxonomy:
 visible: true
 ---
 
-<img alt="book cover" src="/grav/user/pages/03.blog/the-cockroach-and-machines-like-me/cockroach.png" style="float: left;"> At the end of September, [David Runciman interviewed Ian McEwan](https://www.talkingpoliticspodcast.com/blog/2019/192-ian-mcewan) on Talking Politics. Their conversation about McEwan's two most recent books was so interesting that I went and bought both almost as soon as I got back home from my walk. I wasn't disappointed.
+![Book cover](cockroach.png){.left} At the end of September, [David Runciman interviewed Ian McEwan](https://www.talkingpoliticspodcast.com/blog/2019/192-ian-mcewan) on Talking Politics. Their conversation about McEwan's two most recent books was so interesting that I went and bought both almost as soon as I got back home from my walk. I wasn't disappointed.
 
 ===
 
@@ -26,7 +26,7 @@ Crazed? Possibly, but hard to say. McEwan writes:
 
 Did they? Josiah Child certainly existed, and became Director of the East India Company and a widely-read economist. I can find no trace of Joseph Mun. But then, why look, given that I didn't bother to ask whether a cockroach could indeed "drive this soft new machine" in which it found itself. The whole, brief novella is a glorious romp, very prescient and, in the final betrayal, perhaps even more treacherous than the actual effort to prorogue parliament, which, it must be said, McEwan's cockroach Prime Minister considers very early on in the story.
 
-<img alt="book cover" src="/grav/user/pages/03.blog/the-cockroach-and-machines-like-me/machines-like-me.png" style="float: left;"> *Machines Like Me* is an altogether different kind of tale, although it too is a stunning display of extrapolating from what is to what could be. An artificial human, first of its kind, enters the life of a loser and the woman he loves.
+![Book cover](machines-like-me.png){.left} *Machines Like Me* is an altogether different kind of tale, although it too is a stunning display of extrapolating from what is to what could be. An artificial human, first of its kind, enters the life of a loser and the woman he loves.
 
 The book is billed as science fiction, which it is, and as an alternative history, which it need not be. Mrs Thatcher loses the Falklands War and eventually has to cede power to Tony Benn. McEwan does not make very much of that, although it does give him the opportunity to put some heartfelt words into Tony Benn's mouth:
 
