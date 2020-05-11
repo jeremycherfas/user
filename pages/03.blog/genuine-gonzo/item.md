@@ -1,7 +1,7 @@
 ---
 title: 'Genuine Gonzo'
 published: true
-date: '11-01-2020 09:30'
+date: '11-05-2020 15:00'
 taxonomy:
     category:
         - blog
