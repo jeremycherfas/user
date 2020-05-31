@@ -1,12 +1,12 @@
 ---
-title: "Listened to: 1. My Friend Michael"
+title: "&#127911; 1. My Friend Michael"
 published: true
 date: 30-05-2020 17:53
 taxonomy:
-category:
-	- stream
-tag:
-	- podcasts
+    category:
+        - stream
+    tag:
+        - podcasts
 header_image: '0'
 theurl: https://overcast.fm/+aOY6iLYsg
 image: artwork-resized.jpg
