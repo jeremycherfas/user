@@ -16,7 +16,88 @@ template: item
 <!-- Outer List -->
 
 <ul class="log">
+
+<li class="log-month">May</li>
+
+<ul class="log-entry">
+<li class="log-day">23</li>
+<ul>
+<li class="log-item">Watched <em>Chinatown</em> on iTunes <strong>F</strong> Had forgotten enough to make it an absolute treat to watch.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">17</li>
+<ul>
+<li class="log-item">Started watching <em>Bosch s06</em> on Prime <strong>T</strong> Still too many threads unravelling for my taste, but compelling watching nevertheless.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">16</li>
+<ul>
+<li class="log-item">Started watching <em>Homeland s05</em> on Netflix <strong>T</strong> And they're still at it.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">15</li>
+<ul>
+<li class="log-item">Finished watching <em>Bosch s05</em> on Prime <strong>T</strong> Reliably dark, reliably tortured, reliably confusing. Is Bosch really that saintly? Will he spoil things for Chief Irving?</li>
+</ul>
+</ul>
+
+
+<ul class="log-entry">
+<li class="log-day">14</li>
+<ul>
+<li class="log-item">Finished watching <em>The Code s02</em> on Netflix <strong>T</strong> Pretty well done, I thought, but maybe a tad too slick.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">09</li>
+<ul>
+<li class="log-item">Finished reading <em>A Gentleman in Moscow</em> by Amor Towles <strong>B</strong> A different kind of life in Russia. I loved it <a href="https://www.jeremycherfas.net/blog/a-gentleman-in-moscow">beyond words</a>.</li>
+<li class="log-item">Finished watching <em>The Road to Calvary</em> on Netflix <strong>T</strong> They should have just called it All's Well That Ends Well. Except, it didn't end all that well, after the end of the story.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">02</li>
+<ul>
+<li class="log-item">Started watching <em>The Code s02</em> on Netflix <strong>T</strong> Maybe they got a bit too much cash to spend on the strength of s01?</li>
+</ul>
+</ul> 
+
 <li class="log-month">April</li>
+<ul class="log-entry">
+<li class="log-day">30</li>
+<ul>
+<li class="log-item">Finished watching <em>Ozark s03</em> on Netflix <strong>T</strong> Blimy! Can't say I saw that ending coming. Are these the worst, most compelling people in TV? And can we get a Darlene prequel?</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">28</li>
+<ul>
+<li class="log-item">Finished watching <em>Unorthodox</em> on Netflix <strong>T</strong> Really very good, as a partial insight into the community and escape. The Making of ... was very good too, and illuminating. So the whole music aspect was fiction?</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">20</li>
+<ul>
+<li class="log-item">Started watching <em>Bosch s05</em> on Prime <strong>T</strong> The hoohah over s06 made us realise we hadn't seen s05, which is nice.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">20</li>
+<ul>
+<li class="log-item">Started reading <em>A Gentleman in Moscow</em> by Amor Towles <strong>B</strong> Loving it from the outset.</li>
+</ul>
+</ul> 
 
 <ul class="log-entry">
 <li class="log-day">19</li>
