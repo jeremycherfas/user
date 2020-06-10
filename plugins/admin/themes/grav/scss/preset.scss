@@ -1,5 +1,6 @@
 // Load Third Party Libraries
 @import "configuration/template/base";
+@import "template/modules/scrollbars";
 @import "template/modules/bourbon_essentials";
 @import "template/modules/buttons";
 @import "template/colors";
@@ -107,7 +108,7 @@ $subtle-text: #0ff;
 $ir-slider-bg: #f0f;
 
 @if (lightness($content-bg) < 50) {
-    $form-border: lighten($content-bg, 15%);
+    $form-border: lighten($content-bg, 10%);
     $form-field-bg: lighten($content-bg, 1%);
     $ir-slider-bg: lighten($content-bg, 2%);
     $form-field-text: lighten($content-text, 5%);
@@ -147,7 +148,7 @@ a {
 
 // Typography
 blockquote {
-    border-left: 10px solid darken($content-bg, 10%);
+    border-left: 10px solid darken($content-bg, 7%);
     background: darken($content-bg, 2%);
     p {
         color: darken($page-text, 5%);
@@ -300,7 +301,7 @@ tr {
         input {
 
             @include placeholder {
-                color: rgba($nav-text, 0.6);
+                color: rgba($nav-text, 0.5);
             }
 
         }
@@ -344,11 +345,7 @@ tr {
             color: $nav-link;
             border: 1px solid shade($nav-bg, 20%);
             @include placeholder {
-                @if (lightness($nav-bg) < 50) {
-                    color: shade($nav-text, 15%);
-                } @else {
-                    color: tint($nav-text, 15%);
-                }
+                color: rgba($nav-text, 0.5);
             }
         }
     }
@@ -510,7 +507,7 @@ tr {
                 }
             }
             span.button {
-                @include button-color(darken($toolbar-bg, 20%))
+                @include button-color(rgba($button-bg, 0.5), rgba($button-text, 0.6));
             }
         }
     }
@@ -596,8 +593,8 @@ tr {
     #notifications {
         .badge.alert {
             &.note {
-                background: $content_link;
-                color: $content_bg;
+                background: $notice-bg;
+                color: $notice-text;
             }
             &.warning {
                 background: $critical_bg;
@@ -645,7 +642,7 @@ tr {
         @include linear-gradient(darken($primary-accent-bg, 7%), $primary-accent-bg);
 
         h1 {
-            color: $white;
+            color: $primary-accent-fg;
             border-bottom: 0;
         }
 
@@ -672,7 +669,7 @@ tr {
         @include linear-gradient(darken($secondary-accent-bg, 7%), $secondary-accent-bg);
 
         h1 {
-            color: $white;
+            color: $secondary-accent-fg;
             border-bottom: 0;
         }
 
@@ -745,7 +742,7 @@ form {
 
     .form-select-wrapper, .selectize-control.single .selectize-input {
         &:after {
-            color: lighten($content-text, 15%);
+            color: $form-field-text;
         }
     }
 
@@ -846,11 +843,7 @@ form {
 
     input, textarea, select {
         @include placeholder {
-            @if (lightness($form-field-bg) < 50) {
-                color: darken($form-field-text, 25%);
-            } @else {
-                color: lighten($form-field-text, 25%);
-            }
+            color: rgba($form-field-text, 0.4);
         }
     }
 
@@ -862,9 +855,8 @@ form {
             width: 43px;
         }
         input {
-            height: 43px;
-        }
 
+        }
     }
 
     .form-input-file {
@@ -960,8 +952,8 @@ form {
 
 
 .grav-editor-resizer {
-    background-color: rgba(213,213,213,1);
-    @include linear-gradient(top, rgba(213,213,213,1) 0%, rgba(213,213,213,1) 20%, rgba(237,237,237,1) 20%, rgba(237,237,237,1) 40%, rgba(213,213,213,1) 40%, rgba(213,213,213,1) 60%, rgba(237,237,237,1) 60%, rgba(237,237,237,1) 80%, rgba(213,213,213,1) 80%, rgba(213,213,213,1) 100%);
+    background-color: $form-border;
+    //@include linear-gradient(top, rgba(213,213,213,1) 0%, rgba(213,213,213,1) 20%, rgba(237,237,237,1) 20%, rgba(237,237,237,1) 40%, rgba(213,213,213,1) 40%, rgba(213,213,213,1) 60%, rgba(237,237,237,1) 60%, rgba(237,237,237,1) 80%, rgba(213,213,213,1) 80%, rgba(213,213,213,1) 100%);
 }
 
 .form-order-wrapper {
@@ -1176,7 +1168,7 @@ form {
     color: $update-text;
 
     a {
-        color: darken($update-text, 10%);
+        color: darken($update-text, 5%);
         &:hover {
             color: $update-text;
         }
@@ -1196,7 +1188,7 @@ form {
     color: $notice-text;
 
     a {
-        color: darken($notice-text, 10%);
+        color: darken($notice-text, 5%);
         &:hover {
             color: $notice-text;
         }
@@ -1216,7 +1208,7 @@ form {
     color: $critical-text;
 
     a {
-        color: darken($critical-text, 10%);
+        color: darken($critical-text, 5%);
         &:hover {
             color: $critical-text;
         }
@@ -1271,8 +1263,8 @@ form {
 }
 
 .card-item {
-    border: 1px solid darken($content-bg, 5%);
-    background: $white;
+    border: 1px solid $form-border;
+    background: lighten($content-bg, 3%);
 
     .gpm-actions {
         background: darken($content-bg, 2%);
@@ -1374,8 +1366,6 @@ form {
 
 }
 
-
-
 .grav-mdeditor-content {
     border: 1px solid $form-border;
 }
@@ -1383,14 +1373,6 @@ form {
 [data-mode=split] {
     .grav-mdeditor-code {
         border-right: 1px solid $form-border;
-    }
-}
-
-#admin-main {
-    .grav-editor-preview {
-        h1, h2, h3, h4, h5, h6 {
-            color: darken($content-text, 10%);
-        }
     }
 }
 
@@ -1411,6 +1393,15 @@ form {
                 }
             }
         }
+
+        .ct-label {
+            fill: rgba($primary-accent-fg, 0.5);
+            color: rgba($primary-accent-fg, 0.5);
+        }
+
+        .ct-grid {
+            stroke: rgba($primary-accent-fg, 0.2);
+        }
     }
 }
 
@@ -1430,6 +1421,15 @@ form {
                     stroke: rgba($secondary-accent-fg, 0.2) !important;
                 }
             }
+        }
+
+        .ct-label {
+            fill: rgba($secondary-accent-fg, 0.5);
+            color: rgba($secondary-accent-fg, 0.5);
+        }
+
+        .ct-grid {
+            stroke: rgba($secondary-accent-fg, 0.2);
         }
     }
 }
@@ -1506,7 +1506,20 @@ form {
 
     &.dz-clickable {
         .dz-message, .dz-message span {
-            color: lighten($content-text,30%);
+            @if (lightness($form-field-bg) < 50) {
+                color: lighten($content-text,20%);
+            } @else {
+                color: lighten($content-text,20%);
+            }
+
+            .dz-button {
+                @if (lightness($form-field-bg) < 50) {
+                    background-color: lighten($content-bg, 5%);
+                } @else {
+                    background-color: darken($content-bg, 5%);
+                }
+            }
+
         }
     }
 }
@@ -1626,6 +1639,11 @@ form {
 
         input + label {
             color: $content-tabs-text;
+            @if (lightness($content-tabs-bg) < 50) {
+                background: lighten($content-tabs-bg,5%);
+            } @else {
+                background: darken($content-tabs-bg,5%);
+            }
         }
 
         input.highlight:checked + label {
@@ -1641,22 +1659,44 @@ body .selectize-dropdown .optgroup-header {
 }
 
 body .bootstrap-datetimepicker-widget {
-    &.dropdown-menu {
+
+    &.dropdown-menu.bottom {
+        background-color: $form-field-bg;
+        color: $form-field-text;
         border-color: $form-border;
+
+        &:before {
+            border-bottom-color: $form-border;
+        }
+
+        &:after {
+            border-bottom-color: $form-field-bg;
+        }
     }
     table {
         td span:hover, th:hover, td.day:hover {
-            background: darken($content-bg, 5%) !important;
-        }
-        .active {
-            color: $content-link !important;
-            &:hover {
-                color: darken($content-link, 10%);
+            @if (lightness($form-field-bg) < 50) {
+                background: lighten($form-field-bg,5%) !important;
+            } @else {
+                background: darken($form-field-bg,3%) !important;
             }
+        }
+        td.active, td.active:hover {
+            background-color: $update-bg !important;
+            color: $update-text !important;
         }
     }
 }
 
+.scheduler-content {
+    pre {
+        background: darken($content-bg, 2%);
+        border-color: $form-border;
+        code {
+            color: $content-header;
+        }
+    }
+}
 
 #phpinfo {
     th {
@@ -1666,13 +1706,18 @@ body .bootstrap-datetimepicker-widget {
     td {
         word-wrap: break-word;
         &:first-child {
-            color: $button-bg;
+            color: $content-header;
         }
     }
 }
 
 .remodal {
-    background: $content-bg;
+    @if (lightness($content-bg) < 50) {
+        background: lighten($content-bg, 3%);
+    } @else {
+        background: $content-bg;
+    }
+
     color: $content-text;
     // box-shadow: 0 10px 20px rgba(0,0,0,0.5);
 }
@@ -1686,18 +1731,17 @@ body .bootstrap-datetimepicker-widget {
     color: darken($content-text, 20%);
 }
 
-.gm-scrollbar .thumb {
-    @if (lightness($page-bg) <  50) {
-        background-color: rgba($white, 0.2);
-        &:hover, &:active {
-            background-color: rgba($white, 0.3);
-        }
-    } @else {
-        background-color: rgba($black, 0.2);
-        &:hover, &:active {
-            background-color: rgba($black, 0.3);
-        }
-    }
+// Scrollbars
+* {
+    @include native-scrollbars(rgba($content-text, 0.4), $content-bg);
+}
+
+.simplebar-scrollbar:before {
+    background-color: $page-text;
+}
+
+#admin-sidebar .simplebar-scrollbar:before {
+    background-color: $nav-text;
 }
 
 #page-filtering {
@@ -1708,16 +1752,17 @@ body .bootstrap-datetimepicker-widget {
     }
 }
 
-#admin-sidebar .gm-scrollbar .thumb {
-    @if (lightness($nav-bg) < 50) {
-        background-color: rgba($white, 0.2);
-        &:hover, &:active {
-            background-color: rgba($white, 0.3);
-        }
-    } @else {
-        background-color: rgba($black, 0.2);
-        &:hover, &:active {
-            background-color: rgba($black, 0.3);
+.reports-content {
+    .report-output {
+        table {
+            thead {
+                tr {
+                    th {
+                        background-color: darken($content-bg, 2%);
+                        color: $content-header;
+                    }
+                }
+            }
         }
     }
 }
@@ -1832,7 +1877,7 @@ body .bootstrap-datetimepicker-widget {
 #pages-filters {
 
     background: $nav-bg;
-    color: rgba($nav-text, 0.7);
+    color: rgba($nav-text, 0.9);
 
     .button-border {
         @include button-color-border(lighten($nav-bg, 10%), $nav-text);
@@ -1841,9 +1886,13 @@ body .bootstrap-datetimepicker-widget {
 
     .filters-bar {
         input {
-            background-color: lighten($nav-bg, 8%);
-            border-color: lighten($nav-bg, 12%);
             color: $nav-link;
+            border-color: lighten($nav-bg, 12%);
+            background-color: lighten($nav-bg, 6%);
+
+            @include placeholder {
+                color: rgba($nav-text, 0.5);
+            }
         }
     }
 
@@ -1870,14 +1919,23 @@ body .bootstrap-datetimepicker-widget {
 }
 
 #pages-columns {
+    background: $content-bg;
 
-    border-top: 1px solid $core-border-color;
+    border-top: 1px solid rgba($form-border, 0.5);
+
+
+    &.fjs-container {
+        .fjs-col {
+            border-right: 1px solid rgba($form-border, 0.5);
+            border-bottom: 1px solid rgba($form-border, 0.5);
+        }
+    }
 
     .fjs-item {
 
         &:hover {
             .fjs-info > b {
-                color: $page-link;
+                color: $content-link;
             }
 
             .fjs-action-toggle, .fjs-children {
@@ -1887,7 +1945,7 @@ body .bootstrap-datetimepicker-widget {
 
         .fjs-icon {
             background-color: #999;
-            box-shadow: 0px 0px 0px 1px #fff;
+            box-shadow: 0px 0px 0px 1px lighten($form-border, 20%);
 
             &.home {
                 background-color: $flat-blue-2;
@@ -1937,11 +1995,11 @@ body .bootstrap-datetimepicker-widget {
         .fjs-info {
 
             > b {
-                color: darken($page-text, 10%);
+                color: $content-text;
             }
 
             > em {
-                color: lighten($page-text, 15%);
+                color: lighten($content-text, 10%);
             }
         }
 
@@ -1957,9 +2015,13 @@ body .bootstrap-datetimepicker-widget {
         }
 
         .fjs-action-toggle, .fjs-children {
-            @include button-color-border(lighten($core-border-color, 5%), lighten($page-text, 20%));
+            @include button-color-border($form-border, rgba($page-text, 0.5));
             &:hover {
-                border-color: darken($core-border-color, 2%);
+                @if (lightness($form-field-bg) < 50) {
+                    border-color: lighten($form-border, 5%);
+                } @else {
+                    border-color: darken($form-border, 5%);
+                }
             }
         }
 
@@ -1967,9 +2029,15 @@ body .bootstrap-datetimepicker-widget {
             position: relative;
         }
 
+
         &.fjs-active {
             & > .fjs-item-wrapper {
-                background-color: darken($content-bg, 4%);
+
+                @if (lightness($form-field-bg) < 50) {
+                    background-color: lighten($content-bg, 4%);
+                } @else {
+                    background-color: darken($content-bg, 4%);
+                }
 
                 a {
                     background: none;
@@ -2035,17 +2103,27 @@ body .bootstrap-datetimepicker-widget {
     }
 
     .dropdown-menu {
+        background-color: darken($content-bg, 5%) !important;
+
         .divider {
-            border-top: 1px solid lighten($core-border-color,5%);
+            @if (lightness($form-field-bg) < 50) {
+                border-top: 1px solid darken($form-border,8%);
+            } @else {
+                border-top: 1px solid $form-border;
+            }
+        }
+
+        td, thead th {
+            border-bottom: 1px solid $form-border;
         }
 
         .dropdown-item {
-            color: #212529;
+            color: $content-text;
             background-color: inherit;
 
             &:hover {
                 color: $page-link;
-                background-color: darken($page-bg, 5%) !important;
+                background-color: darken($content-bg, 8%) !important;
             }
 
             &.danger {
@@ -2064,7 +2142,16 @@ body .bootstrap-datetimepicker-widget {
         }
 
         .action-bar {
-            background: darken($page-bg, 2%);
+            background: darken($page-bg, 4%);
+
+            a {
+                color: $page-text;
+
+                &:hover {
+                    background: $page-bg !important;
+                    color: $page-link !important;
+                }
+            }
         }
 
         .fa {
@@ -2076,12 +2163,20 @@ body .bootstrap-datetimepicker-widget {
         }
 
         .infos {
+            tr td {
+                color: $content-text;
+            }
             tr td:first-child {
-                color: lighten($page-text, 10%);
+                color: lighten($content-text, 10%);
             }
         }
     }
+}
 
+#pages-content-wrapper {
+    .fjs-path-bar {
+        background-color: $content-bg;
+    }
 }
 
 // Flex Pages Breadcrumbs
@@ -2114,15 +2209,42 @@ body .bootstrap-datetimepicker-widget {
     }
 }
 
+// New Parents Field
+[data-remodal-id].parents-container {
+
+    $remodal_border: #f00;
+    @if (lightness($content-bg) < 50) {
+        $remodal_border: lighten($content-bg, 10%);
+    } @else {
+        $remodal_border: darken($content-bg, 10%);
+    }
+
+    form > h1 {
+        border-bottom: 1px solid $remodal_border;
+    }
+
+    .fjs-col {
+        border-right: 1px solid $remodal_border;
+    }
+
+    .fjs-item a {
+        color: $content-link;
+    }
+}
+
 // New 1.7 Permissions
 .permissions-container {
     .switch-toggle {
+         input:checked+label {
+
+         }
          input.label0:checked+label {
+             color: $white;
              background: $flat-pomegranate !important;
          }
          input.label1:checked+label {
+             color: $white;
              background-color: $color-olive !important;
-
          }
      }
 
@@ -2193,6 +2315,50 @@ body .bootstrap-datetimepicker-widget {
     }
 }
 
+// Icon Picker
+.icon-set {
+    background: lighten($content-bg, 2%);
+}
+
+
+// Cron field
+.jqCron-cross,
+.jqCron-selector-title {
+    border: 1px solid $form-border;
+}
+.jqCron-container.disable .jqCron-cross:hover,
+.jqCron-container.disable .jqCron-selector-title:hover,
+.jqCron-cross,
+.jqCron-selector-title {
+    background: $form-field-bg;
+    border-color: $form-border;
+}
+.jqCron-cross:hover,
+.jqCron-selector-title:hover {
+    background-color: darken($form-field-bg,10%);
+}
+.jqCron-selector-list {
+    background-color: darken($form-field-bg,10%);
+    border: 1px solid $form-border;
+}
+.jqCron-selector-list li.selected {
+    background: $primary-accent-bg;
+    color: $primary-accent-fg;
+}
+.jqCron-selector-list li:hover {
+    background: $form-field-bg;
+}
+.jqCron-error .jqCron-selector-title {
+    background: $critical-bg;
+    border: 1px solid darken($critical-bg, 10%);
+    color: $critical-text;
+}
+.jqCron-container.disable * {
+    color: darken($form-field-text, 20%);
+}
+.jqCron-container.disable .jqCron-selector-title {
+    background: $content-bg !important;
+}
 
 
 

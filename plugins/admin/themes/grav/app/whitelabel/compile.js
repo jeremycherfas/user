@@ -1,8 +1,10 @@
 import { config } from 'grav-config';
 import request from '../utils/request';
 
-export default ({ preview = false, color_scheme = {}, fonts = {}, callback = () => {} } = {}) => {
-    const URI = `${config.current_url}.json/task:compileScss`;
+export default ({ preview = false, exportScss = false, color_scheme = {}, fonts = {}, callback = () => {} } = {}) => {
+    let task = exportScss ? 'exportScss' : 'compileScss';
+    // console.log(config);
+    const URI = `${config.base_url_relative}.json/task:${task}`;
     request(URI, {
         method: 'post',
         body: Object.assign({}, preview ? { preview } : null, color_scheme)
@@ -14,7 +16,7 @@ export const prepareElement = (element) => {
     if (!element.data('current_icon')) {
         element.data('current_icon', element.find('.fa').attr('class'));
     }
-    element.find('.fa').attr('class', 'fa fa-fw fa-spin fa-spinner');
+    element.find('.fa').attr('class', 'fa fa-fw fa-spin fa-refresh');
 };
 
 export const resetElement = (element) => {

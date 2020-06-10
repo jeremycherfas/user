@@ -35,35 +35,45 @@ $transparent-image: 'data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAEB
         display: block;
         text-align: center;
         background: white;
-        margin-bottom: 10px;
-        margin-right: -1px;
-        background-image: url($transparent-image);
+        margin-bottom: 1px;
+        margin-right: 1px;
+        //background-image: url($transparent-image);
 
-        input {
-            color: #333;
-            width: 100% !important;
 
-            &.light-text {
-                color: #fff;
-            }
-        }
     }
 
     .colorbar-element {
         width: 100%;
         text-align: center;
         height: 4rem;
-        border: 1px solid #ccc;
+        //border: 1px solid #ccc;
         border-top: 0;
+
 
         span {
             font-size: .7rem;
+        }
+
+        color: #333;
+        input {
+            color: #333;
+            width: 100% !important;
+        }
+
+        &.light-text {
+            color: #fff;
+            & input {
+                color: #fff;
+            }
         }
     }
 
     .colorbar-title {
         font-size: 0.8rem;
-        border: 1px solid #ccc;
+        //border: 1px solid #ccc;
+        font-weight: bold;
+        padding: 1px;
+        background-color: rgba(#000, 0.05);
     }
 
     input {
@@ -72,7 +82,7 @@ $transparent-image: 'data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAEB
         font-size: 0.8rem;
         text-align: center;
         border-radius: 0;
-        top: 40px;
+        height: 35px;
         position: absolute;
         background: transparent;
         &:focus {
@@ -123,18 +133,19 @@ $ap-radius: 4px;
     transition: opacity .4s ease;
     &:hover {
         opacity: 1;
-        background: rgba(0,0,0,0.5);
+        background: rgba(0,0,0,0.4);
     }
     b {
         display: inline-block;
         font-weight: normal;
         margin-top: ($ap-height / 2) - 1rem;
-        background: #fff;
-        color: #666;
+        background: #111;
+        color: #bbb;
         border-radius: $ap-radius;
         padding: 4px 10px;
         &:hover {
-            color: #333;
+            color: #fff;
+            background: #000
         }
     }
 }

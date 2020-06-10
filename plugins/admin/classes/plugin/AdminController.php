@@ -2160,12 +2160,14 @@ class AdminController extends AdminBaseController
     protected function taskCompileScss()
     {
 
-        if (!$this->authorizeTask('compile scss', ['admin.pages', 'admin.super'])) {
+        if (!$this->authorizeTask('compile scss', ['admin.super'])) {
             return false;
         }
 
-        $preview = $this->data['preview'] ?? false;
-        $data = ['color_scheme' => $this->data['whitelabel']['color_scheme'] ?? null];
+        $default_scheme = $this->grav['config']->get('plugins.admin.whitelabel.color_scheme');
+
+        $preview = $this->post['preview'] ?? false;
+        $data = ['color_scheme' => $this->data['whitelabel']['color_scheme'] ?? $default_scheme];
         $output_file = $preview ? 'admin-preset.css' : 'admin-preset__tmp.css';
 
         $options = [
@@ -2180,6 +2182,32 @@ class AdminController extends AdminBaseController
             'message' => ($preview ? 'Preview ' : 'SCSS ') . $msg,
             'files' => [
                 'color_scheme' => Utils::url($options['output'])
+            ]
+        ];
+
+        echo json_encode($json_response);
+        exit;
+
+    }
+
+    protected function taskExportScss()
+    {
+        if (!$this->authorizeTask('compile scss', ['admin.pages', 'admin.super'])) {
+            return false;
+        }
+
+        $data = ['color_scheme' => $this->data['whitelabel']['color_scheme'] ?? null];
+        $name = empty($this->data['whitelabel']['color_scheme']['name']) ? 'admin-theme-export' : \Grav\Plugin\Admin\Utils::slug($this->data['whitelabel']['color_scheme']['name']);
+
+        $location  = 'asset://' . $name . '.yaml';
+
+        [$status, $msg] = $this->grav['admin-whitelabel']->exportPresetScsss($data, $location);
+
+        $json_response = [
+            'status'  => $status ? 'success' : 'error',
+            'message' => $msg,
+            'files' => [
+                'download' => Utils::url($location)
             ]
         ];
 

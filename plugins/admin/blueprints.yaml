@@ -1,7 +1,7 @@
 name: Admin Panel
 slug: admin
 type: plugin
-version: 1.10.0-rc.10
+version: 1.10.0-rc.11
 testing: true
 description: Adds an advanced administration panel to manage your site
 icon: empire
@@ -16,11 +16,11 @@ docs: https://github.com/getgrav/grav-plugin-admin/blob/develop/README.md
 license: MIT
 
 dependencies:
-    - { name: grav, version: '>=1.7.0-rc.10' }
-    - { name: form, version: '>=4.0.7' }
-    - { name: login, version: '>=3.2.0' }
+    - { name: grav, version: '>=1.7.0-rc.11' }
+    - { name: form, version: '>=4.0.8' }
+    - { name: login, version: '>=3.3.1' }
     - { name: email, version: '>=3.0.8' }
-    - { name: flex-objects, version: '>=1.0.0-rc.10' }
+    - { name: flex-objects, version: '>=1.0.0-rc.11' }
 
 form:
   validation: loose
@@ -377,10 +377,60 @@ form:
               accept:
                 - image/*
 
-            whitelabel.customization:
+            codemirror_section:
+              type: section
+              underline: true
+              title: PLUGIN_ADMIN.CODEMIRROR
+
+            whitelabel.codemirror_theme:
+              type: select
+              label: PLUGIN_ADMIN.CODEMIRROR_THEME
+              default: paper
+              markdown: true
+              data-options@: '\Grav\Plugin\AdminPlugin::themeOptions'
+              description: PLUGIN_ADMIN.CODEMIRROR_THEME_DESC
+
+            whitelabel.codemirror_fontsize:
+              type: select
+              label: PLUGIN_ADMIN.CODEMIRROR_FONTSIZE
+              default: md
+              options:
+                sm: Small Font
+                md: Medium Font
+                lg: Large Font
+
+            whitelabel.codemirror_md_font:
+              type: select
+              label: PLUGIN_ADMIN.CODEMIRROR_MD_FONT
+              default: sans
+              options:
+                sans: Sans Font
+                mono: Mono/Fixed Width Font
+
+            customization_section:
               type: section
               underline: true
               title: PLUGIN_ADMIN.CUSTOMIZATION
+
+            whitelabel.quicktray_recompile:
+              type: toggle
+              label: PLUGIN_ADMIN.QUICKTRAY_RECOMPILE
+              help: PLUGIN_ADMIN.QUICKTRAY_RECOMPILE_HELP
+              highlight: 0
+              default: 0
+              options:
+                1: PLUGIN_ADMIN.ENABLED
+                0: PLUGIN_ADMIN.DISABLED
+              validate:
+                type: bool
+
+
+
+            whitelabel.color_scheme.name:
+              type: text
+              label: PLUGIN_ADMIN.COLOR_SCHEME_NAME
+              help: PLUGIN_ADMIN.COLOR_SCHEME_NAME_HELP
+              placeholder: PLUGIN_ADMIN.COLOR_SCHEME_NAME_PLACEHOLDER
 
             themes-preview:
               type: themepreview
@@ -603,11 +653,32 @@ form:
 
 
             whitelabel.custom_css:
-              type: textarea
-              rows: 10
               label: PLUGIN_ADMIN.CUSTOM_CSS_LABEL
               placeholder: "Put your custom CSS in here..."
               help: PLUGIN_ADMIN.CUSTOM_CSS_HELP
+              type: editor
+              codemirror:
+                mode: 'css'
+                indentUnit: 2
+                autofocus: true
+                indentWithTabs: true
+                lineNumbers: true
+                styleActiveLine: true
+
+            whitelabel.custom_presets:
+              label: PLUGIN_ADMIN.CUSTOM_PRESETS
+              help: PLUGIN_ADMIN.CUSTOM_PRESETS_HELP
+              placeholder: "Put your presets here"
+              type: editor
+              codemirror:
+                mode: 'yaml'
+                indentUnit: 2
+                autofocus: true
+                indentWithTabs: false
+                lineNumbers: true
+                styleActiveLine: true
+                gutters: ['CodeMirror-lint-markers']
+                lint: true
 
         extras_tab:
           type: tab
