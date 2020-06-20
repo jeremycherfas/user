@@ -12,6 +12,7 @@ taxonomy:
         - blog
 link: 'http://agro.biodiver.se/2013/05/you-are-what-you-eat-junk-food-edition/'
 ---
+
 > If you think supersweet corn is genetically modified, I’d love to know what you think of the changes that turned teosinte into maize.
 
 I said that, elsewhere. Not normally one for massive cross-posting, especially not of the gatling gun variety, I’m indulging myself this time for two reasons.
