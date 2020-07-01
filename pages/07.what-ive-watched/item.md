@@ -17,6 +17,43 @@ template: item
 
 <ul class="log">
 
+<li class="log-month">June</li>
+
+<ul class="log-entry">
+<li class="log-day">30</li>
+<ul>
+<li class="log-item">Finished watching <em>Giri/Haji</em> on Netflix <strong>T</strong> Such stylish violence. Bonus points if the messy ending does **not** presage a second series.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">28</li>
+<ul>
+<li class="log-item">Watched <em>Guns Akimbo</em> on Prime <strong>F</strong> Mindless mayhem, with jokes, because I was on my own.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">12</li>
+<ul>
+<li class="log-item">Started watching <em>Giri/Haji</em> on Netflix <strong>T</strong> Rather classy, so far. Keep expecting Luther to swagger in.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">11</li>
+<ul>
+<li class="log-item">Finished watching <em>Homeland s05</em> on Netflix <strong>T</strong>Carrie saves the day, Otto makes his move, and Peter … (Couldn’t help seeing the summary for s06e01)</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">09</li>
+<ul>
+<li class="log-item">Finished watching <em>Bosch s06</em> on Prime <strong>T</strong> Nuanced ambiguity right down to the end. Very satisfying.</li>
+</ul>
+</ul>
+
 <li class="log-month">May</li>
 
 <ul class="log-entry">
