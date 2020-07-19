@@ -22,7 +22,7 @@ template: item
 <ul class="log-entry">
 <li class="log-day">30</li>
 <ul>
-<li class="log-item">Finished watching <em>Giri/Haji</em> on Netflix <strong>T</strong> Such stylish violence. Bonus points if the messy ending does **not** presage a second series.</li>
+<li class="log-item">Finished watching <em>Giri/Haji</em> on Netflix <strong>T</strong> Such stylish violence. Bonus points if the messy ending does <sdtrong>not</strong> presage a second series.</li>
 </ul>
 </ul> 
 
