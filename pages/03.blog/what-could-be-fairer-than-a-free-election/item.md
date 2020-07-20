@@ -5,8 +5,8 @@ date: '20-07-2020 19:30'
 taxonomy:
     category:
         - blog
-    tag:
         - Reviews
+    tag:
         - General
 summary:
     enabled: '1'
