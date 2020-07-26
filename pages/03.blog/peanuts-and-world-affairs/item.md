@@ -16,6 +16,8 @@ summary:
     enabled: '1'
 ---
 
+!! The resurrection of the Carolina African Runner peanut prompted me to look into the history of the peanut in West Africa, because that's where the Carolina African Runner came from. This is a bit of what I found, based mostly on papers by [George E. Brooks](http://www.jstor.org/stable/181097) and [Stanley B. Alpern](http://www.jstor.org/stable/3171994).
+
 The resurrection of the [Carolina African Runner peanut](http://www.npr.org/sections/thesalt/2016/12/29/506603462/the-lost-ancestral-peanut-of-the-south-is-revived) has been greeted with joy throughout the land. [^4] That it came to America with enslaved people from West Africa is undisputed; few people, however, seem interested in what peanuts were doing in West Africa in the first place, given that their ancestral home is in South America. I decided to dig a little deeper.
 
 ===
@@ -102,4 +104,3 @@ George Brooks concludes his survey of the consequences of the commercialization 
 
 All credit, then, to the Africans who selected and grew peanuts in West Africa and the American South, and to the people who are resurrecting African peanuts now. All credit to the peanut too, on which empires were built and [bits of empire destroyed](http://www.historytoday.com/richard-cavendish/britain-abandons-groundnuts-scheme).
 
-_The resurrection of the Carolina African Runner peanut prompted me to look into the history of the peanut in West Africa, because that's where the Carolina African Runner came from. This is a bit of what I found, based mostly on papers by [George E. Brooks](http://www.jstor.org/stable/181097) and [Stanley B. Alpern](http://www.jstor.org/stable/3171994)._
