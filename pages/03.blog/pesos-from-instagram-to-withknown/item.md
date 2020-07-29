@@ -10,7 +10,7 @@ taxonomy:
         - IndieWeb
 summary:
     enabled: '1'
-subhead: “Still fragile, but it works"
+subhead: "Still fragile, but it works"
 header_image: '0'
 --- 
 
@@ -32,4 +32,4 @@ There is other stuff to be done too, like figuring out exactly how multiparagrap
 
 At the moment I am running this once or twice a day by hand to see how things develop. I am not a very frequent poster to InstaGram, so that is no problem. I’m leaning towards running it maybe four times a day as a `cron` job, and would welcome other suggestions.
 
-!!!<a href="https://news.indieweb.org/en" class="u-syndication">Also posted on IndieNews</a>.
+<a href="https://news.indieweb.org/en" class="u-syndication">Also posted on IndieNews</a>.
