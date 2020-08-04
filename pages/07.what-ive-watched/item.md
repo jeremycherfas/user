@@ -16,6 +16,35 @@ template: item
 <!-- Outer List -->
 
 <ul class="log">
+<li class="log-month">July</li>
+
+<ul class="log-entry">
+<li class="log-day">26</li>
+<ul>
+<li class="log-item">Started watching <em>Chernobyl</em> on iTunes <strong>T</strong> Blimey, it’s good.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">24</li>
+<ul>
+<li class="log-item">Finished watching <em>Homeland s06</em> on Netflix <strong>T</strong> You can’t trust anyone these days.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">23</li>
+<ul>
+<li class="log-item">Finished reading <em>All the Light We cannot see</em> by Anthony Doerr on Kindle <strong>B</strong> Devastating good.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">19</li>
+<ul>
+<li class="log-item">Watched <em>Very semi-serious</em>  on iTunes <strong>F</strong> Funny and interesting documentary about the New Yorker’s cartoon department.</li>
+</ul>
+</ul> 
 
 <li class="log-month">June</li>
 
