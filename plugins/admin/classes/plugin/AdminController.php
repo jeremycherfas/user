@@ -1320,7 +1320,7 @@ class AdminController extends AdminBaseController
             }
         }
 
-        $parent = $route && $route !== '/' && $route !== '.' && $route !== '/.' ? $pages->dispatch($route, true) : $pages->root();
+        $parent = $route && $route !== '/' && $route !== '.' && $route !== '/.' ? $pages->find($route, true) : $pages->root();
         $original_order = (int)trim($obj->order(), '.');
 
         try {
@@ -1747,7 +1747,7 @@ class AdminController extends AdminBaseController
             $pages = $this->admin::enablePages();
 
             /** @var PageInterface $page */
-            $page = $pages->dispatch($rawroute);
+            $page = $pages->find($rawroute);
 
             if ($page) {
                 $child_type = $page->childType();
@@ -2437,8 +2437,8 @@ class AdminController extends AdminBaseController
                     $file_path = Utils::replaceFirstOccurrence(GRAV_ROOT, '', $filePath);
                     $type = $fileInfo->getType();
 
-                    $child_path = $file_page ? GRAV_ROOT . $file_page->path() : $filePath;
-                    $has_children = Folder::hasChildren($child_path);
+                    $child_path = $file_page ? $file_page->path() : $filePath;
+                    $count_children = Folder::countChildren($child_path);
 
                     $payload = [
                         'name' => $file_page ? $file_page->title() : $fileName,
@@ -2448,9 +2448,9 @@ class AdminController extends AdminBaseController
                         'extension' => $type === 'dir' ? '' : $fileInfo->getExtension(),
                         'type' => $type,
                         'modified' => $fileInfo->getMTime(),
-                        'size' => $fileInfo->getSize(),
+                        'size' => $count_children,
                         'symlink' => false,
-                        'has-children' => $has_children
+                        'has-children' => $count_children > 0
                     ];
                 }
 

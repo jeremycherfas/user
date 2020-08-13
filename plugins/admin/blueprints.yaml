@@ -1,7 +1,7 @@
 name: Admin Panel
 slug: admin
 type: plugin
-version: 1.10.0-rc.11
+version: 1.10.0-rc.15
 testing: true
 description: Adds an advanced administration panel to manage your site
 icon: empire
@@ -16,11 +16,11 @@ docs: https://github.com/getgrav/grav-plugin-admin/blob/develop/README.md
 license: MIT
 
 dependencies:
-    - { name: grav, version: '>=1.7.0-rc.11' }
-    - { name: form, version: '>=4.0.8' }
-    - { name: login, version: '>=3.3.1' }
-    - { name: email, version: '>=3.0.8' }
-    - { name: flex-objects, version: '>=1.0.0-rc.11' }
+    - { name: grav, version: '>=1.7.0-rc.15' }
+    - { name: form, version: '>=4.0.10' }
+    - { name: login, version: '>=3.3.5' }
+    - { name: email, version: '>=3.0.9' }
+    - { name: flex-objects, version: '>=1.0.0-rc.15' }
 
 form:
   validation: loose
@@ -187,18 +187,6 @@ form:
               validate:
                 type: bool
               help: Show modular pages in the parent select list
-
-            google_fonts:
-              type: toggle
-              label: Use Google Fonts
-              highlight: 0
-              default: 0
-              options:
-                1: PLUGIN_ADMIN.ENABLED
-                0: PLUGIN_ADMIN.DISABLED
-              validate:
-                type: bool
-              help: Use Google custom fonts.  Disable this to use Helvetica. Useful when using Cyrillic and other languages with unsupported characters.
 
             show_beta_msg:
               type: hidden

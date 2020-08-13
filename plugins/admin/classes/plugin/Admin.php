@@ -7,7 +7,7 @@ use Grav\Common\Data;
 use Grav\Common\Data\Data as GravData;
 use Grav\Common\Debugger;
 use Grav\Common\File\CompiledYamlFile;
-use Grav\Common\Flex\Users\UserObject;
+use Grav\Common\Flex\Types\Users\UserObject;
 use Grav\Common\GPM\GPM;
 use Grav\Common\GPM\Licenses;
 use Grav\Common\GPM\Response;
@@ -197,6 +197,17 @@ class Admin
         /** @var Debugger $debugger */
         $debugger = Grav::instance()['debugger'];
         $debugger->addMessage($message, 'debug', $data);
+    }
+
+    public static function contentEditor()
+    {
+        $options = [
+            'default' => 'Default',
+            'codemirror' => 'CodeMirror'
+        ];
+        $event = new Event(['options' => &$options]);
+        Grav::instance()->fireEvent('onAdminListContentEditors', $event);
+        return $options;
     }
 
     /**
@@ -391,7 +402,7 @@ class Admin
         $route = '/' . ltrim($this->route, '/');
 
         /** @var PageInterface $page */
-        $page         = $pages->dispatch($route);
+        $page         = $pages->find($route);
         $parent_route = null;
         if ($page) {
             /** @var PageInterface $parent */
@@ -490,7 +501,7 @@ class Admin
         $route = '/' . ltrim($grav['admin']->route, '/');
 
         /** @var PageInterface $page */
-        $page         = $pages->dispatch($route);
+        $page         = $pages->find($route);
         $parent_route = null;
         if ($page) {
             $media = $page->media()->all();
@@ -1250,7 +1261,7 @@ class Admin
         }
 
         foreach ($pages->routes() as $url => $path) {
-            $page = $pages->dispatch($url, true);
+            $page = $pages->find($url, true);
             if ($page && $page->routable()) {
                 $latest[$page->route()] = ['modified' => $page->modified(), 'page' => $page];
             }
@@ -1817,7 +1828,7 @@ class Admin
         // Fix for entities in path causing looping...
         $path = urldecode($path);
 
-        $page = $path ? $pages->dispatch($path, true) : $pages->root();
+        $page = $path ? $pages->find($path, true) : $pages->root();
 
         if (!$page) {
             $slug = basename($path);
@@ -1970,7 +1981,7 @@ class Admin
             $pages = static::enablePages();
 
             if ($param_page) {
-                $page = $pages->dispatch($param_page);
+                $page = $pages->find($param_page);
 
                 $page_files = $this->getFiles('images', $page, $page_files, $filtered);
                 $page_files = $this->getFiles('videos', $page, $page_files, $filtered);
@@ -2204,7 +2215,7 @@ class Admin
         $pages->enablePages();
 
         // If page is null, the default page does not exist, and we cannot route to it
-        $page = $pages->dispatch('/', true);
+        $page = $pages->find('/', true);
         if ($page) {
             // Set original route for the home page.
             $home = '/' . trim($grav['config']->get('system.home.alias'), '/');

@@ -1,5 +1,41 @@
+# v1.10.0-rc.15
+## 07/22/2020
+
+1. [](#bugfix)
+    * Disabled the EXIF library for Dropzone for fixing the orientation as it was getting applied twice [#1923](https://github.com/getgrav/grav-plugin-admin/issues/1923)
+    * Forked Dropzone fo fix issue with Resize + Exif orientation [#1923](https://github.com/getgrav/grav-plugin-admin/issues/1923)
+    * Fixed URI encode for the preview of images names
+
+# v1.10.0-rc.14
+## 07/09/2020
+
+1. [](#improved)
+    * Completely removed old Google font support for upgrade compatibility
+1. [](#bugfix)
+    * Fixed bad `use` reference to `UserObject`
+
+# v1.10.0-rc.13
+## 07/01/2020
+
+1. [](#improved)
+    * Improved color picker field
+    * Trim login route for safety
+    * Composer update to grab latest vendor libs
+
+# v1.10.0-rc.12
+## 06/08/2020
+
+1. [](#new)
+    * Added ability to set a preferred markdown editor in user profile
+    * Added new `onAdminListContentEditors` event to add a custom editor to the list of available
+1. [](#bugfix)
+    * Fixed issue deleting file from a plugin's configuration
+    * Use `Pages::find()` instead of `Pages::dispatch()` as we do not want to redirect out of admin
+    * Fixed broken `parent` field when using the old pages
+    * Fixed broken `file` field preview when using streams in the path
+
 # v1.10.0-rc.11
-## 04/30/2020
+## 05/14/2020
 
 1. [](#new)
     * Major enhancements to "White Label" functionality including ability to export/import presets
@@ -225,6 +261,14 @@
     * Various admin performance improvements
 1. [](#bugfix)
     * Fixed admin caching issues
+
+# v1.9.15
+## 06/08/2020
+
+1. [](#bugfix)
+    * Support markdown in `fieldset.text` [#2934](https://github.com/getgrav/grav/issues/2934)
+    * Fix data URLs in avatar images [#1889](https://github.com/getgrav/grav/issues/1889)
+    * Fix for deleting files in plugin configurations
 
 # v1.9.14
 ## 04/27/2020
