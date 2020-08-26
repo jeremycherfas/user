@@ -9,7 +9,7 @@ taxonomy:
         - General
 summary:
     enabled: '1'
-subhead: “What was cinchona for? "
+subhead: "What was cinchona for? "
 header_image: '0'
 --- 
 
