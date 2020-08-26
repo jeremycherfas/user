@@ -9,9 +9,9 @@ taxonomy:
         - Food
 summary:
     enabled: '1'
-subhead: "Meat warning "
+subhead: '“Meat warning "'
 header_image: '0'
---- 
+---
 
 Last week we went out of town to meet friends from the UK for lunch, and I ate the most superb *galletto alla diavolo* I’ve had in a long time.
 
