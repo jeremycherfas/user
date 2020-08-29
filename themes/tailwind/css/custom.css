@@ -430,3 +430,26 @@ pre {
     font-size: var(--step-1);
 }
 
+/* bookcard */
+.bookcard {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: no-wrap;
+    justify-content: flex-start;
+    margin-bottom: 1rem;
+}
+
+.book-cover {
+    flex-shrink: 5;
+    flex-basis: auto;
+    margin-right: 1rem;
+}
+
+.book-cover img {
+    max-height: 350px;
+}
+
+.book-data {
+    margin: 0 0 1rem;
+    flex-basis: auto;
+}

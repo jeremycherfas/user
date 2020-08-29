@@ -1,0 +1,21 @@
+<div class="h-cite bookcard flex" >
+<div class="book-cover">
+<a href={{ page.header.book.url }} class="u-uid"><img src ="{{ page.url ~ '/' ~ page.header.book.image }}" alt="Book cover"></a>
+</div>
+<p class="book-data">
+<span class="p-item h-product">
+<a href={{ page.header.book.url }}>{{ page.header.book.title }}</a></br>
+by {{ page.header.book.author }}</br>
+Published: {{ page.header.book.year }}</br>
+</span>
+Read from: {{ page.header.book.started|date("d M") }} to {{ page.header.book.finished|date("d M") }}</br>
+
+<data class="p-rating" value="{{ page.header.book.rating }}">My rating: 
+{% for i in 1..page.header.book.rating %}
+ 🌟
+{% endfor %}
+
+</data>
+
+</p>
+</div>
