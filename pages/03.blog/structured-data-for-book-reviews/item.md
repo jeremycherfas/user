@@ -54,6 +54,8 @@ Read from: {{ page.header.book.started|date("d M") }} to {{ page.header.book.fin
 </div>
 ````
 
-That seems a lot more complex than the Hugo template, but it isn’t really, just a bit different (although I am bit jealous of that `string.Repeat` function).
+That seems a lot more complex than the Hugo template, but it isn’t really, just different (although I am bit jealous of that `string.Repeat` function).
 
 I’m very happy with the outcome, and I think I even got the microformats correct; thanks to Ana for inspiration. Now I “just” need to update all my existing reviews. With a snippet to inject the required details, I’m hoping it won’t take long and that I have no excuses for not writing more about the books I’ve read.
+
+<a href="https://news.indieweb.org/en" class="u-syndication">Also posted on IndieNews</a>.
