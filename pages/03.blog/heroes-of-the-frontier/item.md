@@ -1,5 +1,5 @@
 ---
-title: '&#128214; Heroes of the Frontier'
+title: '&#128214; Heroes of the Frontier &#x270d;'
 published: true
 date: '14-08-2016 16:00'
 taxonomy:
@@ -9,23 +9,18 @@ taxonomy:
     tag:
         - Fiction
 visible: true
-image: heroes-of-the-frontier.jpg
+book:
+	title: "Heroes of the Frontier"
+	author: "Dave Eggers"
+	url: "https://bookshop.org/a/13377/9781101974636"
+	year: "2017"
+	started: "2016-07-29"
+	finished: "2016-08-14"
+	rating: "4"
+	image: "heroes-of-the-frontier.jpg"
 ---
 
 I enjoy Dave Eggers' writing a lot, and this was no exception. He has a deft way of filling in the back story that I admire, and his treatment of the two young children seems to me absolutely accurate, poignant and touching and funny. The adventures that these heroes get into are many and varied and give a definite impression of how life just carries one along, given half a chance. Highly enjoyable.
-
-===
-
-<div class="bookTitle">
-                Heroes of the Frontier
-</div>
-<div class="authors">
-                Eggers, Dave
-</div>
-
-<div class="citation">
-                Citation (Chicago Style): Eggers, Dave. <i>Heroes of the Frontier</i>. Penguin Books Ltd, 2016. Kindle edition.
-</div>
 
 The ending may disappoint some people. It did me, truth be told, for about 15 minutes. And then, thinking more about it, I decided it made perfect sense.
 
@@ -85,5 +80,5 @@ The ending may disappoint some people. It did me, truth be told, for about 15 mi
 
 <div class="noteHeading">
 </div>
-| <a href="https://www.goodreads.com/book/show/29889972-heroes-of-the-frontier">My review on Goodreads.</a> | [Buy it on Amazon](http://amzn.to/2n3Z8eM) |
+| <a href="https://www.goodreads.com/book/show/29889972-heroes-of-the-frontier">My review on Goodreads.</a> | [Find it at an independent bookseller](https://bookshop.org/a/13377/9781101974636) |
 |:- | -: |

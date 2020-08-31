@@ -1,4 +1,4 @@
-<div class="h-cite bookcard flex" >
+<div class="p-read-of h-cite bookcard flex" >
 <div class="book-cover">
 <a href={{ page.header.book.url }} class="u-uid"><img src ="{{ page.url ~ '/' ~ page.header.book.image }}" alt="Book cover"></a>
 </div>
@@ -16,6 +16,6 @@ Read from: {{ page.header.book.started|date("d M") }} to {{ page.header.book.fin
 {% endfor %}
 
 </data>
-
+<data class="p-read-status" value="finished"></data>
 </p>
 </div>

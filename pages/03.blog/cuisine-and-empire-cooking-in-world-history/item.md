@@ -1,5 +1,5 @@
 ---
-title: '&#128214; Cuisine and Empire: Cooking in World History'
+title: '&#128214; Cuisine and Empire: Cooking in World History &#x270d;'
 published: true
 date: '05-07-2016 16:04'
 taxonomy:
@@ -9,7 +9,15 @@ taxonomy:
     tag:
         - Non-fiction
 visible: true
-image: cuisine-and-empire.jpg
+book:
+	title: "Cuisine and Empire: Cooking in World History"
+	author: "Rachel Laudan"
+	url: "https://bookshop.org/a/13377/9780520286313"
+	year: "2015"
+	started: "2016-06-05"
+	finished: "2016-07-05"
+	rating: "4"
+	image: "cuisine-and-empire.jpg"
 ---
 
 Really excellent guide to changes in cuisine through history, and the forces that drove them. A useful antidote to the rose-tinted myth that the cooking of times gone by was so much better than the food we have now. Some people have described the book as too dry; I disagree. It is scholarly and informative, rather than the once-over-lightly so common in so many "factual" works.
@@ -265,9 +273,6 @@ Highlight - Location 7016|My note|
 </div>
 ----
 <div class="text-lg ">
-<div class="citation">
-Laudan, Rachel. <i>Cuisine and Empire: Cooking in World History (California Studies in Food and Culture Book 43)</i>. University of California Press, 2013. Kindle edition.
-</div>
 
 <div class="flex flex-row w-full">
 <div class="flex w-1/2 pl-4">
@@ -275,7 +280,7 @@ Laudan, Rachel. <i>Cuisine and Empire: Cooking in World History (California Stud
 </div>
 
 <div class="flex w-1/2 ">
-<a href="https://www.amazon.com/Cuisine-Empire-Cooking-History-California-ebook/dp/B00FAI6XEY/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1488446478&sr=1-1&keywords=cuisine+and+empire&linkCode=ll1&tag=agricubiodivw-20&linkId=253afa0117dd421cfd8cd4c914b408d8">Find it on Amazon</a>
+<a href="https://bookshop.org/a/13377/9780520286313">Find it at an independent bookstore</a>
 </div>
 </div>
 </div>

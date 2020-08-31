@@ -13,7 +13,7 @@ visible: true
 book:
 	title: "All the Light We Cannot See"
 	author: "Anthony Doerr"
-	url: "https://bookshop.org/books/all-the-light-we-cannot-see/9781501173219"
+	url: "https://bookshop.org/a/13377/9781501173219"
 	year: "2017"
 	started: "2020-07-01"
 	finished: "2020-07-23"

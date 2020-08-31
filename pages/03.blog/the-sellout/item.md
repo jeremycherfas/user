@@ -1,5 +1,5 @@
 ---
-title: '&#128214; The Sellout'
+title: '&#128214; The Sellout &#x270d;'
 published: true
 date: '19-03-2017 15:00'
 taxonomy:
@@ -9,7 +9,15 @@ taxonomy:
     tag:
         - Fiction
 visible: true
-image: the-sellout.jpg
+book:
+	title: "The Sellout"
+	author: "Paul Beatty"
+	url: "https://bookshop.org/a/13377/9781250083258"
+	year: "2016"
+	started: "2017-02-09"
+	finished: "2017-03-01"
+	rating: "4"
+	image: "the-sellout.jpg"
 ---
 
 The internet makes it all too easy to go hunting for the information that will make sense of a book or an author, and I am resolved not to do that. At least, not till I have finished this review. From that position of self-imposed ignorance, <em>The Sellout</em> is a brilliantly funny and cutting satire on race in America. Nothing is safe, no-one immune, no taboo out of bounds. Sex, music, drugs, intellectualism, passivity, crime. ...
@@ -29,7 +37,7 @@ A mostly black, mostly agricultural city, loses its identity by being subsumed w
 *Yes, OK. But I suppose I ought to also be thinking more deeply about some of the issues raised.*  
 *If you must. But hey, it's only a book.*
 
-All of which is why I honestly have not looked up anything at all about Paul Beattie. I'm just going to assume, for now, that he's allowed to say the things he does because of who he is. And if he isn't who (or what) I'm blithely assuming he is, then what? Could someone else have done the same?
+All of which is why I honestly have not looked up anything at all about Paul Beatty. I'm just going to assume, for now, that he's allowed to say the things he does because of who he is. And if he isn't who (or what) I'm blithely assuming he is, then what? Could someone else have done the same?
 
 There's one passage in the book that sums it all up: This one:
 
@@ -88,11 +96,11 @@ As a footnote, I really want to understand the role of agriculture in the lives 
     If New York is the City That Never Sleeps, then Los Angeles is the City That’s Always Passed Out on the Couch.
 </div>
 <div class="noteHeading">
+Highlight - City Lites: An Interlude > Page 149 · Location 2197
 </div>
-|Highlight - City Lites: An Interlude > Page 149 · Location 2197|My note|		
-|:-			|:-			|
-|		War-torn and evacuated towns like Oradour-sur-Vayres in France, Paoua and Goroumo in the Central African Republic, all made strong pushes for civic sisterhood.	|	     So soon after reading Ian Rankin's *Hanging Garden* the reference to Oradour brought me up short. 		|
-
+<div class="noteText">
+War-torn and evacuated towns like Oradour-sur-Vayres in France, Paoua and Goroumo in the Central African Republic, all made strong pushes for civic sisterhood. _So soon after reading Ian Rankin's *Hanging Garden* the reference to Oradour brought me up short._
+</div>
 <div class="sectionHeading">
     TOO MANY MEXICANS
 </div>
@@ -118,17 +126,17 @@ As a footnote, I really want to understand the role of agriculture in the lives 
     APPLES AND ORANGES
 </div>
 <div class="noteHeading">
-</div>
-|Highlight - Seventeen > Page 204 · Location 2938|My note|		
-|:-			|:-			|
-|    From the music clubs to the jailhouses to the fact that you can find Korean taco trucks only in white neighborhoods, L.A. is a mind-numbingly racially segregated city.|    And that I guess  is the crux of the matter.|
-
+Highlight - Seventeen > Page 204 · Location 2938
+</div>		
+<div class="noteText">
+From the music clubs to the jailhouses to the fact that you can find Korean taco trucks only in white neighborhoods, L.A. is a mind-numbingly racially segregated city. *And that I guess  is the crux of the matter.*
+<div>
 <div class="noteHeading">
+Highlight - Eighteen > Page 213 · Location 3070
 </div>
-|Highlight - Eighteen > Page 213 · Location 3070|My note|		
-|:-			|:-			| 
-|    Zocalo,|    Cmon. this may be an in  joke too far. But if it is, how much more am I missing?|
-
+<div class="noteText">		
+Zocalo, *Cmon. this may be an in joke too far. But if it is, how much more am I missing?*
+<div>
 <div class="noteHeading">
     Highlight - Eighteen > Page 214 · Location 3082
 </div>
@@ -136,17 +144,17 @@ As a footnote, I really want to understand the role of agriculture in the lives 
     I’m a farmer, and farmers are natural segregationists. We separate the wheat from the chaff. I’m not Rudolf Hess, P. W. Botha, Capitol Records, or present-day U.S. of A. Those motherfuckers segregate because they want to hold on to power. I’m a farmer: we segregate in an effort to give every tree, every plant, every poor Mexican, every poor nigger, a chance for equal access to sunlight and water; we make sure every living organism has room to breathe.
 </div>
 <div class="noteHeading">
+Highlight - Twenty-one > Page 237 · Location 3417
 </div>
-|Highlight - Twenty-one > Page 237 · Location 3417|My note|
-|:-|:-|
-|   “I just want you to know I’m fucking Bonbon.” Oblivious to the thorns, Panache stuck what remained of the pineapple, skin and all, into his mouth, slurping and sucking out every last drop of juice. When the fruit was dry as a desert bone, he walked up to me, tapped my chest with the tip of Lulu Belle’s barrel, and said, “Shit, if I could get some of this pineapple every morning, I’d fuck the nigger, too.”|   I'm hoping the sequel is a how-to breeding and gardening guide.|
-
+<div class="noteText">
+“I just want you to know I’m fucking Bonbon.” Oblivious to the thorns, Panache stuck what remained of the pineapple, skin and all, into his mouth, slurping and sucking out every last drop of juice. When the fruit was dry as a desert bone, he walked up to me, tapped my chest with the tip of Lulu Belle’s barrel, and said, “Shit, if I could get some of this pineapple every morning, I’d fuck the nigger, too.” *I'm hoping the sequel is a how-to breeding and gardening guide.*
+</div>
 <div class="noteHeading">
+Highlight - Twenty-two > Page 242 · Location 3494|My note
 </div>
-|    Highlight - Twenty-two > Page 242 · Location 3494|My note|
-|:-|:-|
-|After two hours of sitting in the dark laughing at unmitigated racism, in the brightness the guilt sets in. Everyone can see your face, and you feel like your mother caught you masturbating.|Which is precisely how it feels. *cf* Nigella's guilty pleasures: "If you're feeling guilty, it isn't a pleasure".|
-
+<div class="noteText">
+After two hours of sitting in the dark laughing at unmitigated racism, in the brightness the guilt sets in. Everyone can see your face, and you feel like your mother caught you masturbating. *Which is precisely how it feels. *cf* Nigella's guilty pleasures: "If you're feeling guilty, it isn't a pleasure".*
+</div>
 <div class="noteHeading">
     Highlight - Twenty-three > Page 251 · Location 3624
 </div>
@@ -181,11 +189,19 @@ As a footnote, I really want to understand the role of agriculture in the lives 
     Because the Supreme Court is where the country takes out its dick and tits and decides who’s going to get fucked and who’s getting a taste of mother’s milk.
 </div>
 <div class="noteHeading">
+Highlight - Twenty-four > Page 274 · Location 3945
+</div>
+<div class="noteText">
+hikikomori *A nice word. but is it more than an antiisocial loner?*
+</div>
+----
+
+<div class="flex flex-row w-full">
+<div class="flex w-1/2 ">
+<a href="https://www.goodreads.com/review/show/1814268201">My review on Goodreads.</a>
 </div>
 
-|    Highlight - Twenty-four > Page 274 · Location 3945|My note|
-|:-|:-|
-|hikikomori|    A nice word. but is it more than an antiisocial loner?|
-
-| <a href="https://www.goodreads.com/review/show/1814268201">My review on Goodreads.</a> | [Buy it on Amazon](http://amzn.to/2nSgRFv) |
-|:- | -: |
+<div class="flex w-1/2 ">
+<a href="https://bookshop.org/a/13377/9781250083258">Find it at an independent bookshop</a>
+</div>
+</div>

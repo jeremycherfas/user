@@ -1,5 +1,5 @@
 ---
-title: '&#128214; H is for Hawk'
+title: '&#128214; H is for Hawk &#x270d;'
 published: true
 date: '13-01-2017 15:31'
 taxonomy:
@@ -9,16 +9,24 @@ taxonomy:
     tag:
         - Non-fiction
 visible: true
-image: h-is-for-hawk.jpg
+book:
+	title: "H is for Hawk"
+	author: "Helen Macdonald"
+	url: "https://bookshop.org/a/13377/9780802124739"
+	year: "2016"
+	started: "2017-01-03"
+	finished: "2017-01-13"
+	rating: "5"
+	image: "h-is-for-hawk.jpg"
 ---
 
 What a wonderful book. When it first came out and got lots of praise I stupidly decided that it was not for me, possibly because the praise tended to focus on lyrical nature writing and that is not something I enjoy. However, my friend Nicola Davies was adamant that I give it a shot. I did, and was entranced from the word go.
 
 ===
 
-The writing is not lyrical as I understand it. It is sharp, penetrating, incisive and eye-opening. Helen MacDonald has a gift for metaphors and similes that I envy. Her writing is clear-eyed but not harsh, and I marvelled at how she wove the three threads of her father and his death, TH White and his gos and her own adventures with Mabel into a tight, seamless braid.
+The writing is not lyrical as I understand it. It is sharp, penetrating, incisive and eye-opening. Helen Macdonald has a gift for metaphors and similes that I envy. Her writing is clear-eyed but not harsh, and I marvelled at how she wove the three threads of her father and his death, TH White and his gos and her own adventures with Mabel into a tight, seamless braid.
 
-There are so many bits of writing -- sentences, phrases -- that I could have noted. These are just a few of the ones that struck me even more forcefully.
+There are so many bits of writing — sentences, phrases — that I could have noted. These are just a few of the ones that struck me even more forcefully.
 
 
 <div class="sectionHeading ">
@@ -93,7 +101,7 @@ Helen Macdonald <i>H is for Hawk</i>. Grove Press, 2016.
 </div>
 
 <div class="flex w-1/2 ">
-<a href="https://www.amazon.com/H-Hawk-Helen-Macdonald/dp/0802124739/ref=as_li_ss_tl?keywords=h+is+for+hawk&qid=1575453547&sr=8-1&linkCode=ll1&tag=agricubiodivw-20&linkId=17de164ab7c64504b7d899389efa3c27&language=en_US">Find it on Amazon</a>
+<a href="https://bookshop.org/a/13377/9780802124739">Find it at an independent bookseller</a>
 </div>
 </div>
 </div>
