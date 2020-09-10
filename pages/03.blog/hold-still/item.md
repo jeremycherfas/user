@@ -9,7 +9,15 @@ taxonomy:
     tag:
         - Non-fiction
 visible: true
-image: hold-still.jpg
+book:
+	title: "Hold Still"
+	author: "Sally Mann"
+	url: "https://bookshop.org/a/13377/9780316247757"
+	year: "2016"
+	started: "2017-03-09"
+	finished: "2017-04-07"
+	rating: "5"
+	image: 'hold-still.jpg'
 ---
 
 Sally Mann is a photographer of some notoriety. She is also, it turns out, an amazingly good writer able to create word pictures every bit as nuanced and beguiling as her picture pictures. An interesting question is whether, had she not been a renowned photographer, we would ever have learned what a fine writer she is. Would she have been prompted to write her memoir had she not been invited to give the Massey Lectures in the History of American Civilization at Harvard?
@@ -40,5 +48,5 @@ Sally Mann's thoughts about death and what to do with the dead mirror my own alm
 
 Nothing to add; plenty to learn.
 
-| <a href="https://www.goodreads.com/review/show/1936371153">My review on Goodreads.</a> | [Buy it on Amazon](http://amzn.to/2ousST4) |
+| <a href="https://www.goodreads.com/review/show/1936371153">My review on Goodreads.</a> | [Buy it at an independent bookshop](https://bookshop.org/a/13377/9780316247757) |
 |:- | -: |
