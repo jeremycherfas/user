@@ -8,14 +8,116 @@ template: item
 
 ![surveillance cameras on a railway platform](watching.jpg){.center}
 
-<p>Key: <strong>(B)</strong> = book | <strong>(F)</strong> = film | <strong>(T)</strong> = television series | <strong>(P)</strong> = podcast series | <strong>(TH)</strong> = theater performance | <strong>(M)</strong> = musical performance |<strong>[R]</strong> = reread/rewatch/relisten | <strong>(Tk)</strong> = talk</p>
+<p>Key: <strong>(B)</strong> = book | <strong>(F)</strong> = film | <strong>(T)</strong> = television series | <strong>(P)</strong> = podcast series | <strong>(TH)</strong> = theater performance | <strong>(M)</strong> = musical performance | <strong>[R]</strong> = reread/rewatch/relisten | <strong>(Tk)</strong> = talk</p>
 
 !!! This is a non-exhaustive list of things I’ve read, watched, seen or otherwise enjoyed.<br />
 !!! Here’s [the list for 2019](/watched-2019).
 
 <!-- Outer List -->
-
 <ul class="log">
+
+<li class="log-month">September</li>
+
+<ul class="log-entry">
+<li class="log-day">21</li>
+<ul>
+<li class="log-item">Started watching <em>Tehran</em> on Apple TV <strong>T</strong> Very exciting.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">20</li>
+<ul>
+<li class="log-item">Started watching <em>Borgen s01</em> on Netflix <strong>T</strong> So far, so good. House of Cards for our times.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">19</li>
+<ul>
+<li class="log-item">Finished watching <em>Young Wallander</em> on Netflix <strong>T</strong> Very nicely done, with an annoying, but justified, messy ending.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">14</li>
+<ul>
+<li class="log-item">Started watching <em>Young Wallander</em> on Netflix <strong>T</strong> Never did see Old Wallander, but this is promising.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">13</li>
+<ul>
+<li class="log-item">Finished watching <em>Le Bureau s01e10</em> on Apple TV <strong>T</strong> and I feel like I've been put through a wringer.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">01</li>
+<ul>
+<li class="log-item">Started reading <em>Delizie</em> by John Dickie <strong>B</strong> Should have done this long ago.</li>
+</ul>
+</ul> 
+
+<li class="log-month">August</li>
+
+<ul class="log-entry">
+<li class="log-day">22</li>
+<ul>
+<li class="log-item">Finally, after much faffing, watched <em>Le Bureau s01e01</em> on Apple TV <strong>T</strong> Looking good right from the start.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">20</li>
+<ul>
+<li class="log-item">Finished watching <em>The Kominsky Method s02</em> on Netflix <strong>T</strong> Well, that was quick. And very good. Smart, engaging writing. Long wait for s03.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">18</li>
+<ul>
+<li class="log-item">Watched one episode of <em>Connections</em> on Netflix <strong>T</strong> and that's quite enough, thank you.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">10</li>
+<ul>
+<li class="log-item">Watched <em>Withnail and I</em> on iTunes <strong>F</strong> Still crazy after all these years.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">09</li>
+<ul>
+<li class="log-item">Started watching <em>The Kominsky Method</em> on Netflix <strong>T</strong> After so many recommendations, had to give it a try. Seems pretty good.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">06-07</li>
+<ul>
+<li class="log-item">Watched <em>The Good, The Bad and the Ugly</em> on YouTube <strong>F</strong> So fine. Took us two nights, but held up well.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">03</li>
+<ul>
+<li class="log-item">Watched <em>The Alienist s01e01</em> on Netflix <strong>T</strong> and won’t be watching any more. Drek.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">02</li>
+<ul>
+<li class="log-item">Finished watching <em>Chernobyl</em> on iTunes <strong>T</strong> No. Words.</li>
+</ul>
+</ul>
+
 <li class="log-month">July</li>
 
 <ul class="log-entry">
