@@ -4,11 +4,12 @@
 
 <div class="hidden md:block mt-4">
 <h3 class="text-center">Search</h3>
-        <div class="searchbox z-40 bg-white opacity-100 pt-2 pb-2">
-            <div class="flex justify-center items-center">
-                {% include 'partials/simplesearch_searchbox.html.twig' %}
-            </div>
-        </div> <!-- end searchbox -->
+
+	<div class="searchbox z-40 pt-2 pb-2">
+    	<div class="flex justify-center items-center">
+        {% include 'partials/simplesearch_searchbox.html.twig' %}
+        </div>
+	</div>
 </div>
 
 {% if config.plugins.twigfeeds.enabled %}
