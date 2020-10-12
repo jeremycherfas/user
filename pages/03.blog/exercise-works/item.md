@@ -13,8 +13,7 @@ subhead: " "
 header_image: '0'
 ---
 
-Exercise really is a funny thing. I’ve tried various forms over the years, some of them more fun and longer lasting than others. For a while I was very taken with the 
-Canadian Air Force’s 5BX plan. It seemed to have just the right amount of fiddliness to appeal to my inner nerd. That fell away, and then, just over a year ago I started doing the 7-minute stuff, high-intensity interval training. Slowly, slowly, even at my advanced age, it became easier to get through one cycle. Then two. Then the full workout, three cycles in total.
+Exercise really is a funny thing. I’ve tried various forms over the years, some of them more fun and longer lasting than others. For a while I was very taken with the Canadian Air Force’s 5BX plan. It seemed to have just the right amount of fiddliness to appeal to my inner nerd. That fell away, and then, just over a year ago I started doing the 7-minute stuff, high-intensity interval training. Slowly, slowly, even at my advanced age, it became easier to get through one cycle. Then two. Then the full workout, three cycles in total.
 
 ===
 
