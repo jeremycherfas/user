@@ -44,7 +44,9 @@
     "build": "gulp build"
   },
   "dependencies": {
+    "autoprefixer": "^10.0.1",
     "gulp-sourcemaps": "^2.6.4",
+    "postcss-cli": "^8.1.0",
     "tailwindcss": "^1.9.1"
   }
 }
