@@ -7,7 +7,7 @@
   "main": "docs/dist/spectre.css",
   "repository": {
     "type": "git",
-    "url": "https://github.com/picturepan2/spectre.git"
+    "url": "git+https://github.com/picturepan2/spectre.git"
   },
   "license": "MIT",
   "keywords": [
@@ -44,6 +44,7 @@
     "build": "gulp build"
   },
   "dependencies": {
-    "gulp-sourcemaps": "^2.6.4"
+    "gulp-sourcemaps": "^2.6.4",
+    "tailwindcss": "^1.9.1"
   }
 }
