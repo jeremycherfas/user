@@ -11,13 +11,15 @@ Thumbs.db
 *.swp
 *.zip
 
-vaviblog/*
-
 newhook.php
 
-themes/lingonberry/*
 pages/03.blog/253.testing-automatic-send
 webmention-form.txt
-Localhost/*
+localhost/*
 
-base.html.twig
+node_modules/
+**/base.html.twig
+*.js
+*.json
+*.lock
+**/README.md
