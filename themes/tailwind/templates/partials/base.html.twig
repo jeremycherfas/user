@@ -19,8 +19,10 @@
     {% endblock head %}
 
     {% block stylesheets %}
-    <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
+<!--     <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet"> -->
+<!-- <link rel="stylesheet" href="http://localhost:8888/grav-admin/user/themes/tailwind/css/tailwind-compiled.css"> -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css">
+    {% do assets.addCss('theme://css/tailwind-compiled.css' ~ '?v=1.1.1') %}
     {% do assets.addCss('theme://css/custom.css' ~ '?v=1.1.1') %}
     {% do assets.addCss('theme://css/custom-charts.css' ~ '?v=1.0.0') %}
     {% do assets.addCss('theme://css/line-awesome.min.css') %}
