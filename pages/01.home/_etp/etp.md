@@ -4,7 +4,7 @@ title: 'ETP'
 
 <div class="flex flex-col md:border-solid md:border-grey-700 md:border-t-8 ">
 <div class="flex flex-col ">
-<h1 class="px-2 md:px-4 md:pt-2 text-3xl md:text-3xl text-grey-700">Eat This Podcast</h1>
+<h1 class="px-2 md:px-4 md:pt-2 text-grey-700">Eat This Podcast</h1>
 
 <div class="mb-4 md:flex md:flex-row md:items-start md:justify-between md:w-3/4 md:mx-auto md:mb-8">
 
@@ -12,7 +12,7 @@ title: 'ETP'
 <img class=" " src="/user/themes/tailwind/images/citrus-repeat-cover.png" alt="james beard medal">
 </div>
 
-<div class="text-sm md:text-xl pl-2 md:mr-4 md:ml-2 md:w-2/3 ">
+<div class="pl-2 md:mr-4 md:ml-2 md:w-2/3 ">
 <p>Using food as a vehicle to explore the byways of taste, economics and trade, culture, science, history, archaeology, geography and just about anything else.
 </p>
 <p>

@@ -1,115 +1,74 @@
 <!DOCTYPE html>
 <html lang="{{ grav.language.getActive ?: grav.config.site.default_lang }}">
-
 <head>
-    {% block head %}
-    <meta charset="utf-8" />
-    <title>{% if page.title %}{{ page.title|e('html') }} | {% endif %}{{ site.title|e('html') }}</title>
-
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <link rel="icon" type="image/png" href="{{ url('theme://images/logo.png') }}" />
-    <link rel="canonical" href="{{ page.url(true, true) }}" />
-    <link rel="webmention" href="https://webmention.herokuapp.com/api/webmention" />
-    <link rel="alternate" type="application/atom+xml" title="Feed (Atom)" href="{{ base_url ~ "/blog.atom"}}" />
-    <link rel="alternate" type="application/rss+xml" title="Feed (RSS)" href="{{ base_url ~ "/blog.rss"}}" />
-    <link rel="alternate" type="application/json" title="Feed (json)" href="{{ base_url ~ "/blog.json"}}" />
-    <script src="https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js"></script>
-    {% endblock head %}
-
-    {% block stylesheets %}
-<!--     <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet"> -->
-<!-- <link rel="stylesheet" href="http://localhost:8888/grav-admin/user/themes/tailwind/css/tailwind-compiled.css"> -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css">
-    {% do assets.addCss('theme://css/tailwind-compiled.css' ~ '?v=1.1.1') %}
-    {% do assets.addCss('theme://css/custom.css' ~ '?v=1.1.1') %}
-    {% do assets.addCss('theme://css/custom-charts.css' ~ '?v=1.0.0') %}
-    {% do assets.addCss('theme://css/line-awesome.min.css') %}
-    {% endblock stylesheets %}
-
-    {% block javascripts %}
-
-    {% do assets.addJs('jquery', 101) %}
-    {% endblock javascripts %}
-
-    {% block assets deferred %}
-    {{ assets.css()|raw }}
-    {{ assets.js()|raw }}
-    {% endblock %}
-
+	{% block head %} 
+	<meta charset="utf-8" />
+	<title> {% if page.title %}{{ page.title|e('html') }} | {% endif %}{{ site.title|e('html') }} </title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="icon" type="image/png" href="{{ url('theme://images/logo.png') }}" />
+	<link rel="canonical" href="{{ page.url(true, true) }}" />
+	<link rel="webmention" href="https://webmention.herokuapp.com/api/webmention" />
+	<link rel="alternate" type="application/atom+xml" title="Feed (Atom)" href="{{ base_url ~ " /blog.atom"}}" />
+	<link rel="alternate" type="application/rss+xml" title="Feed (RSS)" href="{{ base_url ~ " /blog.rss"}}" />
+	<link rel="alternate" type="application/json" title="Feed (json)" href="{{ base_url ~ " /blog.json"}}" />
+	<script src="https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js">
+	</script>
+	{% endblock head %} 
+{% block stylesheets %} 
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css">
+	{% do assets.addCss('theme://css/tailwind-compiled.css' ~ '?v=1.1.1') %} 
+	{% do assets.addCss('theme://css/custom.css' ~ '?v=1.1.1') %} 
+	{% do assets.addCss('theme://css/custom-charts.css' ~ '?v=1.0.0') %} 
+	{% do assets.addCss('theme://css/line-awesome.min.css') %} 
+{% endblock stylesheets %} 
+{% block javascripts %} 
+	{% do assets.addJs('jquery', 101) %}
+{% endblock javascripts %} 
+{% block assets deferred %} 
+	{{ assets.css()|raw }} 
+	{{ assets.js()|raw }}
+{% endblock %} 
 </head>
-{% set options = { items: {'@root.descendants':''}, 'order': {'by': 'folder', 'dir': 'asc'}} %}
-{% set my_collection = page.collection(options) %}
-
+{% set options = { items: {'@root.descendants':''}, 'order': {'by': 'folder', 'dir': 'asc'}} %} {% set my_collection = page.collection(options) %} 
 <body id="top" class="container mx-auto">
-    <!-- base.html.twig to Set max width and centres -->
-    <div class="opacity-100 sticky top-0 z-20">
-
+<!-- base.html.twig to Set max width and centres -->
+<div class="opacity-100 sticky top-0 z-20">
 <!-- Moving menu block to partial -->
-
-{% block menu %}
-{% include 'partials/menu.html.twig' %}
-{% endblock menu %}
-
+	{% block menu %} {% include 'partials/menu.html.twig' %} {% endblock menu %} 
 <!-- 
  -->
-    </div>
-    {% block header %}
-    {% include 'partials/myheader.html.twig' %}
-    {% endblock header %}
-    <!-- header -->
-
-    {% block body %}
-
-    <!--
+</div>
+{% block header %} {% include 'partials/myheader.html.twig' %} {% endblock header %} 
+<!-- header -->
+{% block body %} 
+<!--
 This next section needs to call the partial in order
 To loop properly through the posts. Without that, it
 Just repeats the same post.
  -->
-    {% block content %}
-
-    <div class="md:flex md:flex-row">
-
-        <div class="h-feed all-items flex flex-col relative mx:auto ">
-
-            <div class="hidden">
-                <h1 class="p-name"><a href="/blog" class="u-url">Jeremy Cherfas h-feed</a></h1>
-            </div>
-            {% for child in collection %}
-            {% include 'partials/blog-list-item.html.twig' with {blog: page, page: child} %}
-            {% endfor %}
-
-            <!-- Pagination -->
-            {# Render the pagination list #}
-            {% if config.plugins.pagination.enabled and collection.params.pagination %}
-            {% include 'partials/pagination.html.twig' with {'base_url':page.url, 'pagination':collection.params.pagination} %}
-            {% endif %}
-        </div>
-
-        {% endblock content%}
-
-        {% if page.template != 'modular' %}
-        {% block sidebar %}
-        {% include 'partials/mysidebar.html.twig' %}
-        {% endblock sidebar%}
-        {% endif %}
-
-
-    </div> <!-- end all items -->
-
-    {% block footer %}
-    {% include 'partials/myfooter.html.twig' %}
-    {% endblock footer %}
-    {% endblock body %}
-
-    </div> <!-- End all items inc sidebar -->
-    {% block bottom %}
-    {{ assets.js('bottom')|raw }}
-    {% endblock bottom %}
-
-    {{ dump(page)  }}
-
+{% block content %} 
+<div class="md:flex md:flex-row">
+<!-- Contains everything -->
+	<div class="h-feed flex flex-col md:w-2/3 pt-4">
+<!-- Contains feed content -->
+		<div class="hidden">
+			<h1 class="p-name">
+				<a href="/blog" class="u-url"> Jeremy Cherfas h-feed </a> 
+			</h1>
+		</div>
+		{% for child in collection %} {% include 'partials/blog-list-item.html.twig' with {blog: page, page: child} %} {% endfor %} 
+<!-- Pagination -->
+		{# Render the pagination list #} {% if config.plugins.pagination.enabled and collection.params.pagination %} {% include 'partials/pagination.html.twig' with {'base_url':page.url, 'pagination':collection.params.pagination} %} {% endif %} 
+	</div>
+	{% endblock content%} {% if page.template != 'modular' %} {% block sidebar %} 
+<!-- Contains sidebar -->
+	{% include 'partials/mysidebar.html.twig' %} {% endblock sidebar%} {% endif %} 
+</div>
+<!-- end all items -->
+{% block footer %} {% include 'partials/myfooter.html.twig' %} {% endblock footer %} {% endblock body %} 
+</div>
+<!-- End all items inc sidebar -->
+{% block bottom %} {{ assets.js('bottom')|raw }} {% endblock bottom %} {{ dump(page) }} 
 </body>
-
 </html>
