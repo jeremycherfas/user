@@ -358,6 +358,8 @@ class Admin
         $languagePrefix = $languageCode ? '/' . $languageCode : '';
 
         $root = $this->grav['uri']->rootUrl();
+        $subRoute = rtrim($this->grav['pages']->base(), '/');
+        $adminRoute = rtrim($this->grav['config']->get('plugins.admin.route'), '/');
 
         $parts = [
             'path' => $path,
@@ -365,7 +367,7 @@ class Admin
             'query_params' => [],
             'grav' => [
                 // TODO: Make URL to be /admin/en, not /en/admin.
-                'root' => preg_replace('`//+`', '/', $root . $languagePrefix . $this->base),
+                'root' => preg_replace('`//+`', '/', $root . $subRoute . $languagePrefix . $adminRoute),
                 'language' => '', //$languageCode,
                 'route' => ltrim($path, '/'),
                 'params' => ''
@@ -609,7 +611,9 @@ class Admin
             $this->setMessage(static::translate($message), $event->getMessageType());
         }
 
-        $redirect = $event->getRedirect();
+        /** @var Pages $pages */
+        $pages = $this->grav['pages'];
+        $redirect = $pages->baseRoute() . $event->getRedirect();
 
         $this->grav->redirect($redirect, $event->getRedirectCode());
     }
@@ -619,6 +623,10 @@ class Admin
      */
     public function twoFa($data, $post)
     {
+        /** @var Pages $pages */
+        $pages = $this->grav['pages'];
+        $baseRoute = $pages->baseRoute();
+
         /** @var Login $login */
         $login = $this->grav['login'];
 
@@ -635,14 +643,16 @@ class Admin
 
             $this->grav['session']->setFlashCookieObject(Admin::TMP_COOKIE_NAME, ['message' => $this->translate('PLUGIN_ADMIN.2FA_FAILED'), 'status' => 'error']);
 
-            $this->grav->redirect($this->uri->route(), 303);
+            $this->grav->redirect($baseRoute . $this->uri->route(), 303);
         }
 
         $this->setMessage($this->translate('PLUGIN_ADMIN.LOGIN_LOGGED_IN'), 'info');
 
         $user->authorized = true;
 
-        $this->grav->redirect($post['redirect']);
+        $redirect = $baseRoute . $post['redirect'];
+
+        $this->grav->redirect($redirect);
     }
 
     /**

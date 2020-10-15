@@ -36,6 +36,7 @@ use Nyholm\Psr7\ServerRequest;
 use Psr\Http\Message\ResponseInterface;
 use Psr\Http\Message\ServerRequestInterface;
 use RocketTheme\Toolbox\Event\Event;
+use RocketTheme\Toolbox\ResourceLocator\UniformResourceLocator;
 use RocketTheme\Toolbox\Session\Message;
 
 /**
@@ -338,17 +339,39 @@ class AdminController
         }
 
         $data = $this->data;
+        $route = trim($data['route'] ?? '', '/');
 
-        if ($data['route'] === '' || $data['route'] === '/') {
-            $path = $this->grav['locator']->findResource('page://');
-        } else {
-            $path = $this->grav['page']->find($data['route'])->path();
+        // TODO: Folder name needs to be validated!
+        $folder = mb_strtolower($data['folder'] ?? '');
+        if ($folder === '' || mb_strpos($folder, '/') !== false) {
+            throw new \RuntimeException('Creating folder failed, bad folder name', 400);
         }
 
-        $orderOfNewFolder = ''; //static::getNextOrderInFolder($path) . '.';
-        $new_path         = $path . '/' . $orderOfNewFolder . $data['folder'];
+        /** @var PageObject $parent */
+        $parent = $route ? $directory->getObject($route) : $directory->getCollection()->getRoot();
+        if (!$parent) {
+            throw new \RuntimeException('Creating folder failed, bad parent route', 400);
+        }
 
-        Folder::create($new_path);
+        $path = $parent->getFlexDirectory()->getStorageFolder($parent->getStorageKey());
+        if (!$path) {
+            throw new \RuntimeException('Creating folder failed, bad parent storage path', 400);
+        }
+
+        // Ordering
+        $orders = $parent->children()->visible()->getProperty('order');
+        $maxOrder = 0;
+        foreach ($orders as $order) {
+            $maxOrder = max($maxOrder, (int)$order);
+        }
+
+        $orderOfNewFolder = $maxOrder ? sprintf('%02d.', $maxOrder+1) : '';
+        $new_path         = $path . '/' . $orderOfNewFolder . $folder;
+
+        /** @var UniformResourceLocator $locator */
+        $locator = $this->grav['locator'];
+
+        Folder::create($locator->findResource($new_path, true, true));
         Cache::clearCache('invalidate');
 
         $this->grav->fireEvent('onAdminAfterSaveAs', new Event(['path' => $new_path]));
@@ -394,12 +417,14 @@ class AdminController
         if (!$folder) {
             $folder = \Grav\Plugin\Admin\Utils::slug($title) ?: '';
         }
+        $folder = ltrim($folder, '_');
+        if ($folder === '' || mb_strpos($folder, '/') !== false) {
+            throw new \RuntimeException('Creating page failed: bad folder name', 400);
+        }
 
         if (isset($this->data['name']) && strpos($this->data['name'], 'modular/') === 0) {
             $this->data['header']['body_classes'] = 'modular';
-            if ($folder[0] !== '_') {
-                $folder = '_' . $folder;
-            }
+            $folder = '_' . $folder;
         }
         $this->data['folder'] = $folder;
 
@@ -985,7 +1010,14 @@ class AdminController
             $this->active = true;
             $this->currentRoute = $uri::getCurrentRoute();
             $this->route = $routeObject;
-            $referrer = $uri->referrer();
+
+            $base = $this->grav['pages']->base();
+            if ($base) {
+                // Fix referrer for sub-folder multi-site setups.
+                $referrer = preg_replace('`^' . $base . '`', '', $uri->referrer());
+            } else {
+                $referrer = $uri->referrer();
+            }
             $this->referrerRoute = $referrer ? RouteFactory::createFromString($referrer) : $this->currentRoute;
         }
     }
@@ -1180,6 +1212,8 @@ class AdminController
                     $language = $this->getLanguage();
                     if ($object->hasTranslation($language)) {
                         $object = $object->getTranslation($language);
+                    } elseif (!in_array('', $object->getLanguages(true), true)) {
+                        $object->language($language);
                     }
                 }
             }

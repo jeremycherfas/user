@@ -1,3 +1,21 @@
+# v1.0.0-rc.17
+## 10/07/2020
+
+1. [](#bugfix)
+    * Fixed media uploads for objects which do not implement `FlexAuthorizeInterface`
+    * Fixed file picker field not recognizing `folder: @self` variants
+
+# v1.0.0-rc.16
+## 09/01/2020
+
+1. [](#improved)
+    * Simplified `Flex Pages` admin not to differentiate between default language file extensions [#47](https://github.com/trilbymedia/grav-plugin-flex-objects/issues/47)
+1. [](#bugfix)
+    * Fixed extra space in Flex admin pages
+    * Fixed folder creation with parent other than root [#66](https://github.com/trilbymedia/grav-plugin-flex-objects/issues/66)
+    * Fixed task redirects in sub-folder multi-site environments
+    * Fixed typo in default permissions (should have been `admin.flex-objects`) [grav#2915](https://github.com/getgrav/grav/issues/2915)
+
 # v1.0.0-rc.15
 ## 07/22/2020
 
