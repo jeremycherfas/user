@@ -10,9 +10,15 @@ taxonomy:
     tag:
         - Fiction
 visible: true
-image: latc-us.jpg
-imagealt: "Book cover"
-
+book:
+	title: "Love Among the Chickens"
+	author: "P.G. Wodehouse"
+	url: "https://www.gutenberg.org/ebooks/20532"
+	year: "1906"
+	started: "2019-07-26"
+	finished: "2019-07-28"
+	rating: "3"
+	image: "latc-us.jpg"
 ---
 
 Classic Wodehouse, full of period dialogue, impossible plot contrivances, two-dimensional characters and everything else one might love about old Plum, if one loves old Plum at all. Infectious, too. But here's the thing: all the while I was reading it, I couldn't shake one thought from my mind.
@@ -38,10 +44,6 @@ Take the matter of the incubator, which stuck with me because for a good five ye
 There's plenty more in the same vein, which it would be tedious to repeat. It was bad enough that my helpless splutterings disturbed The Main Squeeze to the extent that they did. At one point I was very tempted to reread the whole thing, picking out every salient chunk that proves my thesis. In the end, though, neither of them are worth it.
 
 What might well be worth it, on the other hand, is Robert McCrum's Woodhouse: A Life.
-
-<div class="citation">
-Wodehouse, P.G. <i>Love Among the Chickens: A Story of the Haps and Mishaps on an English Chicken Farm</i>. Circle Publishing, 1909.
-</div>
 
 <div class="flex flex-row w-full">
 <div class="flex w-1/2 ">
