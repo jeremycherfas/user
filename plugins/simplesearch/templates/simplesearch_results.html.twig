@@ -1,7 +1,9 @@
 {% extends 'partials/simplesearch_base.html.twig' %}
 
 {% block content %}
-
+<div class="md:flex md:flex-row">
+<!-- Contains everything -->
+	<div class="flex flex-col md:w-2/3 pt-4">
     <div class="content-padding simplesearch">
         <h1 class="search-header">{{ "PLUGIN_SIMPLESEARCH.SEARCH_RESULTS"|t }}</h1>
         <div class="center">
@@ -18,9 +20,11 @@
             {% endif %}
         </p>
         </div>
+<!-- 
 <div class="md:flex md:flex-row">
-<!-- Contains everything -->
+<!~~ Contains everything ~~>
 	<div class="flex flex-col md:w-2/3 pt-4">
+ -->
 <!-- Contains feed content -->
         {% for page in search_results %}
             {% include 'partials/simplesearch_item.html.twig' with {'page': page} %}
