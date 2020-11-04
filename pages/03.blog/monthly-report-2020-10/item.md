@@ -14,7 +14,7 @@ summary:
 subhead: ' '
 ---
 
-The good news is that my new passport arrived on Monday. The bad is that we’re looking at another lockdown, albeit slightly lighter, and it seems highly unlikely that I’ll need a new passport before 2021 at the earliest. But we did manage a week couple of days away in Florence, soaking up some culture to last through the dark days ahead. Marketing the podcast — at least as far as buying €30 of advertising on FB goes — was a complete bust. Not one new listener that I could detect. But more people do seem to be downloading the transcripts, so that’s surely a better use of the money.
+The good news is that my new passport arrived on Monday (first in November, but worth a mention). The bad is that we’re looking at another lockdown, albeit slightly lighter, and it seems highly unlikely that I’ll need a new passport before 2021 at the earliest. But we did manage a couple of days away in Florence, soaking up some culture to last through the dark days ahead. Marketing the podcast — at least as far as buying €30 of advertising on FB goes — was a complete bust. Not one new listener that I could detect. But more people do seem to be downloading the transcripts, so that’s surely a better use of the money.
 
 ===
 
@@ -24,13 +24,13 @@ The good news is that my new passport arrived on Monday. The bad is that we’re
 - Terrific visit to the HQ of the Knights of Malta (not yet written up, alas).
 - Minor tweakery to design and CSS on this site, mostly 99% invisible, I hope.
 - Made 3½ jars of grape jam, and very good it is too.
-- Started to alternate two cycles of intermediate moderate HIIT with customary 3 cycles of beginners ditto.
+- Started to alternate two cycles of intermediate moderate HIIT with customary three cycles of beginners ditto.
 - Very difficult piece of work done to my satisfaction and, I think, the client’s.
 - Lunch at the beach.
 
 ### Exist.io
 
-
+Weight a little sown, steps up. Not sure how valuable this is any more.
 
 ### Activities
 
@@ -44,7 +44,7 @@ October:
 * Walking with sticks: 0
 * Reading: 16 
 * Steps (avge): 11,448
-* Podcasts: 32 (But only 32 [logged](https://www.jeremycherfas.net/stream/); no investigation yet)
+* Podcasts: 36 (But only 32 [logged](https://www.jeremycherfas.net/stream/); still no investigation)
 * In bed/asleep 8:29/7:41
 * 7 Minutes: 13 days and 34 cycles (started intermediate 2-cycle on 12 October)
 * Weight (avge): 85.3 kg
@@ -97,11 +97,11 @@ Five new posts, again, no old ones brought in, again.
 
 ### Niggles
 
-Resume work on Micropub for Grav? Still.
+As we approach the end of the year, maybe I need to get serious about chartist.js, as I did, kinda sorta, about Tailwind.css this past month. Seems stupid to keep adding to the data in every monthly report, rather than keep it in one place and read it in when needed.
 
 ### Final remarks
 
-Sort of resolved to do more active marketing of the podcast, though I hate doing it, which is probably why I have resolved many times before and failed to follow through. This time might be different.
+Decided to get a Raspberry Pi in an effort to make myself a home server of some kind, after a near-death experience with the iMac and a deadline looming. SyncThing works a treat, but only when both machines are alive and well. So I need a machine that will stay alive and well and accessible no matter what happens to the other devices.
 
 <script>
 var data = {
