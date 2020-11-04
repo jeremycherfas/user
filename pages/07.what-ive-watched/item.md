@@ -16,6 +16,91 @@ template: item
 <!-- Outer List -->
 <ul class="log">
 
+<li class="log-month">October</li>
+<ul class="log-entry">
+<li class="log-day">31</li>
+<ul>
+<li class="log-item">Finished watching <em>Tehran</em> on Apple TV <strong>T</strong> And blimey it was good. So much suspense. Such an open ending.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">27</li>
+<ul>
+<li class="log-item">Finished reading <em>Our Daily Bread</em> by Predrag Matvejević <strong>B</strong> A bit of a mixed bag, that's for sure. And I still have Gell-Mann amnesia about it.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">25</li>
+<ul>
+<li class="log-item">Watched <em>Through a lens darkly</em> on Kanopy <strong>F</strong> Documentaryocumentary about Black photographers, very interesting, and a bit too arty.</li>
+</ul>
+</ul>
+<ul class="log-entry">
+<li class="log-day">17</li>
+<ul>
+<li class="log-item">Watched <em>I, Tonya</em> on iTunes  <strong>F</strong> Absolutely wonderful permonances, and what a story.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">16</li>
+<ul>
+<li class="log-item">Started reading <em>Our Daily Bread</em> by Predrag Matvejević <strong>B</strong> and it is provoking a severe case of Gell-Mann amnesia</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">14</li>
+<ul>
+<li class="log-item">Started watching <em>Borgen s02</em> on Netflix <strong>T</strong> And it continues to be rather good.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">13</li>
+<ul>
+<li class="log-item">Watched one episode of <em>Doctor Foster</em> on Netflix <strong>T</strong> and that was enough to abandon it with no regrets.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">11</li>
+<ul>
+<li class="log-item">Finished watching <em>Borgen s01</em> on Netflix <strong>T</strong> Danish House of Cards, I thought at first. Then Danish West Wing. First instinct was correct.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">07</li>
+<ul>
+<li class="log-item">Watched <em>My Octopus Teacher</em> on Netflix <strong>F</strong> Just wow. Amazing work, and so uplifting too.</li>
+</ul>
+</ul> 
+
+<ul class="log-entry">
+<li class="log-day">05</li>
+<ul>
+<li class="log-item">Finished watching <em>Enola Holmes</em> on Netflix <strong>F</strong> … gut gekocht.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">04</li>
+<ul>
+<li class="log-item">Finished reading <em>Delizia!</em> by John Dickie <strong>B</strong> So interesting, so informative, and such a good antidote to all the tosh out there.</li>
+<li class="log-item">Started watching <em>Le Bureau s02</em> on Apple TV <strong>T</strong> Still way too good.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">03</li>
+<ul>
+<li class="log-item">Started watching <em>Enola Holmes</em> on Netflix <strong>F</strong> Scheiss, aber …</li>
+</ul>
+</ul>
+
 <li class="log-month">September</li>
 
 <ul class="log-entry">
@@ -56,7 +141,7 @@ template: item
 <ul class="log-entry">
 <li class="log-day">01</li>
 <ul>
-<li class="log-item">Started reading <em>Delizie</em> by John Dickie <strong>B</strong> Should have done this long ago.</li>
+<li class="log-item">Started reading <em>Delizia!</em> by John Dickie <strong>B</strong> Should have done this long ago.</li>
 </ul>
 </ul> 
 
