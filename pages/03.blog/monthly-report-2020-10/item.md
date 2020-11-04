@@ -30,7 +30,7 @@ The good news is that my new passport arrived on Monday (first in November, but 
 
 ### Exist.io
 
-Weight a little sown, steps up. Not sure how valuable this is any more.
+Weight a little down, steps up. Not sure how valuable this is any more.
 
 ### Activities
 
@@ -38,18 +38,18 @@ So, yeah, the new activity monitor is an Apple Watch SE. Not sure how that is go
 
 ![All rings closed for the month of October|](october-rings.jpg){.center}
 
-I really like it, although I mostly use it for telling the time. Such a loser. The fact of the SE does make glad I “wasted” some money on the previous less than useful MiBand. One of the strange things is that it will sometimes prompt you to add a workout, if you’re out walking purposefully. But the lack of a green dot on 29 and 30 October signifies only that we didn’t move fast enough to trigger that suggestion. Move we did, though, a total of 23.6 km plodding slowly through the Uffizi Galleries and most of the rest of Florence.
+I really like it, although I mostly use it for telling the time. Such a loser. The fact of the SE does make glad I “wasted” some money on the previous less than useful MiBand. One of the strange things is that the watch will sometimes prompt you to add a workout, if you’re out walking purposefully. But the lack of a green dot on 29 and 30 October signifies only that we didn’t move fast enough to trigger that suggestion. Move we did, though, a total of 23.6 km plodding slowly through the Uffizi Galleries and most of the rest of Florence.
 
-October: 
+#### October: 
 * Walking with sticks: 0
 * Reading: 16 
 * Steps (avge): 11,448
 * Podcasts: 36 (But only 32 [logged](https://www.jeremycherfas.net/stream/); still no investigation)
 * In bed/asleep 8:29/7:41
 * 7 Minutes: 13 days and 34 cycles (started intermediate 2-cycle on 12 October)
-* Weight (avge): 85.3 kg
+* Weight (avge): 85.3 kg. 
 
-September: 
+#### September: 
 * Walking with sticks: 0
 * Reading: 14 
 * Steps (avge): 8286 (but 10 days with barely a walk)
