@@ -16,7 +16,68 @@ template: item
 <!-- Outer List -->
 <ul class="log">
 
+<li class="log-month">December</li>
+
+<ul class="log-entry">
+<li class="log-day">6</li>
+<ul>
+<li class="log-item">Watched <em>The Gentlemen</em> on Amazon Prime <strong>F</strong> Guy Ritchie, innit. Cracking.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">5</li>
+<ul>
+<li class="log-item">Watched half of <em>The Conformist</em> on Kanopy <strong>F</strong> and then couldn’t take any more, at least for now.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">4</li>
+<ul>
+<li class="log-item">Finished watching <em>Le Bureau s03</em> on Apple TV <strong>T</strong> Far and away the best thing in years.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">1</li>
+<ul>
+<li class="log-item">Finished watching <em>Borgen s02</em> on Netflix <strong>T</strong> Still undecided between Danish West Wing and Danish House of Cards; both at times, but mostly the former.</li>
+</ul>
+</ul>
+
+<li class="log-month">November</li>
+
+<ul class="log-entry">
+<li class="log-day">24</li>
+<ul>
+<li class="log-item">Finished watching <em>Queen’s Gambit</em> on Netflix <strong>T</strong> Such a treat.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">15</li>
+<ul>
+<li class="log-item">Started watching <em>The Crown s04</em> on Netflix <strong>T</strong> Not as much fun when you have a better idea of how awful things turned out.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">10</li>
+<ul>
+<li class="log-item">Watched <em>Hockney on Photography</em> on YouTube <strong>T</strong> Sweet little film from 2009, in which he explains the why of what he does.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">03</li>
+<ul>
+<li class="log-item">Started watching <em>Queen’s Gambit</em> on Netflix <strong>T</strong> Pretty enthralling.</li>
+</ul>
+</ul>
+
 <li class="log-month">October</li>
+
 <ul class="log-entry">
 <li class="log-day">31</li>
 <ul>
