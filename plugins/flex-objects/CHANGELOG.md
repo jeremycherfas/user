@@ -1,3 +1,36 @@
+# v1.0.0-rc.20
+## 12/15/2020
+
+1. [](#improved)
+    * Default cookies usage to SameSite Lax [grav-plugin-admin#1998](https://github.com/getgrav/grav-plugin-admin/issues/1998)
+    * Fixed typo [#89](https://github.com/trilbymedia/grav-plugin-flex-objects/issues/89)
+
+# v1.0.0-rc.19
+## 12/02/2020
+
+1. [](#improved)
+    * Just keeping sync with Grav rc.19
+
+
+# v1.0.0-rc.18
+## 12/02/2020
+
+1. [](#new)
+    * Require **PHP 7.3.6**
+1. [](#improved)
+    * Improved frontend templates
+    * Improve blueprint structure
+    * Hooked up Duplicate and Move from within Pages list [#81](https://github.com/trilbymedia/grav-plugin-flex-objects/issues/81)
+    * Respect CRUD ACL actions for items shortcuts in pages list [#82](https://github.com/trilbymedia/grav-plugin-flex-objects/issues/82)
+    * Refresh object on controllers to make sure it is up to date
+1. [](#bugfix)
+    * Fixed fatal error in admin if list view hasn't been defined
+    * Fixed fatal error in admin if directory throws exception
+    * Fixed attempts to add an existing page
+    * Fixed form loosing its form state if saving fails when using `ObjectController`
+    * Fixed missing context when rendering collection in frontend
+    * Fixed Flex Admin activating on too old Admin plugin versions
+    
 # v1.0.0-rc.17
 ## 10/07/2020
 

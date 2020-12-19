@@ -45,6 +45,7 @@ body.on('input', 'input[data-crudp-key]', (event) => {
 });
 
 body.on('click', '[data-acl_picker] .remove-item', (event) => {
+    event.preventDefault();
     const target = $(event.currentTarget);
     const container = target.closest('.permissions-item');
     const wrapper = target.closest('[data-acl_picker_id]');
@@ -59,13 +60,14 @@ body.on('click', '[data-acl_picker] .remove-item', (event) => {
 });
 
 body.on('click', '[data-acl_picker] .add-item', (event) => {
+    event.preventDefault();
     const target = $(event.currentTarget);
     const item = target.closest('.permissions-item');
     const wrapper = target.closest('[data-acl_picker_id]');
     const ID = wrapper.data('acl_picker_id');
     const template = document.querySelector(`template[data-id="acl_picker-${ID}"]`);
 
-    const clone = $(template.content.querySelector(':first-child')).clone();
+    const clone = $(template.content.firstElementChild).clone();
     clone.insertAfter(item);
 
     // randomize ids

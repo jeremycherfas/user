@@ -1,17 +1,17 @@
 [
     {
         "name": "composer/semver",
-        "version": "1.5.1",
-        "version_normalized": "1.5.1.0",
+        "version": "1.7.1",
+        "version_normalized": "1.7.1.0",
         "source": {
             "type": "git",
             "url": "https://github.com/composer/semver.git",
-            "reference": "c6bea70230ef4dd483e6bbcab6005f682ed3a8de"
+            "reference": "38276325bd896f90dfcfe30029aa5db40df387a7"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/composer/semver/zipball/c6bea70230ef4dd483e6bbcab6005f682ed3a8de",
-            "reference": "c6bea70230ef4dd483e6bbcab6005f682ed3a8de",
+            "url": "https://api.github.com/repos/composer/semver/zipball/38276325bd896f90dfcfe30029aa5db40df387a7",
+            "reference": "38276325bd896f90dfcfe30029aa5db40df387a7",
             "shasum": ""
         },
         "require": {
@@ -20,7 +20,7 @@
         "require-dev": {
             "phpunit/phpunit": "^4.5 || ^5.0.5"
         },
-        "time": "2020-01-13T12:06:48+00:00",
+        "time": "2020-09-27T13:13:07+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -64,38 +64,33 @@
     },
     {
         "name": "laminas/laminas-xml",
-        "version": "1.2.0",
-        "version_normalized": "1.2.0.0",
+        "version": "1.3.0",
+        "version_normalized": "1.3.0.0",
         "source": {
             "type": "git",
             "url": "https://github.com/laminas/laminas-xml.git",
-            "reference": "879cc66d1bba6a37705e98074f52a6960c220020"
+            "reference": "844dc64557b1ad8a2e0eadb741510ba992674f99"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/laminas/laminas-xml/zipball/879cc66d1bba6a37705e98074f52a6960c220020",
-            "reference": "879cc66d1bba6a37705e98074f52a6960c220020",
+            "url": "https://api.github.com/repos/laminas/laminas-xml/zipball/844dc64557b1ad8a2e0eadb741510ba992674f99",
+            "reference": "844dc64557b1ad8a2e0eadb741510ba992674f99",
             "shasum": ""
         },
         "require": {
             "laminas/laminas-zendframework-bridge": "^1.0",
-            "php": "^5.6 || ^7.0"
+            "php": "^7.3 || ~8.0.0"
         },
         "replace": {
-            "zendframework/zendxml": "self.version"
+            "zendframework/zendxml": "^1.2.0"
         },
         "require-dev": {
+            "ext-iconv": "*",
             "laminas/laminas-coding-standard": "~1.0.0",
-            "phpunit/phpunit": "^5.7.27 || ^6.5.8 || ^7.1.4"
+            "phpunit/phpunit": "^9.4"
         },
-        "time": "2019-12-31T18:05:42+00:00",
+        "time": "2020-11-18T20:46:37+00:00",
         "type": "library",
-        "extra": {
-            "branch-alias": {
-                "dev-master": "1.2.x-dev",
-                "dev-develop": "1.3.x-dev"
-            }
-        },
         "installation-source": "dist",
         "autoload": {
             "psr-4": {
@@ -116,17 +111,17 @@
     },
     {
         "name": "laminas/laminas-zendframework-bridge",
-        "version": "1.1.0",
-        "version_normalized": "1.1.0.0",
+        "version": "1.1.1",
+        "version_normalized": "1.1.1.0",
         "source": {
             "type": "git",
             "url": "https://github.com/laminas/laminas-zendframework-bridge.git",
-            "reference": "4939c81f63a8a4968c108c440275c94955753b19"
+            "reference": "6ede70583e101030bcace4dcddd648f760ddf642"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/laminas/laminas-zendframework-bridge/zipball/4939c81f63a8a4968c108c440275c94955753b19",
-            "reference": "4939c81f63a8a4968c108c440275c94955753b19",
+            "url": "https://api.github.com/repos/laminas/laminas-zendframework-bridge/zipball/6ede70583e101030bcace4dcddd648f760ddf642",
+            "reference": "6ede70583e101030bcace4dcddd648f760ddf642",
             "shasum": ""
         },
         "require": {
@@ -136,13 +131,9 @@
             "phpunit/phpunit": "^5.7 || ^6.5 || ^7.5 || ^8.1 || ^9.3",
             "squizlabs/php_codesniffer": "^3.5"
         },
-        "time": "2020-08-18T16:34:51+00:00",
+        "time": "2020-09-14T14:23:00+00:00",
         "type": "library",
         "extra": {
-            "branch-alias": {
-                "dev-master": "1.0.x-dev",
-                "dev-develop": "1.1.x-dev"
-            },
             "laminas": {
                 "module": "Laminas\\ZendFrameworkBridge"
             }
@@ -166,12 +157,6 @@
             "autoloading",
             "laminas",
             "zf"
-        ],
-        "funding": [
-            {
-                "url": "https://funding.communitybridge.org/projects/laminas-project",
-                "type": "community_bridge"
-            }
         ]
     },
     {
@@ -234,17 +219,17 @@
     },
     {
         "name": "scssphp/scssphp",
-        "version": "1.2",
-        "version_normalized": "1.2.0.0",
+        "version": "v1.4.0",
+        "version_normalized": "1.4.0.0",
         "source": {
             "type": "git",
             "url": "https://github.com/scssphp/scssphp.git",
-            "reference": "ce970268a912dabbfaa0eff65dbc5e4a2a6cb757"
+            "reference": "f7c9088320e218ca42e4ef0074259a1ba24ec93a"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/scssphp/scssphp/zipball/ce970268a912dabbfaa0eff65dbc5e4a2a6cb757",
-            "reference": "ce970268a912dabbfaa0eff65dbc5e4a2a6cb757",
+            "url": "https://api.github.com/repos/scssphp/scssphp/zipball/f7c9088320e218ca42e4ef0074259a1ba24ec93a",
+            "reference": "f7c9088320e218ca42e4ef0074259a1ba24ec93a",
             "shasum": ""
         },
         "require": {
@@ -253,13 +238,14 @@
             "php": ">=5.6.0"
         },
         "require-dev": {
-            "phpunit/phpunit": "^5.7 || ^6.5 || ^7.5 || ^8.3",
-            "sass/sass-spec": "2020.08.10",
+            "phpunit/phpunit": "^5.7 || ^6.5 || ^7.5 || ^8.3 || ^9.4",
+            "sass/sass-spec": "2020.10.29",
             "squizlabs/php_codesniffer": "~3.5",
+            "symfony/phpunit-bridge": "^5.1",
             "twbs/bootstrap": "~4.3",
             "zurb/foundation": "~6.5"
         },
-        "time": "2020-08-26T20:47:29+00:00",
+        "time": "2020-11-07T20:53:41+00:00",
         "bin": [
             "bin/pscss"
         ],

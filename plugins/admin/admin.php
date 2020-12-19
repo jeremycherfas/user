@@ -85,7 +85,7 @@ class AdminPlugin extends Plugin
                 ['autoload', 100001],
                 ['setup', 100000],
                 ['onPluginsInitialized', 1001]
-              ],
+            ],
             'onRequestHandlerInit' => [
                 ['onRequestHandlerInit', 100000]
             ],
@@ -432,7 +432,7 @@ class AdminPlugin extends Plugin
             'template' => 'dashboard-maintenance',
         ];
         $this->grav['twig']->plugins_hooked_dashboard_widgets_top[] = [
-            'name' => $lang->translate('PLUGIN_ADMIN.STATISTICS'),
+            'name' => $lang->translate('PLUGIN_ADMIN.VIEWS_STATISTICS'),
             'template' => 'dashboard-statistics',
         ];
         $this->grav['twig']->plugins_hooked_dashboard_widgets_top[] = [
@@ -921,8 +921,17 @@ class AdminPlugin extends Plugin
 
         // First filter by configuration
         $hideTypes = Grav::instance()['config']->get('plugins.admin.hide_page_types', []);
-        foreach ((array) $hideTypes as $type) {
-            unset($types[$type]);
+        foreach ((array) $hideTypes as $hide) {
+            if (isset($types[$hide])) {
+                unset($types[$hide]);
+            } else {
+                foreach ($types as $key => $type) {
+                    $match = preg_match('#' . $hide . '#i', $key);
+                    if ($match) {
+                        unset($types[$key]);
+                    }
+                }
+            }
         }
 
         // Allow manipulating of the data by event
@@ -946,8 +955,17 @@ class AdminPlugin extends Plugin
 
         // First filter by configuration
         $hideTypes = (array) Grav::instance()['config']->get('plugins.admin.hide_modular_page_types', []);
-        foreach ($hideTypes as $type) {
-            unset($types[$type]);
+        foreach ((array) $hideTypes as $hide) {
+            if (isset($types[$hide])) {
+                unset($types[$hide]);
+            } else {
+                foreach ($types as $key => $type) {
+                    $match = preg_match('#' . $hide . '#i', $key);
+                    if ($match) {
+                        unset($types[$key]);
+                    }
+                }
+            }
         }
 
         // Allow manipulating of the data by event

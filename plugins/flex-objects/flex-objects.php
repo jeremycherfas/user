@@ -27,16 +27,15 @@ use RocketTheme\Toolbox\Event\Event;
  */
 class FlexObjectsPlugin extends Plugin
 {
-    const MIN_GRAV_VERSION = '1.7.0-rc.8';
+    const MIN_GRAV_VERSION = '1.7.0-rc.17';
 
+    /** @var int[] */
     public $features = [
         'blueprints' => 1000,
     ];
 
     /** @var AdminController */
     protected $controller;
-
-    protected $directory;
 
     /**
      * @return bool
@@ -121,7 +120,7 @@ class FlexObjectsPlugin extends Plugin
      */
     public function onPluginsInitialized(): void
     {
-        if ($this->isAdmin()) {
+        if ($this->isAdmin() && method_exists(Admin::class, 'getChangelog')) {
             /** @var UserInterface $user */
             $user = $this->grav['user'] ?? null;
 
@@ -419,7 +418,7 @@ class FlexObjectsPlugin extends Plugin
     }
 
     /**
-     * Set needed variables to display direcotry.
+     * Set needed variables to display directory.
      */
     public function onTwigAdminVariables(): void
     {

@@ -23,9 +23,6 @@ pages:
   show_modular: true
 session:
   timeout: 1800
-warnings:
-  delete_page: true
-  secure_delete: false
 edit_mode: normal
 frontend_preview_target: inline
 show_github_msg: true
@@ -76,7 +73,7 @@ whitelabel:
       content-link: '#0090D9'
       content-link2: '#da4b46'
       content-header: '#414147'
-      content-tabs-bg: '#e3e3e3'
+      content-tabs-bg: '#e6e6e6'
       content-tabs-text: '#808080'
       button-bg: '#0090D9'
       button-text: '#ffffff'

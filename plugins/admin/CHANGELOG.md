@@ -1,5 +1,51 @@
+# v1.10.0-rc.20
+## 12/14/2020
+
+1. [](#improved)
+    * Cookies now explicitly set `SameSite` to `Lax` unless otherwise specified [#1998](https://github.com/getgrav/grav-plugin-admin/issues/1998)
+    * Exposed **Cookies** class (`Grav.default.Utils.Cookies`) for developers that need it in Admin.
+1. [](#bugfix)
+    * Fixed Plugins references in Themes details page.
+    * Fixed issue preventing purchase of Themes within Admin and redirecting instead.
+    * Regression: Values inside Fieldset do not display [#1995](https://github.com/getgrav/grav-plugin-admin/issues/1995)
+
+# v1.10.0-rc.19
+## 12/02/2020
+
+1. [](#improved)
+    * Just keeping sync with Grav rc.19
+
+# v1.10.0-rc.18
+## 12/02/2020
+
+1. [](#new)
+    * Retired "Secure Delete" and "Warn on page delete". You are now always warned and asked to confirm a deletion.
+1. [](#improved)
+    * Auto-link a plugin/theme license in details if it starts with `http`
+    * Allow to fallback to `docs:` instead of `readme:`
+    * Forward a `sid` to GPM when downloading a premium package
+    * Better support for array field key/value when either key or value is stored empty [#1972](https://github.com/getgrav/grav-plugin-admin/issues/1972)
+    * Remember the open state of the sidebar [#1973](https://github.com/getgrav/grav-plugin-admin/issues/1973)
+    * Upgraded node dependencies to latest version. Improved speed of JS compilation.
+    * Added modal to confirm updating Grav as well as cool down counter before enabling Update button [#1257](https://github.com/getgrav/grav-plugin-admin/issues/1257)
+    * Better handling of offline/intranet mode when the repository index is missing. Faster admin. [#1916](https://github.com/getgrav/grav-plugin-admin/issues/1916)
+    * Statistics is now Page View Statistics [#1885](https://github.com/getgrav/grav-plugin-admin/issues/1885)
+    * It is now possible to use regex as values for "Hide page types in Admin" and "Hide modular page types in Admin" settings [#1828](https://github.com/getgrav/grav-plugin-admin/issues/1828)
+    * Default to `disabled` state for all cron-jobs
+1. [](#bugfix)
+    * Fixed Safari issue with new ACL picker field [#1955](https://github.com/getgrav/grav-plugin-admin/issues/1955)
+    * Stop propagation of ACL add button in ACL picker [flex-objects#83](https://github.com/trilbymedia/grav-plugin-flex-objects/issues/83)
+    * Fixed missing special groups `authors` and `defaults` for pages
+    * Fixed Page Move action and selection highlight in Parents selector modal [flex-objects#80](https://github.com/trilbymedia/grav-plugin-flex-objects/issues/80)
+    * Fixed folder auto-naming in Add Module [#1937](https://github.com/getgrav/grav-plugin-admin/issues/1937)
+    * Fixed remodal issue triggering close when selecting a dropdown item ending outside of scope [#1682](https://github.com/getgrav/grav-plugin-admin/issues/1682)
+    * Reworked how collapsed lists work so the tooltip is not cut off [#1928](https://github.com/getgrav/grav-plugin-admin/issues/1928)
+    * Fixed KeepAlive issue where too large of a session value would fire the keep alive immediately [#1860](https://github.com/getgrav/grav-plugin-admin/issues/1860)
+    * Fixed stringable objects breaking the inputs
+    * Fixed filepicker, pagemediaselect fields with `multiple: true` and `array: true` [#1580](https://github.com/getgrav/grav-plugin-admin/issues/1580)
+
 # v1.10.0-rc.17
-## 10/02/2020
+## 10/07/2020
 
 1. [](#new)
     * Support premium themes
@@ -285,6 +331,37 @@
 1. [](#bugfix)
     * Fixed admin caching issues
 
+# v1.9.19
+## 12/14/2020
+
+1. [](#bugfix)
+    * Fixed `pages` field escaping issues, needs Grav update, too [#1990](https://github.com/getgrav/grav-plugin-admin/issues/1990)
+    * Fixed Plugins references in Themes details page.
+    * Fixed issue preventing purchase of Themes within Admin and redirecting instead.
+    * Fixed Page Picker not passing admin token
+
+# v1.9.18
+## 12/02/2020
+
+1. [](#new)
+    * Never allow Admin pages to be rendered in `<frame>`, `<iframe>`, `<embed>` or `<object>` for improved security
+1. [](#improved)
+    * Auto-link a plugin/theme license in details if it starts with `http`
+    * Allow to fallback to `docs:` instead of `readme:`
+    * Backported finder/pages navigation from 1.10 (you will still need 1.10 for the fancy Parent Picker)
+    * Forward a `sid` to GPM when downloading a premium package
+    * Add focus states to login buttons [#1839](https://github.com/getgrav/grav-plugin-admin/pull/1839)
+    * Output raw text in paragraph for fieldset [#1956](https://github.com/getgrav/grav-plugin-admin/pull/1956)
+    * Set scheduled items to be 'disabled' by default
+    * Added scheduler warning about potential dangers of use
+1. [](#bugfix)
+    * Escape page title in `pages` field
+    * Fixed unused task RemoveMedia, it cannot be used directly anymore [GHSA-945r-cjfm-642c](https://github.com/getgrav/grav-plugin-admin/security/advisories/GHSA-945r-cjfm-642c)
+    * Tightened checks when removing a media file [GHSA-945r-cjfm-642c](https://github.com/getgrav/grav-plugin-admin/security/advisories/GHSA-945r-cjfm-642c)
+    * Removed unused parameter in file field [GHSA-945r-cjfm-642c](https://github.com/getgrav/grav-plugin-admin/security/advisories/GHSA-945r-cjfm-642c)
+    * Fixed backup download URL [GHSA-vrvq-2pxg-rw5r](https://github.com/getgrav/grav-plugin-admin/security/advisories/GHSA-vrvq-2pxg-rw5r)
+    * Fixed deleting backup [GHSA-85r3-mf4x-qp8f](https://github.com/getgrav/grav-plugin-admin/security/advisories/GHSA-85r3-mf4x-qp8f)
+
 # v1.9.17
 ## 10/07/2020
 
@@ -317,6 +394,8 @@
 
 1. [](#improved)
     * Added `slug` and `type` to blueprints
+1. [](#bugfix)
+    * Support markdown in `fieldset.text` [#2934](https://github.com/getgrav/grav/issues/2934)
 
 # v1.9.13
 ## 03/05/2020

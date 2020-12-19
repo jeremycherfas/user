@@ -1,3 +1,6 @@
+// polyfills
+import '@babel/polyfill';
+
 import $ from 'jquery';
 import './utils/remodal';
 import 'simplebar';
@@ -7,9 +10,10 @@ import Updates, { Instance as updates, Notifications, Feed } from './updates';
 import Dashboard from './dashboard';
 import Pages from './pages';
 import Forms from './forms';
+import Cookies from './utils/cookies';
 import './plugins';
 import './themes';
-import { Filter as MediaFilter, Instance as MediaFilterInstance} from './media';
+import MediaFilter, { Instance as MediaFilterInstance} from './media';
 import toastr from './utils/toastr';
 import request from './utils/request';
 import './utils/2fa';
@@ -19,6 +23,7 @@ import './whitelabel';
 // bootstrap jQuery extensions
 import './utils/bootstrap-transition';
 import './utils/bootstrap-collapse';
+import './utils/bootstrap-dropdown';
 
 // tabs memory
 import './utils/tabs-memory';
@@ -63,5 +68,5 @@ export default {
         Instance: MediaFilterInstance
     },
     Scrollbar: { Scrollbar: { deprecated: true }, Instance: { deprecated: true } },
-    Utils: { request, toastr }
+    Utils: { request, toastr, Cookies }
 };

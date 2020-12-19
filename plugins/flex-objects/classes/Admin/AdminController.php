@@ -38,6 +38,7 @@ use Psr\Http\Message\ServerRequestInterface;
 use RocketTheme\Toolbox\Event\Event;
 use RocketTheme\Toolbox\ResourceLocator\UniformResourceLocator;
 use RocketTheme\Toolbox\Session\Message;
+use function is_callable;
 
 /**
  * Class AdminController
@@ -235,7 +236,7 @@ class AdminController
             throw new \RuntimeException($this->admin::translate('PLUGIN_ADMIN.INSUFFICIENT_PERMISSIONS_FOR_TASK') . ' list.', 403);
         }
 
-        $config = $collection->getFlexDirectory()->getConfig('admin.export', false);
+        $config = $collection->getFlexDirectory()->getConfig('admin.views.export') ?? $collection->getFlexDirectory()->getConfig('admin.export') ?? false;
         if (!$config || empty($config['enabled'])) {
             throw new \RuntimeException($this->admin::translate('Not Found'), 404);
         }
@@ -430,6 +431,9 @@ class AdminController
 
         unset($this->data['blueprint']);
         $key = trim("{$route}/{$folder}", '/');
+        if ($directory->getObject($key)) {
+            throw new \RuntimeException("Page '/{$key}' already exists!", 403);
+        }
 
         $max = 0;
         if (isset($this->data['visible'])) {
@@ -595,7 +599,7 @@ class AdminController
             $data['lang'] = $this->getLanguage();
 
             // Display root if permitted.
-            $action = $directory->getConfig('admin.configure.authorize') ?? 'admin.super';
+            $action = $directory->getConfig('admin.views.configure.authorize') ?? $directory->getConfig('admin.configure.authorize') ?? 'admin.super';
             if ($this->user->authorize($action)) {
                 $data['filters']['type'][] = 'root';
             }
@@ -749,7 +753,7 @@ class AdminController
     {
         try {
             $directory = $this->getDirectory();
-            $config = $directory->getConfig('admin.configure.authorize') ?? 'admin.super';
+            $config = $directory->getConfig('admin.views.configure.authorize') ?? $directory->getConfig('admin.configure.authorize') ?? 'admin.super';
             if (!$this->user->authorize($config)) {
                 throw new \RuntimeException($this->admin::translate('PLUGIN_ADMIN.INSUFFICIENT_PERMISSIONS_FOR_TASK') . ' configure.', 403);
             }
@@ -1216,6 +1220,10 @@ class AdminController
                         $object->language($language);
                     }
                 }
+            }
+
+            if (is_callable([$object, 'refresh'])) {
+                $object->refresh();
             }
 
             $this->object = $object;
