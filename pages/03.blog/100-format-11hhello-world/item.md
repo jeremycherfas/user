@@ -19,6 +19,8 @@ feed:
 
 It pains me to admit this, but I am going to give up on my attempts to learn enough javascript to tinker. I just cannot get my head around enough of it. The two things I find most difficult are flow control and flow control. In particular, I just cannot grasp how to obtain some information inside a function and then be able to use it outside the function. Lord knows I've tried, like being back in the bad old days of BASIC and changing one thing at a time until — miracle of miracles — it works. Except that no matter what I have tried, it doesn't work.
 
+===
+
 That awful attitude of letting the machine find the mistakes must have come about after my first encounters with a computer, when I would submit rolls of punched tape or, when it came to printing my thesis, boxes of punched cards, to the priesthood of the IBM 370 in the late afternoon, after a day at the clanking machine. And after I annointed myself into the priesthood of the PDP-12, which still needed punched tape and booking a time slot; you didn’t mess around under those circumstances. You proof-read your code and stepped through it on a piece of paper. 
 
 All of which is a boastful way of saying that I am at least a little bit familiar with fundamental aspects of computer programs, at least as they were 50 years ago.
