@@ -5,6 +5,7 @@ date: 26-12-2020 10:34
 taxonomy:
     category:
         - stream
+        - Reviews
     tag:
         - podcasts
 header_image: '0'
@@ -13,3 +14,5 @@ image: artwork-resized.png
 template: item
 --- 
 Episode summary: Roman Mars joins Jesse Thorne on Bullseye this week to talk about life before podcasting, and what decades in radio has taught him. Roman has worked in podcasts and radio for decades at this point, but his career didn’t start out in audio. He was originally getting a PhD in genetics, pipetting stuff into tubes, recording data and the like. Roman and Jesse also spoke about how the pandemic has affected the design of cities, and which of those changes might be permanent. Get The 99% Invisible City today
+
+Excellent listen, not least because my own “career”, as I laughingly call it, followed a trajectory uncannily similar to Roman’s, at least at the outset. Lately, not so much.
