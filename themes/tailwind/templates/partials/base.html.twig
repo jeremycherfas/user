@@ -12,16 +12,9 @@
 	<link rel="alternate" type="application/atom+xml" title="Feed (Atom)" href="{{ base_url ~ " /blog.atom"}}" />
 	<link rel="alternate" type="application/rss+xml" title="Feed (RSS)" href="{{ base_url ~ " /blog.rss"}}" />
 	<link rel="alternate" type="application/json" title="Feed (json)" href="{{ base_url ~ " /blog.json"}}" />
-
-
-<!--	<script src="{{ base_url ~ "/user/themes/tailwind/js/chartist/dist/chartist.min.js" }}"></script>
-	<script src="http://localhost:8888/grav-admin/user/themes/tailwind/js/chartist-plugin-legend/chartist-plugin-legend.js"></script>
- -->
-<!-- 	<script src="https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js"> -->
-<!-- 	</script> -->
 	{% endblock head %} 
+
 {% block stylesheets %} 
-<!-- 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css"> -->
 	{% do assets.addCss('theme://css/tailwind-compiled.css' ~ '?v=1.1.2') %} 
 	{% do assets.addCss('theme://css/custom.css' ~ '?v=1.1.8') %} 
 	{% do assets.addCss('theme://js/chartist/dist/chartist.min.css' ~ '?v=1.0.1') %} 
