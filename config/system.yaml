@@ -129,6 +129,9 @@ assets:
   enable_asset_timestamp: false
   collections:
     jquery: 'system://assets/jquery/jquery-2.x.min.js'
+    chartist: 
+      - 'theme://js/chartist/dist/chartist.min.js'
+      - 'theme://js/chartist-plugin-legend/chartist-plugin-legend.js'
 errors:
   display: 1
   log: true
