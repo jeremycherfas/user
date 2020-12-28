@@ -12,18 +12,24 @@
 	<link rel="alternate" type="application/atom+xml" title="Feed (Atom)" href="{{ base_url ~ " /blog.atom"}}" />
 	<link rel="alternate" type="application/rss+xml" title="Feed (RSS)" href="{{ base_url ~ " /blog.rss"}}" />
 	<link rel="alternate" type="application/json" title="Feed (json)" href="{{ base_url ~ " /blog.json"}}" />
-	<script src="https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js">
-	</script>
+
+
+<!--	<script src="{{ base_url ~ "/user/themes/tailwind/js/chartist/dist/chartist.min.js" }}"></script>
+	<script src="http://localhost:8888/grav-admin/user/themes/tailwind/js/chartist-plugin-legend/chartist-plugin-legend.js"></script>
+ -->
+<!-- 	<script src="https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js"> -->
+<!-- 	</script> -->
 	{% endblock head %} 
 {% block stylesheets %} 
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css">
+<!-- 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css"> -->
 	{% do assets.addCss('theme://css/tailwind-compiled.css' ~ '?v=1.1.2') %} 
-	{% do assets.addCss('theme://css/custom.css' ~ '?v=1.1.1') %} 
-	{% do assets.addCss('theme://css/custom-charts.css' ~ '?v=1.0.0') %} 
+	{% do assets.addCss('theme://css/custom.css' ~ '?v=1.1.8') %} 
+	{% do assets.addCss('theme://js/chartist/dist/chartist.min.css' ~ '?v=1.0.1') %} 
 	{% do assets.addCss('theme://css/line-awesome.min.css') %} 
 {% endblock stylesheets %} 
-{% block javascripts %} 
+{% block javascripts %}
 	{% do assets.addJs('jquery', 101) %}
+	{% do assets.addJs('chartist' ) %}
 {% endblock javascripts %} 
 {% block assets deferred %} 
 	{{ assets.css()|raw }} 
@@ -69,6 +75,7 @@ Just repeats the same post.
 {% block footer %} {% include 'partials/myfooter.html.twig' %} {% endblock footer %} {% endblock body %} 
 </div>
 <!-- End all items inc sidebar -->
+
 {% block bottom %} {{ assets.js('bottom')|raw }} {% endblock bottom %} {{ dump(page) }} 
 </body>
 </html>
