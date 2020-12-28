@@ -454,8 +454,8 @@ pre {
     flex-basis: auto;
 }
 /* Override bar styles on bar charts. Bars are also strokes so you have maximum freedom in styling them. */
-/* I think I can remove .ct-bar from these and specify width for that element only */
-.ct-series-a .ct-bar {
+/* This is now being handled in modified chartist.min.css */
+.ct-series-a.ct-bar {
   /* a lighter blue */
   stroke: #77cae0;
   stroke-width: 5px;
@@ -477,16 +477,11 @@ pre {
  .ct-legend {
 		position: relative;
         padding-left: 40%;
+        margin-top: 0.8rem;
         text-align: justify;
-        font-size: 3rem;
         z-index: 100;
+          display: inline-block;
     }
-
-.ct-legend:after {
-  content: '';
-  width: 100%; /* Ensures there are at least 2 lines of text, so justification works */
-  display: inline-block;
-}
 
 .ct-legend li {
 display: inline-block;
