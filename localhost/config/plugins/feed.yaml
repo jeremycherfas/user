@@ -1,6 +1,8 @@
 enabled: true
 limit: 10
-description: 'Jeremy Cherfas Posts'
-lang: en-us
+title: 'Jeremy Cherfas'' Feed'
+description: 'Jeremy Cherfas'' Posts'
 length: 0
 enable_json_feed: true
+show_last_modified: true
+lang: en-us
