@@ -1,4 +1,4 @@
-absolute_urls: true
+absolute_urls: false
 timezone: null
 param_sep: ':'
 wrapped_site: false
