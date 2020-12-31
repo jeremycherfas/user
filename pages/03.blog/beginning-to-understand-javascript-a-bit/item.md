@@ -7,6 +7,7 @@ taxonomy:
         - blog
     tag:
         - Geeky
+        - IndieWeb
 summary:
     enabled: '1'
 subhead: "Cast your bread upon the waters"
