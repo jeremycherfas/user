@@ -17,6 +17,47 @@ template: item
 <ul class="log">
 
 <li class="log-month">December</li>
+<ul class="log-entry">
+<li class="log-day">22</li>
+<ul>
+<li class="log-item">Started watching <em>The Bonfire of Destiny</em> on Netflix <strong>T</strong> French period piece; so far, so good.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">20</li>
+<ul>
+<li class="log-item">Watched <em>Apollo 13</em> on Amazon Prime <strong>F</strong> Amazingly tense, even though one knows it all ends well enough.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">19</li>
+<ul>
+<li class="log-item">Finished watching <em>The Crown s04</em> on Netflix <strong>T</strong> Didn't much like Mrs Thatcher, now or then.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">13</li>
+<ul>
+<li class="log-item">Watched <em>The Right Stuff</em> on Amazon Prime <strong>F</strong> For Chuck Yeager, and because neither of us had seen it before.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">9</li>
+<ul>
+<li class="log-item">Started watching <em>Ethos</em> on Netflix <strong>T</strong> Nice enough as it went along and then — Wham! — huge grab at the end. Looking forward to the rest now.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">7</li>
+<ul>
+<li class="log-item">Started watching <em>Le Bureau s04</em> on Apple TV <strong>T</strong> Already regretting that s05 is the final season.</li>
+</ul>
+</ul>
 
 <ul class="log-entry">
 <li class="log-day">6</li>
