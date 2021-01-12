@@ -49,4 +49,4 @@ With a lot of help from BBEdit (and not enough from grep) I massaged my data int
 
 And you know what? I like being able to do that.
 
-[^1]: I should note that I am a very poor subject for mood ntoes, as I invariably am a 4, rarely a 5 and even more rarely a 3. So giving me a finer-grained scale just added to the pressure. What might the difference between a 7 and and 8 be? Between an 8 and a 9?
+[^1]: I should note that I am a very poor subject for mood notes, as I invariably am a 4, rarely a 5 and even more rarely a 3. So giving me a finer-grained scale just added to the pressure. What might the difference between a 7 and and 8 be? Between an 8 and a 9?
