@@ -5,6 +5,7 @@ date: 20-01-2021 11:35
 taxonomy:
     category:
         - stream
+        - Reviews
     tag:
         - podcasts
 header_image: '0'
@@ -13,3 +14,5 @@ image: artwork-resized.jpg
 template: item
 --- 
 Episode summary: As the Trump years finally come to an end, your host contemplates collective guilt and shame.
+
+Extremely well done, and very salutary. I don’t know that I would have had the balls to play a sound bed under archive audio of Thomas Mann addressing the Library of Congress, but that’s probably why I don’t play with the big girls and boys.

@@ -12,4 +12,5 @@ theurl: https://f000.backblazeb2.com/file/huffduff-video/html5-player.libsyn.com
 image: artwork-resized.png
 template: item
 --- 
-Episode summary: 
+Episode summary: No episode summary, because I sent this first one to Huffduffer to sample. And I’m sold. But not so much that I will explore the entire back catalogue.
+
