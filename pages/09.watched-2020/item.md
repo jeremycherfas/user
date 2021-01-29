@@ -1,5 +1,5 @@
 ---
-title: "What I watched: 2020”
+title: "What I watched: 2020"
 visible: false
 enabled: '0'
 header_image: '1'
