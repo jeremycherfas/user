@@ -24,7 +24,7 @@ Still healthy, but no sign yet of a call from The Great Vaccinator.
 
 ## Highlights of the month:
 
-- Returned to Day One, and after and extended argy-bargy, managed to import all old entries from everywhere. Very preferable.
+- Returned to Day One, and after an extended argy-bargy, managed to import all old entries from everywhere. Very preferable.
 - Built a Shortcut to replace one of my previous journalling functions, and it works.
 - Read *Corduroy*, a glorious memoir of English farming life in the 1920s.
 - Struggled to find a way to prepare chestnuts. Hope I don't forget before next season.
@@ -32,11 +32,11 @@ Still healthy, but no sign yet of a call from The Great Vaccinator.
 - Homemade ravioli, just because.
 - Had a great phone call with a very dear friend.
 - Bird feeder bought for Christmas is a massive hit, although they are eating me bankrupt.
-- Finding time to learn some more fundamentals about coding. A Pytrhon course from MIT, no less.
+- Finding time to learn some more fundamentals about coding. A Python course from MIT, no less.
 
 ### Activities
 
-Failed to close all three rings on one day. Having processed my feelings, it deserves a longer blog post.
+Failed to close all three rings on one day. Having processed my feelings about this, it deserves a longer blog post.
 
 #### January: 
 * Walking with sticks: 0
