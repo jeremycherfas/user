@@ -1,6 +1,6 @@
 ---
 title: 'Monthly report: January 2021'
-published: true
+published: false
 date: '01-02-2021 19:00'
 taxonomy:
     category:
@@ -12,6 +12,8 @@ header_image: '0'
 summary:
     enabled: '1'
 subhead: 'New year, same old format'
+feed:
+    limit: 10
 ---
 
 I had high hopes for a little tinkering here and there, mostly under the hood, but not much happened. That was mostly the result of a gross oversight in the paid work department, where the lovely extended holiday season ended with a realisation that I had screwed myself royally. Clawed my way back to sanity, but almost everything else got left behind.
