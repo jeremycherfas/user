@@ -1,6 +1,6 @@
 ---
 title: 'Monthly report: January 2021'
-published: false
+published: true
 date: '01-02-2021 19:00'
 taxonomy:
     category:
@@ -108,7 +108,7 @@ new Chartist.Bar('.ct-chart-hours', {
 series: [
         { name: 'Hours logged 2018', data: [0,0,152,159, 151,96,68,185,131,100,0,0] },
         { name: 'Hours logged 2019', data: [95,121,158,128,145,75,58,110,128,96.5,154.1,96.1] },
-        { name: 'Hours logged 2020', data: [89.25,129,164.1,175,170,171,83.33,138.5,115.9,133.5,149.5,119.75] }
+        { name: 'Hours logged 2020', data: [89.25,129,164.1,175,170,171,83.33,138.5,115.9,133.5,149.5,119.75] },
         { name: 'Hours logged 2021', data: [168.5,,,,,,,,,,,] }
         ]
 },
@@ -134,7 +134,7 @@ series: [
 }).on('draw', function(data) {
   if(data.type === 'bar') {
     data.element.attr({
-      style: 'stroke-width: 10px'
+      style: 'stroke-width: 5px'
     });
   }
 });
