@@ -19,6 +19,13 @@ template: item
 <li class="log-month">January</li>
 
 <ul class="log-entry">
+<li class="log-day">31</li>
+<ul>
+<li class="log-item">Watched <em>The Dig</em> on Netflix <strong>F</strong> And I don't give a toss what the pedants say, it was wonderful, especially the unspoken dialogue and the strange, unacknowledged flashbacks.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
 <li class="log-day">22</li>
 <ul>
 <li class="log-item">Started watching <em> Le Bureau s05</em> on Apple TV <strong>T</strong> I’ll be bereft by the end of this season.</li>
