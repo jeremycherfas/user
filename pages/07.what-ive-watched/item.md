@@ -15,6 +15,65 @@ template: item
 
 <!-- Outer List -->
 <ul class="log">
+<li class="log-month">February</li>
+
+<ul class="log-entry">
+<li class="log-day">26</li>
+<ul>
+<li class="log-item">Started watching <em>The Americans s01</em> on Prime <strong>T</strong> Tosh?</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">23</li>
+<ul>
+<li class="log-item">Started watching <em>Jack Ryan s02</em> on Prime <strong>T</strong> What’s not to like? Excessive use of force?</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">20</li>
+<ul>
+<li class="log-item">Watched <em>White Tiger</em> on Netflix <strong>F</strong> Not too bad, overall, but God, the press of humanity.</li>
+</ul>
+<ul>
+<li class="log-item">Finished reading <em>Single & Single</em> by John Le Carré <strong>B</strong> Absorbing, different, lots of tradecraft. But how did Tiger end up in Turkey?</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">16</li>
+<ul>
+<li class="log-item">Finished watching <em>Jack Ryan s01</em> on Prime <strong>T</strong> Satisfying conclusion.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">11</li>
+<ul>
+<li class="log-item">Started watching <em>Call my Agent s01</em> on Netflix <strong>T</strong> </li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">08</li>
+<ul>
+<li class="log-item">Finished watching <em>Bridgerton s01</em> on Netflix <strong>T</strong> Everyone lives happily ever after, except, possibly, Viscount Bridgerton, who in any case is an ass, mostly.</li>
+</ul>
+</ul>
+<ul class="log-entry">
+<li class="log-day">04</li>
+<ul>
+<li class="log-item">Finished watching <em>Bonfire of Destiny</em> on Netflix <strong>T</strong> Everyone lives happily ever after, unless the bastard who got away returns to make life miserable for everyone in season 02.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">02</li>
+<ul>
+<li class="log-item">Finished watching <em>Lupin</em> on Netflix <strong>T</strong> Season 02 needs to happen soon.</li>
+</ul>
+</ul>
 
 <li class="log-month">January</li>
 
