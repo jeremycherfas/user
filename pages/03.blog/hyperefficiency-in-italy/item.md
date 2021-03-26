@@ -29,6 +29,8 @@ As I walked to the bus stop I got an SMS with the details of my second appointme
 
 All in all, a perfect experience, and absolutely no ill effects so far.
 
+!!! I spoke (a little) too soon, probably feeling good about having plasted through my HIIT with no problem. As the day wore on I started to feel a bit achy in the joints and mildly feverish with some soreness in my arm, starting about 18 hours after the injection. However, after a good night's sleep this morning I felt fine once again.
+
 [^1]: This was a lot less thorough than the form I had to download and had, because I wanted no holdups, filled in carefully.
 
 [^2]: In fact, the time of printing the bit of paper, but who cares?
