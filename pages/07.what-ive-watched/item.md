@@ -15,6 +15,66 @@ template: item
 
 <!-- Outer List -->
 <ul class="log">
+
+<li class="log-month">March</li>
+
+<ul class="log-entry">
+<li class="log-day">28</li>
+<ul>
+<li class="log-item">Watched <em>The Guernsey Potato Peel Pie and Literary Society</em> on Netflix, over two nights <strong>F</strong> Very sweet and rather satisfying.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">26</li>
+<ul>
+<li class="log-item">Finished re-watching <em>The Night Manager</em> on iTunes <strong>T</strong> So very good.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">14</li>
+<ul>
+<li class="log-item">Started watching <em>News of the World</em> on Netflix <strong>T</strong> Rather good, tropes notwithstanding. Seldom seem to manage a movie in one night.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">13</li>
+<ul>
+<li class="log-item">Started reading <em>The Anarchy</em> by William Dalrymple <strong>B</strong> Complex and very interesting. Bastards.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">12</li>
+<ul>
+<li class="log-item">Started rewatching <em>The Night Manager</em> on iTunes <strong>T</strong> Still very compelling, and so glad my memory is shot to pieces.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">09</li>
+<ul>
+<li class="log-item">Finished <em>A Man Called Ove</em> on Kindle <strong>B</strong> with a speck of dust or something in my eye.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">04</li>
+<ul>
+<li class="log-item">Finished watching <em>Le Bureau s05</em> on Apple TV <strong>T</strong> Best thing in a long, long time, despite an ending that was altogether far too fluffy.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">02</li>
+<ul>
+<li class="log-item">Started reading <em>A Man Called Ove</em> on Kindle <strong>B</strong> Recommended on the strength of Amor Towles and Anthony Doerr; charming.</li>
+</ul>
+</ul>
+
+
 <li class="log-month">February</li>
 
 <ul class="log-entry">
