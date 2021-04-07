@@ -1,7 +1,7 @@
 ---
 title: 'Too much about pallets, and yet …'
 published: true
-date: '06-04-2021 15:00'
+date: '07-04-2021 15:00'
 taxonomy:
     category:
         - blog
