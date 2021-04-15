@@ -1,3 +1,89 @@
+# v1.0.7
+## 04/06/2021
+
+1. [](#new)
+    * Added deny option support to `filepicker` field [#119](https://github.com/trilbymedia/grav-plugin-flex-objects/pull/119)
+1. [](#bugfix)
+    * Prevent expert editing mode from anyone else than super users [grav-plugin-admin#2094](https://github.com/getgrav/grav-plugin-admin/issues/2094)
+    * Fixed not being able to add new folder [grav#3293](https://github.com/getgrav/grav/issues/3293)
+    * Fixed Flex directories defined only in theme not showing up [grav#3292](https://github.com/getgrav/grav/issues/3292)
+
+# v1.0.6
+## 03/30/2021
+
+1. [](#bugfix)
+   * Fixed automatic git-sync in admin save and delete [#120](https://github.com/trilbymedia/grav-plugin-flex-objects/issues/120)
+   * Prevent Add Page / Add Module modals from closing if clicking on the outside overlay [grav-plugin-admin#2089](https://github.com/getgrav/grav-plugin-admin/issues/2089)
+
+# v1.0.5
+## 03/19/2021
+
+1. [](#new)
+   * Require **Grav 1.7.9**
+   * Require **Form Plugin 5.0.1**
+1. [](#improved)
+   * Catch JSON decoding issues in controllers
+1. [](#bugfix)
+   * Fixed broken media upload/picker fields with `@self/path` notations [grav#3275](https://github.com/getgrav/grav/issues/3275)
+   * Fixed `filepicker` field not including newly uploaded and excluding newly deleted files before saving the object
+   * Fixed `Flex Page` CRUD ACL when creating a new page [#115](https://github.com/trilbymedia/grav-plugin-flex-objects/issues/115)
+   * Bumped dependencies versions [#116](https://github.com/trilbymedia/grav-plugin-flex-objects/issues/116)
+   * Fixed clicking `move` button on some pages resulting in endless loading spinner [grav-plugin-admin#2095](https://github.com/getgrav/grav-plugin-admin/issues/2095) 
+
+# v1.0.4
+## 03/17/2021
+
+1. [](#improved)
+   * Added id attributes for buttons to help on acceptance testing
+1. [](#bugfix)
+   * Fixed fatal error in `/admin/flex-objects` [#114](https://github.com/trilbymedia/grav-plugin-flex-objects/issues/114)
+   * Fixed `onAdminSave` original page having empty header [grav#3259](https://github.com/getgrav/grav/issues/3259)
+   * Fixed flash issues on uploading files into a new page
+
+# v1.0.3
+## 02/17/2021
+
+1. [](#improved)
+   * List field: added new `placement` property to decide whether to add new items at the top, bottom or based on the *position* of the clicked button [#105](https://github.com/trilbymedia/grav-plugin-flex-objects/pull/105)
+  * Added default styling for Flex-Objects Admin list view
+1. [](#bugfix)
+   * Fixed fatal error if configuration is missing directories [#107](https://github.com/trilbymedia/grav-plugin-flex-objects/issues/107)
+   * Fixed case-sensitive `accept` in `filepicker` field
+   * Fixed pages admin being accessible without read/write permissions [grav-plugin-admin#2053](https://github.com/getgrav/grav-plugin-admin/issues/2053)
+   * Fixed missing event `onAdminCreatePageFrontmatter` when creating a new page [grav-plugin-auto-date#8](https://github.com/getgrav/grav-plugin-auto-date/issues/8)
+   * Fixed missing event `onAdminAfterDelMedia` when deleting a file from a page
+   * Fixed filepicker support for old `theme@:/` and `page@:/` notations [#109](https://github.com/trilbymedia/grav-plugin-flex-objects/issues/109)
+   * Fixed adding the same new page twice remembering content from the last try
+   * Fixed saving a new page with invalid data makes blueprint fields disappear [grav-plugin-admin#2068](https://github.com/getgrav/grav-plugin-admin/issues/2068)
+
+# v1.0.2
+## 02/01/2021
+
+1. [](#new)
+   * Require **Grav 1.7.4**
+1. [](#bugfix)
+   * Fixed saving page in expert mode [grav#3174](https://github.com/getgrav/grav/issues/3174)
+
+# v1.0.1
+## 01/20/2021
+
+1. [](#bugfix)
+   * Fixed 404 when trying to edit a page with accented characters [grav-plugin-admin#2026](https://github.com/getgrav/grav-plugin-admin/issues/2026)
+
+# v1.0.0
+## 01/19/2021
+
+1. [](#new)
+   * Added `$grav['flex_objects']->getAdminController()` method
+1. [](#improved)
+   * Added support for relative paths in `getLevelListing` action
+1. [](#bugfix)
+   * Fixed admin not working with types that do not implement `FlexAuthorizeInterface`
+   * Fixed bad redirect when creating new flex object and choosing to create another return to the list
+   * Fixed bad redirect when changing parent of new page and saving [grav-plugin-admin#2014](https://github.com/getgrav/grav-plugin-admin/issues/2014)
+   * Fixed page forms being empty if multi-language is enabled, but there's just one language [grav#3147](https://github.com/getgrav/grav/issues/3147)
+   * Fixed copying a page within a parent with no create permission [grav-plugin-admin#2002](https://github.com/getgrav/grav-plugin-admin/issues/2002)
+   
 # v1.0.0-rc.20
 ## 12/15/2020
 
@@ -10,7 +96,6 @@
 
 1. [](#improved)
     * Just keeping sync with Grav rc.19
-
 
 # v1.0.0-rc.18
 ## 12/02/2020

@@ -9,10 +9,13 @@ use Grav\Common\Grav;
 use Grav\Common\Inflector;
 use Grav\Common\Language\Language;
 use Grav\Common\Session;
+use Grav\Common\Uri;
 use Grav\Common\User\Interfaces\UserInterface;
 use Grav\Common\Utils;
 use Grav\Framework\Controller\Traits\ControllerResponseTrait;
 use Grav\Framework\Flex\FlexDirectory;
+use Grav\Framework\Flex\FlexForm;
+use Grav\Framework\Flex\FlexFormFlash;
 use Grav\Framework\Flex\Interfaces\FlexFormInterface;
 use Grav\Framework\Flex\Interfaces\FlexObjectInterface;
 use Grav\Framework\Psr7\Response;
@@ -25,36 +28,33 @@ use Psr\Http\Message\ServerRequestInterface;
 use Psr\Http\Server\RequestHandlerInterface;
 use RocketTheme\Toolbox\Event\Event;
 use RocketTheme\Toolbox\Session\Message;
+use function in_array;
 use function is_callable;
 
+/**
+ * Class AbstractController
+ * @package Grav\Plugin\FlexObjects\Controllers
+ */
 abstract class AbstractController implements RequestHandlerInterface
 {
     use ControllerResponseTrait;
 
     /** @var string */
     protected $nonce_action = 'flex-object';
-
     /** @var string */
     protected $nonce_name = 'nonce';
-
     /** @var ServerRequestInterface */
     protected $request;
-
     /** @var Grav */
     protected $grav;
-
     /** @var UserInterface|null */
     protected $user;
-
     /** @var string */
     protected $type;
-
     /** @var string */
     protected $key;
-
     /** @var FlexDirectory */
     protected $directory;
-
     /** @var FlexObjectInterface */
     protected $object;
 
@@ -163,11 +163,18 @@ abstract class AbstractController implements RequestHandlerInterface
         return $body;
     }
 
+    /**
+     * @return bool
+     */
     public function isFormSubmit(): bool
     {
         return (bool)$this->getPost('__form-name__');
     }
 
+    /**
+     * @param string|null $type
+     * @return FlexForm
+     */
     public function getForm(string $type = null): FlexFormInterface
     {
         $object = $this->getObject();
@@ -184,6 +191,42 @@ abstract class AbstractController implements RequestHandlerInterface
         }
 
         return $form;
+    }
+
+    /**
+     * @param FlexObjectInterface $object
+     * @param string $type
+     * @return FlexFormFlash
+     */
+    protected function getFormFlash(FlexObjectInterface $object, string $type = '')
+    {
+        /** @var Uri $uri */
+        $uri = $this->grav['uri'];
+        $url = $uri->url;
+
+        $formName = $this->getPost('__form-name__');
+        if (!$formName) {
+            $form = $object->getForm($type);
+            $formName = $form->getName();
+            $uniqueId = $form->getUniqueId();
+        } else {
+            $uniqueId = $this->getPost('__unique_form_id__') ?: $formName ?: sha1($url);
+        }
+
+        /** @var Session $session */
+        $session = $this->grav['session'];
+
+        $config = [
+            'session_id' => $session->getId(),
+            'unique_id' => $uniqueId,
+            'form_name' => $formName,
+        ];
+        $flash = new FlexFormFlash($config);
+        if (!$flash->exists()) {
+            $flash->setUrl($url)->setUser($this->grav['user']);
+        }
+
+        return $flash;
     }
 
     /**
@@ -268,6 +311,10 @@ abstract class AbstractController implements RequestHandlerInterface
         return $this;
     }
 
+    /**
+     * @param UserInterface $user
+     * @return void
+     */
     public function setUser(UserInterface $user): void
     {
         $this->user = $user;
@@ -283,13 +330,14 @@ abstract class AbstractController implements RequestHandlerInterface
 
     /**
      * @param string $task
+     * @return void
      * @throws PageExpiredException
      */
     protected function checkNonce(string $task): void
     {
         $nonce = null;
 
-        if (\in_array(strtoupper($this->request->getMethod()), ['POST', 'PUT', 'PATCH', 'DELETE'])) {
+        if (in_array(strtoupper($this->request->getMethod()), ['POST', 'PUT', 'PATCH', 'DELETE'])) {
             $nonce = $this->getPost($this->nonce_name);
         }
 

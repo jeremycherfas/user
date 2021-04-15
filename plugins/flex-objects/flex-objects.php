@@ -20,6 +20,7 @@ use Grav\Plugin\Form\Forms;
 use Grav\Plugin\FlexObjects\Admin\AdminController;
 use Grav\Plugin\FlexObjects\Flex;
 use RocketTheme\Toolbox\Event\Event;
+use function is_callable;
 
 /**
  * Class FlexObjectsPlugin
@@ -27,7 +28,8 @@ use RocketTheme\Toolbox\Event\Event;
  */
 class FlexObjectsPlugin extends Plugin
 {
-    const MIN_GRAV_VERSION = '1.7.0-rc.17';
+    /** @var string */
+    protected const MIN_GRAV_VERSION = '1.7.0';
 
     /** @var int[] */
     public $features = [
@@ -80,7 +82,7 @@ class FlexObjectsPlugin extends Plugin
             ],
             'onFormRegisterTypes' => [
                 ['onFormRegisterTypes', 0]
-            ],
+            ]
         ];
     }
 
@@ -96,10 +98,12 @@ class FlexObjectsPlugin extends Plugin
 
     /**
      * [PluginsLoadedEvent:10]: Initialize Flex
+     *
+     * @return void
      */
     public function initializeFlex(): void
     {
-        $config = $this->config->get('plugins.flex-objects.directories');
+        $config = $this->config->get('plugins.flex-objects.directories') ?? [];
 
         // Add to DI container
         $this->grav['flex_objects'] = static function (Grav $grav) use ($config) {
@@ -117,14 +121,16 @@ class FlexObjectsPlugin extends Plugin
 
     /**
      * Initialize the plugin
+     *
+     * @return void
      */
     public function onPluginsInitialized(): void
     {
-        if ($this->isAdmin() && method_exists(Admin::class, 'getChangelog')) {
-            /** @var UserInterface $user */
+        if ($this->isAdmin()) {
+            /** @var UserInterface|null $user */
             $user = $this->grav['user'] ?? null;
 
-            if (!$user || !$user->authorize('login', 'admin')) {
+            if (null === $user || !$user->authorize('login', 'admin')) {
                 return;
             }
 
@@ -147,6 +153,9 @@ class FlexObjectsPlugin extends Plugin
                 'onAdminControllerInit' => [
                     ['onAdminControllerInit', 0]
                 ],
+                'onThemeInitialized' => [
+                    ['onThemeInitialized', 0]
+                ],
                 'onPageInitialized' => [
                     ['onAdminPageInitialized', 0]
                 ],
@@ -157,8 +166,6 @@ class FlexObjectsPlugin extends Plugin
                     ['onGetPageTemplates', 0]
 
             ]);
-            /** @var AdminController controller */
-            $this->controller = new AdminController();
 
         } else {
             $this->enable([
@@ -169,27 +176,66 @@ class FlexObjectsPlugin extends Plugin
         }
     }
 
+    /**
+     * @param FlexRegisterEvent $event
+     * @return void
+     */
     public function onRegisterFlex(FlexRegisterEvent $event): void
     {
+        /** @var \Grav\Framework\Flex\Flex $flex */
         $flex = $event->flex;
-        $map = Flex::getLegacyBlueprintMap(false);
-
         $types = (array)$this->config->get('plugins.flex-objects.directories', []);
+        $this->registerDirectories($flex, $types);
+    }
+
+    /**
+     * @return void
+     */
+    public function onThemeInitialized(): void
+    {
+        // Register directories defined in the theme.
+        /** @var \Grav\Framework\Flex\Flex $flex */
+        $flex = $this->grav['flex'];
+        $types = (array)$this->config->get('plugins.flex-objects.directories', []);
+        $this->registerDirectories($flex, $types, true);
+
+        /** @var AdminController controller */
+        $this->controller = new AdminController();
+
+        /** @var Debugger $debugger */
+        $debugger = Grav::instance()['debugger'];
+        $names = implode(', ', array_keys($flex->getDirectories()));
+        $debugger->addMessage(sprintf('Registered flex types: %s', $names), 'debug');
+    }
+
+    /**
+     * @param \Grav\Framework\Flex\Flex $flex
+     * @param array $types
+     * @param bool $report
+     */
+    protected function registerDirectories(\Grav\Framework\Flex\Flex $flex, array $types, bool $report = false): void
+    {
+        $map = Flex::getLegacyBlueprintMap(false);
         foreach ($types as $blueprint) {
             // Backwards compatibility to v1.0.0-rc.3
             $blueprint = $map[$blueprint] ?? $blueprint;
             $type = basename((string)$blueprint, '.yaml');
+            if (!$type) {
+                continue;
+            }
 
             if (!file_exists($blueprint)) {
-                /** @var Debugger $debugger */
-                $debugger = Grav::instance()['debugger'];
-                $debugger->addMessage(sprintf('Flex: blueprint for flex type %s is missing', $type), 'error');
+                if ($report) {
+                    /** @var Debugger $debugger */
+                    $debugger = Grav::instance()['debugger'];
+                    $debugger->addMessage(sprintf('Flex: blueprint for flex type %s is missing', $type), 'error');
+                }
 
                 continue;
             }
 
             $directory = $flex->getDirectory($type);
-            if ($type && (!$directory || !$directory->isEnabled())) {
+            if (!$directory || !$directory->isEnabled()) {
                 $flex->addDirectoryType($type, $blueprint);
             }
         }
@@ -199,6 +245,7 @@ class FlexObjectsPlugin extends Plugin
      * Initial stab at registering permissions (WIP)
      *
      * @param PermissionsRegisterEvent $event
+     * @return void
      */
     public function onRegisterPermissions(PermissionsRegisterEvent $event): void
     {
@@ -219,6 +266,10 @@ class FlexObjectsPlugin extends Plugin
         $permissions->addActions(array_replace(...$actions));
     }
 
+    /**
+     * @param Event $event
+     * @return void
+     */
     public function onFormRegisterTypes(Event $event): void
     {
         /** @var Forms $forms */
@@ -226,6 +277,10 @@ class FlexObjectsPlugin extends Plugin
         $forms->registerType('flex', new FlexFormFactory());
     }
 
+    /**
+     * @param Event $event
+     * @return void
+     */
     public function onAdminPage(Event $event): void
     {
         if ($this->controller->isActive()) {
@@ -237,11 +292,14 @@ class FlexObjectsPlugin extends Plugin
             $page->slug($this->controller->getLocation());
             $header = $page->header();
             $header->access = ['admin.login'];
+            $header->controller = $this->controller->getInfo();
         }
     }
 
     /**
      * [onPageInitialized:0]: Run controller
+     *
+     * @return void
      */
     public function onAdminPageInitialized(): void
     {
@@ -251,6 +309,10 @@ class FlexObjectsPlugin extends Plugin
         }
     }
 
+    /**
+     * @param Event $event
+     * @return void
+     */
     public function onAdminControllerInit(Event $event): void
     {
         $eventController = $event['controller'];
@@ -266,12 +328,17 @@ class FlexObjectsPlugin extends Plugin
      * Add Flex-Object's preset.scss to the Admin Preset SCSS compile process
      *
      * @param Event $event
+     * @return void
      */
     public function onAdminCompilePresetSCSS(Event $event): void
     {
         $event['scss']->add($this->grav['locator']->findResource('plugins://flex-objects/scss/_preset.scss'));
     }
 
+    /**
+     * @param Event $event
+     * @return void
+     */
     public function onGetPageTemplates(Event $event): void
     {
         /** @var Types $types */
@@ -323,6 +390,8 @@ class FlexObjectsPlugin extends Plugin
 
     /**
      * Add Flex Directory to admin menu
+     *
+     * @return void
      */
     public function onAdminMenu(): void
     {
@@ -358,7 +427,11 @@ class FlexObjectsPlugin extends Plugin
             if (null === $count) {
                 try {
                     $collection = $directory->getCollection();
-                    $count = $collection->isAuthorized('list', 'admin', $admin->user)->count();
+                    if (is_callable([$collection, 'isAuthorized'])) {
+                        $count = $collection->isAuthorized('list', 'admin', $admin->user)->count();
+                    } else {
+                        $count = $collection->count();
+                    }
                     $cache->set('admin-count-' . md5($admin->user->username), $count);
                 } catch (\InvalidArgumentException $e) {
                     continue;
@@ -380,6 +453,8 @@ class FlexObjectsPlugin extends Plugin
 
     /**
      * Exclude Flex Directory data from the Data Manager plugin
+     *
+     * @return void
      */
     public function onDataTypeExcludeFromDataManagerPluginHook(): void
     {
@@ -388,6 +463,8 @@ class FlexObjectsPlugin extends Plugin
 
     /**
      * Add current directory to twig lookup paths.
+     *
+     * @return void
      */
     public function onTwigTemplatePaths(): void
     {
@@ -402,6 +479,9 @@ class FlexObjectsPlugin extends Plugin
 
     /**
      * Add plugin templates path
+     *
+     * @param Event $event
+     * @return void
      */
     public function onAdminTwigTemplatePaths(Event $event): void
     {
@@ -419,6 +499,8 @@ class FlexObjectsPlugin extends Plugin
 
     /**
      * Set needed variables to display directory.
+     *
+     * @return void
      */
     public function onTwigAdminVariables(): void
     {

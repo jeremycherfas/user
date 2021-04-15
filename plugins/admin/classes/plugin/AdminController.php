@@ -5,8 +5,10 @@ namespace Grav\Plugin\Admin;
 use Grav\Common\Backup\Backups;
 use Grav\Common\Cache;
 use Grav\Common\Config\Config;
+use Grav\Common\Debugger;
 use Grav\Common\File\CompiledYamlFile;
 use Grav\Common\Filesystem\Folder;
+use Grav\Common\Flex\Types\Pages\PageIndex;
 use Grav\Common\GPM\GPM as GravGPM;
 use Grav\Common\GPM\Installer;
 use Grav\Common\Grav;
@@ -22,7 +24,7 @@ use Grav\Common\Page\Pages;
 use Grav\Common\Page\Collection;
 use Grav\Common\Security;
 use Grav\Common\User\Interfaces\UserCollectionInterface;
-use Grav\Common\User\User;
+use Grav\Common\User\Interfaces\UserInterface;
 use Grav\Common\Utils;
 use Grav\Framework\Psr7\Response;
 use Grav\Framework\RequestHandler\Exception\RequestException;
@@ -44,11 +46,11 @@ use Twig\Loader\FilesystemLoader;
 class AdminController extends AdminBaseController
 {
     /**
-     * @param Grav   $grav
-     * @param string $view
-     * @param string $task
-     * @param string $route
-     * @param array  $post
+     * @param Grav|null $grav
+     * @param string|null $view
+     * @param string|null $task
+     * @param string|null $route
+     * @param array|null $post
      */
     public function initialize(Grav $grav = null, $view = null, $task = null, $route = null, $post = null)
     {
@@ -73,8 +75,10 @@ class AdminController extends AdminBaseController
 
     /**
      * Keep alive
+     *
+     * @return void
      */
-    protected function taskKeepAlive()
+    protected function taskKeepAlive(): void
     {
         $response = new Response(200);
 
@@ -140,23 +144,30 @@ class AdminController extends AdminBaseController
 
         switch ($this->view) {
             case 'pages':
-                return $this->taskSavePage();
+                return $this->savePage();
             case 'user':
-                return $this->taskSaveUser();
+                return $this->saveUser();
             default:
-                return $this->taskSaveDefault();
+                return $this->saveDefault();
         }
     }
 
-
-    protected function taskSaveDefault()
+    /**
+     * @return bool
+     */
+    protected function saveDefault()
     {
         // Handle standard data types.
-        $obj = $this->prepareData((array)$this->data);
+        $type = $this->getDataType();
+        $obj = $this->admin->getConfigurationData($type, $this->data);
 
         try {
             $obj->validate();
         } catch (\Exception $e) {
+            /** @var Debugger $debugger */
+            $debugger = $this->grav['debugger'];
+            $debugger->addException($e);
+
             $this->admin->setMessage($e->getMessage(), 'error');
 
             return false;
@@ -184,29 +195,7 @@ class AdminController extends AdminBaseController
         return true;
     }
 
-     // LOGIN & USER TASKS
-
-    /**
-     * Handle login.
-     *
-     * @return bool True if the action was performed.
-     */
-    protected function taskLogin()
-    {
-        $this->admin->authenticate($this->data, $this->post);
-
-        return true;
-    }
-
-    /**
-     * @return bool True if the action was performed.
-     */
-    protected function taskTwofa()
-    {
-        $this->admin->twoFa($this->data, $this->post);
-
-        return true;
-    }
+    // USER TASKS
 
     /**
      * Handle logout.
@@ -215,6 +204,10 @@ class AdminController extends AdminBaseController
      */
     protected function taskLogout()
     {
+        if (!$this->authorizeTask('logout', ['admin.login'])) {
+            return false;
+        }
+
         $this->admin->logout($this->data, $this->post);
 
         return true;
@@ -230,7 +223,7 @@ class AdminController extends AdminBaseController
         }
 
         try {
-            /** @var User $user */
+            /** @var UserInterface $user */
             $user = $this->grav['user'];
 
             /** @var TwoFactorAuth $twoFa */
@@ -256,175 +249,13 @@ class AdminController extends AdminBaseController
 
             $this->admin->json_response = ['status' => 'success', 'image' => $image, 'secret' => preg_replace('|(\w{4})|', '\\1 ', $secret)];
         } catch (\Exception $e) {
+            /** @var Debugger $debugger */
+            $debugger = $this->grav['debugger'];
+            $debugger->addException($e);
+
             $this->admin->json_response = ['status' => 'error', 'message' => $e->getMessage()];
             return false;
         }
-
-        return true;
-    }
-
-    /**
-     * Handle the reset password action.
-     *
-     * @return bool True if the action was performed.
-     */
-    public function taskReset()
-    {
-        $data = $this->data;
-
-        if (isset($data['password'])) {
-            /** @var UserCollectionInterface $users */
-            $users = $this->grav['accounts'];
-
-            $username = isset($data['username']) ? strip_tags(strtolower($data['username'])) : null;
-            $user     = $username ? $users->load($username) : null;
-            $password = $data['password'] ?? null;
-            $token    = $data['token'] ?? null;
-
-            if ($user && $user->exists() && !empty($user->get('reset'))) {
-                list($good_token, $expire) = explode('::', $user->get('reset'));
-
-                if ($good_token === $token) {
-                    if (time() > $expire) {
-                        $this->admin->setMessage($this->admin::translate('PLUGIN_ADMIN.RESET_LINK_EXPIRED'), 'error');
-                        $this->setRedirect('/forgot');
-
-                        return true;
-                    }
-
-                    $user->undef('hashed_password');
-                    $user->undef('reset');
-                    $user->set('password',  $password);
-                    $user->save();
-
-                    $this->admin->setMessage($this->admin::translate('PLUGIN_ADMIN.RESET_PASSWORD_RESET'), 'info');
-                    $this->setRedirect('/');
-
-                    return true;
-                }
-            }
-
-            $this->admin->setMessage($this->admin::translate('PLUGIN_ADMIN.RESET_INVALID_LINK'), 'error');
-            $this->setRedirect('/forgot');
-
-            return true;
-
-        }
-
-        $user  = $this->grav['uri']->param('user');
-        $token = $this->grav['uri']->param('token');
-
-        if (empty($user) || empty($token)) {
-            $this->admin->setMessage($this->admin::translate('PLUGIN_ADMIN.RESET_INVALID_LINK'), 'error');
-            $this->setRedirect('/forgot');
-
-            return true;
-        }
-
-        $this->admin->setMessage($this->admin::translate('PLUGIN_ADMIN.RESET_NEW_PASSWORD'), 'info');
-
-        $this->admin->forgot = ['username' => $user, 'token' => $token];
-
-        return true;
-    }
-
-    /**
-     * Handle the email password recovery procedure.
-     *
-     * @return bool True if the action was performed.
-     */
-    protected function taskForgot()
-    {
-        $param_sep = $this->grav['config']->get('system.param_sep', ':');
-        $post      = $this->post;
-        $data      = $this->data;
-        $login     = $this->grav['login'];
-
-        /** @var UserCollectionInterface $users */
-        $users = $this->grav['accounts'];
-
-        $username = isset($data['username']) ? strip_tags(strtolower($data['username'])) : '';
-        $user     = !empty($username) ? $users->load($username) : null;
-
-        if (!isset($this->grav['Email'])) {
-            $this->admin->setMessage($this->admin::translate('PLUGIN_ADMIN.FORGOT_EMAIL_NOT_CONFIGURED'), 'error');
-            $this->setRedirect($post['redirect']);
-
-            return true;
-        }
-
-        if (!$user || !$user->exists()) {
-            $this->admin->setMessage($this->admin::translate('PLUGIN_ADMIN.FORGOT_INSTRUCTIONS_SENT_VIA_EMAIL'),
-                'info');
-            $this->setRedirect($post['redirect']);
-
-            return true;
-        }
-
-        if (empty($user->email)) {
-            $this->admin->setMessage($this->admin::translate('PLUGIN_ADMIN.FORGOT_INSTRUCTIONS_SENT_VIA_EMAIL'),
-                'info');
-            $this->setRedirect($post['redirect']);
-
-            return true;
-        }
-
-        $count = $this->grav['config']->get('plugins.login.max_pw_resets_count', 0);
-        $interval =$this->grav['config']->get('plugins.login.max_pw_resets_interval', 2);
-
-        if ($login->isUserRateLimited($user, 'pw_resets', $count, $interval)) {
-            $this->admin->setMessage($this->admin::translate(['PLUGIN_LOGIN.FORGOT_CANNOT_RESET_IT_IS_BLOCKED', $user->email, $interval]), 'error');
-            $this->setRedirect($post['redirect']);
-
-            return true;
-        }
-
-        $token  = md5(uniqid(mt_rand(), true));
-        $expire = time() + 604800; // next week
-
-        $user->set('reset', $token . '::' . $expire);
-        $user->save();
-
-        $author     = $this->grav['config']->get('site.author.name', '');
-        $fullname   = $user->fullname ?: $username;
-        $reset_link = rtrim($this->grav['uri']->rootUrl(true), '/') . '/' . trim($this->admin->base,
-                '/') . '/reset/task' . $param_sep . 'reset/user' . $param_sep . $username . '/token' . $param_sep . $token . '/admin-nonce' . $param_sep . Utils::getNonce('admin-form');
-
-        $sitename = $this->grav['config']->get('site.title', 'Website');
-        $from     = $this->grav['config']->get('plugins.email.from');
-
-        if (empty($from)) {
-            $this->admin->setMessage($this->admin::translate('PLUGIN_ADMIN.FORGOT_EMAIL_NOT_CONFIGURED'), 'error');
-            $this->setRedirect($post['redirect']);
-
-            return true;
-        }
-
-        $to = $user->email;
-
-        $subject = $this->admin::translate(['PLUGIN_ADMIN.FORGOT_EMAIL_SUBJECT', $sitename]);
-        $content = $this->admin::translate([
-            'PLUGIN_ADMIN.FORGOT_EMAIL_BODY',
-            $fullname,
-            $reset_link,
-            $author,
-            $sitename
-        ]);
-
-        $body = $this->grav['twig']->processTemplate('email/base.html.twig', ['content' => $content]);
-
-        $message = $this->grav['Email']->message($subject, $body, 'text/html')->setFrom($from)->setTo($to);
-
-        $sent = $this->grav['Email']->send($message);
-
-        if ($sent < 1) {
-            $this->admin->setMessage($this->admin::translate('PLUGIN_ADMIN.FORGOT_FAILED_TO_EMAIL'), 'error');
-        } else {
-            $this->admin->setMessage($this->admin::translate('PLUGIN_ADMIN.FORGOT_INSTRUCTIONS_SENT_VIA_EMAIL'),
-                'info');
-        }
-
-        $this->setRedirect('/');
 
         return true;
     }
@@ -436,7 +267,7 @@ class AdminController extends AdminBaseController
      *
      * @return bool
      */
-    protected function taskSaveUser()
+    protected function saveUser()
     {
         /** @var UserCollectionInterface $users */
         $users = $this->grav['accounts'];
@@ -461,6 +292,10 @@ class AdminController extends AdminBaseController
             $data->validate();
             $data->filter();
         } catch (\Exception $e) {
+            /** @var Debugger $debugger */
+            $debugger = $this->grav['debugger'];
+            $debugger->addException($e);
+
             $this->admin->setMessage($e->getMessage(), 'error');
 
             return false;
@@ -495,8 +330,9 @@ class AdminController extends AdminBaseController
     /**
      * Get Notifications
      *
+     * @return void
      */
-    protected function taskGetNotifications()
+    protected function taskGetNotifications(): void
     {
         if (!$this->authorizeTask('dashboard', ['admin.login', 'admin.super'])) {
             $this->sendJsonResponse(['status' => 'error', 'message' => 'unauthorized']);
@@ -523,6 +359,10 @@ class AdminController extends AdminBaseController
                 'notifications' => $notification_data
             ];
         } catch (\Exception $e) {
+            /** @var Debugger $debugger */
+            $debugger = $this->grav['debugger'];
+            $debugger->addException($e);
+
             $json_response = ['status' => 'error', 'message' => $e->getMessage()];
         }
 
@@ -551,11 +391,12 @@ class AdminController extends AdminBaseController
             return false;
         }
 
-        $filename = $this->grav['locator']->findResource('user://data/notifications/' . $this->grav['user']->username . YAML_EXT,
-            true, true);
+        $filename = $this->grav['locator']->findResource('user://data/notifications/' . $this->grav['user']->username . YAML_EXT, true, true);
         $file     = CompiledYamlFile::instance($filename);
         $data     = (array)$file->content();
-        $data[]   = $notification_id;
+
+        $date = new \DateTime();
+        $data[$notification_id] = $date->format('r');
         $file->save($data);
 
         $this->admin->json_response = [
@@ -567,8 +408,10 @@ class AdminController extends AdminBaseController
 
     /**
      * Get Newsfeeds
+     *
+     * @return void
      */
-    protected function taskGetNewsFeed()
+    protected function taskGetNewsFeed(): void
     {
         if (!$this->authorizeTask('dashboard', ['admin.login', 'admin.super'])) {
             $this->sendJsonResponse(['status' => 'error', 'message' => 'unauthorized']);
@@ -585,6 +428,10 @@ class AdminController extends AdminBaseController
                 'feed_data' => $feed_data
             ];
         } catch (MalformedXmlException $e) {
+            /** @var Debugger $debugger */
+            $debugger = $this->grav['debugger'];
+            $debugger->addException($e);
+
             $json_response = ['status' => 'error', 'message' => $e->getMessage()];
         }
 
@@ -622,6 +469,10 @@ class AdminController extends AdminBaseController
             $id = $this->grav['uri']->param('id', 0);
             $backup = Backups::backup($id);
         } catch (\Exception $e) {
+            /** @var Debugger $debugger */
+            $debugger = $this->grav['debugger'];
+            $debugger->addException($e);
+
             $this->admin->json_response = [
                 'status' => 'error',
                 'message' => $this->admin::translate('PLUGIN_ADMIN.AN_ERROR_OCCURRED') . '. ' . $e->getMessage()
@@ -773,7 +624,7 @@ class AdminController extends AdminBaseController
         $this->grav['themes']->get($name);
 
         // Store system configuration.
-        $system = $this->admin->data('config/system');
+        $system = $this->admin->getConfigurationData('config/system');
         $system->set('pages.theme', $name);
         $system->save();
 
@@ -863,6 +714,8 @@ class AdminController extends AdminBaseController
 
     /**
      * Toggle the gpm.releases setting
+     *
+     * @return bool
      */
     protected function taskGpmRelease()
     {
@@ -904,6 +757,8 @@ class AdminController extends AdminBaseController
 
     /**
      * Get update status from GPM
+     *
+     * @return bool
      */
     protected function taskGetUpdates()
     {
@@ -958,6 +813,10 @@ class AdminController extends AdminBaseController
             }
 
         } catch (\Exception $e) {
+            /** @var Debugger $debugger */
+            $debugger = $this->grav['debugger'];
+            $debugger->addException($e);
+
             $this->admin->json_response = ['status' => 'error', 'message' => $e->getMessage()];
 
             return false;
@@ -981,6 +840,10 @@ class AdminController extends AdminBaseController
             $this->admin->checkPackagesCanBeInstalled($packages);
             $dependencies = $this->admin->getDependenciesNeededToInstall($packages);
         } catch (\Exception $e) {
+            /** @var Debugger $debugger */
+            $debugger = $this->grav['debugger'];
+            $debugger->addException($e);
+
             $this->admin->json_response = ['status' => 'error', 'message' => $e->getMessage()];
 
             return false;
@@ -991,6 +854,9 @@ class AdminController extends AdminBaseController
         return true;
     }
 
+    /**
+     * @return bool
+     */
     protected function taskInstallDependenciesOfPackages()
     {
         $data     = $this->post;
@@ -1011,6 +877,10 @@ class AdminController extends AdminBaseController
         try {
             $dependencies = $this->admin->getDependenciesNeededToInstall($packages);
         } catch (\Exception $e) {
+            /** @var Debugger $debugger */
+            $debugger = $this->grav['debugger'];
+            $debugger->addException($e);
+
             $this->admin->json_response = ['status' => 'error', 'message' => $e->getMessage()];
 
             return false;
@@ -1030,6 +900,10 @@ class AdminController extends AdminBaseController
         return true;
     }
 
+    /**
+     * @param bool $reinstall
+     * @return bool
+     */
     protected function taskInstallPackage($reinstall = false)
     {
         $data    = $this->post;
@@ -1048,6 +922,10 @@ class AdminController extends AdminBaseController
         try {
             $result = Gpm::install($package, ['theme' => $type === 'theme']);
         } catch (\Exception $e) {
+            /** @var Debugger $debugger */
+            $debugger = $this->grav['debugger'];
+            $debugger->addException($e);
+
             $msg = $e->getMessage();
             $msg = Utils::contains($msg, '401 Unauthorized') ? "ERROR: License key for this resource is invalid." : $msg;
             $msg = Utils::contains($msg, '404 Not Found') ? "ERROR: Resource not found" : $msg;
@@ -1075,8 +953,10 @@ class AdminController extends AdminBaseController
 
     /**
      * Handle removing a package
+     *
+     * @return void
      */
-    protected function taskRemovePackage()
+    protected function taskRemovePackage(): void
     {
         $data    = $this->post;
         $package = $data['package'] ?? '';
@@ -1113,6 +993,10 @@ class AdminController extends AdminBaseController
             $dependencies = $this->admin->dependenciesThatCanBeRemovedWhenRemoving($package);
             $result       = Gpm::uninstall($package, []);
         } catch (\Exception $e) {
+            /** @var Debugger $debugger */
+            $debugger = $this->grav['debugger'];
+            $debugger->addException($e);
+
             $json_response = ['status' => 'error', 'message' => $e->getMessage()];
 
             $this->sendJsonResponse($json_response, 200);
@@ -1138,6 +1022,8 @@ class AdminController extends AdminBaseController
 
     /**
      * Handle reinstalling a package
+     *
+     * @return void
      */
     protected function taskReinstallPackage()
     {
@@ -1177,6 +1063,8 @@ class AdminController extends AdminBaseController
 
     /**
      * Handle direct install.
+     *
+     * @return bool
      */
     protected function taskDirectInstall()
     {
@@ -1283,7 +1171,10 @@ class AdminController extends AdminBaseController
         return true;
     }
 
-    protected function taskSavePage()
+    /**
+     * @return bool
+     */
+    protected function savePage()
     {
         $reorder = true;
 
@@ -1293,7 +1184,10 @@ class AdminController extends AdminBaseController
         $pages = $this->admin::enablePages();
 
         // Find new parent page in order to build the path.
-        $route = $data['route'] ?? dirname($this->admin->route);
+        $path = trim($data['route'] ?? dirname($this->admin->route), '/');
+        if ($path === '.') {
+            $path = '';
+        }
 
         /** @var PageInterface $obj */
         $obj = $this->admin->page(true);
@@ -1307,9 +1201,6 @@ class AdminController extends AdminBaseController
             $data['folder'] = $obj->slug();
             $this->data['folder'] = $obj->slug();
         }
-
-        // Ensure route is prefixed with a forward slash.
-        $route = '/' . ltrim($route, '/');
 
         // Check for valid frontmatter
         if (isset($data['frontmatter']) && !$this->checkValidFrontmatter($data['frontmatter'])) {
@@ -1330,7 +1221,21 @@ class AdminController extends AdminBaseController
             }
         }
 
-        $parent = $route && $route !== '/' && $route !== '.' && $route !== '/.' ? $pages->find($route, true) : $pages->root();
+        if ($path !== '') {
+            // First try to get page by its path.
+            $parent = $pages->get(GRAV_ROOT . '/' . $path);
+            if (!$parent) {
+                // Fall back using the route.
+                $route = '/' . preg_replace(PageIndex::PAGE_ROUTE_REGEX, '/', $path);
+                $parent = $pages->find($route, true);
+                if (!$parent) {
+                    throw new \RuntimeException('New parent page cannot be resolved!');
+                }
+            }
+        } else {
+            $parent = $pages->root();
+        }
+
         $original_order = (int)trim($obj->order(), '.');
 
         try {
@@ -1340,6 +1245,10 @@ class AdminController extends AdminBaseController
             $obj->validate();
 
         } catch (\Exception $e) {
+            /** @var Debugger $debugger */
+            $debugger = $this->grav['debugger'];
+            $debugger->addException($e);
+
             $this->admin->setMessage($e->getMessage(), 'error');
 
             return false;
@@ -1562,6 +1471,8 @@ class AdminController extends AdminBaseController
      * Switch the content language. Optionally redirect to a different page.
      *
      * Route: /pages
+     *
+     * @return bool
      */
     protected function taskSwitchlanguage()
     {
@@ -1754,6 +1665,9 @@ class AdminController extends AdminBaseController
         return $this->createJsonResponse($json, 200);
     }
 
+    /**
+     * @return bool
+     */
     protected function taskGetChildTypes()
     {
         if (!$this->authorizeTask('get childtypes', ['admin.pages', 'admin.super'])) {
@@ -1794,6 +1708,8 @@ class AdminController extends AdminBaseController
 
     /**
      * Handles filtering the page by modular/visible/routable in the pages list.
+     *
+     * @return void
      */
     protected function taskFilterPages()
     {
@@ -1951,6 +1867,10 @@ class AdminController extends AdminBaseController
 
             $this->admin->json_response = ['status' => 'success', 'preview' => $html];
         } catch (\Exception $e) {
+            /** @var Debugger $debugger */
+            $debugger = $this->grav['debugger'];
+            $debugger->addException($e);
+
             $this->admin->json_response = ['status' => 'error', 'message' => $e->getMessage()];
 
             return false;
@@ -2121,7 +2041,8 @@ class AdminController extends AdminBaseController
             return false;
         }
 
-        $media = $this->getMedia();
+        $page = $this->admin->page($this->route);
+        $media = $page ? $this->getMedia($page) : null;
         if (!$media) {
             $this->admin->json_response = [
                 'status' => 'error',
@@ -2168,11 +2089,8 @@ class AdminController extends AdminBaseController
             }
         }
 
-        $page = $this->admin->page(true);
-        if ($page) {
-            // DEPRECATED: page
-            $this->grav->fireEvent('onAdminAfterAddMedia', new Event(['object' => $page, 'page' => $page]));
-        }
+        // DEPRECATED: page
+        $this->grav->fireEvent('onAdminAfterAddMedia', new Event(['object' => $page, 'page' => $page]));
 
         $this->admin->json_response = [
             'status'  => 'success',
@@ -2183,6 +2101,9 @@ class AdminController extends AdminBaseController
         return true;
     }
 
+    /**
+     * @return bool
+     */
     protected function taskCompileScss()
     {
 
@@ -2213,9 +2134,11 @@ class AdminController extends AdminBaseController
 
         echo json_encode($json_response);
         exit;
-
     }
 
+    /**
+     * @return bool
+     */
     protected function taskExportScss()
     {
         if (!$this->authorizeTask('compile scss', ['admin.pages', 'admin.super'])) {
@@ -2239,7 +2162,6 @@ class AdminController extends AdminBaseController
 
         echo json_encode($json_response);
         exit;
-
     }
 
     /**
@@ -2255,8 +2177,9 @@ class AdminController extends AdminBaseController
             return false;
         }
 
-        $media = $this->getMedia();
-        if (!$media) {
+        $page = $this->admin->page($this->route);
+        $media = $page ? $this->getMedia($page) : null;
+        if (null === $media) {
             $this->admin->json_response = [
                 'status'  => 'error',
                 'message' => $this->admin::translate('PLUGIN_ADMIN.NO_PAGE_FOUND')
@@ -2337,11 +2260,8 @@ class AdminController extends AdminBaseController
             return false;
         }
 
-        $page = $this->admin->page(true);
-        if ($page) {
-            // DEPRECATED: page
-            $this->grav->fireEvent('onAdminAfterDelMedia', new Event(['object' => $page, 'page' => $page]));
-        }
+        // DEPRECATED: page
+        $this->grav->fireEvent('onAdminAfterDelMedia', new Event(['object' => $page, 'page' => $page, 'media' => $media, 'filename' => $filename]));
 
         $this->admin->json_response = [
             'status'  => 'success',
@@ -2351,6 +2271,10 @@ class AdminController extends AdminBaseController
         return true;
     }
 
+    /**
+     * @param array $data
+     * @return array
+     */
     protected function getLevelListing($data)
     {
         // Valid types are dir|file|link
@@ -2430,7 +2354,6 @@ class AdminController extends AdminBaseController
 
 
         if ($path) {
-            /** @var \SplFileInfo $fileInfo */
             $status = 'success';
             $msg = 'PLUGIN_ADMIN.PAGE_ROUTE_FOUND';
             foreach (new \DirectoryIterator($path) as $fileInfo) {
@@ -2527,11 +2450,17 @@ class AdminController extends AdminBaseController
     /**
      * Get page media.
      *
+     * @param PageInterface|null $page
      * @return Media|null
      */
-    public function getMedia()
+    public function getMedia(PageInterface $page = null)
     {
         if ($this->view !== 'media') {
+            return null;
+        }
+
+        $page = $page ?? $this->admin->page($this->route);
+        if (!$page) {
             return null;
         }
 
@@ -2541,11 +2470,6 @@ class AdminController extends AdminBaseController
         $order = $this->uri->post('order') ?: null;
         if ($order && is_string($order)) {
             $order = array_map('trim', explode(',', $order));
-        }
-
-        $page = $this->admin->page($this->route);
-        if (!$page) {
-            return null;
         }
 
         $blueprints = $page->blueprints();
@@ -2580,18 +2504,24 @@ class AdminController extends AdminBaseController
     }
 
     /**
+     * @return string
+     */
+    protected function getDataType()
+    {
+        return trim("{$this->view}/{$this->admin->route}", '/');
+    }
+
+    /**
      * Gets the configuration data for a given view & post
      *
      * @param array $data
-     *
      * @return object
      */
     protected function prepareData(array $data)
     {
-        $type = trim("{$this->view}/{$this->admin->route}", '/');
-        $data = $this->admin->data($type, $data);
+        $type = $this->getDataType();
 
-        return $data;
+        return $this->admin->data($type, $data);
     }
 
     /**
@@ -2600,8 +2530,9 @@ class AdminController extends AdminBaseController
      * @param PageInterface          $page
      * @param bool                   $clean_header
      * @param string                 $languageCode
+     * @return void
      */
-    protected function preparePage(PageInterface $page, $clean_header = false, $languageCode = '')
+    protected function preparePage(PageInterface $page, $clean_header = false, $languageCode = ''): void
     {
         $input = (array)$this->data;
 
@@ -2687,7 +2618,6 @@ class AdminController extends AdminBaseController
      *
      * @param string        $item
      * @param PageInterface $page
-     *
      * @return string The first available slot
      */
     protected function findFirstAvailable($item, PageInterface $page)
@@ -2748,7 +2678,6 @@ class AdminController extends AdminBaseController
 
     /**
      * @param string $frontmatter
-     *
      * @return bool
      */
     public function checkValidFrontmatter($frontmatter)
@@ -2767,7 +2696,6 @@ class AdminController extends AdminBaseController
      *
      * @param string $current_filename the current file name, including .md. Example: default.en.md
      * @param string $language         The new language it will be saved as. Example: 'it' or 'en-GB'.
-     *
      * @return string The new filename. Example: 'default.it'
      */
     public function determineFilenameIncludingLanguage($current_filename, $language)
@@ -2794,7 +2722,6 @@ class AdminController extends AdminBaseController
      * Get the next available ordering number in a folder
      *
      * @param string $path
-     *
      * @return string the correct order string to prepend
      */
     public static function getNextOrderInFolder($path)
@@ -2825,6 +2752,9 @@ class AdminController extends AdminBaseController
         return $orderOfNewFolder;
     }
 
+    /**
+     * @return ResponseInterface
+     */
     protected function taskConvertUrls(): ResponseInterface
     {
         $request = $this->getRequest();

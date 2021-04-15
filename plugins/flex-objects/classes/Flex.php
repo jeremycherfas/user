@@ -7,13 +7,16 @@ namespace Grav\Plugin\FlexObjects;
 use Grav\Common\Config\Config;
 use Grav\Common\Filesystem\Folder;
 use Grav\Common\Grav;
+use Grav\Common\Page\Interfaces\PageInterface;
 use Grav\Common\Utils;
 use Grav\Framework\Flex\FlexDirectory;
 use Grav\Framework\Flex\FlexObject;
 use Grav\Framework\Flex\Interfaces\FlexCollectionInterface;
 use Grav\Framework\Flex\Interfaces\FlexCommonInterface;
+use Grav\Framework\Flex\Interfaces\FlexDirectoryInterface;
 use Grav\Framework\Flex\Interfaces\FlexInterface;
 use Grav\Framework\Flex\Interfaces\FlexObjectInterface;
+use Grav\Plugin\FlexObjects\Admin\AdminController;
 use Grav\Plugin\FlexObjects\Table\DataTable;
 
 /**
@@ -103,9 +106,9 @@ class Flex implements FlexInterface
     }
 
     /**
-     * @param array|string[]|null $types
+     * @param string[]|null $types
      * @param bool $keepMissing
-     * @return array<FlexDirectory|null>
+     * @return array<FlexDirectoryInterface|null>
      */
     public function getDirectories(array $types = null, bool $keepMissing = false): array
     {
@@ -197,7 +200,7 @@ class Flex implements FlexInterface
 
     public function isManaged(string $type): bool
     {
-        return in_array($type, $this->managed, true);
+        return \in_array($type, $this->managed, true);
     }
 
     /**
@@ -255,7 +258,7 @@ class Flex implements FlexInterface
      * @param array $options
      * @return DataTable
      */
-    public function getDataTable($type, array $options = [])
+    public function getDataTable($type, array $options = []): DataTable
     {
         $directory = $type instanceof FlexDirectory ? $type : $this->getDirectory($type);
         if (!$directory) {
@@ -350,6 +353,24 @@ class Flex implements FlexInterface
         return $route . $extension . ($p ? '/' . implode('/', $p) : '');
     }
 
+    public function getAdminController(): ?AdminController
+    {
+        $grav = Grav::instance();
+        if (!isset($grav['admin'])) {
+            return null;
+        }
+
+        /** @var PageInterface $page */
+        $page = $grav['page'];
+        $header = $page->header();
+        $callable = $header->controller['controller']['instance'] ?? null;
+        if (null !== $callable && \is_callable($callable)) {
+            return $callable();
+        }
+
+        return null;
+    }
+
     /**
      * @return array
      */
@@ -378,6 +399,9 @@ class Flex implements FlexInterface
         return $this->adminRoutes;
     }
 
+    /**
+     * @return array
+     */
     public function getAdminMenuItems(): array
     {
         if (null === $this->adminMenu) {

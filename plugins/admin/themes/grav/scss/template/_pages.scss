@@ -69,6 +69,11 @@
 }
 
 #pages-content-wrapper {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: -1rem;
+    height: calc(100vh - 190px);
+
     .grav-loading {
         min-height: 600px;
 
@@ -79,15 +84,23 @@
         }
     }
 
+    .fjs-container {
+        min-height: initial;
+        flex-grow: 1;
+    }
+
     .fjs-path-bar {
-        margin-bottom: -1rem;
+        //margin-bottom: -1rem;
         border-bottom: 0;
         padding: 0.5rem;
+        overflow: inherit;
     }
 
     .fjs-col {
         width: 33.33333334%;
         min-width: 300px;
+        min-height: 300px;
+        max-height: initial;
     }
 
     .fjs-item {

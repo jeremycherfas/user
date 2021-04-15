@@ -9,6 +9,7 @@ use Grav\Framework\Flex\FlexForm;
 use Grav\Framework\Flex\Interfaces\FlexAuthorizeInterface;
 use Psr\Http\Message\ResponseInterface;
 use Psr\Http\Message\ServerRequestInterface;
+use RuntimeException;
 
 /**
  * Object controller is for the frontend.
@@ -78,7 +79,7 @@ class ObjectController extends AbstractController
             return $this->createDisplayResponse();
         }
 
-        // TODO: is there a better way to do this?
+        // FIXME: make it conditional
         $grav = $this->grav;
         $grav->fireEvent('gitsync');
 
@@ -127,7 +128,7 @@ class ObjectController extends AbstractController
             return $this->createDisplayResponse();
         }
 
-        // TODO: is there a better way to do this?
+        // FIXME: make it conditional
         $grav = $this->grav;
         $grav->fireEvent('gitsync');
 
@@ -150,13 +151,14 @@ class ObjectController extends AbstractController
 
         $object = $this->getObject();
         if (!$object) {
-            throw new \RuntimeException('Not Found', 404);
+            throw new RuntimeException('Not Found', 404);
         }
 
         $object->delete();
 
         $this->setMessage($this->translate('PLUGIN_FLEX_OBJECTS.DELETED_SUCCESSFULLY'), 'info');
 
+        // FIXME: make it conditional
         $grav = $this->grav;
         $grav->fireEvent('gitsync');
 
@@ -230,7 +232,7 @@ class ObjectController extends AbstractController
 
         $object = $this->getObject();
         if (!$object) {
-            throw new \RuntimeException('No object found!', 404);
+            throw new RuntimeException('No object found!', 404);
         }
 
         $grav = Grav::instance();
@@ -252,24 +254,25 @@ class ObjectController extends AbstractController
             return $this->createJsonResponse($content);
         }
 
-        throw new \RuntimeException('Not found', 404);
+        throw new RuntimeException('Not found', 404);
     }
 
     /**
      * @param string $action
-     * @throws \RuntimeException
+     * @return void
+     * @throws RuntimeException
      */
     protected function checkAuthorization(string $action): void
     {
         $object = $this->getObject();
 
         if (!$object) {
-            throw new \RuntimeException('Not Found', 404);
+            throw new RuntimeException('Not Found', 404);
         }
 
         if ($object instanceof FlexAuthorizeInterface) {
             if (!$object->isAuthorized($action, null, $this->user)) {
-                throw new \RuntimeException('Forbidden', 403);
+                throw new RuntimeException('Forbidden', 403);
             }
         }
     }
