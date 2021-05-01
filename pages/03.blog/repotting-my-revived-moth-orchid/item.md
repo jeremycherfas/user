@@ -18,9 +18,9 @@ header_image: '0'
 
 The wait is over. After soaking in weak tea for seven days, my one remaining Phalaenopsis orchid is looking a little less ropy. In fact I was exceedingly pleased this morning that the one particularly daggy leaf came away in my hands. I had feared that I might have to cut if off, risking disease and death. Now I’m thinking that maybe the tea treatment gave the plant the strength to withdraw what it could from the leaf and seal it off with a nice corky abscission scar.
 
-[![Abscissed dying orchid leaf](sm-orchid-5-2021-05-01.jpeg){.center}](orchid-5-2021-05-01.jpeg)
-
 ===
+
+[![Abscissed dying orchid leaf](sm-orchid-5-2021-05-01.jpeg){.center}](orchid-5-2021-05-01.jpeg)
 
 The entire process started when The Black Thumb (_aka_ Terry Richardson, [orchidwhisperer19](https://www.instagram.com/orchidwhisperer19/) was on Jane Perrone’s On The Ledge podcast. He has a [YouTube video](https://youtu.be/Bf86hDck_YQ) showing his rescue technique, which involves weak tea made with distilled water. His explanation — that the tannin in the tea stimulates the plant into growth in the same way that tannin dissolved in rainwater trickling down a tree trunk would — made sense. 
 
