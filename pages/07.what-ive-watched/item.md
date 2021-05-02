@@ -16,6 +16,64 @@ template: item
 <!-- Outer List -->
 <ul class="log">
 
+<li class="log-month">April</li>
+
+<ul class="log-entry">
+<li class="log-day">27</li>
+<ul>
+<li class="log-item">Finished <em>This is a Robbery</em> On Netflix <strong>T</strong> Well done, even though ultimately lacking closure. Will we ever know for sure?</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">25</li>
+<ul>
+<li class="log-item">Watched two episodes of <em>This is a Robbery</em> on Netflix <strong>T</strong> True crime podcast with pictures that owe a lot to Errol Morris. Extremely absorbing.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">24</li>
+<ul>
+<li class="log-item">Started watching <em>Samurai Gourmet s01</em> on Netflix <strong>T</strong> Very strange, very Japanese, rather fun.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">11</li>
+<ul>
+<li class="log-item">Watched <em>The Spy Who Came in from the Cold</em> on iTunes <strong>F</strong> The crucial unanswered question is how much did Leamas actually know.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">08</li>
+<ul>
+<li class="log-item">Started watching <em>Shtisel</em> on Netflix <strong>T</strong> Rather interresting.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">04</li>
+<ul>
+<li class="log-item">Watched <em>Operation Finale</em> on Netflix <strong>F</strong> Beautifully done. Malkin and Eichmann both deserve awards.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">03</li>
+<ul>
+<li class="log-item">Watched <em>Seaspiracy</em> on Nertflix <strong>F</strong> Polemical, naïve documentary that actually had a useful final message.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">02</li>
+<ul>
+<li class="log-item">Started watching <em>Tokyo Stories: Midnight Diner</em> on Netflix <strong>T</strong> Rather entertaining and very funny.</li>
+</ul>
+</ul>
+
 <li class="log-month">March</li>
 
 <ul class="log-entry">

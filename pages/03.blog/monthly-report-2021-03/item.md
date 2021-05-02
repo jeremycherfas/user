@@ -57,7 +57,7 @@ Online tutorials, and not just for Python, are so variable in content and so hit
 
 ### Work
 
-Chugging along nicely. I may complain about people who go to all the trouble of copying full references into the papaers they ask me to edit without using any kind of reference manager, but in the end I don’t dislike the job. It is just taxing enough and offers a solid sense of progress. I can do about 20 an hour, and on a good day can do it for about 90 minutes.
+Chugging along nicely. I may complain about people who go to all the trouble of copying full references into the papers they ask me to edit without using any kind of reference manager, but in the end I don’t dislike the job. It is just taxing enough and offers a solid sense of progress. I can do about 20 an hour, and on a good day can do it for about 90 minutes.
 
 #### Hours logged per month
 
