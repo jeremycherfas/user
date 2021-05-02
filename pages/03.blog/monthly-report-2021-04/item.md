@@ -100,7 +100,7 @@ I would just be repeating myself.
 
 ### Final remarks
 
-The value of taking the time to put references into bibliographic software amply demonstrated when I had to do a complete reformat to submit to a different journal. Which reject the paper with alacrity. So the value of etc. will be amply demonstrated next week to, as I reformat to submit to etc.
+The value of taking the time to put references into bibliographic software amply demonstrated when I had to do a complete reformat to submit to a different journal. Which rejected the paper with alacrity. So the value of etc. will be amply demonstrated next week to, as I reformat to submit to etc.
 
 <script>
 
