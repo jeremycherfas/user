@@ -63,7 +63,7 @@ template: item
 <ul class="log-entry">
 <li class="log-day">03</li>
 <ul>
-<li class="log-item">Watched <em>Seaspiracy</em> on Nertflix <strong>F</strong> Polemical, naïve documentary that actually had a useful final message.</li>
+<li class="log-item">Watched <em>Seaspiracy</em> on Netflix <strong>F</strong> Polemical, naïve documentary that actually had a useful final message.</li>
 </ul>
 </ul>
 
