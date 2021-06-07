@@ -1,7 +1,7 @@
 ---
 title: 'Monthly report: May 2021'
 published: true
-date: '07-06-2021 15:20'
+date: '07-06-2021 14:05'
 taxonomy:
     category:
         - blog
@@ -16,6 +16,7 @@ subhead: ''
 
 Later than I’ve ever been, I think, thanks to The Client From Hell. Further proof, if proof were needed, that no amount of compensation is sufficient and also of that old adage:
 
+!   
 ! If a thing’s not worth doing, it’s not worth doing well.
 
 Heigh ho.
@@ -26,14 +27,12 @@ Heigh ho.
 
 - Repotted an orchid after reviving with weak tea for a week
 - Discovered the pleasure of DIY fruit vinegars
-- Got a new outdoor trable for the succulents
+- Got a new outdoor table for the succulents
 - Attended as much as I could of the virtual Hearsay Audio Festival. Some cracking award winners
 - Took a teeny-weeny baby step into Jupyter
 - Had a (malignant) mole removed
 - My car got towed away, my own fault. Recovery relatively painless, but expensive
 - Cultural quickie in Osta Antica with a simple picnic lunch
-
-Cosmic doubts about working
 
 ### Activities
 
@@ -49,7 +48,7 @@ Impressive increase in naps.
 * Walking with sticks: 6
 * Reading: 20
 * Steps (avge): 11,054
-* Podcasts: 52??? (41 of them [logged](https://www.jeremycherfas.net/stream/))
+* Podcasts: 52 (41 of them [logged](https://www.jeremycherfas.net/stream/))
 * In bed/asleep 8:27/7:18
 * 7 Minutes: 7 days; alternating 2 cycles moderate and 3 cycles cardio blast.
 * Weight (avge): 85.8
@@ -68,9 +67,7 @@ Impressive increase in naps.
 
 ### Work
 
-It carried on carrying on and, as you may have gathered, really did keep me from doing some things I would really have preferred to be doing. Even now, on a Sunday afternoon, having done two things for myself, I’m conscious that tomorrow I have to deliver something else and a part of me wants to start that so I get a jump on tomorrow. 
-
-Must. Resist.
+The aforementioned Client from Hell caused some serious self-reflection, and a possible resolution. I could just stop working as much as I am. After all, what’s the point of having saved diligently for a pension only to leave it sitting earning piddling amounts of interest. Of course, then I wouldn’t have any excuse for not doing the things I currently say I’d rather be doing, but I could live with that. Still, I had already planned to wind down over June and July (and much of August too, in all likelihood), so we’ll see how it goes.
 
 #### Hours logged per month
 
@@ -103,15 +100,19 @@ Previous years are on [an archive page](https://jeremycherfas.net/blog/working-l
 
 ### Goals
 
-Five new posts, but no old ones. I was pleased with myself for finally having gotten around to writing [The truth about farro](https://www.jeremycherfas.net/blog/the-truth-about-farro). I confess it would be nice to see it being linked to, but I’m not holding my breath.
+Five new posts, and finally resumed plumbing the logs for old ones that something or someone might be looking for. Only had time for three, from 2006, 2009 and 2011.
+
+* [Sounds familiar](https://www.jeremycherfas.net/blog/sounds-familiar)
+* [Now that's what I call saving seeds](https://www.jeremycherfas.net/blog/now-thats-what-i-call-saving-seeds)
+* [Not stiff enough? My Pain de Beaucaire](https://www.jeremycherfas.net/blog/not-stiff-enough-my-pain-de-beaucaire)
 
 ### Niggles
 
-I would just be repeating myself.
+No point maoning that I haven’t had time to do things. Just do them.
 
 ### Final remarks
 
-The value of taking the time to put references into bibliographic software amply demonstrated when I had to do a complete reformat to submit to a different journal. Which rejected the paper with alacrity. So the value of etc. will be amply demonstrated next week to, as I reformat to submit to etc.
+The summer is looking very appealling. And in two days, I get my second vaccination shot. So, all is good.
 
 <script>
 
@@ -120,7 +121,7 @@ series: [
         { name: 'Hours logged 2018', data: [0,0,152,159, 151,96,68,185,131,100,0,0] },
         { name: 'Hours logged 2019', data: [95,121,158,128,145,75,58,110,128,96.5,154.1,96.1] },
         { name: 'Hours logged 2020', data: [89.25,129,164.1,175,170,171,83.33,138.5,115.9,133.5,149.5,119.75] },
-        { name: 'Hours logged 2021', data: [168.5,155.7,173.3,166.1,,,,,,,,] }
+        { name: 'Hours logged 2021', data: [168.5,155.7,173.3,166.1,159.1,,,,,,,] }
         ]
 },
 {
@@ -154,8 +155,8 @@ series: [
 new Chartist.Bar('.ct-chart-2', {
   labels: ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'],
   series: [
-    [43,32,38,39,,,,,,,,],
-    [17,25,19,16,,,,,,,,]
+    [43,32,38,39,29,,,,,,,],
+    [17,25,19,16,22,,,,,,,]
   ]
 }, 
 {
@@ -201,6 +202,14 @@ new Chartist.Bar('.ct-chart-2', {
 </tr>
 </thead>
 <tbody>
+<tr>
+<td style="text-align: right;">05</td>
+<td style="text-align: center;">159.1</td>
+<td style="text-align: center;">5.13</td>
+<td style="text-align: center;">29</td>
+<td style="text-align: center;">22</td>
+<td style="text-align: center;">49</td>
+</tr>
 <tr>
 <td style="text-align: right;">04</td>
 <td style="text-align: center;">166.1</td>
