@@ -1,7 +1,7 @@
 ---
 title: 'Normal service has been resumed'
 published: true
-date: ’15-06-2021 09:30'
+date: '15-06-2021 09:30'
 taxonomy:
     category:
         - blog
