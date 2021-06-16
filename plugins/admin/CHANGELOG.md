@@ -1,3 +1,58 @@
+# v1.10.16
+## 06/02/2021
+
+1. [](#bugfix)
+    * Fixed issue with some elements overflowing closed list items [#2146](https://github.com/getgrav/grav-plugin-admin/issues/2146)
+    * Fixed configuration not fully updating on save [#2149](https://github.com/getgrav/grav-plugin-admin/issues/2149)
+    * Fixed display issue with "+ Add Page" and picking a different route [#2136](https://github.com/getgrav/grav-plugin-admin/issues/2136), [#2145](https://github.com/getgrav/grav-plugin-admin/issues/2145) 
+    * Treat WebP as image when inserting / drag & dropping [#2150](https://github.com/getgrav/grav-plugin-admin/issues/2150)
+
+# v1.10.15
+## 05/19/2021
+
+1. [](#new)
+    * Updated SCSS compiler to v1.5
+1. [](#improved)
+    * Updated node modules dev dependencies
+    * Package.json scripts cleanup
+    * Recompiled JS for production
+    * Use `base645_encode` filter rather than function
+    * Editor: Do not assume images URLs are going to be `http://` (wrong assumption plus not SSL) [#2127](https://github.com/getgrav/grav-plugin-admin/issues/2127)
+    * Improved Theme Activation + Plugin Enabled logic to ensure configuration is not displayed unless activation/enabled state. Fixes [#2140](https://github.com/getgrav/grav-plugin-admin/issues/2140)
+1. [](#bugfix)
+    * Fixed issue with slugify where single curly quotes in titles would translate to straight single quote [#2101](https://github.com/getgrav/grav-plugin-admin/issues/2101)
+    * Fix z-index issue with fullscreeen editor (and toolips) [#2143](https://github.com/getgrav/grav-plugin-admin/issues/2143)
+
+# v1.10.14
+## 04/29/2021
+
+1. [](#improved)
+    * Added a `min_height:` option for list field
+1. [](#bugfix)
+    * Fixed z-index issue for tooltips in sidebar
+    * Fixed custom files being overridden during theme update [#2135](https://github.com/getgrav/grav-plugin-admin/issues/2135)
+
+# v1.10.13
+## 04/23/2021
+
+1. [](#new)
+    * Added refresh action button for Folder to ease the regeneration of the slug based on the title. Available also as API entry `Grav.default.Forms.Fields.FolderField.Regenerate()` [#1738](https://github.com/getgrav/grav-plugin-admin/issues/1738)
+1. [](#improved)
+    * Removed sourcemaps references from fork-awesome.min.css [#2122](https://github.com/getgrav/grav-plugin-admin/issues/2122)
+    * Support native spell checkers in CodeMirror editor [#1266](https://github.com/getgrav/grav-plugin-admin/issues/1266)
+    * Added new 'Content Highlight' color to presets
+    * Copying Pages now prompts a dedicated modal that allows for picking title, folder name, parent location, page template and visibility [#1738](https://github.com/getgrav/grav-plugin-admin/issues/1738)
+    * Updated with latest language translations from Crowdin.com
+1. [](#bugfix)
+    * Moved preset CSS compile to earlier in the process to ensure compilation happens in time.
+    * Prevent Save actions from Flex Objects to trigger the unsaved unload notice [#2125](https://github.com/getgrav/grav-plugin-admin/issues/2125)
+    * Fixed audit vulnerabilities in module dependencies and house cleanup [#2096](https://github.com/getgrav/grav-plugin-admin/issues/2096)
+    * Fixed issue preventing Drag & Drop of media files while in Expert Mode [#1927](https://github.com/getgrav/grav-plugin-admin/issues/1927)
+    * Fixed broken link colors in `preset.css` which was causing issues with tabs and dropdowns
+    * Fixed permissions for page related tasks and actions
+    * Fixed permission check for configuration save [#2130](https://github.com/getgrav/grav-plugin-admin/issues/2130)
+    * Fixed missing/wrong page categories and tags when multi-language support is enabled [#2107](https://github.com/getgrav/grav-plugin-admin/issues/2107)
+
 # v1.10.12
 ## 04/15/2021
 
