@@ -20,7 +20,7 @@ book:
 	image: "who-is-bailey.jpg"
 ---
 
-!!!In the process of bringing over old posts from previous sites, I've come across old reviews. They’re not the same as the more recent ones, but I want to preserve them nevertheless. This was originally published on 1 June 2013.
+!!! In the process of bringing over old posts from previous sites, I've come across old reviews. They’re not the same as the more recent ones, but I want to preserve them nevertheless. This was originally published on 1 June 2013.
 
 ###Who is Bailey?
 
