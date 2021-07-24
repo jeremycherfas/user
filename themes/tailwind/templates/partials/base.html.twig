@@ -29,10 +29,7 @@
 	{{ assets.js()|raw }}
 {% endblock %} 
 </head>
-{% set options = { items: {'@root.descendants':''}, 'order': {'by': 'folder', 'dir': 'asc'}} %} {% set my_collection = page.collection(options) %} 
-
-{# % set dayoptions = { items: {'dateRange': {'start':'page.header.date', 'end':'page.header.date'}}, 'order': {'by': 'date', 'dir': 'desc'}} % #}
-{# % set onthisday_collection = page.collection(dayoptions) % #}
+{% set options = { items: {'@root.descendants':''}, 'order': {'by': 'date', 'dir': 'asc'}} %} {% set my_collection = page.collection(options) %} 
 
 <body id="top" class="container mx-auto">
 <!-- base.html.twig to Set max width and centres -->
@@ -74,10 +71,5 @@ Just repeats the same post.
 <!-- End all items inc sidebar -->
 
 {% block bottom %} {{ assets.js('bottom')|raw }} {% endblock bottom %} 
-{{ dump(page.header.date) }}
-{% set myday = page.header.date("mm/dd") %}
-{{ dump(page.header.date("dd/mm")) }} 
-{{ dump(myday) }}
-
 </body>
 </html>
