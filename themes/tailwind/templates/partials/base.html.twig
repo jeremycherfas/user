@@ -30,6 +30,10 @@
 {% endblock %} 
 </head>
 {% set options = { items: {'@root.descendants':''}, 'order': {'by': 'folder', 'dir': 'asc'}} %} {% set my_collection = page.collection(options) %} 
+
+{# % set dayoptions = { items: {'dateRange': {'start':'page.header.date', 'end':'page.header.date'}}, 'order': {'by': 'date', 'dir': 'desc'}} % #}
+{# % set onthisday_collection = page.collection(dayoptions) % #}
+
 <body id="top" class="container mx-auto">
 <!-- base.html.twig to Set max width and centres -->
 <div class="opacity-100 sticky top-0 z-20">
@@ -69,6 +73,11 @@ Just repeats the same post.
 </div>
 <!-- End all items inc sidebar -->
 
-{% block bottom %} {{ assets.js('bottom')|raw }} {% endblock bottom %} {{ dump(page) }} 
+{% block bottom %} {{ assets.js('bottom')|raw }} {% endblock bottom %} 
+{{ dump(page.header.date) }}
+{% set myday = page.header.date("mm/dd") %}
+{{ dump(page.header.date("dd/mm")) }} 
+{{ dump(myday) }}
+
 </body>
 </html>
