@@ -21,7 +21,7 @@ A man appears in front of the projections screen. He wears jeans and a hoodie, b
 
 And then, to our total astonishment, he makes way for "The Dunes". The Dunes are two women who proceed to do interpretative belly-dances. I have the presence of mind, and the presence of camera, to video a small part of the performance.
 
-![Video of two women dancing](mvi_3633.avi){.center}
+![Video of two women dancing](mvi_3633.mp4){.center}
 
 I was truly embarrassed. What was this all about? In such a cutting edge joint? I suppose it could have been a post-modern, somewhat ironic acknowledgment of something or other, but I'm pretty sure it wasn't. I'm pretty sure it was just hipster-groovester men and women with short fringes watching exotic women do what exotic women have always done here, since the days of Cleopatra.
 
