@@ -12,9 +12,11 @@
 	</div>
 </div>
 
+{% if page.template != 'blog' %}
 {% block onthisday %}
 {% include 'partials/onthisday.html.twig' %}
 {% endblock %}
+{% endif %}
 
 {% if config.plugins.twigfeeds.enabled %}
 <div class="sidebar-content mr-4 md:mr-0 ">
