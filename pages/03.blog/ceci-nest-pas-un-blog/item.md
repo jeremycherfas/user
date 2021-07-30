@@ -1,5 +1,5 @@
 ---
-title: 'Ceci n'est pas un blog'
+title: "Ceci n'est pas un blog"
 published: true
 date: '30-07-2011 16:15'
 taxonomy:
