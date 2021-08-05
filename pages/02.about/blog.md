@@ -1,14 +1,17 @@
 ---
 title: 'A little bit about me'
 menu: About
-template: item
 process:
+    markdown: true
     twig: true
 cache_enable: false
+template: item
+feed:
+    limit: 10
 form: contact-form
 ---
 
-I work as a freelance communicator.
+I work as a freelance communicator. I happen to have a PhD in biology, but I don't belabour the point.
 
 In essence, I see myself as a translator. I speak Science, and I speak English, and I work hard to make the two understand one another.
 
@@ -18,7 +21,8 @@ Mostly, I like to help people tell their stories. I’m a biologist by training 
 
 I don’t currently have a portfolio, as such, but here are some of the things I've done:
 <span class="list-disc ">
-* Quite a lot of my **written journalism** these days is for NPR’s The Salt, [most recently this piece](http://www.npr.org/sections/thesalt/2016/08/25/491370926/food-world-rallies-for-quake-hit-amatrice-home-of-famous-pasta-dish). I’m more than happy to consider any commissions.
+* I've written books and worked in print, radio and TV. You can search for me, I’m more than happy to consider any commissions.
+* I used to think that what I was doing would help change people's minds, but I've long since given up on that. On GMOs, for example, I wrote [this](https://jeremycherfas.net/work/nothing-new) in 1998 and I have no reason to change any of it now.
 * I make [Eat This Podcast](http://eatthispodcast.com), which was nominated for a James Beard Foundation award In 2015 and 2016. (Always the bridesmaid ...) I also make **podcasts** for clients and would be delighted to do the same for you.
 * Several clients have asked me to work with them to develop a **communications strategy**. I can’t say who they are, but they’ve generally been pretty pleased with the results and I’d be happy to talk privately.
 * I've done a lot of **training on communications** and, especially, science writing. Again, more details on request.
