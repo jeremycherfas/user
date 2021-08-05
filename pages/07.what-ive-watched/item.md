@@ -16,6 +16,137 @@ template: item
 <!-- Outer List -->
 <ul class="log">
 
+<li class="log-month">July</li>
+
+<ul class="log-entry">
+<li class="log-day">25</li>
+<ul>
+<li class="log-item">Finished watching <em>High on the Hog</em> on Netflix <strong>T</strong> Very well done, and thoughtful.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">19</li>
+<ul>
+<li class="log-item">Started reading <em>Rules of Civility</em> by Amor Towles on Kindle <strong>B</strong> Entrancing, and a bravura opening.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">18</li>
+<ul>
+<li class="log-item">Finished watching <em>Midnight Diner s02</em> on Netflix <strong>T</strong> Very happy to discover there's a third series.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">15</li>
+<ul>
+<li class="log-item">Started watching <em>Bosch s07</em> on Amazon Prime <strong>T</strong> Still very absorbing.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">14</li>
+<ul>
+<li class="log-item">Finished watching <em>Lupin s02</em> on Netflix <strong>T</strong> Excellent. But what is he running from, in the end? Another series?</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">14</li>
+<ul>
+<li class="log-item">Finished reading <em>The Corrections</em> by Jonathan Frantzen <strong>B</strong> Blimey; what a sage. So engrossing, so well made.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">4</li>
+<ul>
+<li class="log-item">Finished reading <em>Monterey Bay</em> by Lindsay Hatton <strong>B</strong> Somewhat overwritten, but interesting as far as it went.</li>
+</ul>
+</ul>
+
+<li class="log-month">June</li>
+
+<ul class="log-entry">
+<li class="log-day">27</li>
+<ul>
+<li class="log-item">Finished watching <em>Call My Agent s04</em> on Netflix <strong>T</strong> Is this the end? Possibly not.</li>
+</ul>
+</ul>
+<ul class="log-entry">
+<li class="log-day">12</li>
+<ul>
+<li class="log-item">Started watching <em>Lupin s02</em> on Netflix <strong>T</strong> Still very entertaining.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">10</li>
+<ul>
+<li class="log-item">Started watching <em>High on the Hog</em> on Netflix <strong>T</strong> Very thoughtful and well made.</li>
+</ul>
+</ul>
+
+<li class="log-month">May</li>
+
+<ul class="log-entry">
+<li class="log-day">30</li>
+<ul>
+<li class="log-item">Started watching <em>Shtisel s02</em> on Netflix <strong>T</strong> Totally engaging.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">29</li>
+<ul>
+<li class="log-item">Started watching <em>The Kominsky Method s03</em> on Netflix <strong>T</strong> Still very good, but why’d they kill off Alan Arkin?</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">27</li>
+<ul>
+<li class="log-item">Started watching <em>Halston</em>  on Netflix <strong>T</strong> OK, but not wow.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">27</li>
+<ul>
+<li class="log-item">Started reading <em>The Screaming SkyTitle</em> by Charles Foster <strong>B</strong> Lyrical, and yet down-to-earth.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">26</li>
+<ul>
+<li class="log-item">Finished <em>The Arrest</em>  by Jonathan Lethem <strong>B</strong> OK, but by no means excellent.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">16</li>
+<ul>
+<li class="log-item">Started reading <em>The Arrest</em> by Jonathan Lethem on Kindle <strong>B</strong> Weird.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">09</li>
+<ul>
+<li class="log-item">Watched <em>State of Play</em> on Netflix <strong>F</strong> Most of the usual tropes, but gripping nevertheless.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">02</li>
+<ul>
+<li class="log-item">Watched <em>Concrete Cowboy</em> on Netflix <strong>F</strong> Occasionally a teeny bit mawkish, but on the whole extremely fine.</li>
+</ul>
+</ul>
+
 <li class="log-month">April</li>
 
 <ul class="log-entry">
