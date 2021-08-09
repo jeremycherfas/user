@@ -1,7 +1,7 @@
 ---
 title: 'Food News 5a'
 published: true
-date: ’09-08-2006 06:00'
+date: '09-08-2006 06:00'
 taxonomy:
     category:
         - blog
