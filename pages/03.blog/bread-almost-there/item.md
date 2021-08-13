@@ -25,7 +25,7 @@ I halved the batch, roughly shaped the dough and bunged it into lightly oiled ti
 
 Good structure too.
 
-![Crumb picture of bread loaf](Crumb-11082009.jpg)
+![Crumb picture of bread loaf](Crumb-11082009.jpg){.center}
 
 The proof, of course, is in the eating. With a fresh goats cheese. Excellent. I may have solved my problem, although I’m tempted to do a proper knead next time, just to see whether that makes a difference.
 
