@@ -21,7 +21,7 @@ The details. Starter at 100%, built with 9% flour to make 20% of the batch. Batc
 
 I halved the batch, roughly shaped the dough and bunged it into lightly oiled tins. Those went into the fridge, which I think is at about 12℃, although that seems on the warm side. [^fn1] Proving for about 18 hours, and again the dough had roughly doubled. I took them out of the fridge and left them for roughly an hour, during which time they rose a little more. Uncovered in the fridge the top surface had definitely dried out, but there was no alternative. I slashed the crust carefully, and put one loaf into the oven at 250℃ under a big old cast iron casserole. No steam though. Getting steam in under the casserole is a trick that escapes me right now. After 20 minutes I took the casserole off and reduced the heat to 205℃, leaving it another 30 minutes. Inside temperature was 95℃ when I took it out to cool. And boy, did it look good.
 
-![Loaf of bread](Loaf-11082009.jpg){.center}
+![Loaf of bread](Loaf-11082009.JPG){.center}
 
 Good structure too.
 
