@@ -13,19 +13,6 @@ subhead: " "
 header_image: '0'
 ---
 
----
-author:
-comments: true
-flattr: true
-date: 2006-08-22 06:44:41
-layout: post
-slug: food-news-7
-title: Food News 7
-wordpress_id: 559
-categories:
-- Shangri-La
----
-
 Start: 95.4 Last week: 90.3  This week: 89.2
 
 **Saturday 19 August:** Crashed -- if you can call 100 grams below a Big Round Number crashing -- through another barrier this morning, somewhat to my surprise as I had not done anything drastic. Still and all, I’m not complaining. There’s another barrier coming up soon, but then I guess it’ll be a while before 85 Kg. There’s a great discussion about constipation over on the SLD forums. Some people seem to regard going less frequently than before as constipation. Others are arguing for excessive solidity and pain. Me, I’m with the latter group, and on that score, I’m not constipated. (Possibly more than you needed to know?)
