@@ -1,7 +1,7 @@
 ---
 title: 'Food News 8'
 published: true
-date: '29-08-2021 06:30'
+date: '29-08-2006 06:30'
 taxonomy:
     category:
         - blog
