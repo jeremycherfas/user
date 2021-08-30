@@ -1,7 +1,7 @@
 ---
 title: 'Szombat diet'
 published: true
-date: '30-08-2021 20:10'
+date: '30-08-2008 20:10'
 taxonomy:
     category:
         - blog
