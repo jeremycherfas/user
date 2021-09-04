@@ -1,7 +1,7 @@
 ---
 title: 'Way to teach biology'
 published: true
-date: '04-09-2021 13:00'
+date: '04-09-2006 13:00'
 taxonomy:
     category:
         - blog
