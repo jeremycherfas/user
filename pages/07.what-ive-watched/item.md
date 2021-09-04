@@ -16,6 +16,51 @@ template: item
 <!-- Outer List -->
 <ul class="log">
 
+<li class="log-month">August</li>
+
+<ul class="log-entry">
+<li class="log-day">30</li>
+<ul>
+<li class="log-item">Finished reading <em>The Idiot</em> by Elif Batuman <strong>B</strong> Luscious, laugh out loud funny, and a great glimpse into a different view of the world.</li>
+<li class="log-item">Finished reading <em>Spy Hook</em> by Len Deighton <strong>B</strong> I dunno. Very complex and pretty unsatisfying.</li>
+<li class="log-item">Finished reading <em>The Salt Path</em> by Raynor Winn <strong>B</strong> Sweet and, er, life-affirming?</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">14</li>
+<ul>
+<li class="log-item">Watched <em>Shirely Valentine</em> in iTunes <strong>F</strong> Very sweet, and only a little dated, really.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">07</li>
+<ul>
+<li class="log-item">Started watching <em>The Americans s03</em> on Amazon Prime <strong>T</strong> Oh, those crazy Russians.</li>
+</ul>
+</ul>
+<ul class="log-entry">
+<li class="log-day">03</li>
+<ul>
+<li class="log-item">Finished reading <em>Rules of Civility</em> by Amor Towles <strong>B</strong> Maybe not quite up to _A Gentleman in Moscow_, but very, very good. Deeply absorbing.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">02</li>
+<ul>
+<li class="log-item">Started watching <em>Midnight Diner s03</em> on Netflix <strong>T</strong> So good. Why don't I find it sentimental? Because it is Japanese?</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">01</li>
+<ul>
+<li class="log-item">Finished watching <em>The Americans s02</em> on Amazon Prime <strong>T</strong> Didn't see that coming, and possibly neither did the story editor.</li>
+</ul>
+</ul>
+
 <li class="log-month">July</li>
 
 <ul class="log-entry">

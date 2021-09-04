@@ -1,7 +1,7 @@
 ---
 title: 'Monthly report: August 2021'
 published: true
-date: '04-09-2021 14:05'
+date: '04-09-2021 10:30'
 taxonomy:
     category:
         - blog
@@ -89,15 +89,17 @@ Previous years are on [an archive page](https://jeremycherfas.net/blog/working-l
 
 ### Goals
 
-Kept going with the daily reading and updating of old posts and amused quite often by what I found. As noted last month, many of my hobby horses are long in the tooth. Some tribulations, however, have vanished. In years past, I anguished over sourdough baking in hot weather. No more, I have learned how to do it right, although that is also because I don't have to fit it around a working day away from home.
+Kept going with the daily reading — which also goaded me into updating the automation of starting a post — and updating of old posts and amused quite often by what I found. As noted last month, many of my hobby horses are long in the tooth. Some tribulations, however, have vanished. In years past, I anguished over sourdough baking in hot weather. No more, I have learned how to do it right, although that is also because I don't have to fit it around a working day away from home.
+
+Eleven new posts, too, many prompted by old posts.
 
 ### Niggles
 
-Genuinely torn about rejigging the template for individual posts. Maybe I should simply give it a go and see whether I like it.
+Traveling with the laptop is fine for all sorts of things, but not for redesigns etc. And the iMac is playing up more and more. Will it last until a bigger M1 iMac? Or will I end up with and M1 laptop and separate monitor?
 
 ### Final remarks
 
-It is going to be very strange visiting London.
+Ready for the winter, I suppose.
 
 <script>
 
