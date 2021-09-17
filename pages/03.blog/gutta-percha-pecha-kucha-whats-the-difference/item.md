@@ -1,5 +1,5 @@
 ---
-title: 'Gutta percha, pecha kucha, what's the difference?'
+title: 'Gutta percha, pecha kucha, what’s the difference?'
 published: true
 date: '17-09-2009 18:20'
 taxonomy:
