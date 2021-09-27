@@ -1,7 +1,7 @@
 ---
 title: 'Found in Cyberspace'
 published: true
-date: ’27-09-2006 19:39’
+date: '27-09-2006 19:39'
 taxonomy:
     category:
         - blog
