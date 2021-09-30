@@ -5,6 +5,7 @@ date: 28-09-2021 10:53
 taxonomy:
     category:
         - stream
+        - Reviews
     tag:
         - podcasts
 header_image: '0'
@@ -13,3 +14,5 @@ image: artwork-resized.png
 template: item
 --- 
 Episode summary: Part 1 of our series on the climate emergency. How did we drive ourselves into the ecological ditch? And, crucially, who is this ‘we’? Our story starts with … Genesis. By host and producer John Biewen, with co-host Amy Westervelt. Interviews with David Pecusa, Bina Nir, and Kate Rigby. The series editor is Cheryl Devall. Music by Lili Haydn, Kim Carroll, Chris Westlake, Alex Weston, and Cora Miron. Music consulting by Joe Augustine of Narrative Music. Season 5 is supported by Scene on Radio listener-donors, and by the International Women’s Media Foundation.
+
+I was a bit put off at the beginning by the biblical double-hander, but I should have trusted John Biewen. The show took on the problems of "dominion" and how that seems, on the face of it, to be the start of all our problems. We shall see. Tip-top.
