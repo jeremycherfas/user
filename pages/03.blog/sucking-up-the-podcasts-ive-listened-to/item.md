@@ -1,5 +1,5 @@
 ---
-title: "Sucking up the podcasts I've listen ed to"
+title: "Sucking up the podcasts I've listened to"
 published: true
 date: '16-03-2019 12:30'
 taxonomy:
@@ -14,7 +14,7 @@ subhead: "Days to save minutes"
 header_image: '0'
 --- 
 
-Finally, I have succeeded in importing [all the podcasts I have listen ed to with the Overcast app](https://www.jeremycherfas.net/stream), at least as far back as May 2018.
+Finally, I have succeeded in importing [all the podcasts I have listened to with the Overcast app](https://www.jeremycherfas.net/stream), at least as far back as May 2018.
 
 ===
 
