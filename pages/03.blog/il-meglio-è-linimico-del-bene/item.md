@@ -1,5 +1,5 @@
 ---
-title: Il meglio è l’inimico del bene'
+title: 'Il meglio è l’inimico del bene'
 published: true
 date: '06-10-2008 00:05'
 taxonomy:
