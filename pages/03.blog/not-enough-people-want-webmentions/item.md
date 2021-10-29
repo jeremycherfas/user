@@ -22,6 +22,6 @@ Today I got a reply. It didn't really address the login point, but did speak to 
 
 > A few people have mentioned WebMentions, but unfortunately I don't have the time resources to build that feature as the feature requests does not have enough volume (I prioritise features in the descending order of number of requests).
 
-Is this a clear case of people not wanting what they don't know about? Or is it, rather,st a classic opportunity to say if-you-build-it-they-will-come?
+Is this a clear case of people not wanting what they don't know about? Or is it, rather, just a classic opportunity to say if-you-build-it-they-will-come?
 
 Anyway, if number of requests is what it takes, I've [added mine](https://gitlab.com/commento/commento/issues/40) and urge anyone who feels similarly to do the same.
