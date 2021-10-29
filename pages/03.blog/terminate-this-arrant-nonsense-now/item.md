@@ -8,7 +8,7 @@ taxonomy:
     tag:
         - General
     topic:
-    	- Agriculture
+        - Agriculture
 summary:
     enabled: '1'
 subhead: " "
