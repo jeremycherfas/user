@@ -1,7 +1,7 @@
 ---
-title: 'Monthly report: September 2021'
+title: 'Monthly report: October 2021'
 published: true
-date: '02-10-2021 12:04'
+date: '01-11-2021 19:04'
 taxonomy:
     category:
         - blog
@@ -14,25 +14,33 @@ summary:
 subhead: ''
 ---
 
-Back to working for money a bit this month, although on a slightly reduced scale. Back to editing podcasts again too, which is greatly satisfying. Back to my regular HIIT schedule. And, completing the Yankee, back to baking bread in bulk.
+Everyone is keen to spend their budget before the end of the year, and who am I to argue. It has bitten into my fun time, but not completely. I fixed my podcast scrobbling script, and ordered a new computer.
 
 ===
 
 ## Highlights of the month:
 
-- On the terrace, potted on two apple seedlings
-- Deep cleaned this keyboard
-- Reached another geohash **on foot**
-- Returned to Scrivener for a new job; I'm sure I could use it better
-- First and last visit to Lago di Martiganano
-- Wonderful visit from a very dear friend of very long standing
-- Final documentation on Italian taxes submitted
-- Garlic noodles!
-- Started work on structured keywords for photos
+- Started the month with a frozen computer, ended it by ordering a new one and hoping that I can hold out till it arrives.
+- Not a good computer month at all; the Pi also went on the fritz and took the best part of a day to restore.
+- Excellent visit to Ostia Antica to record a podcast in the ancient bakery.
+- Established a separate mailing list for podcast supporters and sent them the first issue.
+- Another good friend visited and we had some good meals and conversations.
+- Terrific exhibit of Margaret Bourke-White photos in Trastevere.
+- Saw a movie! In a cinema! (No Time to Die)
 
 ### Activities
 
-Nothing outstanding to report. Generally back in the general flow of things.
+Not much new. A friend asked me to bake her a loaf of soda bread, which uses kefir as the liquid. On a whim I started making my own, just like old times, but there is no sign of the grains emerging or clumping. Still, it is delicious and a lot easier than yoghurt, though I won't neglect that. Next up, viilli?
+
+#### October: 
+* Walking with sticks: 0
+* Reading: 13
+* Steps (avge): 9400
+* Podcasts: 43 (All of them [logged](https://www.jeremycherfas.net/stream/)!)
+* In bed/asleep 8:17/7:19
+* 7 Minutes: 13
+* Weight (avge): 86.9
+* Naps 1
 
 #### September: 
 * Walking with sticks: 0
@@ -44,24 +52,11 @@ Nothing outstanding to report. Generally back in the general flow of things.
 * Weight (avge): 86.3
 * Naps 6
 
-
-#### August: 
-* Walking with sticks: 0
-* Reading: 23
-* Steps (avge): 8907
-* Podcasts: 27 (23 of them [logged](https://www.jeremycherfas.net/stream/).)
-* In bed/asleep 7:57/6:59 (So stable)
-* 7 Minutes: 0
-* Weight (avge): 86.6 (Not many measurements)
-* Naps 22
-
 ### Work
 
-Trouble getting to grips with a piece of writing where the raw material really did not allow me to live up to the brief I was given. That made me very tentative about finishing, as I kept searching for more solid information. In the end I just had to deliver, with an explanation, and the client agreed that it had been almost impossible. No feedback yet, but I am more optimistic now. And the remaining pieces should be more solid.
+The same client work that was giving me grief last month is still giving me grief, and I think that the main reason is that I have not had any feedback on the first piece I sent in. That makes me tentative, and that makes me procrastinate. Tomorrow!
 
-Good work too on the podcasting for others front, the hosts being keen, disciplined and committed. Satisfied.
-
-Built a few more automations and shortcuts that are slowly burning their way into my brain.
+Podcasting for others is OK, although there are real drawbacks to not being in the same place. Perhaps a bigger drawback is that the person nominally in charge doesn't have any experience of how long audio editing takes, which can result in a bit of a scramble.
 
 #### Hours logged per month
 
@@ -94,17 +89,19 @@ Previous years are on [an archive page](https://jeremycherfas.net/blog/working-l
 
 ### Goals
 
-The day-by-day updating continues to be a source of pleasure and enlightenment. I started keeping track, and this month added 95 old posts, which includes a few so that internal links in those posts are not broken. I also started to ensure that they were being captured by the Wayback Machine. Overall, it takes on average about an hour a day, time well spent.
+Brought in 85 on-this-day posts, which continues to be interesting. Thinking a bit about it, I've sort of decided to build some kind of index to longer posts that might be of continuing interest. I haven't yet thought about how to present or surface these topics, but at least I will be able to find them going forward. Eight new posts, again, which is nice.
 
-Eight new posts, too.
+I kept a closer watch on time this month, and it averages 90 minutes a day, but that is very skew. The majority of days it takes well under an hour.
+
+Looking forward to a new computer; this one is mid-2011. Not looking forward to setting it up.
 
 ### Niggles
 
-I have not been able to carve out time to do what I tell The Main Squeeze is “playing with the computer” and that distresses me.
+None, really. I found time to play with the computer, and the result was a resumption of improved podcast scrobbling. Need to get back to playing with GIS in Python.
 
 ### Final remarks
 
-Life is good.
+I need to get on top of my weight again, and maybe up my HIIT game. Or is that foolish age denialism?
 
 <script>
 
@@ -113,7 +110,7 @@ series: [
         { name: 'Hours logged 2018', data: [0,0,152,159, 151,96,68,185,131,100,0,0] },
         { name: 'Hours logged 2019', data: [95,121,158,128,145,75,58,110,128,96.5,154.1,96.1] },
         { name: 'Hours logged 2020', data: [89.25,129,164.1,175,170,171,83.33,138.5,115.9,133.5,149.5,119.75] },
-        { name: 'Hours logged 2021', data: [168.5,155.7,173.3,166.1,159.1,110.0,80.1,67.8,157.5,,,] }
+        { name: 'Hours logged 2021', data: [168.5,155.7,173.3,166.1,159.1,110.0,80.1,67.8,157.5,170.75,,] }
         ]
 },
 {
@@ -147,8 +144,8 @@ series: [
 new Chartist.Bar('.ct-chart-2', {
   labels: ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'],
   series: [
-    [43,32,38,39,29,38,39,29,31,,,],
-    [17,25,19,16,22,26,17,08,25,,,]
+    [43,32,38,39,29,38,39,29,31,31,,],
+    [17,25,19,16,22,26,17,08,25,16,,]
   ]
 }, 
 {
@@ -194,6 +191,14 @@ new Chartist.Bar('.ct-chart-2', {
 </tr>
 </thead>
 <tbody>
+<tr>
+<td style="text-align: right;">10</td>
+<td style="text-align: center;">170.75</td>
+<td style="text-align: center;">5.50</td>
+<td style="text-align: center;">31</td>
+<td style="text-align: center;">16</td>
+<td style="text-align: center;">53</td>
+</tr>
 <tr>
 <td style="text-align: right;">09</td>
 <td style="text-align: center;">157.5</td>
