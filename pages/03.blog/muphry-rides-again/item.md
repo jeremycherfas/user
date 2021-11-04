@@ -1,5 +1,5 @@
 ---
-title: 'Muphry rides again\'
+title: 'Muphry rides again'
 published: true
 date: '03-11-2008 15:45'
 taxonomy:
