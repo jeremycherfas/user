@@ -1,7 +1,7 @@
 ---
-title: 'item.md'
+title: 'Getting a better word count'
 published: true
-date: '05-11-2021 09:30'
+date: '11-11-2021 09:40'
 taxonomy:
     category:
         - blog
