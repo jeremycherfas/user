@@ -1,7 +1,7 @@
 ---
-title: 'Spreading Myself Around'
+title: Spreading Myself Around
 published: true
-date: ’15-11-2010 21:57’
+date: 15-11-2010 21:57
 taxonomy:
     category:
         - blog

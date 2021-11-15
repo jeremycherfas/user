@@ -1,7 +1,7 @@
 ---
 title: 'Food News 19'
 published: true
-date: ’15-11-2006 05:18’
+date: '15-11-2006 05:18'
 taxonomy:
     category:
         - blog

@@ -1,7 +1,7 @@
 ---
-title: 'It’s a bear. Got that? A friggin’ bear. Not a raccoon.’
+title: 'It’s a bear. Got that? A friggin’ bear. Not a raccoon.'
 published: true
-date: ’15-11-2010 12:20'
+date: '15-11-2010 12:20'
 taxonomy:
     category:
         - blog

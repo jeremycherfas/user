@@ -1,7 +1,7 @@
 ---
 title: 'Utterly cool'
 published: true
-date: ’15-11-2006 10:00'
+date: '15-11-2006 10:00'
 taxonomy:
     category:
         - blog
