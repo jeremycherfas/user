@@ -23,10 +23,10 @@
         "php": "^7.3.6 || ^8.0",
         "ext-json": "*",
         "p3k/picofeed": "@stable",
-        "scssphp/scssphp": "^1.5"
+        "scssphp/scssphp": "^1.7"
     },
     "require-dev": {
-        "codeception/codeception": "^3.1",
+        "codeception/codeception": "^2.4",
         "fzaninotto/faker": "^1.8",
         "symfony/yaml": "~4.4",
         "symfony/console": "~4.4",
