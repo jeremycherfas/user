@@ -13,7 +13,7 @@ subhead: "Rationing a vaccine"
 header_image: '0'
 ---
 
-![Cover of Aldous Huxley After Many a Summer Dies the Swan](swan.jpg){.left}.  San Luis Obispo is close to my heart, and not just because of Aldous Huxley's entertaining  [After Many A Summer Dies the Swan](https://bookshop.org/a/13377/9781566630184), which informed my own thinking about neoteny and such. So it was fun to receive an email from a friend containing a clever letter to the editor of _The Tribune_ in that far-away town.
+![Cover of Aldous Huxley After Many a Summer Dies the Swan](swan.jpg){.left} San Luis Obispo is close to my heart, and not just because of Aldous Huxley's entertaining  [After Many A Summer Dies the Swan](https://bookshop.org/a/13377/9781566630184), which informed my own thinking about neoteny and such. So it was fun to receive an email from a friend containing a clever letter to the editor of _The Tribune_ in that far-away town.
 
 In essence, it said -- rather wittily -- that as those who don’t believe in evolution do not believe that bird ’flu will mutate, there’s no need to waste vaccine on them.
 
