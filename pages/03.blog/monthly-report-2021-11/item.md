@@ -35,7 +35,7 @@ Doesn‘t seem like I have done anything much worth reporting in the way of acti
 * Walking with sticks: 0
 * Reading: 12
 * Steps (avge): 9933
-* Podcasts: 43 (All of them [logged](https://www.jeremycherfas.net/stream/)!)
+* Podcasts: 32 (All of them [logged](https://www.jeremycherfas.net/stream/)!)
 * In bed/asleep 8:25/7:26
 * 7 Minutes: 9
 * Weight (avge): 86.9
@@ -53,9 +53,11 @@ Doesn‘t seem like I have done anything much worth reporting in the way of acti
 
 ### Work
 
-The same client work that was giving me grief last month is still giving me grief, and I think that the main reason is that I have not had any feedback on the first piece I sent in. That makes me tentative, and that makes me procrastinate. Tomorrow!
+Some clients really are not worth working for at any price. Of course, one never knows that the first time they offer you a job. I think I have got over the fear of never being asked again, so I ought to be able to say no, but when a job sounds interesting and challenging then I am more inclined to say yes. Maybe there ought to be some kind of secret online list where one can check a client's suitability, rather like (I believe) some sex workers have.
 
-Podcasting for others is OK, although there are real drawbacks to not being in the same place. Perhaps a bigger drawback is that the person nominally in charge doesn't have any experience of how long audio editing takes, which can result in a bit of a scramble.
+All made up for by the ones that offer interesting and challenging work and are a pleasure to work with.
+
+Hey ho.
 
 #### Hours logged per month
 
@@ -88,19 +90,15 @@ Previous years are on [an archive page](https://jeremycherfas.net/blog/working-l
 
 ### Goals
 
-Brought in 85 on-this-day posts, which continues to be interesting. Thinking a bit about it, I've sort of decided to build some kind of index to longer posts that might be of continuing interest. I haven't yet thought about how to present or surface these topics, but at least I will be able to find them going forward. Eight new posts, again, which is nice.
-
-I kept a closer watch on time this month, and it averages 90 minutes a day, but that is very skew. The majority of days it takes well under an hour.
-
-Looking forward to a new computer; this one is mid-2011. Not looking forward to setting it up.
+Oddly, it seems much harder on the M1 to count the old posts brought in. I think, by a process of elimination, that there may have been 73, along with seven new ones. I've yet to do much about the idea of an index of longer posts of interest. It would be nice to design a couple of new page layouts here for specific projects. That might be something to do over the festivities.
 
 ### Niggles
 
-None, really. I found time to play with the computer, and the result was a resumption of improved podcast scrobbling. Need to get back to playing with GIS in Python.
+None.
 
 ### Final remarks
 
-Need to find another good project to continue progress with Python. Maybe doing something with Compass data. Or with my timesheets?
+Need to find another good project to continue progress with Python. Maybe doing something with Compass GIS data. Or with my timesheets?
 
 <script>
 
@@ -109,7 +107,7 @@ series: [
         { name: 'Hours logged 2018', data: [0,0,152,159, 151,96,68,185,131,100,0,0] },
         { name: 'Hours logged 2019', data: [95,121,158,128,145,75,58,110,128,96.5,154.1,96.1] },
         { name: 'Hours logged 2020', data: [89.25,129,164.1,175,170,171,83.33,138.5,115.9,133.5,149.5,119.75] },
-        { name: 'Hours logged 2021', data: [168.5,155.7,173.3,166.1,159.1,110.0,80.1,67.8,157.5,170.75,,] }
+        { name: 'Hours logged 2021', data: [168.5,155.7,173.3,166.1,159.1,110.0,80.1,67.8,157.5,170.75,145.0,] }
         ]
 },
 {
@@ -143,8 +141,8 @@ series: [
 new Chartist.Bar('.ct-chart-2', {
   labels: ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'],
   series: [
-    [43,32,38,39,29,38,39,29,31,31,,],
-    [17,25,19,16,22,26,17,08,25,16,,]
+    [43,32,38,39,29,38,39,29,31,31,30,],
+    [17,25,19,16,22,26,17,08,25,16,16,]
   ]
 }, 
 {
@@ -190,6 +188,14 @@ new Chartist.Bar('.ct-chart-2', {
 </tr>
 </thead>
 <tbody>
+<tr>
+<td style="text-align: right;">11</td>
+<td style="text-align: center;">145.0</td>
+<td style="text-align: center;">4.83</td>
+<td style="text-align: center;">30</td>
+<td style="text-align: center;">16</td>
+<td style="text-align: center;">54</td>
+</tr>
 <tr>
 <td style="text-align: right;">10</td>
 <td style="text-align: center;">170.75</td>
