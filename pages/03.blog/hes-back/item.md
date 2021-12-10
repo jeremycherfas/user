@@ -1,7 +1,7 @@
 ---
 title: 'He‘s back'
 published: true
-date: ’10-12-2006 17:4’6
+date: '10-12-2006 17:46'
 taxonomy:
     category:
         - blog

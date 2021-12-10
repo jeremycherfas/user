@@ -1,7 +1,7 @@
 ---
 title: 'TID 3: Played in a band'
 published: true
-date: ’10-12-2008 07:00'
+date: '10-12-2008 07:00'
 taxonomy:
     category:
         - blog
