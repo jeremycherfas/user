@@ -15,7 +15,7 @@ taxonomy:
         - blog
 ---
 
-![Spallanzani](Spallanzani.jpg?cropResize=350,){.right} To the [Spallanzani Hospital](http://www.inmi.it/) this morning, for some tests, and my brain is awash with "facts". Wasn't he the guy who put trousers on frogs, thereby proving that the male's contribution to reproduction was important? (But then again, didn't the Greeks think that females provided only a fertile environment?) Or was he the guy who fed dogs meat in a cage and then hoicked up the cage again to prove something about digestion? These facts have been stored invisibly somewhere in my brain for more than 30 years now, and suddenly up they bob. Except that I'm not actually sure whether I know them or not. Well, I know them, but are they true?
+![Spallanzani](Spallanzani.jpg){.right} To the [Spallanzani Hospital](http://www.inmi.it/) this morning, for some tests, and my brain is awash with "facts". Wasn't he the guy who put trousers on frogs, thereby proving that the male's contribution to reproduction was important? (But then again, didn't the Greeks think that females provided only a fertile environment?) Or was he the guy who fed dogs meat in a cage and then hoicked up the cage again to prove something about digestion? These facts have been stored invisibly somewhere in my brain for more than 30 years now, and suddenly up they bob. Except that I'm not actually sure whether I know them or not. Well, I know them, but are they true?
 
 ===
 
