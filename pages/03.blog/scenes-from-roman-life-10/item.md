@@ -13,7 +13,7 @@ subhead: " "
 header_image: '0'
 ---
 
-[![Pantheon by night](2116296356_3bd5989e3d_z.jpg){.center}
+![Pantheon by night](2116296356_3bd5989e3d_z.jpg){.center}
 
 Saturday night, on the town. An early [movie](http://jeremycherfas.net/blog/a-goliath-of-a-film/), then a stroll through the centre of the city to an English pub where a friend’s band is to play later that night. Much later, it turns out. They are scheduled for 9.30, which suggests 10.30 will be nearer the mark. It is only 7.30. Normally it’d be easy to spend a couple of hours wandering around, but this evening it is butt-freezing cold, so I decide to wait it out in the pub, people watching.
 
