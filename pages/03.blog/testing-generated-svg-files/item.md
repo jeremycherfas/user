@@ -20,4 +20,7 @@ header_image: '0'
 ## Total Hours worked per month
 
 ![Hours logged each month](hours-logged.svg){.center}
-<picture>
+
+## Summary transport
+
+![Summary of transport used](transport-summary.svg){.center}
