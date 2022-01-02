@@ -1,7 +1,7 @@
 ---
 title: 'Working life'
 published: true
-date: '04-03-2020 11:05'
+date: '01-01-2021 14:30'
 taxonomy:
     category:
         - blog
@@ -17,6 +17,18 @@ header_image: '0'
 An archive of some of the data I have recorded about how I spend some of my time.
 
 ===
+
+## Total hours worked per month
+
+![Histogram of total hours worked per month for 2018 to 2021](hours-logged-2018-2021.svg){.center}
+
+## Percent of logged hours: 2021
+
+![Stacked bar chart of percentage of work hours each month dedicated to Administration and Podcasting](percents-2021.svg){.center}
+
+## Percent of logged hours: 2020
+
+![Stacked bar chart of percentage of work hours each month dedicated to Administration and Podcasting](percents-2020.svg){.center}
 
 ##Percent of logged hours: 2019
 <noscript>

@@ -16,6 +16,230 @@ template: item
 <!-- Outer List -->
 <ul class="log">
 
+<li class="log-month">December</li>
+
+<ul class="log-entry">
+<li class="log-day">31</li>
+<ul>
+<li class="log-item">Started watching <em>Mare of Easttown s01</em> on Apple TV <strong>T</strong> Complex, and bloody, and reaaly intriguing.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">28</li>
+<ul>
+<li class="log-item">Watched <em>Joan Didion: The Center Will Not Hold</em> on Netflix <strong>F</strong> So clear-eyed and, as John Naughton remarked, “She always looked so fragile. And yet at the same time she was tough as nails.”</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">26</li>
+<ul>
+<li class="log-item">Watched <em>14 Peaks</em> on Netflix <strong>F</strong> Very well made, and gripping despite knowing it all worked out in the end.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">25</li>
+<ul>
+<li class="log-item">Watched <em>Hell or High Water</em> on Netflix <strong>F</strong> Jeff Bridges does not make a very believable crusty old fuck, but it passed the time.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">24</li>
+<ul>
+<li class="log-item">Watched <em>Don't Look Up</em> on Netflix <strong>F</strong> I found it very funny and acute, and was very glad there wasn’t a happy ending.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">23</li>
+<ul>
+<li class="log-item">Finished reading <em>The Promise</em> by Damon Galgut <strong>B</strong> Booker winner, given to me by a friend because I was born there. Clever writing, but in the end didn’t do too much for me.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">20</li>
+<ul>
+<li class="log-item">Watched <em>Wind River</em> on Netflix <strong>F</strong> Pretty good, and would have been a lot better if I had been able to hear more than one in five words of dialogue.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">19</li>
+<ul>
+<li class="log-item">Watched <em>E stata il mano di dio</em> on Netflix <strong>F</strong> Absolutely delightful in so many ways.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">16</li>
+<ul>
+<li class="log-item">Watched <em>Unforgiveable</em> on Netflix <strong>F</strong> Wow. Very bleak, very dark, and very good. Lovely open-ended ending, and Sandra Bullock is just great.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">14</li>
+<ul>
+<li class="log-item">Watched <em>An Inspector Calls</em> on Netflix <strong>F</strong> With no series on the go, we watched this classic. So strange, and utterly delightful. Very fine performances from Alastiar Sims and a young Bryan Forbes</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">13</li>
+<ul>
+<li class="log-item">Finished watching <em>Occupied s03</em> on Netflix <strong>T</strong> An attempt at redemption?</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">12</li>
+<ul>
+<li class="log-item">Finished watching <em>Sneaky Pete s03</em> on Amazon Prime <strong>T</strong> Things got pretty complicated, but then it all worked out, mostly.</li>
+</ul>
+</ul>
+
+<li class="log-month">November</li>
+
+<ul class="log-entry">
+<li class="log-day">20</li>
+<ul>
+<li class="log-item">Finished watching <em>Black Earth Rising</em> on Nertflix <strong>T</strong> Deeply disturbing and very absorbing, a good demonstration of the complexity of it all.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">20</li>
+<ul>
+<li class="log-item">Saw <em>The French Dispatch</em> at Cinema In Trastevere <strong>F</strong> Truly glorious, and jam-packed with delights that whizzed by.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">14</li>
+<ul>
+<li class="log-item">Started watching <em>Sneaky Pete s03</em> on Amazon Prime <strong>T</strong> Still fun, though I have forgotten much of the previous shenanigans.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">12</li>
+<ul>
+<li class="log-item">Watched <em>The Harder They Fall</em> on Netflix <strong>F</strong> The old Manichean struggle, between evil and eviller. Great soundtrack, great stunts, great fun. But bloody.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">01</li>
+<ul>
+<li class="log-item">Saw <em>No Time to Die</em> in the cinema! <strong>F</strong> Delightful, and didn’t seem all that long.</li>
+</ul>
+</ul>
+
+<li class="log-month">October</li>
+
+<ul class="log-entry">
+<li class="log-day">31</li>
+<ul>
+<li class="log-item">Started watching <em>Black Earth Rising</em> on Netflix <strong>T</strong> So intelligent. Harriet Walter, John Goodman, amazing young black woman whose name I do not (yet) know.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">29</li>
+<ul>
+<li class="log-item">Finished <em>Hap and Leonard s01</em> on Amazon Prime <strong>T</strong> A little bit too much blood and gore, but still entertaining.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">18</li>
+<ul>
+<li class="log-item">Started watching <em>Hap and Leonard s01</em> on Amazon Prime <strong>T</strong> Swamp gothic delight.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">17</li>
+<ul>
+<li class="log-item">Finsihed watching <em>The Little Drummer Girl</em> on iTunes <strong>T</strong> High drama, very enjoyable, even though I didn't entirely follow all the plot twists.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">14</li>
+<ul>
+<li class="log-item">Finished watching <em>Shtisel s03</em> on Netflix <strong>T</strong> What a thorough delight, and I am happy to hope that everyone lives happily ever after.</li>
+</ul>
+</ul>
+<ul class="log-entry">
+<li class="log-day">01</li>
+<ul>
+<li class="log-item">Started watching <em>The Little Drummer Girl</em> on iTunes <strong>T</strong> Very gripping. BBC, Le Carré, works for me.</li>
+</ul>
+</ul>
+
+<li class="log-month">September</li>
+
+<ul class="log-entry">
+<li class="log-day">27</li>
+<ul>
+<li class="log-item">Started watching <em>Occupied</em> on Netflix <strong>T</strong> Rather good; should be fun, in an apolcalyptic kind of way.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">26</li>
+<ul>
+<li class="log-item">Started watching <em>Defeated</em> on Netflix <strong>T</strong> Round up the usual tropes, and lots of rubble for realism.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">23</li>
+<ul>
+<li class="log-item">Finished watching <em>Hit & Run</em> on Netflix <strong>T</strong> Pretty good stuff, although I want to know how the cops got there so quickly. Do I care about a sequel? Not sure.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">18</li>
+<ul>
+<li class="log-item">Finished <em>The Human Factor</em> by Graham Greene <strong>B</strong> Beautifully crafted book about mundane spying and, in the end, love.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">13</li>
+<ul>
+<li class="log-item">Started reading <em>The Human Factor</em> by Graham Greene <strong>B</strong> Looks like fun</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">09</li>
+<ul>
+<li class="log-item">Finished watching <em>Bosch s07</em> on Amazon Prime <strong>T</strong> Too noble for his own good. What next? Bosch PI? Maddie the Rookie Cop?</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">08</li>
+<ul>
+<li class="log-item">Started watching <em>Shtisel</em> on Netflix <strong>T</strong> I cannot believe the stunt pulled.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">06</li>
+<ul>
+<li class="log-item">Finished watching <em>The Kominsky Method s03</em> on Netflix <strong>T</strong>Happy endings all around, except the wrong Mom is still alive.</li>
+</ul>
+</ul>
+
 <li class="log-month">August</li>
 
 <ul class="log-entry">
