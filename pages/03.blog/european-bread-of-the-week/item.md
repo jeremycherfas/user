@@ -1,7 +1,7 @@
 ---
 title: 'European Bread Of The Week'
 published: true
-date: ’03-01-2012 09:0’7
+date: '03-01-2012 09:07'
 taxonomy:
     category:
         - blog
