@@ -254,7 +254,7 @@ template: item
 <ul class="log-entry">
 <li class="log-day">14</li>
 <ul>
-<li class="log-item">Watched <em>Shirely Valentine</em> in iTunes <strong>F</strong> Very sweet, and only a little dated, really.</li>
+<li class="log-item">Watched <em>Shirley Valentine</em> in iTunes <strong>F</strong> Very sweet, and only a little dated, really.</li>
 </ul>
 </ul>
 
@@ -384,7 +384,7 @@ template: item
 <ul class="log-entry">
 <li class="log-day">27</li>
 <ul>
-<li class="log-item">Started reading <em>The Screaming SkyTitle</em> by Charles Foster <strong>B</strong> Lyrical, and yet down-to-earth.</li>
+<li class="log-item">Started reading <em>The Screaming Sky</em> by Charles Foster <strong>B</strong> Lyrical, and yet down-to-earth.</li>
 </ul>
 </ul>
 
