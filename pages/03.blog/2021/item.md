@@ -1,7 +1,7 @@
 ---
 title: '2021'
-published: false
-date: '04-01-2022 19:58'
+published: true
+date: '05-01-2022 09:58'
 taxonomy:
     category:
         - blog
@@ -71,8 +71,8 @@ Another app, [Overland](https://github.com/aaronpk/Overland-iOS), stores a whole
 
 So far, making use of the actual location data has been frustrating, although I mean to continue. Descriptive stats proved a lot easier to grasp and to work with. Here, then, are stats for all trips I recorded this year.
 
-<table>
-<colgroup style="width;100%">
+<table class="worktable">
+<colgroup>
 <col style="text-align:right;"/>
 <col style="text-align:center;"/>
 <col style="text-align:center;"/>
@@ -158,6 +158,7 @@ So far, making use of the actual location data has been frustrating, although I 
 </tbody>
 </table>
 
+</br >
 A few things of note:
 - The single bicycle trip was on an e-bike.
 - The walks were an experiment. I do not generally record walking.
