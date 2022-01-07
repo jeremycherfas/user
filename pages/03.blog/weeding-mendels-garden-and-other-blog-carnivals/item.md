@@ -9,7 +9,7 @@ taxonomy:
         - General
 summary:
     enabled: '1'
-subhead: “Flogging a dead horse "
+subhead: "Flogging a dead horse"
 header_image: '0'
 ---
 
