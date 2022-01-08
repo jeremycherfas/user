@@ -1,7 +1,7 @@
 ---
 title: 'Food Matters; so does accuracy'
 published: false
-date: ’08-01-2022 09:30'
+date: '08-01-2022 09:30'
 taxonomy:
     category:
         - blog
