@@ -224,7 +224,7 @@ blockquote p {
     margin-right: 1.0rem;
 }
 
-.stream {
+.stream, .onthisday {
     font-size: var(--step--1);
 }
 
