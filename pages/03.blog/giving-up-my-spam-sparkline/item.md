@@ -1,6 +1,6 @@
 ---
 title: 'Giving up my spam sparkline'
-published: false
+published: true
 date: '10-01-2022 09:30'
 taxonomy:
     category:
