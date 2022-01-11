@@ -1,7 +1,7 @@
 ---
 title: 'Spartan'
 published: true
-date: '10-01-2010 13:24'
+date: '11-01-2010 13:24'
 taxonomy:
     category:
         - blog
@@ -16,7 +16,6 @@ header_image: '0'
 Luigi turned me on to David Mamet's [Spartan](https://www.imdb.com/title/tt0360009/), in a discussion of what was worth watching on TV these days.[^fn1] I loved it. Not just for the violence, which is considerable and effective. Not just for the secret service procedurals, which are everywhere these days and which for all I know are having the same effect on real agents that gangster movies have had on real gangsters. Not just for the tautness of the suspense or the music of the script. More for the flawlessness of the Spartan himself. [^fn2]
 
 > Laura: I'm just a whore.  
-
 > I'm just a little whore.  
 
 > Scott: Yeah, how'd you get like that?  
