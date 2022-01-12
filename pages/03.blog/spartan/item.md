@@ -25,11 +25,9 @@ Luigi turned me on to David Mamet's [Spartan](https://www.imdb.com/title/tt03600
 All around him are so damaged. He’s the one that does the dirty work, the jobs that “you're gonna take to bed with you for a long time,” and yet he’s the one that seems so secure in himself. And yet, he’s so innocent:
 
 > Scott: I know they lied  
-
 > How do you fake the DNA?
 
 > Donny: You don’t fake the DNA.  
-
 > You issue a press release.
 
 A wonderful film, well worth seeking out. And we’ll see what The Unit has to offer in due course.
