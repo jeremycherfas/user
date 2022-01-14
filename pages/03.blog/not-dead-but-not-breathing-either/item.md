@@ -17,7 +17,7 @@ There was a bit of noise about dead air recently on ADN that reminded me of one 
 
 ===
 
-Anyway, this bit I was reminded of was a session called Musings on Music, and was presented by [Sarah Blake](http://www.hearsayfestival.ie/sarah-blake/4590938068) and [Ronan Kelly](http://www.hearsayfestival.ie/ronan-kelly/4583579870), both professional radio people with RTE, the Irish national broadcaster. They presented clips from stories and we talked about the kind of music that might be appropriate, or not, and then listen ed to their individual approaches to adding music to those clips. It was fun, and informative.
+Anyway, this bit I was reminded of was a session called Musings on Music, and was presented by [Sarah Blake](http://www.hearsayfestival.ie/sarah-blake/4590938068) and [Ronan Kelly](http://www.hearsayfestival.ie/ronan-kelly/4583579870), both professional radio people with RTE, the Irish national broadcaster. They presented clips from stories and we talked about the kind of music that might be appropriate, or not, and then listened to their individual approaches to adding music to those clips. It was fun, and informative.
 
 Dead air came up in a discussion of a story that Sarah had made, following a chap with possible [sleep apnoea](https://en.wikipedia.org/wiki/Sleep_apnea) as he spent a night in a sleep laboratory. You could hear him gently breathing, snuffling occasionally, and then he stops breathing, I forget for how long, maybe 45 seconds or thereabouts. And just listening to the clip, with no music, was pretty astonishing, because you hold your breath, and you hold your breath, and you hold your breath and still the chap hasn't made a sound. Very dramatic when he finally does gasp back to life.
 
