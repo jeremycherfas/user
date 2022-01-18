@@ -19,6 +19,10 @@ Twitter passed me by at the start, and if I am honest I still don't really get i
 
 He was hoping for federated blogging, and pointed to Laconica, which seems to have been an instance of identi.ca. Both still exist, but as far as I can tell have not fulfilled their promise; ready to be corrected on that.
 
+Among the comments was this gem from [ickledot](https://ickledot.uk/about-1) (who seems to have moved on from his 2009 self):
+
+> Question from a know nowt: Is identi.ca to Twitter what betamax was to VHS? ie the former is better but less popular?
+
 And all that took me, in a roundabout way, to this:
 
 ![Men in suits mocking the idea of Twitter while a man in a space suit tells them that it is the future](twitter.jpg){.center}
