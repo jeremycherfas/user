@@ -12,16 +12,33 @@ body { # The entire content
 }
  */
 
-
-section > p, # Sets the width for content text
-section > footer,
-section > table {
-    width: 55%;
+section {
+	background-color: lime;
+	margin-left: auto;
+	margin-right: auto;
+	}
+	
+# Sets the width for content text
+section p {
+	background-color: red;>
+/* section > footer, */
+/* section > table  */
+    width: 100%;
 }
 
 
 img {
     max-width: 100%;
+}
+
+
+/* tailwind-compiled.css | http://127.0.0.1:8000/user/themes/tailwind/css/tailwind-compiled.css?v=1.1.2 */
+
+.img-fullwidth {
+  /* max-width: 100%; */
+  max-width: none;
+  margin-left: -15%;
+  width: 130%;
 }
 
 
