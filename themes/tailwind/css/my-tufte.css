@@ -11,28 +11,29 @@ body { # The entire content
     counter-reset: sidenote-counter;
 }
  */
+body {
+	background-color: #eee !important;
+	}
+
+/* 
+.all-content {
+	background-color: #eee
+	}
+ */
 
 section {
-	background-color: lime;
+/* 	background-color: silver; */
 	margin-left: auto;
 	margin-right: auto;
 	}
 	
-# Sets the width for content text
 section p {
-	background-color: red;>
-/* section > footer, */
-/* section > table  */
     width: 100%;
 }
-
 
 img {
     max-width: 100%;
 }
-
-
-/* tailwind-compiled.css | http://127.0.0.1:8000/user/themes/tailwind/css/tailwind-compiled.css?v=1.1.2 */
 
 .img-fullwidth {
   /* max-width: 100%; */
@@ -58,12 +59,14 @@ figcaption {
     float: right;
     clear: right;
     margin-top: 0;
-    margin-bottom: 0;
-    font-size: 1.1rem;
+    margin-bottom: 1em;
+    font-size: 90%;
     line-height: 1.6;
     vertical-align: baseline;
     position: relative;
-    max-width: 40%;
+    max-width: 60%;
+    margin-left: 40%;
+    text-align: right;
 }
 
 figure.fullwidth figcaption {
@@ -85,26 +88,36 @@ pre.fullwidth > code {
     clear:both;
 }
 
-@media (max-width: 760px) {
+@media (max-width: 375px) {
+    
+/* 
+    section {
+	background-color: aqua;
+	margin-left: 1em;
+	margin-right: 1em;
+	}
+ */
 
+    .h-entry {
+    padding-right: 0.5em;
+    }
+    
     figcaption,
     figure.fullwidth figcaption {
-        margin-right: 0%;
+        margin-right: 1em;
+        margin-left: 1em;
         max-width: none;
+		width: 90%;
+        font-size: 90%;
     }
 
     figure {
         max-width: 90%;
     }
 
-    figcaption,
-    figure.fullwidth figcaption {
-        margin-right: 0%;
-        max-width: none;
-    }
-    
-    img {
+    .img-fullwidth {
     width: 100%;
+    margin-left: 0;
     }
 
 }
