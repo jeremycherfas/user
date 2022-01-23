@@ -64,7 +64,7 @@ Just repeats the same post.
 <!-- Pagination -->
 		{# Render the pagination list #} {% if config.plugins.pagination.enabled and collection.params.pagination %} {% include 'partials/pagination.html.twig' with {'base_url':page.url, 'pagination':collection.params.pagination} %} {% endif %} 
 	</div>
-	{% endblock content%} {% if page.template != 'modular' %} {% block sidebar %} 
+	{% endblock content%} {% if not (page.template == 'modular' or page.template == 'photo') %} {% block sidebar %} 
 <!-- Contains sidebar -->
 	{% include 'partials/mysidebar.html.twig' %} {% endblock sidebar%} {% endif %} 
 </div>
