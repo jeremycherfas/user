@@ -26,7 +26,7 @@ This is something new, on two counts. It records a hike we took together in the 
 ![Looking along the track before it dips into the valley to climb up to the ridge](monte-flavio-2.jpg){.img-fullwidth}
 <figcaption style="font-style: italic;">We didn’t make it much further than this, but it was plenty far enough.</figcaption>
 <p>The track went through a lovely patch of forest, lined with hellebores that were just coming into bloom, and then started to dip before climbing again. We stopped to let four fat blokes on four stocky horses go by, all very rural. That was where we decided to call it a day; no point pushing it too far.</p>
-![Tree trunks illuminated by low sun](monte-flavio-3.jpg){.img-fullwidth}
+![Tree trunks illuminated by low sun](monte-flavio-3.jpg){.img-fullwidth .u-photo}
 <figcaption style="font-style: italic;">We went a bit farther, but not much, before turning back to find a lunch spot.</figcaption>
 <p>On the way we had noticed a nice slope to our left, which would give us a good lookout point to watch people on the track below while enjoying lunch. There is something so satisfying about a simple cheese sandwich (on my own bread) accompanied by dried fruit and nuts, good water and a couple of tangerines and — blessed be — the last of the banana bread.</p>
 ![Half a cheese sandwich held up in front of a very blue sky](monte-flavio-4.jpg){.fig-image}
