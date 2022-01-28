@@ -14,7 +14,10 @@
 	<link rel="alternate" type="application/json" title="Feed (json)" href="{{ base_url ~ " /blog.json"}}" />
 	{% endblock head %} 
 
-{% block stylesheets %} 
+{% block stylesheets %}
+{% if page.template == 'photo' %}
+	{% do assets.addCss('theme://css/my-tufte.css' ~ '?v=0.1.1') %} 
+{% endif %}
 	{% do assets.addCss('theme://css/tailwind-compiled.css' ~ '?v=1.1.2') %} 
 	{% do assets.addCss('theme://css/custom.css' ~ '?v=1.1.9') %} 
 	{% do assets.addCss('theme://js/chartist/dist/chartist.min.css' ~ '?v=1.0.1') %} 
@@ -48,7 +51,7 @@ To loop properly through the posts. Without that, it
 Just repeats the same post.
  -->
 {% block content %} 
-<div class="md:flex md:flex-row">
+<div class="all-content md:flex md:flex-row">
 <!-- Contains everything -->
 	<div class="h-feed flex flex-col md:w-2/3 pt-4">
 <!-- Contains feed content -->
@@ -61,7 +64,7 @@ Just repeats the same post.
 <!-- Pagination -->
 		{# Render the pagination list #} {% if config.plugins.pagination.enabled and collection.params.pagination %} {% include 'partials/pagination.html.twig' with {'base_url':page.url, 'pagination':collection.params.pagination} %} {% endif %} 
 	</div>
-	{% endblock content%} {% if page.template != 'modular' %} {% block sidebar %} 
+	{% endblock content%} {% if not (page.template == 'modular' or page.template == 'photo') %} {% block sidebar %} 
 <!-- Contains sidebar -->
 	{% include 'partials/mysidebar.html.twig' %} {% endblock sidebar%} {% endif %} 
 </div>
@@ -73,3 +76,5 @@ Just repeats the same post.
 {% block bottom %} {{ assets.js('bottom')|raw }} {% endblock bottom %} 
 </body>
 </html>
+
+{{ dump(page.template) }}

@@ -12,7 +12,7 @@
         } %}
         {% set my_collection = page.collection(options) %}
 
-        {% if page.template == 'modular' %}
+        {% if page.template == 'modular' or page.template == 'photo' %}
             <!-- from myheader.html.twig -->
             <div class="searchbox hidden z-40 md:block md:pb-2 md:mt-4">
                 <div class="flex justify-center items-center">
