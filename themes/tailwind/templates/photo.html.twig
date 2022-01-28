@@ -5,13 +5,16 @@
 {% set show_pagination = header_var('show_pagination', [page, blog])|defined(true) %}
 
 {% block content %}
-<div class="all-content md:flex md:flex-column">
-<!-- from photo.html.twig -->
-<div class="single-item flex flex-col relative md:w-2/3">
+<div class="all-content">
+<!-- from item.html.twig -->
+<section class="md:w-3/4">
+<div class="single-item flex flex-col relative">
 
-        {% include 'partials/photo-item.html.twig' %}
+        {% include 'partials/blog-item.html.twig' %}
+
 
 
 </div>
-</div>
+</section>
+<!-- Where is this photo.html.twig? -->
 {% endblock %}
