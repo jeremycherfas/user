@@ -7,6 +7,7 @@ taxonomy:
         - blog
     tag:
         - General
+        - Photos
 template: photo
 summary:
     enabled: '1'
