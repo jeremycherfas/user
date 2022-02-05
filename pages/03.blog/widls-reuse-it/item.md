@@ -25,6 +25,5 @@ But as we walked past that joke, hugging the wall, it becomes clear that this is
 
 Hard by the aqueduct is one of the towers in the wall, quite clearly made of scavenged bits from here, there and everywhere. And looking onto the tower is a complex of buildings, now a groovy art centre and hipster dwelling spaces, reclaimed from a pasta factory and various other industrial spaces just outside the wall on the via Casilina. The fabric of the walls echoes the fabric of the city which echoes the fabric of the walls.
 
-[^fn1]: More information about the [waters of Rome than anyone could possibly want is here](http://www3.iath.virginia.edu/waters/). Bloody heck but the internet is a thing of wonder.[^2] 
-
-[^2]: 2022-02-04: Except when it isn't; that website is still a glorious source of information, but the stunning maps are no longer available because they were based on Flash. That cannot be an insurmountable problem.
+[^fn1]: More information about the [waters of Rome than anyone could possibly want is here](http://www3.iath.virginia.edu/waters/). Bloody heck but the internet is a thing of wonder.  
+! 2022-02-04: Except when it isn't; that website is still a glorious source of information, but the stunning maps are no longer available because they were based on Flash. That cannot be an insurmountable problem.
