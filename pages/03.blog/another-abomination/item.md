@@ -13,7 +13,7 @@ subhead: " "
 header_image: '0'
 ---
 
-![A succulent plant with red glitter](ugly.jpg)]{.center}
+![A succulent plant with red glitter](ugly.jpg){.center}
 
 Perhaps you remember [the abomination of the blue(ish) Poinsettia](https://jeremycherfas.net/blog/ill-see-your-pshaw-and-raise-you-a-bah-humbug/)? Well, here’s another, actually foretold in that post, though it talked of gold rather than red.
 
