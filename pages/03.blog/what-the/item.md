@@ -19,4 +19,4 @@ Why on Earth was someone searching Yahoo for [free animal privets](https://searc
 
 And will this post now beat out the one result for “animal privets,” which seems to be a splog that I’m not going to bother linking to.
 
-p.s. The searches for [guinea](https://jeremycherfas.net/blog/parastatanoia/) [pig](https://jeremycherfas.net/blog/whats-with-the-guinea-pigs/) [images](https://jeremycherfas.net/blog/lunch/) just go on and on.
+p.s. The searches for [guinea](https://jeremycherfas.net/blog/parastatanoia/) [pig](https://www.jeremycherfas.net/blog/whats-with-the-guineapigs) [images](https://jeremycherfas.net/blog/lunch/) just go on and on.
