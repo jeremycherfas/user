@@ -6,7 +6,7 @@ taxonomy:
     category:
         - blog
     tag:
-        - Notes
+        - General
 visible: true
 ---
 
