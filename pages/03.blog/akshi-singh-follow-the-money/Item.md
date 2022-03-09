@@ -1,5 +1,5 @@
 ---
-title: '<i class="fa fa-sticky-note"></i> Akshi Singh: Follow the Money'
+title: 'Akshi Singh: Follow the Money'
 published: true
 date: '09-03-2018 14:00'
 taxonomy:
