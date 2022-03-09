@@ -1,5 +1,5 @@
 ---
-title: 'A people's history of what?'
+title: 'A people’s history of what?'
 published: true
 date: '09-03-2006 06:14'
 taxonomy:
