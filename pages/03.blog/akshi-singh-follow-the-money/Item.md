@@ -4,7 +4,7 @@ published: true
 date: '09-03-2018 14:00'
 taxonomy:
     category:
-        - Blog
+        - blog
     tag:
         - Notes
 visible: true
