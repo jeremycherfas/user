@@ -1,7 +1,7 @@
 ---
 title: 'Right good sense'
 published: true
-date: '13-03-2006 `16:29'
+date: '13-03-2006 16:29'
 taxonomy:
     category:
         - blog
