@@ -13,7 +13,7 @@ subhead: " "
 header_image: '0'
 ---
 
-![Book cover of Genes, girls and Gamov by James Watson](0375727159.01._AA240_SCLZZZZZZZ_.jpg) I said I had some more Jim Watson stories, and I do. But I’m not going to tell them here. Instead, I’ll mention just one little problem I discovered in his latest confessional: _Genes, Girls, and Gamow: After the Double Helix_.
+![Book cover of Genes, girls and Gamov by James Watson](0375727159.01._AA240_SCLZZZZZZZ_.jpg){.left} I said I had some more Jim Watson stories, and I do. But I’m not going to tell them here. Instead, I’ll mention just one little problem I discovered in his latest confessional: _Genes, Girls, and Gamow: After the Double Helix_.
 
 A lot of people know that Watson’s homie Crick resigned his founding fellowship of Churchill College Cambridge when the college decided to build a chapel. Crick, bless, him, said he saw “no reason to perpetuate mistakes from the past”, and flounced off. What I didn’t know was that he sponsored an essay prize for the Cambridge Humanists,[^1] on “What shall be done with the college chapels?”. The winning essay, Watson says, “saw several different futures for them, including swimming pools”.
 
