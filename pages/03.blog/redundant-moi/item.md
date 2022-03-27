@@ -1,7 +1,7 @@
 ---
 title: 'Redundant? Moi?'
 published: true
-date: '16-03-2006 04:5’4
+date: '16-03-2006 04:54'
 taxonomy:
     category:
         - blog

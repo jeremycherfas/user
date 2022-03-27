@@ -1,5 +1,5 @@
 ---
-title: 'Mendel's Garden No. 27'
+title: 'Mendel’s Garden No. 27'
 published: true
 date: '06-01-2009 22:54'
 taxonomy:
