@@ -1,7 +1,7 @@
 ---
 title: 'Life imitates art, and vice versa'
 published: true
-date: '28-03-2007 14:05’
+date: '28-03-2007 14:05'
 taxonomy:
     category:
         - blog
