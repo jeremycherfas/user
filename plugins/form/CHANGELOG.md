@@ -1,8 +1,44 @@
+# v6.0.0
+## 03/28/2022
+
+1. [](#improved)
+    * Added log warning when trying to access form by non-unique name
+    * Optimized form caching by not initializing the forms in `onPageProcessed` event anymore
+    * **BACKWARD COMPATIBILITY**: As form initialization has been delayed, logic relaying on `onPageProcessed` with forms may not work anymore
+1. [](#bugfix)
+    * Fixed select field where option is iterable (#558)
+    * Fixed `FormPlugin::getForm()` to properly search the current page first
+    * Fixed `FormPlugin::getForm()` to ignore fallback if the page was given as parameter
+    * Fixed dynamic forms to work with cache turned on
+    * Fix nested `toggleable`: originalValue now checks with `??` instead of `is defined`
+
+# v5.1.7
+## 03/14/2022
+
+1. [](#new)
+    * Added `access` support for buttons
+2. [](#bugfix)
+   * Fixed tabs in the frontend to ensure JS is loaded
+   
+# v5.1.6
+## 02/07/2022
+
+1. [](#bugfix)
+    * Fixed Select field when using OptGroups, not allowing key/values [#541](https://github.com/getgrav/grav-plugin-form/issues/541)
+    * Support for translatable OptGroup labels in Select field [#540](https://github.com/getgrav/grav-plugin-form/issues/540)
+
+# v5.1.5
+## 01/24/2022
+
+1. [](#bugfix)
+    * Fixed case in selectize field where custom new entries would not be stored in non `multiple` lists
+
 # v5.1.4
 ## 11/16/2021
 
 1. [](#bugfix)
     * Fixed buttons no longer rendered [#537](https://github.com/getgrav/grav-plugin-form/issues/537) 
+    * Allow `select` field to customize `autocomplete` attribute
 
 # v5.1.3
 ## 10/26/2021

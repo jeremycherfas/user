@@ -1,3 +1,52 @@
+# v1.2.0
+## 03/28/2022
+
+1. [](#new)
+    * Require **Grav 1.7.32** and **Form 6.0.0**
+2. [](#improved)
+    * Improved flex router event to include directory
+3. [](#bugfix)
+    * Fixed caching issues in dynamic flex forms
+    * Fixed flex content in unauthorized module causing the whole page to become unauthorized
+
+# v1.1.9
+## 03/14/2022
+
+1. [](#new)
+    * Added support for flex router to return a response instead of a page
+
+# v1.1.8
+## 01/28/2022
+
+1. [](#new)
+    * Require **Grav 1.7.29**
+3. [](#improved)
+    * Made path handling unicode-safe, use new `Utils::basename()` and `Utils::pathinfo()` everywhere
+
+# v1.1.7
+## 01/03/2022
+
+1. [](#new)
+    * Allow intercepting object `create`, `update` and `delete` tasks by using `FlexTaskEvent` event
+2. [](#improved)
+    * Added optional `$scope` parameter to `ObjectController::checkAuthorization()`
+3. [](#bugfix)
+    * Fixed continue task with `PageInterface` types
+    
+# v1.1.6
+## 11/29/2021
+
+1. [](#bugfix)
+    * Fixed regression `Call to a member function getRoute() on null` when using CLI [#151](https://github.com/trilbymedia/grav-plugin-flex-objects/issues/151)
+
+# v1.1.5
+## 11/24/2021
+
+1. [](#new)
+    * Added method `ObjectController::checkAuthorizations()` to check if one of the actions is true
+2. [](#bugfix)
+    * Fixed regression when calling flex router with a path
+
 # v1.1.4
 ## 11/16/2021
 
