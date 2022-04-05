@@ -16,9 +16,6 @@ newhook.php
 pages/03.blog/253.testing-automatic-send
 webmention-form.txt
 localhost/*
-themes/antimatter/*
-themes/quark/*
-themes/tailwind-old/*
 
 node_modules/
 **/base.html.twig
