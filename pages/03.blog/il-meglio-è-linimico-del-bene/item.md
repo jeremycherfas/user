@@ -7,15 +7,17 @@ taxonomy:
         - blog
     tag:
         - General
+header_image: '0'
 summary:
     enabled: '1'
-subhead: " "
-header_image: '0'
+feed:
+    limit: 10
+subhead: ' '
 ---
 
 > It is with books as with the fire in our hearths; we go to a neighbour to get the embers and light it when we return home, pass it on to others, and it belongs to everyone. 
 
-![Portrait of Voltaire by Nicholas de Largillière](Nicolas_de_Largillière,_François-Marie_Arouet_dit_Voltaire.jpg){.center}
+![Nicolas_de_Largilli%C3%A8re,_Fran%C3%A7ois-Marie_Arouet_dit_Voltaire](Nicolas_de_Largilli%C3%A8re,_Fran%C3%A7ois-Marie_Arouet_dit_Voltaire.jpg "Nicolas_de_Largilli%C3%A8re,_Fran%C3%A7ois-Marie_Arouet_dit_Voltaire"){.center}
 
 That Voltaire, what a card! He says something seemingly simple, like “The best is the enemy of the good,” (or, more likely, _“Le mieux est l'ennemi du bien”_) and 236 years later it is still both true and incomprehensible.
 
