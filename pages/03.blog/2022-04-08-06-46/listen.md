@@ -5,7 +5,7 @@ date: 2022-04-08-06-46
 taxonomy:
     category:
         - stream
-        - Review
+        - Reviews
     tag:
         - podcasts
 theurl: https://getting-curious-with-jonathan-van-ness.simplecast.com/episodes/does-old-macdonald-need-a-makeover-with-professor-gabe-rosenberg-af8EKtl5
