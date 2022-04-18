@@ -21,6 +21,6 @@ The obituary notes:
 
 > With dough, Mr. Clayton favored a tough-love approach. “The best advice I can offer a novice bread baker is this,” he wrote. “Don’t ‘gentle’ the dough. Knead it with force, slam it down on the board. Beating it helps develop gluten.” 
 
-I‘ve adapted quite a few of his recipes, and thatæs one bit of advice I‘ve learned to ignore, as I have the “non-fat dried milk”[^fn1] that so many of the recipes call for. In doing so I’ve come across elements of what might best be called snobbishness towards Clayton among today’s gung-ho artisan bakers, not least at The Fresh Loaf. But I remain grateful to Bernard Clayton Jr and the work he put into inspiring my bread-baking, and to Paul McCool at The Fresh Loaf for not being one of the snobs.
+I’ve adapted quite a few of his recipes, and that’s one bit of advice I‘ve learned to ignore, as I have the “non-fat dried milk”[^fn1] that so many of the recipes call for. In doing so I’ve come across elements of what might best be called snobbishness towards Clayton among today’s gung-ho artisan bakers, not least at The Fresh Loaf. But I remain grateful to Bernard Clayton Jr and the work he put into inspiring my bread-baking, and to Paul McCool at The Fresh Loaf for not being one of the snobs.
 
 [^fn1]: Who remembers [Marvel](http://www.premierfoods.co.uk/our-brands/grocery/marvel/) these days?
