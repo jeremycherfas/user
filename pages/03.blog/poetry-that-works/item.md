@@ -21,9 +21,9 @@ That struck a chord, and I tried unsuccessfully to find an extract that would wo
 
 Thanks, Luigi.
 
-<pre>
 **Putting in the Seed**
 
+<pre>
 You come to fetch me from my work to-night  
 When supper's on the table, and we'll see  
 If I can leave off burying the white  
