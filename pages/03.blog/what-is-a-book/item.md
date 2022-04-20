@@ -1,7 +1,7 @@
 ---
 title: 'What is a book?'
 published: true
-date: '20-04-2022 10:30'
+date: '19-04-2022 10:30'
 taxonomy:
     category:
         - blog
