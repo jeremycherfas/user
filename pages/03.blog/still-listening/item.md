@@ -13,7 +13,7 @@ subhead: " "
 header_image: '0'
 ---
 
-A month on, and my little program to [suck up and display the podcasts I have listen ed to](https://www.jeremycherfas.net/blog/sucking-up-the-podcasts-ive-listen ed-to) is working well, but not perfectly. It still sometimes duplicates an entry it has already created, and I have been having a difficult time trying to work out why.
+A month on, and my little program to [suck up and display the podcasts I have listen ed to](https://www.jeremycherfas.net/blog/sucking-up-the-podcasts-ive-listened-to) is working well, but not perfectly. It still sometimes duplicates an entry it has already created, and I have been having a difficult time trying to work out why.
 
 One simple reason for the difficulty is that I do not want to hammer Overcast with requests for my detailed OPML file. There's a rate limit on requests. I have no idea what the limit is, but I do not want to reach it. So, when I think I might have solved the problem, on stored data, I have to wait a day or so to try it against the live data. Occasionally I think I've cracked it, and then it breaks again, and the honest truth is that I have not been able to pin the source of the breakage down to my code or the OPML file I receive.
 
