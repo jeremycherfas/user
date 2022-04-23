@@ -1,22 +1,16 @@
 ---
-title: 'Back in the Saddle'
+title: 'Back in the saddle'
 published: true
-date: '08-08-2006 17:30'
+date: '23-04-2005 18:51'
 taxonomy:
     category:
         - blog
     tag:
-        - General
+        - Geeky
 summary:
     enabled: '1'
 subhead: " "
 header_image: '0'
 ---
 
-![Many bicycle saddles seen from above](saddles.jpg){.left} Back from a wonderfully restful holiday, and of course there is masses of catching up to do. At work, I managed to process all my emails -- more than 400 of them -- in a couple of hours, ruthlessly doing the 4D thing to Get Them Done; do it, delete, delegate, or delay. And the surprise is that there really aren’t that many that have been delayed. Tomorrow should see that clear.
-
-Dealing with all the web pages that accumulate in my RSS reader was going to be trickier, but a slip of the finger fixed that. I marked them all read, by mistake. And while I may have missed something important, and there’s no going back, if it is really important instead of just being momentarily important it will probably surface again sometime soon.
-
-Home is slightly trickier. There are photos to download, process and upload. Letters, real ones, that need answering. Other projects to get on top of. Blog posts to write ...
-
-! flickr [photo](http://www.flickr.com/photos/photochiel/20451048/) by [Photochiel](http://www.flickr.com/photos/photochiel/), who subsequently disabled downloading, but when I first got the image, I come by it legit.
+Back from my travels with no worse to report than the expected upset tummy. While I was away -- without much in the way of connectivity, or time to use that which there was -- I thought it would be a cinch to fix the look of my pages. Three hours later, I know it isn’t. So I’ve lifted a good looking theme from Roobottom and may tinker with it to make it more personal. Or use it to understand why my original attempt is not working too well. There’s something wrong with the way it is picking up the stylesheet, but more than that I cannot yet figure.
