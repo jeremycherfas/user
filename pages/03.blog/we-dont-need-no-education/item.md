@@ -1,5 +1,5 @@
 ---
-title: 'We don't need no education'
+title: 'We don’t need no education'
 published: true
 date: '28-04-2006 10:27'
 taxonomy:
