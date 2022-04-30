@@ -20,7 +20,7 @@ One of the best aspects of subscribing to things is that it doesn't matter if th
 
 Special too because just a couple of days ago, in the process of rescuing things from an almost full notebook, I came across this entry from just over a year ago:
 
-![Notebook page](anxious-machine.png?cropResize=650,){.center} 
+![Notebook page](anxious-machine.png){.center} 
 
 Rob McGinley Myers had just published [a podcast outlining his rather wonderful ideas](http://www.anxiousmachine.com/podcast/2016/5/10/if-you-could-do-anything) for a new kind of published product, an audiobook whose chapters would be individual podcasts in a series. It struck me at the time as a genius idea, one that [I wish I had thought of](http://www.ucl.ac.uk/sts/staff/cain/projects/huxley), and one that was worth making a note about.
 

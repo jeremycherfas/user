@@ -13,7 +13,7 @@ taxonomy:
         - blog
 ---
 
-![Snake1.png](Snake1.png?cropResize=200,170) {.left}
+![Snake1.png](Snake1.png){.left}
 
 Yesterday, walking from the conference centre to the hotel, we found a dead snake on the pavement. Significant, or what? Turns out Ruth hasn't even seen Blade Runner. So the snake had no more than the usual curiosity value for her.
 

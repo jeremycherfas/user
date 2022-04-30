@@ -18,4 +18,4 @@ He also mentions a new PBS series on the [history of viedogaming](http://www.pbs
 
 _18 September 2016: Just for fun, I looked at Google Trends for gamification. It didn't become a thing until three or four years after this._
 
-![Gamification-trend](gamification.png?cropResize=561,385;classes=center)
+![Gamification-trend](gamification.png){.center}

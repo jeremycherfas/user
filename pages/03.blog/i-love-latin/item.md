@@ -32,7 +32,7 @@ Another visitor to BPOTD, however, disagrees: "Once seemingly inappropriate comm
 
 As I said there, that simply is not true. Which of these flowers is black-eyed Susan?
 
-![Thunbergia alata](111042687_98b8b65ddc_m.jpg?cropResize=350,) {.left}![Black Eyed Susan](Black%20Eyed%20Susan.jpg?cropResize=350,) {.right}
+![Thunbergia alata](111042687_98b8b65ddc_m.jpg) {.left}![Black Eyed Susan](Black%20Eyed%20Susan.jpg) {.right}
 
 Both, obviously, or I wouldn't be bothering.
 

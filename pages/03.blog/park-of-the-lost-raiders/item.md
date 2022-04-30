@@ -13,7 +13,7 @@ taxonomy:
         - blog
 ---
 
-![](Raider.png?cropResize=200,186) {.left}
+![](Raider.png) {.left}
 
 On Saturday a 15 ringgit cab ride brought me to the Forest Research Institute of Malaysia, at last away from the hotel-conference centre axis. It is a good place, full of interesting things to see and people seeing them. And if KL is very Blade runner, then the forest is very Raiders.
 
