@@ -24,7 +24,7 @@ My highlights from Meaney's article:
 
 > The ‘problem of oligarchy’, the ‘gerrymandered system’ and the ‘odd American idea that giving money to political campaigns is free speech’ are asides in Snyder’s account, not the main business.
 
-As I said, I haven't read Snyder, only listen ed to that interview, but these aspects of political life in America absolutely need to be tackled, and urgently, to prevent even greater corruption. Maybe Snyder doesn't consider them urgent enough, but in the long term they may matter more.
+As I said, I haven't read Snyder, only listened to that interview, but these aspects of political life in America absolutely need to be tackled, and urgently, to prevent even greater corruption. Maybe Snyder doesn't consider them urgent enough, but in the long term they may matter more.
 
 > One way to address Trump voters is not by telling them that he is lying or that he is horrifying – they get that – but rather by showing quite coolly the ways in which he is betraying their expectation that he would restore some measure of equity between the elites and the rest of the public.
 
@@ -32,4 +32,4 @@ This seems to me absolutely central. As an observer, [one of the things that hor
 
 > But the question he [that is, "Alexandre Kojève, the Russian-French philosopher and proto-EU bureaucrat"] goes on to ask is more urgent: what propels the tyrant forward? He falls back on Hegel for the answer: tyrants are driven by an appetite for recognition that will be satisfied only when they are recognised by all of humanity. Trump’s craving for recognition is perhaps notable only in the bareness of its expression, but what is particular, and particularly dangerous, about him is that instead of trying to gain more recognition from more people, he has shrunk the imaginary number of those who count as ‘the people’. The first task of resistance to Trump will be to expand it.
 
-This could do with unpacking. Is Meaney suggesting that Trump really doesn't care what liberals, or the press, or technocrats or others think, only what his supporters think? Because those many of those same supporters abandoned Obama for Trump and will abandon Trump when whoever comes next reminds them that they too will have been forgotten and ignored.
+This could do with unpacking. Is Meaney suggesting that Trump really doesn't care what liberals, or the press, or technocrats or others think, only what his supporters think? Because many of those same supporters abandoned Obama for Trump and will abandon Trump when whoever comes next reminds them that they too will have been forgotten and ignored.
