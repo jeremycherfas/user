@@ -13,7 +13,7 @@ summary:
 subhead: ''
 ---
 
-April is almost my favourite month, never standing still, the pace of change so rapid. On the terrace, dead sticks spring to life while the earliest flowers put on their show and quetly vanish. Slow heartbreaks too, like the avocado that I hoped might survive being potted on but really has not. Heartmakes, if such a thing exists, with the discovery of a score of tiny seedlings in one of the cactus pots, now duly pricked out and maybe even growing on. May brings different trials, most notably whether the irrigation can be made to work. But April, April sings.
+April is almost my favourite month, never standing still, the pace of change so rapid. On the terrace, dead sticks spring to life while the earliest flowers put on their show and quietly vanish. Slow heartbreaks too, like the avocado that I hoped might survive being potted on but really has not. Heartmakes, if such a thing exists, with the discovery of a score of tiny seedlings in one of the cactus pots, now duly pricked out and maybe even growing on. May brings different trials, most notably whether the irrigation can be made to work. But April, April sings.
 
 ===
 
@@ -32,13 +32,13 @@ subhead: ''
 
 ### Activities
 
-Gardening, mostly. 
+Gardening, mostly. And on the making life easier front, two good things. A couple of simple automations (Alfred) and the discovery of an Alfred workflow that totally mutes the adverts on Spotify. Bliss!
 
 #### April: 
 * Walking with sticks: 0
 * Reading: 17
 * Steps (avge): 9595
-* Podcasts: 45 (36 of them [logged](https://www.jeremycherfas.net/stream/))
+* Podcasts: 38 (32 of them [logged](https://www.jeremycherfas.net/stream/))
 * In bed/asleep 8:12/7:25
 * 7 Minutes: 12
 * Weight (avge): 88.5
@@ -56,29 +56,29 @@ Gardening, mostly.
 
 ### Work
 
-Got to love clients who postpone meetings with very little notice. No problem for them, they're sitting in their offices or in traffic anyway, but a drag for those of us who may have other things to do. That is just a minor hiccough though; all is mostly very good.
+Got to love clients who postpone meetings with very little notice. No problem for them, they're sitting in their offices or in traffic anyway, but a drag for those of us who may have other things to do. That is just a minor hiccough though; all is mostly very good. Two old clients asked me to submit proposals; not sure I want the work, but it is nice to be asked.
 
 #### Hours logged per month
 
-![Graph of total hours worked each month since January 2018](hours-logged2018-2021-03.svg)
+![Graph of total hours worked each month since January 2018](hours-logged2018-2021-04.svg)
 
 #### Percent of logged hours
 
-![Percentage of hours logged for Admin (51%) and Podcasts (27%)](percents-2022.svg)
+![Percentage of hours logged for Admin (49%) and Podcasts (29%)](percents-2022.svg)
 
 Previous years are on [an archive page](https://jeremycherfas.net/blog/working-life).
 
 ### Goals
 
-Only two new posts this month, and that is low, like everything else, because I was having too much fun. Old posts only 36, not because I was having fun, but possibly because I am exercising a little more decision-making. Who wants to read about decades-old struggles with a former CMS?
+Ten new posts this month; I’m a machine, sometimes. Old posts 91 and 28 passed over, either because they are boringly about an old CMS or too many links are dead and there's no point.
 
 ### Niggles
 
-The laptop came with me to London as I had a bit of work to do, but despite my best efforts making sure it was up to date, it wasn’t. Partly this is because it is old, and partly because I do not know technically how to ensure that the desktop and the laptop share the same set of commands and preferences. May need to wait until I can afford a new laptop.
+Last month I almost decided that I needed a new laptop or, possibly, a proper iPad, but I didn't get either and I'm currently glad I didn't. Deciding between a top o’ th’ line iPad and a laptop could be tough, and I need more time. A normal iPad would probably do me as well in any case.
 
 ### Final remarks
 
-A good month. April will be too.
+Another good month. I made some progress trying to systematise my understanding of Python and zsh and need to keep at it.
 
 ----
 
@@ -98,7 +98,15 @@ A good month. April will be too.
 </thead>
 <tbody>
 <tr>
-<td style="text-align: right;">2022-03</td>
+<td style="text-align: right;">04</td>
+<td style="text-align: center;">143.2</td>
+<td style="text-align: center;">5.11</td>
+<td style="text-align: center;">49</td>
+<td style="text-align: center;">29</td>
+<td style="text-align: center;">22</td>
+</tr>
+<tr>
+<td style="text-align: right;">03</td>
 <td style="text-align: center;">77.1</td>
 <td style="text-align: center;">2.48</td>
 <td style="text-align: center;">46</td>
@@ -106,7 +114,7 @@ A good month. April will be too.
 <td style="text-align: center;">33</td>
 </tr>
 <tr>
-<td style="text-align: right;">2022-02</td>
+<td style="text-align: right;">02</td>
 <td style="text-align: center;">128.5</td>
 <td style="text-align: center;">4.62</td>
 <td style="text-align: center;">51</td>
