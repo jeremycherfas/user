@@ -15,6 +15,115 @@ template: item
 
 <!-- Outer List -->
 <ul class="log">
+<li class="log-month">April</li>
+
+<ul class="log-entry">
+<li class="log-day">29</li>
+<ul>
+<li class="log-item">Started watching <em>Anatomy of a Scandal</em> on Netflix <strong>T</strong> Many familiar faces; he said she said with weird editing.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">26</li>
+<ul>
+<li class="log-item">Started watching <em>Undercover s02</em> on Netflix <strong>T</strong> Everyone is losing their shit.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">18</li>
+<ul>
+<li class="log-item">Started watching <em>Severance</em> on Apple TV+ <strong>T</strong> Almost lost us with too much boredom mirroring the characters' boredom.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">17</li>
+<ul>
+<li class="log-item">Finished watching <em>Spiral s02</em> on SBS <strong>T</strong> Fewer lose ends, which was nice. Taking a break.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">07</li>
+<ul>
+<li class="log-item">Finished watching <em>Spiral s01</em> on SBS <strong>T</strong> Far less closure and tidying up than I would have expected.</li>
+</ul>
+</ul>
+
+<li class="log-month">March</li>
+
+<ul class="log-entry">
+<li class="log-day">30</li>
+<ul>
+<li class="log-item">Started watching <em>Spiral</em> on SBS <strong>T</strong> Absorbing enough despite odd editing.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">22</li>
+<ul>
+<li class="log-item">Finished reading <em>The Lincoln Highway</em> on Kindle <strong>B</strong> The story envelopes you, although the ending is very open.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">13</li>
+<ul>
+<li class="log-item">Finished watching <em>Inventing Anna</em> on Netflix <strong>T</strong> Huge fun, but why was the character of Vivien invented?</li>
+</ul>
+</ul>
+<ul class="log-entry">
+<li class="log-day">2</li>
+<ul>
+<li class="log-item">Started reading <em>The Lincoln Highway</em> by Amor Towles on Kindle <strong>B</strong> Already entranced after only two chapters.</li>
+</ul>
+</ul>
+
+<li class="log-month">February</li>
+
+<ul class="log-entry">
+<li class="log-day">28</li>
+<ul>
+<li class="log-item">Watched <em>Belfast</em> at the cinema! <strong>F</strong> Extremely good, mesmerising cinematography, fine soundtrack, astonishing performances by the kid.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">27</li>
+<ul>
+<li class="log-item">Started watching <em>Inventing Anna</em> On Netflix <strong>T</strong> Kinda obvious, and entertaining, but what's with all the NY skylines? We know.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">26</li>
+<ul>
+<li class="log-item">Finished watching <em>Young Wallender s02</em> on Netflix <strong>T</strong> Excellent, even though I don't understand the timeline.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">18</li>
+<ul>
+<li class="log-item">Watched <em>The Good Liar</em> on Netflix <strong>F</strong> Really excellent thriller, even though it did require an awful lot of exposition at the end. Superb performances.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">08</li>
+<ul>
+<li class="log-item">Finished watching <em>The Girl from Oslo</em> on Netflix <strong>T</strong> Not bad at all, though I wonder about the remaining open ending; another series? Surely not.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">02</li>
+<ul>
+<li class="log-item">Started watching <em>The Girl from Oslo</em> on Netflix <strong>T</strong> These Israeli dramas are so good.</li>
+</ul>
+</ul>
 
 <li class="log-month">January</li>
 
