@@ -13,7 +13,7 @@ summary:
 subhead: ''
 ---
 
-April is almost my favourite month, never standing still, the pace of change so rapid. On the terrace, dead sticks spring to life while the earliest flowers put on their show and quietly vanish. Slow heartbreaks too, like the avocado that I hoped might survive being potted on but really has not. Heartmakes, if such a thing exists, with the discovery of a score of tiny seedlings in one of the cactus pots, now duly pricked out and maybe even growing on. May brings different trials, most notably whether the irrigation can be made to work. But April, April sings.
+April is almost my favourite month, never standing still, the pace of change so rapid. On the terrace, dead sticks spring to life while the earliest flowers put on their show and quietly vanish. Slow heartbreaks too, like the avocado that I hoped might survive being potted on but really has not. Heartmakes, if such a thing exists, with the discovery of a score of tiny seedlings in one of the cactus pots, now duly pricked out and maybe even growing on. May brings different trials, most notably whether the irrigation can be made to work. But April, April sings.
 
 ===
 

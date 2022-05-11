@@ -1,5 +1,5 @@
 absolute_urls: false
-timezone: null
+timezone: 'Europe/Rome'
 param_sep: ':'
 wrapped_site: false
 reverse_proxy_setup: false
