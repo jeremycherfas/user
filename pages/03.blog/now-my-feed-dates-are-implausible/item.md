@@ -20,7 +20,7 @@ Further to [my own prediction](https://www.jeremycherfas.net/blog/invalid-feeds-
 Meanwhile, another “error” surfaces, but only in the Atom feed. 
 
 <pre>
-<lastBuildDate>Wed, 11 May 2022 09:30:00 -0700</lastBuildDate>
+<lastBuildDate>Wed, 11 May 2022 09:30:00 -0700</lastBuildDate>  
 <pubDate>Wed, 11 May 2022 09:30:00 -0700</pubDate>
 </pre>
 
