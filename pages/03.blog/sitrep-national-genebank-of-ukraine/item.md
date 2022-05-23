@@ -26,7 +26,7 @@ With the sudden interest in Ukraine's national genebank in Kharkiv which, as yet
 
 Svalbard contains 2782 accessions from Ukraine's national genebank, deposited there for safe keeping. The vast majority (1776, 64%) were collected in Ukraine. Another 567 (20%) were collected in Russia, followed by dribs and drabs from 46 other countries. Of the varieties from Ukraine, bread wheat (_Triticum aestivum_) and durum wheat (_T durum_) dominate, with 762 (43%) and 64 (3.6%) accessions, but beans are well-represented too, with 237 (13%) haricot beans (_Phaseolus vulgaris_) and a further 554 (31%) _Phaseolus_ species. Surprisingly, at least to me; no sunflowers.
 
-Is this a reasonable subset of the overall holdings of the institute? Hard to say, but the Genesys data indicate a total of 34,532 accessions held by the Ukrainian national genebank, with 10,320 actually collected in Ukraine. Of these, 7840 (23%) are bread wheat, 1402 (4%) are durum wheat, 1855 (5%) are haricot beans. Only 521 (1.5%) are sunflowers.[^2]
+Is this a reasonable subset of the overall holdings of the institute? Hard to say, but the Genesys data indicate a total of 34,532 accessions held by the Ukrainian national genebank, with 10,320 actually collected in Ukraine. Of these, 1522 (15%) are bread wheat, 155 (1.5%) are durum wheat, 865 (8%) are haricot beans. Only 289 (2.8%) are sunflowers.[^2]
 
 [^2]: Thanks to Christelle Rabil at Genesys for pointing out my error. I failed to say that only 10,320 of the accessions had been collected in Ukraine. The point about reversed latitude and longitude, however, stands.
 
