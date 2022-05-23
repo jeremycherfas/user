@@ -26,7 +26,9 @@ With the sudden interest in Ukraine's national genebank in Kharkiv which, as yet
 
 Svalbard contains 2782 accessions from Ukraine's national genebank, deposited there for safe keeping. The vast majority (1776, 64%) were collected in Ukraine. Another 567 (20%) were collected in Russia, followed by dribs and drabs from 46 other countries. Of the varieties from Ukraine, bread wheat (_Triticum aestivum_) and durum wheat (_T durum_) dominate, with 762 (43%) and 64 (3.6%) accessions, but beans are well-represented too, with 237 (13%) haricot beans (_Phaseolus vulgaris_) and a further 554 (31%) _Phaseolus_ species. Surprisingly, at least to me; no sunflowers.
 
-Is this a reasonable subset of the overall holdings of the institute? Hard to say, but the Genesys data indicate a total of 34,532 accessions held by the Ukrainian national genebank and collected in Ukraine. Of these, 7840 (23%) are bread wheat, 1402 (4%) are durum wheat, 1855 (5%) are haricot beans. Only 521 (1.5%) are sunflowers.
+Is this a reasonable subset of the overall holdings of the institute? Hard to say, but the Genesys data indicate a total of 34,532 accessions held by the Ukrainian national genebank, with 10,320 actually collected in Ukraine. Of these, 7840 (23%) are bread wheat, 1402 (4%) are durum wheat, 1855 (5%) are haricot beans. Only 521 (1.5%) are sunflowers.[^2]
+
+[^2]: Thanks to Christelle Rabil at Genesys for pointing out my error. I failed to say that only 10,320 of the accessions had been collected in Ukraine. The point about reversed latitude and longitude, however, stands.
 
 At first glance, then, Svalbard is looking after a bigger proportion of Ukraine's bread wheats and, especially, beans, about the same proportion of durum wheats, and no sunflowers. But Svalbard is only one of the places where Ukraine has sent safety duplicates. Here, though, the Genesys database let me down. It reveals that only 447 accessions have been sent elsewhere, and only 100 of those to Svalbard. That is really no help, and while safety duplicates are crucial, I choose to be heartened by the Svalbard figures rather than disappointed by those reported to Genesys. And yet …
 
@@ -46,6 +48,6 @@ A final quirk: Only 402 accessions offer the latitude and longitude where they w
 
 <p><span class="caption">Map of clustered collection locations for all georeferenced material in Ukraine national genebank showing obviously incorrect data</span></p>
 
-I checked a couple; latitude and longitude have clearly been swapped. An accession from somewhere south-southwest of Tehran in Iran must actually be from Cherkasy Oblast in Ukraine.[^2] You're welcome.
+I checked a couple; latitude and longitude have clearly been swapped. An accession from somewhere south-southwest of Tehran in Iran must actually be from Cherkasy Oblast in Ukraine.[^3] You're welcome.
 
-[^2]: I should point out that the data from Ukraine in Genesys comes indirectly _via_ [Eurisco](https://eurisco.ipk-gatersleben.de/apex/f?p=103:1:0:::::), which aggregates data from about 400 institutes in 43 countries. Eurisco and Genesys are both essentially clearing houses; they make the country data available to others to search, but they do not (cannot, by the terms of their agreements) adjust the data in any way. That is up to the supplying genebank, and right now, in Kharkiv, they have many other things to worry about.
+[^3]: I should point out that the data from Ukraine in Genesys comes indirectly _via_ [Eurisco](https://eurisco.ipk-gatersleben.de/apex/f?p=103:1:0:::::), which aggregates data from about 400 institutes in 43 countries. Eurisco and Genesys are both essentially clearing houses; they make the country data available to others to search, but they do not (cannot, by the terms of their agreements) adjust the data in any way. That is up to the supplying genebank, and right now, in Kharkiv, they have many other things to worry about.
