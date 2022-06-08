@@ -13,7 +13,7 @@ subhead: " "
 header_image: '0'
 ---
 
-I’ve been meaning to say something about this for a while, but thereÆs frustratingly little to say.
+I’ve been meaning to say something about this for a while, but there’s frustratingly little to say.
 
 The women of the Nabweru III 2030(c) Group, to whom I loaned some money via Kiva, have made their second repayment, on schedule.
 
