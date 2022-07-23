@@ -22,11 +22,11 @@ header_image: '0'
 > 3\. Arranging a visit to other countries to see how others ride dead horses.  
 > 4\. Lowering the standards so that dead horses can be included.  
 > 5\. Reclassifying the dead horse as “living impaired”.  
-6. Hiring contractors/consultants to ride the dead horse.  
-7. Harnessing several dead horses together in an attempt to increase the speed.  
-8. Providing additional funding and/or training to increase the dead horse’s performance.  
-9. Doing a productivity study to see if lighter riders would improve the dead horse’s performance.  
-10. Declaring that as the dead horse does not have to be fed, it is less costly, carries lower overheads, and therefore contributes substantially more to the mission of the organisation than do some other horses.  
+> 6\. Hiring contractors/consultants to ride the dead horse.  
+> 7\. Harnessing several dead horses together in an attempt to increase the speed.  
+> 8\. Providing additional funding and/or training to increase the dead horse’s performance.  
+> 9\. Doing a productivity study to see if lighter riders would improve the dead horse’s performance.  
+> \10. Declaring that as the dead horse does not have to be fed, it is less costly, carries lower overheads, and therefore contributes substantially more to the mission of the organisation than do some other horses.  
 
 To which, after a thorough consultancy that involved, oh, 6 minutes on the [internet](http://www.professortangent.org/humor.shtml#horse), I can add a couple of others:
 
