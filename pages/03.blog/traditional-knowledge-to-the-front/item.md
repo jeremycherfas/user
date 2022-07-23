@@ -15,7 +15,7 @@ header_image: '0'
 
 ![American Indian in feathered headdress](2214294_9d257721d6_o.jpg){.left} Colleagues generally ignore advice received. So it was with an almost palpable shudder of revulsion that I read a recent email. New to me, it contained modern management advice that casts aside ancient and hard-won knowledge, to whit:
 
-<blockquote>The tribal wisdom of the Dakota Indians, passed on from generation to generation, says that “whenever you discover that you are riding a dead horse, the best strategy is to dismount”. This is silly, when there are other, far more productive options:
+> The tribal wisdom of the Dakota Indians, passed on from generation to generation, says that “whenever you discover that you are riding a dead horse, the best strategy is to dismount”. This is silly, when there are other, far more productive options:
 >
 > 1\. Changing riders.  
 > 2\. Appointing a committee to study the horse.  
@@ -27,7 +27,6 @@ header_image: '0'
 8. Providing additional funding and/or training to increase the dead horse’s performance.  
 9. Doing a productivity study to see if lighter riders would improve the dead horse’s performance.  
 10. Declaring that as the dead horse does not have to be fed, it is less costly, carries lower overheads, and therefore contributes substantially more to the mission of the organisation than do some other horses.  
-</blockquote>
 
 To which, after a thorough consultancy that involved, oh, 6 minutes on the [internet](http://www.professortangent.org/humor.shtml#horse), I can add a couple of others:
 
