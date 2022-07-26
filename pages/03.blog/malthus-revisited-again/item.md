@@ -1,7 +1,7 @@
 ---
 title: 'Malthus revisited, again'
 published: true
-date: ’25-06-2011 06:56’
+date: '25-06-2011 06:56'
 taxonomy:
     category:
         - blog
