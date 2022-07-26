@@ -9,7 +9,7 @@ taxonomy:
         - General
 summary:
     enabled: '1'
-subhead: ' '
+subhead: " "
 header_image: '0'
 ---
 
