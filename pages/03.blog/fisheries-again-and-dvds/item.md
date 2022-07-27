@@ -17,6 +17,6 @@ As if to prove [the point](https://jeremycherfas.net/blog/fish-farmers/), there 
 
 And in unrelated (Canadian) news, when I visited that cnews site, I saw an advertisement for zip.ca, a netflix clone in that great country. There are 33 million Canadians, give or take, and 58 million in Italy. In Italy, people [apparently](https://watershedwatch.ca/) watch 14.9 hours of (execrable) TV a week, in Canada 14.7. So how come their DVD hire looks so much more interesting than ours?
 
-* Because we still need a [European postage stamp](http://jeremycherfas.net/blog/postal-union-please/).
+Because we still need a [European postage stamp](http://jeremycherfas.net/blog/postal-union-please/).
 
 !!! 2022-07-27: cnews seems to be dead and gone, but digital spelunking turned up [a contemporary account](https://atowncalledpodunk.blogspot.com/2007/06/steelhead-put-at-risk.html)
