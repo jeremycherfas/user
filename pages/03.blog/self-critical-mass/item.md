@@ -1,7 +1,7 @@
 ---
 title: 'Self Critical Mass'
 published: true
-date: 30-06-2007 06:02'
+date: '30-06-2007 06:02'
 taxonomy:
     category:
         - blog
