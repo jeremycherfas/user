@@ -58,7 +58,7 @@ Not too much, discharged with pleasure. And still taking it very easy.
 
 #### Percent of logged hours
 
-![Percentage of hours logged for Admin and Podcasts](percents-2022.svg)
+![Percentage of hours logged for Admin and Podcasts](percents-2022a.svg)
 
 Previous years are on [an archive page](https://jeremycherfas.net/blog/working-life).
 
