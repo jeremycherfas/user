@@ -13,7 +13,7 @@ summary:
 subhead: 'May, June, July'
 ---
 
-! This post is a mess, because my Python is a mess, because I know enough to break things badly. So, the graphs below are not the graphs you are looking for. I will fix them just as soon as I have detoxified [my superfund site](https://imgs.xkcd.com/comics/python_environment_2x.png)
+! This post was a mess, because my Python was a mess, because I know just enough to break things badly. I sort-of detoxified [my superfund site](https://imgs.xkcd.com/comics/python_environment_2x.png) and now I think I need to nuke Anaconda from space and try to live with what I have learned.
 
 No excuses. Well, plenty of them, actually, including trips to London and the USA, during which I resolved not to clutter my life with doing things for the sake of it. So, I did some things I needed to do, but not things I might have wanted to do had I been at home. As a result, there’s a big chunk not accounted from, from roughly 20 June to 20 July. And I don’t care. Much.
 
@@ -54,11 +54,11 @@ Not too much, discharged with pleasure. And still taking it very easy.
 
 #### Hours logged per month
 
-![Graph of total hours worked each month since January 2018](hours-logged2018-2021-04.svg)
+![Graph of total hours worked each month since January 2018](hours-logged2018-2021-07.svg)
 
 #### Percent of logged hours
 
-![Percentage of hours logged for Admin (49%) and Podcasts (29%)](percents-2022.svg)
+![Percentage of hours logged for Admin and Podcasts](percents-2022.svg)
 
 Previous years are on [an archive page](https://jeremycherfas.net/blog/working-life).
 
