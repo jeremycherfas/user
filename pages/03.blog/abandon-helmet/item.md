@@ -21,4 +21,4 @@ While the research has not been replicated in Rome, where I suspect most drivers
 
 Whatever the reason, henceforth I shall let my locks blow free in the breeze.
 
-! 2022-08-14: Yeah, that was a stupid idea. I cute my hear, and I wear a helmet.
+! 2022-08-14: Yeah, that was a stupid idea. I cut my hair, and I wear a helmet.
