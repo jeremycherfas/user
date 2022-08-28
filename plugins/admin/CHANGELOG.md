@@ -1,8 +1,22 @@
+# v1.10.35
+## 08/04/2022
+
+1. [](#improved)
+   * Improvements in CodeMirror editor in RTL mode [#359](https://github.com/getgrav/grav-plugin-admin/issues/359), [#2297](https://github.com/getgrav/grav-plugin-admin/pull/2297)
+
+# v1.10.34
+## 06/22/2022
+
+1. [](#improved)
+   * Exposed `UriToMarkdown` util (`Grav.default.Utils.UriToMarkdown`) in admin, to convert links/images
+1. [](#bugfix)
+   * Fixed `Latest Page Updates` permissions [#2294](https://github.com/getgrav/grav-plugin-admin/pull/2294)
+
 # v1.10.33.1
 ## 04/25/2022
 
 1. [](#bugfix)
-   * Reverted [PR#2265](https://github.com/getgrav/grav-plugin-admin/pull/2265) as it broke sections output.
+   * Reverted [PR#2265](https://github.com/getgrav/grav-plugin-admin/pull/2265) as it broke sections output
 
 # v1.10.33
 ## 04/25/2022

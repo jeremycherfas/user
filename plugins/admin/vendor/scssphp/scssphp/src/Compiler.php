@@ -2350,9 +2350,9 @@ class Compiler
     }
 
     /**
-     * Compile children and throw exception if unexpected `@return`
+     * Compile children and throw exception if unexpected at-return
      *
-     * @param array                                  $stms
+     * @param array[]                                $stms
      * @param \ScssPhp\ScssPhp\Formatter\OutputBlock $out
      * @param \ScssPhp\ScssPhp\Block                 $selfParent
      * @param string                                 $traceName
@@ -2367,13 +2367,13 @@ class Compiler
 
         foreach ($stms as $stm) {
             if ($selfParent && isset($stm[1]) && \is_object($stm[1]) && $stm[1] instanceof Block) {
+                $oldSelfParent = $stm[1]->selfParent;
                 $stm[1]->selfParent = $selfParent;
                 $ret = $this->compileChild($stm, $out);
-                $stm[1]->selfParent = null;
+                $stm[1]->selfParent = $oldSelfParent;
             } elseif ($selfParent && \in_array($stm[0], [Type::T_INCLUDE, Type::T_EXTEND])) {
                 $stm['selfParent'] = $selfParent;
                 $ret = $this->compileChild($stm, $out);
-                unset($stm['selfParent']);
             } else {
                 $ret = $this->compileChild($stm, $out);
             }
@@ -3544,11 +3544,11 @@ EOL;
                 // 1. op[op name][left type][right type]
                 // 2. op[left type][right type] (passing the op as first arg)
                 // 3. op[op name]
-                if (\is_callable([$this, $fn = "op${ucOpName}${ucLType}${ucRType}"])) {
+                if (\is_callable([$this, $fn = "op{$ucOpName}{$ucLType}{$ucRType}"])) {
                     $out = $this->$fn($left, $right, $shouldEval);
-                } elseif (\is_callable([$this, $fn = "op${ucLType}${ucRType}"])) {
+                } elseif (\is_callable([$this, $fn = "op{$ucLType}{$ucRType}"])) {
                     $out = $this->$fn($op, $left, $right, $shouldEval);
-                } elseif (\is_callable([$this, $fn = "op${ucOpName}"])) {
+                } elseif (\is_callable([$this, $fn = "op{$ucOpName}"])) {
                     $out = $this->$fn($left, $right, $shouldEval);
                 } else {
                     $out = null;
@@ -3892,7 +3892,7 @@ EOL;
 
         // Special functions overriding a CSS function are case-insensitive. We normalize them as lowercase
         // to avoid the deprecation warning about the wrong case being used.
-        if ($lowercasedName === 'min' || $lowercasedName === 'max') {
+        if ($lowercasedName === 'min' || $lowercasedName === 'max' || $lowercasedName === 'rgb' || $lowercasedName === 'rgba' || $lowercasedName === 'hsl' || $lowercasedName === 'hsla') {
             $normalizedName = $lowercasedName;
         }
 
