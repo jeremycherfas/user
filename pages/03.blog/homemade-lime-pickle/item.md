@@ -27,10 +27,10 @@ So when, this year, the little lime tree on the terrace produced what passes her
 
 The entire process is very simple. I wore gloves because I really do not want lime juice getting into any little nicks and scratches on my hands. It didn’t seem to make any difference.
 
-Out into the sun which, naturally, chose that day and most of the next to sulk behind the clouds. Not a llot of point photographing a bunch of limes and garlic sitiing in a jar, not least because I didn’t have the recipe’s required “2 tbsp Kashmiri chilli powder - Or another and to taste”. I used about 2 tablespoons of our standard little red _peperoncini_, and although I gound them up as best as I could, they didn’t impart quite as much flaming colour to the pickle.
+Out into the sun which, naturally, chose that day and most of the next to sulk behind the clouds. Not a lot of point photographing a bunch of limes and garlic sitting in a jar, not least because I didn’t have the recipe’s required “2 tbsp Kashmiri chilli powder - Or another and to taste”. I used about 2 tablespoons of our standard little red _peperoncini_, and although I ground them up as best as I could, they didn’t impart quite as much flaming colour to the pickle.
 
-That ”to taste” by the way; seems silly to me. I mean, how are you supposed to know whether you have too much or too little until the entire process is finished?
+That “to taste”, by the way, seems silly to me. I mean, how are you supposed to know whether you have too much or too little until the entire process is finished?
 
-[![Two jars of lime pickle in front of the lime tree with an extra decorative lime](jars-sm.jpg){.center, u-featured}](jars.jpg)
+[![Two jars of lime pickle in front of the lime tree with an extra decorative lime](jars-sm.jpg?classes=center,u-featured)](jars.jpg)
 
 And when it was finished, after frying the seeds and mixing with oil and spending another two or three days out in the sun, I did taste, and it was good. Now it sits in the back of the fridge for a little longer, until I have an occasion to cook up an Indian.
