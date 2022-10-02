@@ -15,6 +15,153 @@ template: item
 
 <!-- Outer List -->
 <ul class="log">
+
+<li class="log-month">September</li>
+
+<ul class="log-entry">
+<li class="log-day">20</li>
+<ul>
+<li class="log-item">Started watching <em>Spiral s05</em> on SBS <strong>T</strong> As complex as ever.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">19</li>
+<ul>
+<li class="log-item">Finished reading <em>The Last Grain Race</em> by Eric Newby <strong>B</strong> Lost in the rigging, but utterly thilling and so brutal. Amazing.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">15</li>
+<ul>
+<li class="log-item">Started watching <em>Yellowstone</em> on AppleTV <strong>T</strong> Trouble on the rez, and everywhere else.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">11</li>
+<ul>
+<li class="log-item">Finished reading <em>Songbirds, Truffles, and Wolves</em> by Gary Paul Nabhan <strong>B</strong> A bit meh, and a very tortured view of ”the wild”. </li>
+<li class="log-item">Finished reading <em>Sourdough</em> by Robin Sloan <strong>B</strong> Very entertaining, and fun to decode.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">05</li>
+<ul>
+<li class="log-item">Finished reading <em>Alibi</em> by Joseph Kanon <strong>B</strong> Fun to read about post-war Venice, but the denouement was a bit weak.</li>
+</ul>
+</ul>
+
+<li class="log-month">August</li>
+
+<ul class="log-entry">
+<li class="log-day">25–27</li>
+<ul>
+<li class="log-item">Watched <em>Spies of Warsaw</em> on AppleTV <strong>T</strong> Encouraged by Furst book; two long episodes very well done.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">20</li>
+<ul>
+<li class="log-item">Finished reading <em>Night Soldiers by Alan Furst</em> on iBooks <strong>B</strong> Absolutely gripping and a great new find for me.</li>
+<li class="log-item">Started watching <em>Bad Sisters</em> on AppleTV <strong>T</strong> Plenty of hype, but enjoyed the first episode and will gladly continue.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">19</li>
+<ul>
+<li class="log-item">Started watching <em>Jeeves and Wooster</em> on YouTube <strong>T</strong> A glorious antidote to too much Spiral.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">18</li>
+<ul>
+<li class="log-item">Finished watching <em>Spiral s04</em> on SBS <strong>T</strong> Exhausting work, and can they really all be such bastards?</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">05</li>
+<ul>
+<li class="log-item">Watched <em>Elvis</em> in the cinema <strong>F</strong> Tom Hanks in a fat suit and a proboscis cannot kill rock 'n' roll.</li>
+</ul>
+</ul>
+
+
+<li class="log-month">July</li>
+
+<ul class="log-entry">
+<li class="log-day">29</li>
+<ul>
+<li class="log-item">Started watching <em>Spiral s04</em> on SBS <strong>T</strong> Is the theme to be immigration, or terrorism?</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">28</li>
+<ul>
+<li class="log-item">Finished watching <em>Tehran s02</em> on AppleTV <strong>T</strong> Still one, huge loose end unravelling.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">19</li>
+<ul>
+<li class="log-item">Started watching <em>Tehran s02</em> on AppleTV <strong>T</strong> Even the clichés are tense.</li>
+</ul>
+</ul>
+
+<li class="log-month">June</li>
+
+<ul class="log-entry">
+<li class="log-day">06</li>
+<ul>
+<li class="log-item">Finished watching <em>Ozark s04</em> on Netflix <strong>T</strong> Disappointing message. Crime pays if you're rich and middle class, not if you're very bright trailer trash.</li>
+</ul>
+</ul>
+
+<li class="log-month">May</li>
+
+<ul class="log-entry">
+<li class="log-day">24</li>
+<ul>
+<li class="log-item">Started watching <em>Ozark s04.2</em> on Netflix <strong>T</strong> Starting to tie up the loose ends.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">22</li>
+<ul>
+<li class="log-item">Finished watching <em>Anatomy of a Scandal</em> on Netflix <strong>T</strong> Very satisfactory ending.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">19</li>
+<ul>
+<li class="log-item">Finished watching <em>Undercover s02</em> on Netflix <strong>T</strong> Is this rally the end?</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">08</li>
+<ul>
+<li class="log-item">Watched <em>Takedown</em> on Netflix <strong>F</strong> Very funny French stupid cop buddy movie.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">01</li>
+<ul>
+<li class="log-item">Started watching <em>Spiral s03</em> on SBS <strong>T</strong> Everyone here is losing their shit too.</li>
+</ul>
+</ul>
+
 <li class="log-month">April</li>
 
 <ul class="log-entry">
