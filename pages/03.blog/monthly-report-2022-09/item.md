@@ -13,7 +13,7 @@ summary:
 subhead: ''
 ---
 
-The best news, in a way, is that summer is very definitely over. We have enjoyed some excellent rain, both thunderous downpours and more gentle soaks and the park is greening up nicely as a result. It is still warm though, so the terrace plants are doing really well. Launched the new season of Eat This Podcast to an uptick in downloads but a downturn in subscribers. Truly, I have no idea what makes sense any more, so I'll just keep plodding along.
+The best news, in a way, is that summer is very definitely over. We have enjoyed some excellent rain, both thunderous downpours and more gentle soaks and the park is greening up nicely as a result. It is still warm though, so the terrace plants are doing really well. Launched the new season of Eat This Podcast to an uptick in downloads but a downturn in subscribers. Truly, I have no idea what makes sense any more, so I’ll just keep plodding along.
 
 ===
 
@@ -21,11 +21,11 @@ The best news, in a way, is that summer is very definitely over. We have enjoyed
 
 - Swam 1km almost every day while cat-sitting, and resolved to continue, but
 - Had a suspect mole removed, which I then had to keep dry.
-- I won't say QE2 dying was a highlight, but it was interesting.
+- I won’t say QE2 dying was a highlight, but it was interesting.
 - The giant blowsy hibiscus had a seedpod that contained seeds.
 - Made some [lime pickle](https://jeremycherfas.net/blog/homemade-lime-pickle).
 - Shared my first public Alfred workflow, to [smartify quotes](https://github.com/jeremycherfas/alfred-smartify-quotes).
-- Stonkingly good six-course tasting menu at a swanky hotel, a parting gift from The Squeeze's colleagues.
+- Stonkingly good six-course tasting menu at a swanky hotel, a parting gift from The Squeeze’s colleagues.
 - Excellent visit from one of my most durable friends.
 - Created podcast music that sounds like … music!
 
@@ -70,19 +70,19 @@ Previous years are on [an archive page](https://jeremycherfas.net/blog/working-l
 
 ### Goals
 
-Only four new posts this month, but that's OK.
+Only four new posts this month, but that’s OK.
 
 ### Niggles
 
-I sort of decided on a new MacBook Air, but I haven't actually done anything about it, which is stupid as I will be travelling quite a bit at the end of this month and beginning of next, so I need to time to get it organised.
+I sort of decided on a new MacBook Air, but I haven’t actually done anything about it, which is stupid as I will be travelling quite a bit at the end of this month and beginning of next, so I need to time to get it organised.
 
 ### Final remarks
 
 Life continues to be very good, although at times like this, when friends have passed through, I feel the lack a bit more than usual.
 
-----
+——
 
-## Here's the table
+## Here’s the table
 <details>
 <summary style="font-size: smaller;">Click the triangle to see or hide the table</summary>
 <table class="worktable">
