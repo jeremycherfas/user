@@ -19,7 +19,7 @@ Having just taken delivery of a stonkingly beautiful new MacBook Air I face two 
 
 ===
 
-I’ve heard all sorts of praise for [Drafts](https://getdrafts.com/) as a terrific writing app that can do all sorts of interesting things. So far, I have resisted that siren song, arguing that I know and love Byword and that, together with Marked2, it serves all my plain text writing needs. (I do also use Folding Text from time to time, and The Archive, but not as much as Byword. Now, with a new portable machine that I am setting up from scratch, maybe it is time to tackle Drafts. Or maybe that is just another form of productivity procrastination.
+I’ve heard all sorts of praise for [Drafts](https://getdrafts.com/) as a terrific writing app that can do all sorts of interesting things. So far, I have resisted that siren song, arguing that I know and love Byword and that, together with Marked2, it serves all my plain text writing needs. (I do also use Folding Text from time to time, and The Archive, but not as much as Byword). Now, with a new portable machine that I am setting up from scratch, maybe it is time to tackle Drafts. Or maybe that is just another form of productivity procrastination.
 
 ## A Python Playground?
 
