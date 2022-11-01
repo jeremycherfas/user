@@ -19,7 +19,7 @@ Also, I’ve concluded that I do indeed know just enough to be dangerous when it
 
 ===
 
-## Highlights of the months:
+## Highlights of the month:
 
 - The aforementioned trip to Budapest, despite the train connections not being quite up to scratch.
 - Potted on a bunch of lily offsets; patience will be needed.
@@ -73,7 +73,7 @@ Five new posts this month, which is fine. Have not yet embarked on anything new 
 
 ### Niggles
 
-Although I have made some progress on actually programming things I want to, I increasingly find myself performing voodoo magic incantations to get things to work, and then giving up when the incantations fail to have the desired effect. The new MBA made this painfully obvious, as I tried to get the Perl script that shows me visitors to website to work. Flummoxed at every turn. Then the same sort of thing happened on the iMac. Python is a mess again too, and I haven’t even started to put Python onto the MacBook. I’m coming to the conclusion that I ought to clean out all instances of everything — Perl, Python, maybe even MAMP — and start from scratch. I mean, how hard can that be? And it isn’t as if I need to be all that careful about dependencies and so on because I am not planning to publish anything.
+Although I have made some progress on actually programming things I want to, I increasingly find myself performing voodoo magic incantations to get things to work, and then giving up when the incantations fail to have the desired effect. The new MBA made this painfully obvious, as I tried to get the Perl script that shows me visitors to my websites to work. Flummoxed at every turn. Then the same sort of thing happened on the iMac. Python is a mess again too, and I haven’t even started to put Python onto the MacBook. I’m coming to the conclusion that I ought to clean out all instances of everything — Perl, Python, maybe even MAMP — and start from scratch. I mean, how hard can that be? And it isn’t as if I need to be all that careful about dependencies and so on because I am not planning to publish anything.
 
 ### Final remarks
 
