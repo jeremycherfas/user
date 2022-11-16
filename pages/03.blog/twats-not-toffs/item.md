@@ -13,7 +13,7 @@ subhead: " "
 header_image: '0'
 ---
 
-Someone whose website I follow has had a mildly nasty experience at the hands of what she calls <a class=”u-in-reply-to” href=”https://gherkinstomatoes.com/2022/11/13/snobbery-isnt-just-for-the-upper-classes-an-incident-with-a-couple-of-british-twats/” >a couple of British twats</a >. Apparently two men (surprise) highjacked a thread in which she was asking for some specific help and advice to tell her, more or less, that she was basically stupid for contemplating the thing she wanted advice about.
+Someone whose website I follow has had a mildly nasty experience at the hands of what she calls <a class="u-in-reply-to” href="https://gherkinstomatoes.com/2022/11/13/snobbery-isnt-just-for-the-upper-classes-an-incident-with-a-couple-of-british-twats/" >a couple of British twats</a >. Apparently two men (surprise) highjacked a thread in which she was asking for some specific help and advice to tell her, more or less, that she was basically stupid for contemplating the thing she wanted advice about.
 
 ===
 
