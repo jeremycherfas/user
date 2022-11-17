@@ -34,9 +34,11 @@ Finally throwing myself on the mercy of online friends, I was told to use `json.
 
 I am now pretty happy. And yet, I feel the need to complain about the miserable state of online Python “tutorials”. There is so much sketchiness out there, not to mention blatant plagiarism, and even the better stuff doesn’t really explain anything, it just says “do it this way and she’ll be right”. When I do it that way and it isn’t right, my frustration grows and I yearn to understand, but find precious little understanding out there.
 
-The thing is, I do understand the basics of computer programming at a faily high level. I learned Fortran, did my share of BASIC, got things working in Assembler, mangled PHP and lately started to explore Python. Along the way, however, and in parallel with my decreasing understanding of what was actually going on, I lost track of how to do things properly, constrained by what I thought I already “knew”.
+The thing is, I do understand the basics of computer programming at a fairly high level. I learned Fortran, did my share of BASIC, got things working in Assembler, mangled PHP and lately started to explore Python. Along the way, however, and in parallel with my decreasing understanding of what was actually going on, I lost track of how to do things properly, constrained by what I thought I already “knew”.
 
-A simple example. In the course of building my list of latlng points, I needed to add each point to the existing list. Fine, I know how to append to a list. `pointslist = pointslist.append(point)`. 
+A simple example. In the course of building my list of latlng points, I needed to add each point to the existing list. Fine, I know how to append to a list. 
+
+`pointslist = pointslist.append(point)`. 
 
 Wrong!
 
