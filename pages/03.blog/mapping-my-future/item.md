@@ -17,7 +17,7 @@ Jubilation! I now have a Python program that accepts a date in the form `YYY-MM-
 
 ===
 
-[![Map of my wanderings on 2022-11-17](2022-11-17.png)
+![Map of my wanderings on 2022-11-17](2022-11-17.png)
 
 There was no single breakthrough is all this, rather a series of butting down obstacles with my head. I spent too long chasing online services that offered a static map option but that were designed to provide a snatch of code that would render the static map when run. I maybe _could_ make something to ask for the map and then save it, but not without learning a whole lot more.
 
