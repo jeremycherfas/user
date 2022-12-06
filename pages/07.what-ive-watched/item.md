@@ -15,6 +15,112 @@ template: item
 
 <!-- Outer List -->
 <ul class="log">
+<li class="log-month">November</li>
+
+<ul class="log-entry">
+<li class="log-day">30</li>
+<ul>
+<li class="log-item">Started watching <em>Wednesday</em> on Netflix <strong>T</strong> Delightful.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">27</li>
+<ul>
+<li class="log-item">Finished watching <em>Yellowstone s02</em> on Apple TV <strong>T</strong> A modern fairy tale.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">23</li>
+<ul>
+<li class="log-item">Started reading <em>The Octopus</em> by Frank Norris <strong>B</strong> Hard going, stylistically and attitudinally, and very interesting for all that.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">21</li>
+<ul>
+<li class="log-item">Started watching <em>The Crown s05</em> on Netflix <strong>T</strong> Too silly? Finally?</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">18</li>
+<ul>
+<li class="log-item">Finished watching <em>Spiral s05</em> on SBS <strong>T</strong> Resolution and closure, French style.</li>
+</ul>
+</ul>
+<ul class="log-entry">
+<li class="log-day">13</li>
+<ul>
+<li class="log-item">Watched <em>Amsterdam</em> at the Cinema Trastevere <strong>F</strong> Theatrical and mannered and very good. Timely, too.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">11</li>
+<ul>
+<li class="log-item">Watched <em>The Conversation</em> on Prime Video <strong>F</strong> So good, Mamet-like thriller, with everything left unexplained.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">10</li>
+<ul>
+<li class="log-item">Finished reading <em>Dark Star</em> by Alan Furst <strong>B</strong> So engrossing.</li>
+</ul>
+</ul>
+<ul class="log-entry">
+<li class="log-day">08</li>
+<ul>
+<li class="log-item">Started watching <em>Deadwind s01</em> on Netflix <strong>T</strong> So far, so procedural.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">06</li>
+<ul>
+<li class="log-item">Finished watching <em>Slow Horses</em> on Apple TV <strong>T</strong> Deeply satisfying.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">01</li>
+<ul>
+<li class="log-item">Started reading <em>Dark Star</em> by Alan Furst <strong>B</strong></li>
+</ul>
+</ul>
+
+<li class="log-month">October</li>
+
+<ul class="log-entry">
+<li class="log-day">16</li>
+<ul>
+<li class="log-item">Started watching <em>Slow Horses</em> on Apple TV <strong>T</strong> Pretty good. Nice to see Jonathan Pryce play the Smiley, while Gary Oldman is studiedly sleazy.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">15</li>
+<ul>
+<li class="log-item">Finished watching <em>Bad Sisters</em> on Apple TV <strong>T</strong> Cracking, all the way through. Wonderful. Of course, now I want a second season about Grace and Roger.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">04</li>
+<ul>
+<li class="log-item">Started watching <em>Yellowstone s02</em> on Apple TV <strong>T</strong> Despite the lack of likeable characters. </li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">02</li>
+<ul>
+<li class="log-item">Finished watching <em>Yellowstone s01</em> on Apple TV <strong>T</strong> Not one single likeable character, but fun.</li>
+</ul>
+</ul>
 
 <li class="log-month">September</li>
 
