@@ -1,5 +1,5 @@
 ---
-title: '*$project*-report 01'
+title: '$project-report 01'
 published: true
 date: '06-12-2022 10:36'
 taxonomy:
