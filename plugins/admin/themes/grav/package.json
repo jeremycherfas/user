@@ -24,7 +24,7 @@
     "immutable": "^4.0.0",
     "immutablediff": "^0.4.4",
     "js-yaml": "^4.1.0",
-    "mout": "^1.2.3",
+    "mout": "^1.2.4",
     "popper.js": "^1.14.4",
     "rangetouch": "^2.0.1",
     "remodal": "^1.1.1",
