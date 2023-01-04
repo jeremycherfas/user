@@ -15,6 +15,38 @@ template: item
 
 <!-- Outer List -->
 <ul class="log">
+
+<li class="log-month">December</li>
+
+<ul class="log-entry">
+<li class="log-day">28</li>
+<ul>
+<li class="log-item">Finished watching <em>Deadwind s01</em> <strong>T</strong> Major misdirection until the penultimate episode, but still rather good</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">26</li>
+<ul>
+<li class="log-item">Started reading <em>Cloud Cuckoo Land</em> by Anthony Doerr on iBook <strong>B</strong> Very pleasantly surprised by the price: 99p</li>
+<li class="log-item">Finished reading <em>The Polish Officer</em> <strong>B</strong> Engrossing AF, even the non-ending ending.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">15</li>
+<ul>
+<li class="log-item">Started reading <em>The Polish Officer</em> by Alan Furst on iBook <strong>B</strong></li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">11</li>
+<ul>
+<li class="log-item">Finished reading <em>The Octopus</em> by Frank Norris <strong>B</strong> Very strange, very interesting.</li>
+</ul>
+</ul>
+
 <li class="log-month">November</li>
 
 <ul class="log-entry">
