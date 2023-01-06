@@ -1,5 +1,5 @@
 ---
-title: 'Watch the dough, not the clock …'
+title: 'Watch the dough, not the clock'
 published: true
 date: '06-01-2023 10:30'
 taxonomy:
