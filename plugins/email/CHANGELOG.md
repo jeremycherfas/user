@@ -1,3 +1,27 @@
+# v4.0.0-rc.3
+## 10/27/2022
+   
+1. [](#bugfix)
+   * Fixed an issue with array based email address
+
+# v4.0.0-rc.2
+## 10/19/2022
+   
+1. [](#improved)
+   * Set `sendmail` as default engine to provide better fallback for unsupported `mailer` option
+   * Added info about available engine plugins in `README.md`
+
+# v4.0.0-rc.1
+## 10/05/2022
+   
+1. [](#new)
+   * Migrated from `Swiftmailer` (which has been deprecated) to `Symfony/Mailer`, a more modern and extensible mailing library.
+   * Built-in support for `SMTP`, `SMTPS`, `Sendmail` and `Native` (uses best solution per-platform) engines
+   * Added ability to have 3rd party plugins that provide new engines (e.g. `SendGrid`, `MailJet`, etc.) with `SMTP`, `API` or `HTTPS` transports for faster and more reliable email sending
+   * More flexible options for email formatting including RFC822 `name-addr` format (`Joe Bloggs <user@example.com>`) and simple arrays (`[user@example.com, Joe Bloggs]`)
+   * Support `tags` and `metadata` in `Email::buildMessage()`
+   * Two new events `onEmailEngines` and `onEmailTransportDsn` to facilitate the integration of custom engines via plugins
+
 # v3.2.0
 ## 03/28/2022
 

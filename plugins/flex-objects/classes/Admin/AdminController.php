@@ -907,6 +907,7 @@ class AdminController
             // Set route to point to the current page.
             if (!$this->redirect) {
                 $postAction = $request->getParsedBody()['_post_entries_save'] ?? 'edit';
+                $this->grav['session']->post_entries_save = $postAction;
                 if ($postAction === 'create-new') {
                     // Create another.
                     $route = $this->referrerRoute->withGravParam('action', null)->withGravParam('', 'add');
@@ -1040,7 +1041,7 @@ class AdminController
      *
      * @return ResponseInterface
      */
-    public function taskConvertUrls(): ResponseInterface
+    public function actionConvertUrls(): ResponseInterface
     {
         $directory = $this->getDirectory();
         if (!$directory) {
