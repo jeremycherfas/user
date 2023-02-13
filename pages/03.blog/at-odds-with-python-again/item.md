@@ -13,8 +13,7 @@ subhead: " "
 header_image: '0'
 ---
 
-One of the first things the professor told us to do when I began to formally learn a bit of Python was to install 
-Anaconda, which I dutifully did. Looking back, all we ever used there was Spyder. Only later did I discover the joys of Jupyter, but the joy was short-lived. Once I got the point of using virtual environments, I discovered that my entire setup was just too big a tangle for me to understand. So I uninstalled Anaconda, not for the first time. And after a couple of missteps, Jupyter seemeed to work just fine without it. Then I upgraded my os to Ventura, and many, many things stopped working, including Jupyter.
+One of the first things the professor told us to do when I began to formally learn a bit of Python was to install Anaconda, which I dutifully did. Looking back, all we ever used there was Spyder. Only later did I discover the joys of Jupyter, but the joy was short-lived. Once I got the point of using virtual environments, I discovered that my entire setup was just too big a tangle for me to understand. So I uninstalled Anaconda, not for the first time. And after a couple of missteps, Jupyter seemeed to work just fine without it. Then I upgraded my os to Ventura, and many, many things stopped working, including Jupyter.
 
 ===
 
