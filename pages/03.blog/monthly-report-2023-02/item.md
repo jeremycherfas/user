@@ -53,13 +53,13 @@ Bed time consistent, sleep declined, podcasts up, steps down. But cycling!
 
 ### ~~Work~~ Stuff Done
 
-Changing the crosshead here to better reflect how I feel about how I pass my time these days. In the past, I always said that I got paid money for some of the work I did, and not for the rest, and it was all work. I could continue to say that, but in my heart I know that work I am paid for is somehow "better" than work I do for myself, even though in my head I know that to be false. So maybe better to go with my head and just think about the things I've done. I could even say _achieved_, although that smacks of smugitude.
+Changing the crosshead here to better reflect how I feel about how I pass my time these days. In the past, I always said that I got paid money for some of the work I did, and not for the rest, and it was all work. I could continue to say that, but in my heart I know that work I am paid for is somehow “better” than work I do for myself, even though in my head I know that to be false. So maybe better to go with my head and just think about the things I’ve done. I could even say _achieved_, although that smacks of smugitude.
 
 So, what have I done?
 
-Well, I whipped my Python workplaces into shape, although I didn't do much more than that. I read a bunch of books and saw a few movies _at the cinema_! Probably the best thing I did was buy a bike repair stand, which I should have done years ago, and rediscover my tribe: I am an [UnRacer](https://www.rivbike.com/pages/the-efficiency-ruse). 
+Well, I whipped my Python workplaces into shape, although I didn’t do much more than that. I read a bunch of books and saw a few movies _at the cinema_! Probably the best thing I did was buy a bike repair stand, which I should have done years ago, and rediscover my tribe: I am an [UnRacer](https://www.rivbike.com/pages/the-efficiency-ruse). 
 
-It is impossible to believe how much easier it is to do almost anything with the bike off the ground. Of course, that meant getting lost in YouTube videos ([Calvin Jones at Park Tool](https://www.youtube.com/results?search_query=calvin+park+tool) is my new hero) and having to take notes, because there's no way to watch them where the bike it, but the end result is that front and rear derailleurs are swift and slick now, which they have not been for a while. All of which made me look longingly again at my old, steel, Raleigh, bought in early 1980 and unloved since about 2005. Restoring that — not completely, but at least to get it on the road and running smoothly — is absolutely a thing I want to do next. 
+It is impossible to believe how much easier it is to do almost anything with the bike off the ground. Of course, that meant getting lost in YouTube videos ([Calvin Jones at Park Tool](https://www.youtube.com/results?search_query=calvin+park+tool) is my new hero) and having to take notes, because there’s no way to watch them where the bike it, but the end result is that front and rear derailleurs are swift and slick now, which they have not been for a while. All of which made me look longingly again at my old, steel, Raleigh, bought in early 1980 and unloved since about 2005. Restoring that — not completely, but at least to get it on the road and running smoothly — is absolutely a thing I want to do next. 
 
 #### Hours logged per month
 
