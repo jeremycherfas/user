@@ -6,7 +6,7 @@ taxonomy:
     category:
         - blog
     tag:
-        - General
+        - Bicycle
 summary:
     enabled: '1'
 subhead: " "

@@ -7,6 +7,7 @@ taxonomy:
         - blog
     tag:
         - Travel
+        - Bicycle
 summary:
     enabled: '1'
 subhead: " "

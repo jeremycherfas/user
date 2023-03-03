@@ -7,6 +7,7 @@ taxonomy:
         - blog
     tag:
         - Photos
+        - Bicycle
 template: photo
 summary:
     enabled: '1'

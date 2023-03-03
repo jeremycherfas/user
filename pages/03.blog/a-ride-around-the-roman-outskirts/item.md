@@ -6,7 +6,7 @@ taxonomy:
     category:
         - blog
     tag:
-        - Geeky
+        - Bicycle
         - Glory
 summary:
     enabled: '1'
