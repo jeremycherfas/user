@@ -1,7 +1,7 @@
 ---
 title: 'Spammers gonna spam, and keep spamming, forever'
 published: true
-date: '30-03-2023 16:30'
+date: '30-03-2023 16:25'
 taxonomy:
     category:
         - blog
@@ -12,8 +12,6 @@ summary:
 subhead: "Yes, but why?"
 header_image: '0'
 ---
-
-# Top Few
 
 A few days ago, I [shared some tribulations](https://www.jeremycherfas.net/blog/tracking-an-illegal-byte-sequence) related to looking at the most popular requests to my websites, starting with all requests to Eat This Podcast in 2022.
 
