@@ -5,7 +5,7 @@ date: 2023-04-13-05-23
 taxonomy:
     category:
         - stream
-        - reviews
+        - Reviews
     tag:
         - podcasts
 theurl: https://huffduffer.com/JeremyCherfas/664141
