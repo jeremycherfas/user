@@ -1,6 +1,6 @@
 <div class="h-entry flex flex-column flex-shrink mb-2">
 
-    <div class="flex-shrink-0 w-full pt-4">
+    <div class="flex-shrink-0 w-full pt-4" style="border-bottom: 1px solid #333">
         <div class="date-block ">
             {% include 'partials/blog/date.html.twig' %}
         </div>
@@ -16,10 +16,10 @@
 
         {% if page.summary != page.content %}
             {{ page.summary|raw }}
+            <span style="float: right; font-size: smaller;"><a href="{{ page.url }}">There's more  ➢</a></span>
         {% else %}
             {{ page.content|raw }}
         {% endif %}
-
     </div>
     </div>
 
