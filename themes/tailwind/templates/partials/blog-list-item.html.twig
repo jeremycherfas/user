@@ -16,7 +16,7 @@
 
         {% if page.summary != page.content %}
             {{ page.summary|raw }}
-            <span style="float: right; font-size: smaller;"><a href="{{ page.url }}">There's more  ➢</a></span>
+			 <span style="float: right; font-size: smaller;"><a href="{{ page.url }}">There’s more  ➢</a></span>
         {% else %}
             {{ page.content|raw }}
         {% endif %}
