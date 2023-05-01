@@ -91,81 +91,6 @@ template: item
 </ul>
 
 </ul> 
-
-<li class="log-month">January</li>
-
-<ul class="log-entry">
-<li class="log-day">30</li>
-<ul>
-<li class="log-item">Finished reading <em>Kingdom of Shadows</em> by Alan Furst <strong>B</strong> Very compelling and, possibly, even a hint of a happy ending.</li>
-</ul>
-</ul>
-
-<ul class="log-entry">
-<li class="log-day">27</li>
-<ul>
-<li class="log-item">Started watching <em>The lying lives of adults</em> on Netflix <strong>T</strong> Very Naples, very intriguing and quite watchable.</li>
-</ul>
-</ul>
-
-<ul class="log-entry">
-<li class="log-day">26</li>
-<ul>
-<li class="log-item">Started reading <em>Kingdom of Shadows</em> by Alan Furst <strong>B</strong> Skipped the previous two, on review, and this one is again cracking.</li>
-</ul>
-</ul>
-
-<ul class="log-entry">
-<li class="log-day">24</li>
-<ul>
-<li class="log-item">Finished reading <em>The Tourist</em> by Olen Steinhauer <strong>B</strong> Very convoluted, and gripping. Something to be said for the central premise, that you only believe what you have discovered for yourself.</li>
-</ul>
-</ul>
-
-<ul class="log-entry">
-<li class="log-day">21</li>
-<ul>
-<li class="log-item">Watched <em>Lou</em> on Netflix <strong>F</strong> Alison Janney conquers all in epic Oedipal-ish struggle.</li>
-</ul>
-</ul>
-
-<ul class="log-entry">
-<li class="log-day">20</li>
-<ul>
-<li class="log-item">Started watching <em>Spiral s06</em> on SBS <strong>T</strong> Hello again, old friends. It's been a while.</li>
-</ul>
-</ul>
-
-<ul class="log-entry">
-<li class="log-day">19</li>
-<ul>
-<li class="log-item">Finished watching <em>Wednesday</em> on Netflix <strong>T</strong> No expense spared in the FX department, and rolicking good fun. Also, friendship > romance.</li>
-<li class="log-item">Started reading <em>The Tourist</em> by Olen Steinhauer <strong>B</strong> Pretty gripping cloak and dagger stuff in which nobody is quite what they seem.</li>
-</ul>
-</ul>
-
-<ul class="log-entry">
-<li class="log-day">18</li>
-<ul>
-<li class="log-item">Finished watching <em>Slow Horses s02</em> on Apple TV <strong>T</strong> Addictively good, so trailers for s03 very welcome.</li>
-</ul>
-</ul>
-
-<ul class="log-entry">
-<li class="log-day">08</li>
-<ul>
-<li class="log-item">Finished reading <em>Cloud Cuckoo Land</em> by Anthony Doerr <strong>B</strong> Blimey. An absolutely thrilling read.</li>
-</ul>
-</ul>
-
-<ul class="log-entry">
-<li class="log-day">01</li>
-<ul>
-<li class="log-item">Started watching <em>Slow Horses s02</em> on Apple TV <strong>T</strong> So good</li>
-</ul>
-</ul>
-
-</ul> 
 <li class="log-month">February</li>
 
 <ul class="log-entry">
@@ -280,5 +205,63 @@ template: item
 <ul>
 <li class="log-item">Saw <em>Empire of Light</em> at the cinema <strong>F</strong> So good, and all the better for having been in Margate in January. Olivia Colman is simply astonishing in the way she inhabits the character.</li>
 <li class="log-item">Finished watching <em>Deadwind s02</em> on Netflix <strong>T</strong> As usual (by now) pulled a rabbit from the hat in the final episode, the bastards.</li>
+</ul>
+</ul>
+
+<li class="log-month">April</li>
+
+<ul class="log-entry">
+<li class="log-day">30</li>
+<ul>
+<li class="log-item">Started watching <em>Treason</em> on Netflix <strong>T</strong> and immediately binged a second episode, which tells you something.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">27</li>
+<ul>
+<li class="log-item">Started watching <em>Spiral s08</em> on SBS <strong>T</strong> Feeling sad this is the end.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">23</li>
+<ul>
+<li class="log-item">Started reading <em>Freekeh</em> by Ruth Nieman <strong>B</strong> Dreadful writing, might be some worthwhile anecdotage.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">22</li>
+<ul>
+<li class="log-item">Watched <em>Ghosted</em> on Apple TV+ <strong>F</strong> Entertaining mayhem, and nice to have a hero who knows his amaranth.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">17</li>
+<ul>
+<li class="log-item">Watched <em>Ferry</em> on Netflix <strong>F</strong> Strange to focus on such an unlikeable character’s back story, but it worked.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">15</li>
+<ul>
+<li class="log-item">Watched <em>Tetris</em> on Apple TV+ <strong>F</strong> Great fun, rather like Tetris.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">10</li>
+<ul>
+<li class="log-item">Started watching <em>Transatlantic</em> on Netflix <strong>T</strong> No expense spared.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">04</li>
+<ul>
+<li class="log-item">Fnished watching <em>Spiral s07</em> on SBS <strong>T</strong> Good people doing bad things for good reasons.</li>
 </ul>
 </ul>
