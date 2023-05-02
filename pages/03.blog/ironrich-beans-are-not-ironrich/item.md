@@ -15,7 +15,7 @@ header_image: '0'
 
 ! One of the nicest things about publishing our recent paper [What is Wrong with Biofortification](https://www.sciencedirect.com/science/article/abs/pii/S2211912423000196) is that it prompted several people to share results and opinions that support our conclusions. Confirmation bias aside, we have not yet had any substantive pushback. This piece was prompted by one of the responses we received.
 
-![A hand holding a dried bean pod showing several black beans](biofortified-beans.jpg).xc
+![A hand holding a dried bean pod showing several black beans](biofortified-beans.jpg){.center}
 
 See those beans? They are “iron-rich”. Why the “scare quotes”? Lots of reasons, some trivial, some much less so.
 
