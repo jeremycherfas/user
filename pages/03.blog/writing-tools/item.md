@@ -13,7 +13,7 @@ subhead: "Use what you like and what gives you pleasure"
 header_image: '0'
 ---
 
-”Tool” is a euphemism, in English. This post is not about that kind of tool. It is about things we use to help us perform a job, the job, in this case, being writing on a computer. It requires a tool because almost any time a human is writing for a computer they are writing a draft that will be tweaked in one way or another by a computer before it appears on a screen.
+“Tool” is a euphemism, in English. This post is not about that kind of tool. It is about things we use to help us perform a job, the job, in this case, being writing on a computer. It requires a tool because almost any time a human is writing for a computer they are writing a draft that will be tweaked in one way or another by a computer before it appears on a screen.
 
 The point about it being on a computer is that nothing else separates the presentation from the content quite so thoroughly. For example, if I want to emphasise a word by making it **bold** I need to know how you might be reading it. If you’re reading it in a web browser, I want the browser to receive `<strong>bold</strong>`, knowing that it will present it to you as **bold**. If I plan to make the text available as a PDF, I need to take other steps to make the text look the way I want it to.
 
