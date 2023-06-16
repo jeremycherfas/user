@@ -13,14 +13,16 @@ summary:
 subhead: ''
 ---
 
-Appalling. Over halfway through this month before summarising last month, and I was sorely tempted to just abandon a report for May. I know what that would do to me, eventually. In any case, I have excuses, two week-long trips, one in May, and one the first week in June.
+Appalling. Over halfway through this month before summarising last month, and I was sorely tempted to just abandon a report for May.[^1] I know what that would do to me, eventually. In any case, I have excuses, two week-long trips, one in May, and one the first week in June.
+
+[^1]: And [it wouldn’t have been the first time](https://www.jeremycherfas.net/blog/no-monthly), on the self same day, no less.
 
 ===
 
 ## Highlights of the month:
 
 - Continued to fix up the old Raleigh
-- Teeth cleaned (mine, not the bike's)
+- Teeth cleaned (mine, not the bike’s)
 - A week in Tunisia, unblogged and uncatalogued
 - Rode a camel to see bread being baked in desert sand
 - Taxes submitted
@@ -57,7 +59,7 @@ Steps down; time on the bus, sleep up. Must be the seasons.
 
 ### Stuff Done
 
-On the bike restoration, there has to be a word that is considerably less than restoration but considerably more than greasing up the chain. Fixing up doesn't seem to quite do it. Anyway, I scored a quill stem and a saddle on eBay, though the saddle has not yet arrived. Sniper worked beautifully. The mismatched crank thing is weird too, because I found other pairs of mismatched cranks on eBay that, the sellers said, was just how they found them. Only the frame left now, but I seem to be procrastinating more than usual. Fear of failure, almost certainly, as I have never done anything like this. Of course I blame the wind, because I have to spray outside, but the basic problem is fear, no matter how many YouTubes I watch.
+On the bike restoration, there has to be a word that is considerably less than restoration but considerably more than greasing up the chain. Fixing up doesn’t seem to quite do it. Anyway, I scored a quill stem and a saddle on eBay, though the saddle has not yet arrived. Sniper worked beautifully. The mismatched crank thing is weird too, because I found other pairs of mismatched cranks on eBay that, the sellers said, was just how they found them. Only the frame left now, but I seem to be procrastinating more than usual. Fear of failure, almost certainly, as I have never done anything like this. Of course I blame the wind, because I have to spray outside, but the basic problem is fear, no matter how many YouTubes I watch.
 
 #### Hours logged per month
 
