@@ -40,4 +40,4 @@ Anyway, my problem with ckbk is the membership. To access any recipe, you need t
 
 As for more useful discovery and presentation of recipes on the internet, I can see no solutions, simple or otherwise. The work involved in an independent search engine would be immense, and it would still be plagued by inconsistent mark-up. My own approach is to curate my own collection of favourites, as grubby printouts, online links and boiled down text notes, any and all of which I would be happy to be share, but not if I have to mark them up as h-recipes. 
 
-! This post is a submission to the <a class=”u-in-reply-to” href=”https://sarajaksa.eu/2023/06/carnival-of-indieweb-june-2023-edition-indieweb-and-cooking/” >Carnival of IndieWeb</a >, newly launched by Sara Jakša. A resurgence of blog carnivals would be a great thing.
+! This post is a submission to the [Carnival of IndieWeb](https://sarajaksa.eu/2023/06/carnival-of-indieweb-june-2023-edition-indieweb-and-cooking/), newly launched by Sara Jakša. A resurgence of blog carnivals would be a great thing.
