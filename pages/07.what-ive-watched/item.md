@@ -265,3 +265,40 @@ template: item
 <li class="log-item">Fnished watching <em>Spiral s07</em> on SBS <strong>T</strong> Good people doing bad things for good reasons.</li>
 </ul>
 </ul>
+
+<li class="log-month">May</li>
+
+<ul class="log-entry">
+<li class="log-day">28</li>
+<ul>
+<li class="log-item">Finished reading <em>Blood of Victory</em> by Alan Furst <strong>B</strong> Maybe not quite up to scratch, but gripping nonetheless.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">19</li>
+<ul>
+<li class="log-item">Started watching <em>Queen Charlotte</em> on Netflix <strong>T</strong> Yet more fine tosh.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">15</li>
+<ul>
+<li class="log-item">Started watching <em>Diplomat s01</em> on Netflix <strong>T</strong> Eminently silly, and failing to name Rufus Sewell all episode drove me mad.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">14</li>
+<ul>
+<li class="log-item">Finished watching <em>Transatlantic</em> on Netflix <strong>T</strong> And they all lived happily ever after.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">02</li>
+<ul>
+<li class="log-item">Finished <em>Treason</em> on Netflix <strong>T</strong> Rather good, and satsifying conclusion.</li>
+</ul>
+</ul>
