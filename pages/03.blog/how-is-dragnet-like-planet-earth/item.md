@@ -15,7 +15,7 @@ header_image: '0'
 
 In a recent episode of his podcast Revisionist History, Malcolm Gladwell broadcast a lecture he gave on the [Taxonomy of the Modern Mystery Story](https://www.pushkin.fm/podcasts/revisionist-history/taxonomy-of-the-modern-mystery-story) at the New Orleans Book Festival. It is, as promised, delightful rather than persuasive and the central observation seems true, now that he pointed it out.
 
-====
+===
 
 Police procedurals, in which he includes thrillers and spy novels, fall into four distinct categories.
 
