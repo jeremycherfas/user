@@ -7,6 +7,7 @@ taxonomy:
         - blog
     tag:
         - General
+        - IndieWeb
 summary:
     enabled: '1'
 subhead: "Content "

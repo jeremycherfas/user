@@ -42,6 +42,8 @@ Recently, some of the best natural history TV has begun to draw back the veil of
 
 Just as I still find it really difficult to believe how few fish there are in the sea.
 
+----
+
 *p.s.* Part of Gladwell's schtick was to single out nurses, truckers and teachers, all of whom outnumber police officers in the US manyfold, and yet do not have an entire genre dedicated to their profession. There are [over a million physicians](https://www.statista.com/statistics/186269/total-active-physicians-in-the-us/), quite a few more than the 600,000 or so police officers, and I would argue that they too have enjoyed far more interest from popular culture than their numbers would merit. That's because, like police officers, they can have a tremendous impact on our own lives and medicine, like crime, offers great narrative possibilities. Have US medical dramas on TV influenced the public's attitude to medicine? You bet, although whether it informs their behaviour on questions of reproductive rights, or assisted dying, or "socialised" medicine, I have not yet discovered.
 
 [^1]: Can you make the same argument cross culturally, for example from Dixon of Dock Green to Thin BLue Line?
