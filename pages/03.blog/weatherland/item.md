@@ -16,7 +16,7 @@ book:
 	url: "https://uk.bookshop.org/a/9158/9780500292655"
 	year: "2016"
 	started: "2023-08-04"
-	finished: "2023-08-04"
+	finished: "2023-08-22"
 	rating: "4"
 	image: "weatherland.jpg"
 ---
