@@ -26,3 +26,5 @@ I'm thinking more about discussing the kind of weather you take most pleasure in
 
 Those are the bare outlines, for me. I'll try and write up a more thought out piece during the month, and I am hoping to hear from lots of other people about the weather they do and do not enjoy. If you write something, you can send a webmention to this post, email me (easy enough to find an address) or find some other way to let me know. I'll consider everything sent before 23:59 CEST on 30 September 2023 (and probably leave a little wiggle room).
 
+!!! <a href="https://news.indieweb.org/en" class="u-syndication">Also submitted to IndieNews</a>
+
