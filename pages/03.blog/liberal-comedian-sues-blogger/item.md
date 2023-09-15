@@ -15,7 +15,7 @@ header_image: '0'
 
 A fine, fine episode from “They Just Don’t Get It”.
 
-Garrison Keillor [sues](http://www.mnspeak.com/mnspeak/archive/post-733.cfm) Rex Sorgatz. What an idiot!
+Garrison Keillor [sues](https://web.archive.org/web/20060615054834/http://www.mnspeak.com/mnspeak/archive/post-733.cfm) Rex Sorgatz. What an idiot!
 
 The comments are just great.
 
