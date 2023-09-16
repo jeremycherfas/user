@@ -16,7 +16,7 @@ header_image: '0'
 
 As the month turns, it seems like a good idea to drum up a little support for the [IndieWeb Carnival](https://indieweb.org/indieweb-carnival), which I am hosting this month. The idea is simplicity itself. 
 
-* You write something on your own website that somehow addresses this month’s topic: [”My Kind of Weather”](https://www.jeremycherfas.net/blog/my-kind-of-weather). 
+* You write something on your own website that somehow addresses this month’s topic: [“My Kind of Weather”](https://www.jeremycherfas.net/blog/my-kind-of-weather). 
 * You let me know that you have done so, either by sending a webmention or pasting a link to the article in the box below.
 * If neither of those work, it is easy enough to find an email for me.
 

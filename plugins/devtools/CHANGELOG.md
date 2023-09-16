@@ -1,3 +1,16 @@
+# v1.7.1
+## 06/14/2023
+
+1. [](#improved)
+   * Removed platform-config [#81](https://github.com/getgrav/grav-plugin-devtools/pull/81)
+
+# v1.7.0
+## 02/15/2023
+
+1. [](#improved)
+    * Created non-opinionated and basic Tailwind CSS theme as default `tailwind` solution
+    * Moved the opinionated Tailwind CSS theme with Laravel Mix to a separate option
+
 # v1.6.1
 ## 01/02/2023
 
