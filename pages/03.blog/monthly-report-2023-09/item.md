@@ -73,7 +73,7 @@ Previous years are on [an archive page](https://jeremycherfas.net/blog/working-l
 
 ### Goals
 
-Six posts here, and no real reason why there weren't more. Enjoying Mastodon, to the extent that today I decided to sign up for my instance's Patreon which was a goal. I have not automated POSSE from here, and probably never will, although I have added a front page link here to my presence there. Swapped for Twitter, where all I do is read and post once a week with the episode or the newsletter.
+Six posts here, and no real reason why there weren't more. Enjoying Mastodon, to the extent that today I decided to sign up for my instance's Patreon. I have not automated POSSE from here, and probably never will, although I have added a front page link here to my presence there. Swapped for Twitter, where all I do is read and post once a week with the episode or the newsletter.
 
 `$project` continued to be ignored, and winter is still coming.
 
@@ -83,7 +83,7 @@ For some reason, while I make trivial use of Keyboard Maestro, I cannot seem to 
 
 ### Final remarks
 
-I could scaracely be more content.
+I could scarcely be more content.
 
 ----
 
