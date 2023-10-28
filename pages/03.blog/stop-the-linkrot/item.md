@@ -20,6 +20,8 @@ We discussed various approaches to fixing the problems. Some are highly dynamic,
 
 That's my own story. On 18 July 2021 I decided to be [thorough about importing old posts](https://www.jeremycherfas.net/blog/reading-a-day-at-a-time) into my new CMS, which involved hand checking every link. If the domain was correct but the link not found, I tried to search for it. If that failed, or if the domain failed, I searched the Wayback Machine, trying to find a snapshot from around the date of my original post. If that failed I gave up and recorded the link as dead and sometimes also marked it struck through.
 
+[This post](https://www.jeremycherfas.net/blog/a-learning-experience) -- coincidentally written and edited on this very day -- contains examples of all three.
+
 ## A Treadmill
 
 The big problem, of course, is that although you may have confirmed that an outbound link is not broken, all you are really doing is resetting the decay clock to zero. The link could break tomorrow, or the day after, or ... 
