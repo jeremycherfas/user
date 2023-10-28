@@ -30,4 +30,4 @@ IWC offers the chance to meet old friends in real life and to work on something 
 
 The sky is brightening now, and I can see the lights of the drivers going the other way, and maybe I’ll even succeed in posting this from the train. I hope they take care of themselves.
 
-! This post is a submission to [Self-Care and Routine](https://lifeofpablo.com/blog/indieweb-carnival-october-2023), hosted by Pablo Morales for the the [IndieWeb Carnival](https://indieweb.org/indieweb-carnival). 
+! This post is a submission to [Self-Care and Routine](https://lifeofpablo.com/blog/indieweb-carnival-october-2023), hosted by Pablo Morales for the [IndieWeb Carnival](https://indieweb.org/indieweb-carnival). 
