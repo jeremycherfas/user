@@ -60,5 +60,5 @@ Here's my current understanding:
 [indieweb 2]: https://indieweb.org
 [kevinmarks]: http://www.kevinmarks.com
 [microformats]: http://microformats.org/wiki/RelMeAuth
-[papermag]: http://www.papermag.com/it-me-you-and-everyone-we-know-a-look-at-the-webs-most-ambiguous-meme-1427655235.html
+[papermag]: https://web.archive.org/web/20160507064938/http://www.papermag.com/it-me-you-and-everyone-we-know-a-look-at-the-webs-most-ambiguous-meme-1427655235.html
 [stackoverflow]: https://stackoverflow.com/users/2184747/aditya-mittal

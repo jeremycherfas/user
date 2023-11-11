@@ -26,7 +26,7 @@ Of course, they're butt-ugly, but I was warned that this would be the case, and 
 
 ##Never gonna give you up
 
-All of which leads me back to the title of this post, a direct reference to a recent piece by Glenn Dixon in which he announced that he was <a class="u-in-reply-to" href="http://glenn.thedixons.net/blog/giving-up-on-indieweb">Giving Up on IndieWeb</a>. Glenn, too, threw in the towel:
+All of which leads me back to the title of this post, a direct reference to a recent piece by Glenn Dixon in which he announced that he was <a href="https://web.archive.org/web/20190405193525/https://glenn.thedixons.net/giving-up-on-indieweb/">Giving Up on IndieWeb</a>. Glenn, too, threw in the towel:
 
 > While I love the IndieWeb concept and the general ideas behind it, the current set of implementations are so complex, so mind-blowingly difficult to implement that I am making a self-care decision and deleting almost all of it from my computer and sites. There is a reason that the handful of people who actually care and talk about this stuff have careers in programming. At this point, that is what is required to get this up and running.
 
