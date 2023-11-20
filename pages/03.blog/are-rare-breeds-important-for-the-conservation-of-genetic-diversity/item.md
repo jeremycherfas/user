@@ -43,7 +43,7 @@ That would be a lot less expensive.
 
 Of course, we might lose the visual, gustatory and behavioural diversity that currently makes breeds interesting to behold and, probably, worth conserving for aesthetic and hedonistic reasons. But at least that would become the best reason to conserve them, rather than a pretty nebulous appeal to genetic conservation.
 
-! Syndicated to <a href=”https://www.eatthispodcast.com/are-rare-breeds-important” class=”u-syndication”>Eat This Podcast</a> and <a href=”https://agro.biodiver.se/2023/05/are-rare-breeds-important-for-the-conservation-of-genetic-diversity/” class=”u-syndication”>Agricultural Biodiversity Weblog</a>
+! Syndicated to <a href="https://www.eatthispodcast.com/are-rare-breeds-important" class="u-syndication">Eat This Podcast</a> and <a href="https://agro.biodiver.se/2023/05/are-rare-breeds-important-for-the-conservation-of-genetic-diversity/" class="u-syndication">Agricultural Biodiversity Weblog</a>
 
 
 
