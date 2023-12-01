@@ -1,6 +1,6 @@
 ---
 title: 'Monthly report: November 2023'
-published: true
+published: false
 date: '01-12-2023 18:09'
 taxonomy:
     category:
@@ -39,7 +39,7 @@ Need to get back into reading books. Steps picking up. Consistency of sleep is s
 * Walking with sticks: 1
 * Reading: 23
 * Steps (avge): 10,301
-* Podcasts: 38 (32 of them [logged](https://www.jeremycherfas.net/stream/))
+* Podcasts: 31 (27 of them [logged](https://www.jeremycherfas.net/stream/))
 * In bed/asleep 8:21/7:44
 * 7 Minutes: 5 days
 * Cycled: 3 days (50 km)
@@ -59,7 +59,7 @@ Need to get back into reading books. Steps picking up. Consistency of sleep is s
 
 ### Stuff Done
 
-All the little things mentioned in the highlights added up to a very satisfactory month overall, with a good balance. It would have been nice to ride the bike a bit more, but life must have got in the way. The [frustrations of IndieWeb Camp](https://www.jeremycherfas.net/blog/indieweb-camp-nu%CC%88rnberg-2023) were more than offset by the very engaging talks at border:none and the friends, old and new. Also enjoying Mastodon more and more.
+More than a week away from home and some nastyish wether conspired to keep me off my bicycle. A slow puncture in the hybrid's front wheel, which I absolutely could not locate, is another fine excuse. I bought, and started digging into, the Field Guide to Keyboard Maestro, and while I have scribbled a couple of could-KM-do-this notes, I also truly wonder who finds a use for many of those triggers and actions. I shall continue to explore.
 
 #### Hours logged per month
 
@@ -79,7 +79,7 @@ Eight posts here, which is pretty good. Right at the end of the month I decided 
 
 ### Niggles
 
-I'm peeved at my inability to solve the problem of maps in Known and need to decide between really getting to grips with the code and just giving it all up as having no real future.
+Came up against cultural norms in a big way, because the storms early in the month blew a pot off the terrace wall. Nobody was hurt. Almost nothing was damaged. And yet we have had lawyer's letters, shrill haranguing, could have been so much worse, mental distress etc etc. Italians can be such big babies at times, and the stereotype of voluble hysteria has more than a grain of truth to it. Not quite the last straw, but they are accumulating.
 
 ### Final remarks
 
