@@ -1,7 +1,7 @@
 ---
 title: 'Monthly report: November 2023'
-published: false
-date: '01-12-2023 18:09'
+published: true
+date: '01-12-2023 14:25'
 taxonomy:
     category:
         - blog
@@ -33,7 +33,7 @@ A good month, with two brief excursions and a lot of little achievements.
 
 ### Activities
 
-Need to get back into reading books. Steps picking up. Consistency of sleep is satisfying and good.
+Reading books saw a satisfactory uptick with a couple of good spy stories. Steps, as usual, high when out on trips. I had hoped the single effort with sticks would be the start of something, but so far it has not been.
 
 #### November: 
 * Walking with sticks: 1
@@ -42,7 +42,7 @@ Need to get back into reading books. Steps picking up. Consistency of sleep is s
 * Podcasts: 31 (27 of them [logged](https://www.jeremycherfas.net/stream/))
 * In bed/asleep 8:21/7:44
 * 7 Minutes: 5 days
-* Cycled: 3 days (50 km)
+* Cycled: 3 days (43 km)
 * Weight (avge): 87.9
 * Naps: 15
 
@@ -63,7 +63,7 @@ More than a week away from home and some nastyish wether conspired to keep me of
 
 #### Hours logged per month
 
-![Graph of total hours worked each month since January 2019](hours-logged-2019-2023-10.svg)
+![Graph of total hours worked each month since January 2019](hours-logged-2019-2023-11z.svg)
 
 #### Percent of logged hours
 
@@ -73,9 +73,7 @@ Previous years are on [an archive page](https://jeremycherfas.net/blog/working-l
 
 ### Goals
 
-Eight posts here, which is pretty good. Right at the end of the month I decided to look again at the [six-box to-do list](https://anniemueller.com/everything-youve-ever-wanted-to-know-about-using-a-6-box-to-do-list/) and I like how it offers you choices of what to do next in a more ordered way than simply picking something off an impossible list. Need to tweak the actual layout though.
-
-`$project` continued to be ignored, and winter is still coming.
+Seven posts here, which is fine. Continued with the six-box to-do list, although I did make mistakes drawing a couple of weeks so they ended up with only four boxes, and that worked too. Got a bit lost with the podcast, all kinds of doubts, why do I bother etc etc. I think I am over that. Again.
 
 ### Niggles
 
@@ -83,7 +81,7 @@ Came up against cultural norms in a big way, because the storms early in the mon
 
 ### Final remarks
 
-Life is good, despite travel putting pressure on weak spots.
+Life is good. Very excited by the prospect of the new Audio Hijack being able to do useful transcriptions.
 
 ----
 
@@ -103,6 +101,15 @@ Life is good, despite travel putting pressure on weak spots.
 </tr>
 </thead>
 <tbody>
+<tr>
+<td style="text-align: right;">11</td>
+<td style="text-align: center;">88.8</td>
+<td style="text-align: center;">4.02</td>
+<td style="text-align: center;">43</td>
+<td style="text-align: center;">16</td>
+<td style="text-align: center;">32</td>
+<td style="text-align: center;">9</td>
+</tr>
 <tr>
 <td style="text-align: right;">10</td>
 <td style="text-align: center;">103.75</td>
