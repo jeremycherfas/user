@@ -63,7 +63,7 @@ More than a week away from home and some nastyish wether conspired to keep me of
 
 #### Hours logged per month
 
-![Graph of total hours worked each month since January 2019](hours-logged-2019-2023-11z.svg)
+![Graph of total hours worked each month since January 2019](hours-logged-2019-2023-11.svg)
 
 #### Percent of logged hours
 
