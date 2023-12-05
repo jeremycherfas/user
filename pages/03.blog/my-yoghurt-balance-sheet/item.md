@@ -1,7 +1,7 @@
 ---
 title: 'My Yoghurt Balance Sheet'
 published: true
-date: '05-11-2023 18:10'
+date: '05-12-2023 18:10'
 taxonomy:
     category:
         - blog
