@@ -31,6 +31,7 @@
 {% block javascripts %}
 	{% do assets.addJs('jquery', 101) %}
 	{% do assets.addJs('chartist' ) %}
+	{% do assets.addJs('theme://js/redirect.js') %}
 {% endblock javascripts %} 
 {% block assets deferred %} 
 	{{ assets.css()|raw }} 
