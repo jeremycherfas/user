@@ -1,6 +1,6 @@
 ---
 title: 'Monthly report: December 2023'
-published: true
+published: false
 date: '16-01-2024 14:25'
 taxonomy:
     category:
@@ -33,13 +33,13 @@ Very late, because January's downtime was almost all-encompassing. No regrets.
 
 ### Activities
 
-Steps staying high thanks to lots of walking in London. Reading low, for the same reason.
+Steps staying high thanks to lots of walking in London. Reading low, for the same reason. Podcasts only caught up as a result of flights.
 
 #### December: 
 * Walking with sticks: 1
 * Reading: 10
 * Steps (avge): 10,496
-* Podcasts: 31 (27 of them [logged](https://www.jeremycherfas.net/stream/))
+* Podcasts: 27 (All of them [logged](https://www.jeremycherfas.net/stream/))
 * In bed/asleep 8:28/7:35
 * 7 Minutes: 3 days
 * Cycled: 2 days (XX km)
@@ -59,7 +59,7 @@ Steps staying high thanks to lots of walking in London. Reading low, for the sam
 
 ### Stuff Done
 
-More than a week away from home and some nastyish wether conspired to keep me off my bicycle. A slow puncture in the hybrid's front wheel, which I absolutely could not locate, is another fine excuse. I bought, and started digging into, the Field Guide to Keyboard Maestro, and while I have scribbled a couple of could-KM-do-this notes, I also truly wonder who finds a use for many of those triggers and actions. I shall continue to explore.
+Continued digging into the Field Guide to Keyboard Maestro but haven't tried to make anything yes. I shall continue to explore. Overall, a slow month.
 
 #### Hours logged per month
 
