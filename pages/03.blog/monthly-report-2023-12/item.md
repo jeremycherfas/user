@@ -1,7 +1,7 @@
 ---
 title: 'Monthly report: December 2023'
-published: false
-date: '16-01-2024 14:25'
+published: true
+date: '15-01-2024 19:27'
 taxonomy:
     category:
         - blog
@@ -63,7 +63,7 @@ Continued digging into the Field Guide to Keyboard Maestro but haven't tried to 
 
 #### Hours logged per month
 
-![Graph of total hours worked each month since January 2019](hours-logged-2019-2023-11.svg)
+![Graph of total hours worked each month since January 2019](hours-logged-2019-2023-12.svg)
 
 #### Percent of logged hours
 
@@ -73,15 +73,15 @@ Previous years are on [an archive page](https://jeremycherfas.net/blog/working-l
 
 ### Goals
 
-Seven posts here, which is fine. Continued with the six-box to-do list, although I did make mistakes drawing a couple of weeks so they ended up with only four boxes, and that worked too. Got a bit lost with the podcast, all kinds of doubts, why do I bother etc etc. I think I am over that. Again.
+Seven posts again this month, which is consistent fine.
 
 ### Niggles
 
-Came up against cultural norms in a big way, because the storms early in the month blew a pot off the terrace wall. Nobody was hurt. Almost nothing was damaged. And yet we have had lawyer's letters, shrill haranguing, could have been so much worse, mental distress etc etc. Italians can be such big babies at times, and the stereotype of voluble hysteria has more than a grain of truth to it. Not quite the last straw, but they are accumulating.
+The unpleasantness with a neighbour continued.
 
 ### Final remarks
 
-Life is good. Very excited by the prospect of the new Audio Hijack being able to do useful transcriptions.
+Slightly daunted by needing/wanting to complete the annual review of 2023 before too long, which will require rethinking various processing options, moving things into archive files, trying to remember how I did things and so on. But that must be my next project, possibly after a transport summary for the past quarter.
 
 ----
 
@@ -101,6 +101,15 @@ Life is good. Very excited by the prospect of the new Audio Hijack being able to
 </tr>
 </thead>
 <tbody>
+<tr>
+<td style="text-align: right;">12</td>
+<td style="text-align: center;">72.4</td>
+<td style="text-align: center;">4.5</td>
+<td style="text-align: center;">50</td>
+<td style="text-align: center;">40</td>
+<td style="text-align: center;">9</td>
+<td style="text-align: center;">1</td>
+</tr>
 <tr>
 <td style="text-align: right;">11</td>
 <td style="text-align: center;">88.8</td>
