@@ -42,7 +42,7 @@ Steps staying high thanks to lots of walking in London. Reading low, for the sam
 * Podcasts: 27 (All of them [logged](https://www.jeremycherfas.net/stream/))
 * In bed/asleep 8:28/7:35
 * 7 Minutes: 3 days
-* Cycled: 2 days (XX km)
+* Cycled: 2 days (110 km)
 * Weight (avge): 87.8
 * Naps: 16
 
