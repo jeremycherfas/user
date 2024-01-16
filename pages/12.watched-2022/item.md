@@ -8,11 +8,8 @@ template: item
 
 <p>Key: <strong>(B)</strong> = book | <strong>(F)</strong> = film | <strong>(T)</strong> = television series | <strong>(P)</strong> = podcast series | <strong>(TH)</strong> = theater performance | <strong>(M)</strong> = musical performance | <strong>[R]</strong> = reread/rewatch/relisten | <strong>(Tk)</strong> = talk</p>
 
-!!! This is a non-exhaustive list of things I read, watched, saw or otherwise enjoyed in 2022.<br />
-!!! [The current list is here](/what-ive-watched). Previous years: [2019](/watched-2019); [2020](/watched-2020); [2021](/watched-2021).
-
 !!! This is a non-exhaustive list of things I’ve read, watched, seen or otherwise enjoyed.<br />
-!!! Here are the lists [for 2019](/watched-2019), [2020](/watched-2020), [2021](/watched-2021).
+!!! [The current list is here](/what-ive-watched). Other years: [2019](/watched-2019); [2020](/watched-2020); [2021](/watched-2021); [2023](/watched-2023).
 
 <!-- Outer List -->
 <ul class="log">
