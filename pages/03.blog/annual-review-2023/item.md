@@ -74,45 +74,42 @@ Book of the year was very definitely **Cloud Cuckoo Land** by Anthony Doerr. (Th
 
 Eighteen [episodes](https://eatthispodcast.com) this year, the same as 2022, and 27 issues of [Eat This Newsletter](https://buttondown.email/jeremycherfas). It is all bubbling along nicely, not shooting up, not falling down. I didn't do much extra in the way of promotion, except for joining Mastodon late in the year, and that did seem to result in a boost in people visiting the website. I decided to try and get over my snittiness about Big Podcasting and enter a couple of awards again in 2023. Nothing to lose except money and, fleetingly, self-esteem. We shall see.
 
-# Done to here
-
 ## <a id="moving"></a>Moving Forward
 
 I made a much greater effort this year to record various trips (but not walks) with [Overland](https://github.com/aaronpk/Overland-iOS). Almost all are still underestimates; for sure I took at least two boat rides, there and back, and more than 2 flights, and 3 taxis is far too few. For the more frequent modes, though, that’s far less important. So here are the overall summary statistics.
 
 |Mode|Number|Total Km|Mean Kph|
 |---|---:|---:|---:|
-|boat|1|33.5|23.6|
+|boat|10|35|8.4|
 |plane|2|0.0|0.0|
-|taxi|3|39.6|34.6|
-|tram|4|10.7|10.8|
-|metro|5|4.6|5.9|
-|car2go|6|91.4|26.6|
-|train|12|3013.3|91.8|
-|bicycle|17|43.2|11.2|
-|car|81|2375.6|31.7|
-|bus|109|519.4|14.9|
+|taxi|8|147|41.9|
+|tram|2|3.4|12.1|
+|metro|2|43|24.8|
+|car2go|5|36|12.8|
+|train|15|2856|68.9|
+|bicycle|48|799|11.0|
+|car|97|5380|37.9|
+|bus|102|524|13.3|
 </br>  
 To note:
 
-- Bicycle includes e-bike; I suppose at a stretch I could isolate bicycle workouts, but I can’t be arsed.
-- Distributions for train and car are markedly skewed, a few longer trips, many more shorter ones.
-- That is also why average car speed is relatively slow
+- Bicycle trips way up in number and distance. Happy.
+- Still no separate records for e-bike rides, and I do not recall any.
 </br>
 
-For further analysis, I focus on only those modes of transport that I used more than five times. Pretty pictures was more about learning to do so than about the extra insights that it would provide, although around 2500 km in the car suggests that it really is a luxury, sitting out in the rain and depreciating. What price convenience? A return trip to Budapest by train made a huge difference.
+For further analysis, I focus on only those modes of transport that I used more than five times. Double the distance by car this year compared to last, but it is still a stupid luxury. Some good train rides too.
 
-![Four horizontal bar graphs of summary statistics for trips by metro, bicycle, car2go, bus, train and car](transport-summary-2022.svg){.center}
+![Four horizontal bar graphs of summary statistics for trips by taxi, bus, bicycle, train and car](transport-summary-2023.svg){.center}
 
-All year, I’ve intended to clean up and fix the janky Python scripts that produce some of the transport information, but aside from a couple of quarterly efforts, I haven’t. I did, however, make a fair bit of progress in writing scripts to create a static map of days and trips within days. I can now conjure up a static map for any day or part thereof, although displaying specific trips still eludes me. So here are the alpha and the omega of the year.
+I did clean up the janky Python scripts that produce the data and graphs, as promised a year ago, and they have worked well. A couple of anomalies, though, alerted me to some trips being duplicated. I had to go through by hand to eliminate them, and it didn't make a huge difference overall. The task for 2024 is to incorporate a check for duplicates *before* the data get written to a file.
 
-![Map of my location on 2022-01-01](2022-01-01.png){.center}
+Seeing a static map for a chosen day proved very useful during the year, so as with 2022, lets look at the alpha and the omega of 2023.
 
-![Map of my location on 2022-12-31](2022-12-31.png){.center}
+![Map of my location on 2023-01-01](2023-01-01.png){.center}
 
-All praise to the WMTA’s Silver Line.
+![Map of my location on 2023-12-31](2023-12-31.png){.center}
 
-The rich data I’m collecting are where I want to develop my Python abilities, although I would also like to recreate Bise with Python at some stage. Which reminds me, I’m collecting all that website data too, and ought to find a way to use and display it without letting it drive what I actually do on my sites.
+# Done to here
 
 ## <a id="bread"></a>Staff of Life Stuff
 
