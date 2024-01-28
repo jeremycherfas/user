@@ -15,7 +15,7 @@ header_image: '0'
 
 Today was a great day. I went out for a proper first ride on the finally finished tear-down and refurb of my fabulous old Raleigh, a shade over [six months after I started](https://www.jeremycherfas.net/blog/re-cycling).
 
-![Me, wearing a black T-shirt and bown shorts, standing holding my refurbished Raleigh supressing almost idiotic grin.](me-with-bike.jpeg){.center}
+![Me, wearing a black T-shirt and brown shorts, standing holding my refurbished Raleigh supressing almost idiotic grin.](me-with-bike.jpeg){.center}
 
 ===
 
