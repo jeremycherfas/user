@@ -1,7 +1,7 @@
 ---
 title: 'Annual Review: 2023'
 published: true
-date: '28-01-2023 17:23'
+date: '28-01-2024 17:23'
 taxonomy:
     category:
         - blog
