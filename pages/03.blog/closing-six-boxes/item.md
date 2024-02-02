@@ -1,7 +1,7 @@
 ---
 title: 'Closing six boxes'
 published: true
-date: '02-02-2024 13:32'
+date: '02-02-2024 13:14'
 taxonomy:
     category:
         - blog
