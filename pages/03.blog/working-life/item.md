@@ -1,7 +1,7 @@
 ---
 title: 'Working life'
 published: true
-date: '03-02-2023 16:23'
+date: '06-02-2024 16:00'
 taxonomy:
     category:
         - blog
@@ -19,8 +19,15 @@ An archive of some of the data I have recorded about how I spend some of my time
 ===
 
 ## Total hours worked per month
+### 2023
+![Histogram of total hours worked per month for 2019 to 2023](hours-logged-2019-2023.svg){.center}
 
+### 2022 
 ![Histogram of total hours worked per month for 2018 to 2022](hours-logged-2018-2022.svg){.center}
+
+## Percent of logged hours: 2023
+
+![Stacked bar chart of percentage of work hours each month dedicated to Administration, Podcasting and Writing](percents-2023.svg){.center}
 
 ## Percent of logged hours: 2022
 
