@@ -1,7 +1,7 @@
 ---
 title: 'Gardening with a Friend'
 published: true
-date: '18-02-2024 14:48'
+date: '17-02-2024 14:48'
 taxonomy:
     category:
         - blog

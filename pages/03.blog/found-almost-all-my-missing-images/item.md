@@ -26,9 +26,14 @@ Since then, I have tried on and off to work out what went wrong, with occasional
 
 The big problem for me — and it is still a problem — is that I have only the faintest idea of how Known does the things it does. Floundering about in the database, everything of importance hides behind a 32-digit identity tag. Most of the important information is tucked away in [a blob](https://en.wikipedia.org/wiki/Object_storage) and I’m sure that from a developer’s perspective that is a very fine idea. But for a mere mortal, it sucks.
 
-I decided to use the skills at my disposal. This showed that when everything works, the blob for a photo post contains a reference to the id of an attachment. For example, [this post](https://stream.jeremycherfas.net/2024/new-lens-on-the-old-camera-very-enjoyable-first-outing) contains in its blob, `”attachments”:[{”_id”:”f9ac374750b8dfb424483b8d80c115f7”` among lots of other stuff. The image is indeed at `https://stream.jeremycherfas.net/file/f9ac374750b8dfb424483b8d80c115f7/DSC06014.JPG`. But where is the file to which that refers?
+I decided to use the skills at my disposal. This showed that when everything works, the blob for a photo post contains a reference to the id of an attachment. For example, [this post](https://stream.jeremycherfas.net/2024/new-lens-on-the-old-camera-very-enjoyable-first-outing) contains in its blob,  
+```”attachments”:[{”_id”:”f9ac374750b8dfb424483b8d80c115f7”``` among lots of other stuff. The image is indeed at  
+```https://stream.jeremycherfas.net/file/f9ac374750b8dfb424483b8d80c115f7/DSC06014.JPG```.  
+But where is the file to which that refers?
 
-It is at `~/stream.jeremycherfas.net/Uploads/stream.jeremycherfas.net/f/9/a/c/f9ac374750b8dfb424483b8d80c115f7.file` and if I just change the extension from `file` to `jpeg` it will open and show the picture.
+It is at  
+```~/stream.jeremycherfas.net/Uploads/stream.jeremycherfas.net/f/9/a/c/f9ac374750b8dfb424483b8d80c115f7.file```  
+and if I just change the extension from `file` to `jpeg` it will open and show the picture.
 
 The important discovery was that the first four characters of the filename are also the names of the first four folders within the uploads directory where the file will be found. OK, then, I know what I should do. Where are my backups?
 
