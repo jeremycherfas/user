@@ -19,7 +19,7 @@ Last week, in an effort to keep riding my bicycle for fun outside the city, I pu
 
 ===
 
-<a href="https://www.komoot.com/tour/1470472279?ref=profile&share_token=ask3RwpEyq9pqtX6mjQcY0qCYoOu09HzXyN75YtohVxcU4fCcd" target="_blank" rel="nofollow noopener noreferrer"><img src="https://www.komoot.com/tour/1470472279/embed?gallery=1&height=600&hm=true&image=1&share_token=ask3RwpEyq9pqtX6mjQcY0qCYoOu09HzXyN75YtohVxcU4fCcd&width=640" width="640" height="600"/></a>
+<a href="https://www.komoot.com/tour/1470472279?share_token=ask3RwpEyq9pqtX6mjQcY0qCYoOu09HzXyN75YtohVxcU4fCcd&ref=wtd" target="_blank" rel="nofollow noopener noreferrer"><img src="https://www.komoot.com/tour/1470472279/embed?gallery=1&height=600&hm=true&image=1&share_token=ask3RwpEyq9pqtX6mjQcY0qCYoOu09HzXyN75YtohVxcU4fCcd&width=640" width="640" height="600"/></a>
 
 I chose a loop from a station I am very familiar with out round the airport and back. I know many of the roads, it is all quite level, and I thought it would make a good starter tour. It did.
 
