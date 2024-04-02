@@ -1,6 +1,6 @@
 ---
 title: 'Monthly report: February 2024'
-published: Ture
+published: True
 date: '03-03-2024 15:40'
 taxonomy:
     category:
