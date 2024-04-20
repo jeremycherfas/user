@@ -13,7 +13,7 @@ subhead: "A gift received "
 header_image: '0'
 ---
 
-I was intrigued to see that Remy Sharp had converted his [”No More 404”](https://front-end.social/@rem/111527749630154982) script into a service, and promptly asked if I could use it. Remy obliged, and I just installed it which means, I hope, even fewer broken links on this site.
+I was intrigued to see that Remy Sharp had converted his [“No More 404”](https://front-end.social/@rem/111527749630154982) script into a service, and promptly asked if I could use it. Remy obliged, and I just installed it which means, I hope, even fewer broken links on this site.
 
 ===
 
