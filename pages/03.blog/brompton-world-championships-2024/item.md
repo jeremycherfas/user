@@ -1,7 +1,7 @@
 ---
 title: 'Brompton World Championships 2024'
 published: true
-date: '13-04-2024 19:30'
+date: '13-05-2024 19:30'
 taxonomy:
     category:
         - blog
