@@ -8,6 +8,7 @@ taxonomy:
     tag:
         - General
         - Photos
+template: photo
 summary:
     enabled: '1'
 subhead: " "
@@ -18,11 +19,11 @@ header_image: '0'
 
 ----
 
-![Map of the route](https:jeremycherfas.net/blog/rabbit-quest-20240604/2024-06-04-route.jpeg?classes=left)Walking in this part of the world at this time of the year is always a treat. The roads and tracks are generally in good shape, it isn’t too hot, and the roadsides and fields are full of flowers. The topography is fascinating too, the way often opening up onto beautiful distant views and at other times enclosed by bushy margins. Ups and downs are frequent and generally manageable, which provides more entertainment.
+![Map of the route](https:jeremycherfas.net/blog/rabbit-quest-20240604/2024-06-04-route.jpeg)Walking in this part of the world at this time of the year is always a treat. The roads and tracks are generally in good shape, it isn’t too hot, and the roadsides and fields are full of flowers. The topography is fascinating too, the way often opening up onto beautiful distant views and at other times enclosed by bushy margins. Ups and downs are frequent and generally manageable, which provides more entertainment.
 
 <figure>
 <a href="2024-06-04-panorama.jpeg">
-<img loading="lazy" alt="Panoramic view of rolling Tuscan hills under a blue sky with fluffy white clouds" class="img-fullwidth u-photo" src="2024-06-04-panorama.jpeg" />
+<img loading="lazy" alt="Panoramic view of rolling Tuscan hills under a blue sky with fluffy white clouds" class="img-fullwidth u-photo" src="https://jeremycherfas.net/blog/rabbit-quest-20240604/2024-06-04-panorama.jpeg" />
 </a>
 <figcaption style="font-style: italic;">One of many sweeping panoramas</figcaption>
 </figure>
