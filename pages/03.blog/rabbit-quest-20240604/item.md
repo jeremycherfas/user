@@ -19,7 +19,7 @@ header_image: '0'
 
 ----
 
-<img alt="Map of the route" style="float: left;" src="https://www.jeremycherfas.net/user/pages/03.blog/rabbit-quest-20240604/2024-06-04-route.jpeg" /> Walking in this part of the world at this time of the year is always a treat. The roads and tracks are generally in good shape, it isn’t too hot, and the roadsides and fields are full of flowers. The topography is fascinating too, the way often opening up onto beautiful distant views and at other times enclosed by bushy margins. Ups and downs are frequent and generally manageable, which provides more entertainment.
+<img alt="Map of the route" style="float: left; margin-right: 1em; margin-bottom: 1em;" src="https://www.jeremycherfas.net/user/pages/03.blog/rabbit-quest-20240604/2024-06-04-route.jpeg" /> Walking in this part of the world at this time of the year is always a treat. The roads and tracks are generally in good shape, it isn’t too hot, and the roadsides and fields are full of flowers. The topography is fascinating too, the way often opening up onto beautiful distant views and at other times enclosed by bushy margins. Ups and downs are frequent and generally manageable, which provides more entertainment.
 
 <figure>
 <a href="2024-06-04-panorama.jpeg">
