@@ -56,7 +56,7 @@ Steps down a bit, because no great tourism. Cycling monthly best performance. Re
 
 ### Stuff Done
 
-Managed a smidgen of paid work this month, and aside from that got on with my various projects, including trips. Being away from my desk means I don't make progress on geeky things, and then have to force myself to restart.
+Managed a smidgen of paid work this month, and aside from that got on with my various projects, including trips. Being away from my desk means I don’t make progress on geeky things, and then have to force myself to restart.
 
 #### Hours logged per month
 
@@ -70,7 +70,7 @@ Previous years are on [an archive page](https://jeremycherfas.net/blog/working-l
 
 ### Goals
 
-Only three posts this month, which squares with my concern last month that I should be trying to write during travels rather than after the fact. There's so much else to do though, and I'm not going to be sitting in a hotel room writing when I could be slurping a Guinness.
+Only three posts this month, which squares with my concern last month that I should be trying to write during travels rather than after the fact. There’s so much else to do though, and I’m not going to be sitting in a hotel room writing when I could be slurping a Guinness.
 
 ### Niggles
 
