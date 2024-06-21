@@ -14,6 +14,8 @@ subhead: " "
 header_image: '0'
 ---
 
+⏱️ 05:04&nbsp;&nbsp;&nbsp;⇄55.4km&nbsp;&nbsp;&nbsp;⌀10.9km/h&nbsp;&nbsp;&nbsp;↗774m&nbsp;&nbsp;&nbsp;↘707m
+
 It is strange indeed, on a bicycle ride, to view successive downhill sections with mounting trepidation, but that's what happened to me on Friday. After the first glorious descent, swooping around beautiful curves for just about two kilometres, and maybe the next too, longer and gentler, I realised that I had bitten off far more than I could chew.
 
 Absolute madness.

@@ -87,9 +87,128 @@ template: item
 </ul>
 </ul>
 
-.<ul class="log-entry">
+<ul class="log-entry">
 <li class="log-day">02</li>
 <ul>
 <li class="log-item">Started watching <em>Reacher s02</em> on Amazon Prime <strong>T</strong> No change; Reacher is still Reacher, but we have back story.</li>
+</ul>
+</ul>
+
+<li class="log-month">February</li>
+
+<ul class="log-entry">
+<li class="log-day">24</li>
+<ul>
+<li class="log-item">Started reading <em>The Last Life</em> by Claire Messud <strong>B</strong> Promising, despite lots of adjectives.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">23</li>
+<ul>
+<li class="log-item">Started watching <em>House of Cards s02</em> on Netflix <strong>T</strong> Mesmerising.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">22</li>
+<ul>
+<li class="log-item">Started watching <em>Ferry The Series</em> on Netflix <strong>T</strong> Life among the lowlifes.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">21</li>
+<ul>
+<li class="log-item">Finished watching <em>House of Cards s01</em> on Apple TV <strong>T</strong> Kinda gripping to see all those bad people doing bad things.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">15</li>
+<ul>
+<li class="log-item">Finished reading <em>Yellowface</em> by R.F. Yuang <strong>B</strong> Hall of mirrors. White, yellow, white, yellow.</li>
+</ul>
+</ul>
+<ul class="log-entry">
+<li class="log-day">05</li>
+<ul>
+<li class="log-item">Finished reading <em>Brooklyn Crime Novel</em> by Jonathan Lethem <strong>B</strong> Not so great. [Review]().</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">03</li>
+<ul>
+<li class="log-item">Started watching the US <em>House of Cards</em> on Netflix <strong>T</strong> As good as the original?</li>
+</ul>
+</ul>
+
+<li class="log-month">March</li>
+
+<ul class="log-entry">
+<li class="log-day">26</li>
+<ul>
+<li class="log-item">Started watching <em>The Gentlemen</em> on Netflix <strong>T</strong> Good film, better TV?</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">22</li>
+<ul>
+<li class="log-item">Watched <em>My Generation</em> on Hoopla <strong>F</strong> Michael Caine the perfect person to tell the story of London in the 1960s, and what a time it was to be alive.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">17</li>
+<ul>
+<li class="log-item">Finished watching <em>Ferry: The Series</em> on Netflix <strong>T</strong> Sometimes you just have to kill your best mate. Enough with the Belgian low-lifes.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">15</li>
+<ul>
+<li class="log-item">Started watching <em>Masters of the Air</em> on Apple TV <strong>T</strong> Such unrealistic hair, but otherwise engaging.</li>
+</ul>
+</ul>
+
+<li class="log-month">April</li>
+
+<ul class="log-entry">
+<li class="log-day">30</li>
+<ul>
+<li class="log-item">Started reading <em>The Day Before Happiness</em> by Erri De Luca <strong>B</strong> Rather wonderful. Spare and compassionate.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">22</li>
+<ul>
+<li class="log-item">Finsihed watching <em>Masters of the Air</em> on AppleTV <strong>T</strong> And a few of them lived happily ever after.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">17</li>
+<ul>
+<li class="log-item">Started watching <em>Ripley</em> on Netflix <strong>T</strong> Astonishing cinematography, redolent with menace, very watchable.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">16</li>
+<ul>
+<li class="log-item">Finished watching <em>The Gentlemen</em> on Netflix <strong>T</strong> Bloody marvellous, innit? Second series will surely disappoint.</li>
+</ul>
+</ul>
+
+<li class="log-month">May</li>
+
+<ul class="log-entry">
+<li class="log-day">07</li>
+<ul>
+<li class="log-item">Started watching <em>Sugar s01</em> on AppleTV <strong>T</strong> Oh those demons!</li>
 </ul>
 </ul>
