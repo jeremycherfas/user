@@ -19,7 +19,7 @@ header_image: '0'
 
 The [Eroica](https://en.wikipedia.org/wiki/L%27Eroica) is a bicycle ride dedicated to vintage bicycles (pre-1987) and held in Tuscany on the first Sunday in October. I have known about it for a while, and encountered it accidentally last year. This year, back near Buonconvento with The Squeeze, I packed the Brompton thinking I might, at the very least, go for a little pedal. Then on Tuesday, when I saw that the formal Eroica passed right below the place where we are staying, I decided to do a bit more than that, which I did yesterday.
 
-——
+----
 
 Using Komoot to look at possible rides, my first thought was to go to Montalcino but the elevation profile scared me. A little town called Torrenieri seemed more manageable. I unfolded the bike and immediately encountered a completely flat tyre, front, thankfully. A quick pump had no impact whatsoever, unsurprisingly given that when I extracted the tube it seemed that the valve stem was somehow broken completely.[^1] Luckily I had a spare and a tyre glider and an electric pump, so I was on my way without too much delay.
 
