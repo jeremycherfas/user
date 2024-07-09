@@ -1,5 +1,5 @@
 ---
-title: 'Pandoro, Pan d’oro, let's call the whole thing off'
+title: 'Pandoro, Pan d’oro, let’s call the whole thing off'
 published: true
 date: '17-12-2009 10:00'
 taxonomy:

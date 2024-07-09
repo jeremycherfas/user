@@ -1,5 +1,5 @@
 ---
-title: 'Balance? We don’t need no stinkin' balance'
+title: 'Balance? We don’t need no stinkin’ balance'
 published: true
 date: '13-07-2006 06:49'
 taxonomy:
