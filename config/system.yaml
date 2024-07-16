@@ -94,9 +94,9 @@ pages:
       - form
       - forms
 cache:
-  enabled: false
+  enabled: true
   check:
-    method: file
+    method: hash
   driver: auto
   prefix: g
   purge_at: '0 4 * * *'
@@ -121,9 +121,9 @@ cache:
     port: null
 twig:
   cache: true
-  debug: true
-  auto_reload: true
-  autoescape: false
+  debug: false
+  auto_reload: false
+  autoescape: true
   undefined_functions: true
   undefined_filters: true
   safe_functions: {  }
@@ -157,7 +157,7 @@ log:
 debugger:
   enabled: true
   provider: debugbar
-  censored: false
+  censored: true
   shutdown:
     close_connection: true
   twig: true
@@ -186,9 +186,9 @@ session:
   timeout: 1800
   name: grav-site
   uniqueness: path
-  secure: false
+  secure: true
   httponly: true
-  samesite: Lax
+  samesite: strict
   split: true
   domain: null
   path: null
