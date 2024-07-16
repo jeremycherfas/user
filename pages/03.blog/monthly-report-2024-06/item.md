@@ -1,6 +1,6 @@
 ---
 title: 'Monthly report: June 2024'
-published: `true
+published: true
 date: '04-07-2024 18:41'
 taxonomy:
     category:
