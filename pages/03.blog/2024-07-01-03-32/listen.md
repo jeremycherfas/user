@@ -1,5 +1,5 @@
 ---
-title: "&#127911; S7 E1: Market Failure"
+title: "&#127911; The Great Political Fictions: The Handmaid’s Tale"
 published: true
 date: 2024-07-01-03-32
 taxonomy:
@@ -7,9 +7,9 @@ taxonomy:
         - stream
     tag:
         - podcasts
-theurl: https://play.prx.org/listen?ge=prx_153_fc3407d3-e77b-4743-880f-e6313e8b276b&uf=https%3A%2F%2Ffeeds.sceneonradio.org%2FSceneOnRadio
-image: artwork-resized.JPEG
+theurl: https://shows.acast.com/pastpresentfuture/episodes/66719a1baaaf802da845126a
+image: artwork-resized.PNG
 template: item
 ---
 
-Episode summary: Introduction to our 7th season: Capitalism. The world&rsquo;s dominant economic system is on trial as it hasn&rsquo;t been for at least half a century. Millions, young people especially, now see capitalism as the problem, not the solution. Others fear throwing out the baby with the bathwater. By John Biewen, with co-host Ellen McGirt. Interviews with John Fullerton, Cassandra Brooks and Charlene Brooks. Story editor: Loretta Williams. Music by Michelle Osis, Lilli Haydn, Alex Symcox, and Goodnight, Lucas. Music consulting by Joe Augustine of Narrative Music. Art by Gergo Varga and Harper Biewen. &ldquo;Capitalism&rdquo; is a production of the Kenan Institute for Ethics at Duke University, in partnership with Imperative 21.
+Episode summary: For the final episode in the current series, David discusses Margaret Atwood&rsquo;s The Handmaid&rsquo;s Tale (1985), her unforgettable dystopian vision of a future American patriarchy. Where is Gilead? When is Gilead? How did it happen? How can it be stopped? From puritanism and slavery to Iran and Romania, from demography and racism to Playboy and Scrabble, this novel takes the familiar and the known and makes them hauntingly and terrifyingly new.Coming next: The Ideas Behind UK General Elections, starting with the game-changing election of 1906.Sign up now to PPF+ to get 2 bonus episodes every month and ad-free listening www.ppfideas.comTo sign up for our free fortnightly newsletter to accompany this and future series, just click on the Newsletter link in our Link Tree: https://linktr.ee/ppfideas Hosted on Acast. See acast.com/privacy for more information.
