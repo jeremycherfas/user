@@ -1,7 +1,7 @@
 ---
 title: 'Find your ice cream'
 published: true
-date: '12-08-2010 10:01’
+date: '12-08-2010 10:01'
 taxonomy:
     category:
         - blog
