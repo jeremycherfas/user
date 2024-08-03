@@ -14,7 +14,7 @@ subhead: " "
 header_image: '0'
 ---
 
-<img src="odb-02-image.jpg" alt="Arch of lower jaw of Neanderthal fossil" class="u-featured">
+![Arch of lower jaw of Neanderthal fossil](odb-02-image.jpg){.center}
 
 When did people start to eat wheat? The date keeps getting pushed back, and is now around 35,000 to 45,000 years ago. That is long before the dawn of intentional agriculture. How do we know? Because a man who died in a cave hadn’t cleaned his teeth, and stuck in the tartar were grains of boiled starch. Which raises another set of problems that seem to have been solved by wilderness survival experts.
 
