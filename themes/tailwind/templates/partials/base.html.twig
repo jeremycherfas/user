@@ -40,8 +40,8 @@
 {% endblock %} 
 </head>
 {% set options = { items: {'@root.descendants':''}, 'order': {'by': 'date', 'dir': 'asc'}} %} {% set my_collection = page.collection(options) %} 
-
 <body id="top" class="container mx-auto">
+
 <!-- base.html.twig to Set max width and centres -->
 <div class="opacity-100 sticky top-0 z-20">
 <!-- Moving menu block to partial -->
@@ -81,7 +81,6 @@ Just repeats the same post.
 <!-- End all items inc sidebar -->
 
 {% block bottom %} {{ assets.js('bottom')|raw }} {% endblock bottom %} 
+{{ vardump('test') }}
 </body>
 </html>
-
-{{ dump(page.template) }}

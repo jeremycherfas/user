@@ -94,7 +94,7 @@ pages:
       - form
       - forms
 cache:
-  enabled: true
+  enabled: false
   check:
     method: hash
   driver: auto
@@ -121,7 +121,7 @@ cache:
     port: null
 twig:
   cache: true
-  debug: false
+  debug: true
   auto_reload: false
   autoescape: false
   undefined_functions: true
@@ -156,8 +156,8 @@ log:
     facility: local6
 debugger:
   enabled: true
-  provider: debugbar
-  censored: true
+  provider: clockwork
+  censored: false
   shutdown:
     close_connection: true
   twig: true
