@@ -1,7 +1,7 @@
 ---
-title: 'Monthly report: June 2024'
-published: true
-date: '04-07-2024 18:41'
+title: 'Monthly report: July 2024'
+published: false
+date: '07-08-2024 13:04'
 taxonomy:
     category:
         - blog
@@ -13,24 +13,37 @@ summary:
 subhead: ''
 ---
 
-Whoop-de-doo; Independence Day in the USA and, as one wag put it, “Enjoy! It may be your last”. I fear I have succumbed to a bit of doom and gloom this past month, what with entirely fatuous politics in so many places and continuing incontrovertible evidence that climate change probably is completely out of control now. 
+Very late, which is entirely understandable as I have very little of substance to report. We were away for almost the entire month having fun and relaxing, as it should be.
 
 ===
 
 ## Highlights of the month:
 
-- Made a three-person episode to be proud of
-- Little week away near Siena
-- A couple of crazy bicycle rides
-- Thrills on the terrace; sunflowers and Plumeria cuttings leafing out
-- Taxes submitted
-- First visit to the lake of the year; almost alone
-- Enjoyable bagel brunch for my birthday
-- Symlinks are my new best friend
+- Fresh produce straight from the _orto_ and a swimming pool
+- A great new (to me) simple quiche crust recipe
+- Redesign of ETP site continued with focused sessions
+- Symlinks are still my friends, but not without issues
+- Saw a big blue-gray heron take off
+- Only a couple of deaths on the terrace, although one is my precious sorrel
+- Peeking into gorgeous private gardens in Presicce
+- A sweet dachshund chewed all four ends off my shoelaces during an interview
+- Agriturismo Seliano and Paestum!
+- Plumeria cuttings rooted and one flowering
 
 ### Activities
 
-Made an effort to restart walking with sticks and enjoyed it. The trick is to get going early instead of lying in bed catching up on unimportant world events. Some nice, killer bicycle rides.
+No cycling, no weighing, no surprises. And not going to record swims only for the one month in which they mostly occur.
+
+#### July: 
+* Walking with sticks: 0
+* Reading: 22
+* Steps (avge): 7473
+* Podcasts: 11 (All of them [logged](https://www.jeremycherfas.net/stream/)).
+* In bed/asleep 8:18/7:16
+* 7 Minutes: 0 days
+* Cycled: 0 days
+* Weight (avge): N/A (no scales)
+* Naps:25
 
 #### June: 
 * Walking with sticks: 3
@@ -43,40 +56,31 @@ Made an effort to restart walking with sticks and enjoyed it. The trick is to ge
 * Weight (avge): 89.3
 * Naps:20
 
-#### May: 
-* Walking with sticks: 0
-* Reading: 4
-* Steps (avge): 9454
-* Podcasts: 13 (All of them [logged](https://www.jeremycherfas.net/stream/)).
-* In bed/asleep 8:20/7:19
-* 7 Minutes: 4 days
-* Cycled: 7 days (211 km)
-* Weight (avge): 89.0
-* Naps: 9
-
 ### Stuff Done
 
-Short bouts of paid work interrupted other activities, though hardly noticeably. Took heed of last month’s discovery about being stalled when away and embraced sharing desktop and laptop projects much more tightly, to good effect.
+Surprised myself with good progress on site redesign on the laptop, making good use of MAMP shared via Syncthing. Other bits of work done with no great fuss.
 
 #### Hours logged per month
 
+![Graph of total hours worked each month since January 2020](hours-logged-2020-2024-07.svg)
+
 #### Percent of logged hours
 
-_The graphs will have to wait until I am back at the desktop; synching everything up not 100% successful._
+![Percentage of hours logged for Admin, Podcasts and Writing](percents-2024.svg)
 
 Previous years are still on [an archive page](https://jeremycherfas.net/blog/working-life).
 
 ### Goals
 
-Seven posts, which is a huge improvement on May, but nothing to shout about in the greater scheme of things. Good progress on redesigning ETP theme from scratch.
+Six posts, not too shabby for a month in which I was mostly doing nothing. Continued progress on redesigning ETP theme from scratch, but now of course I want to do the same for this site, wityh the additional aim of making it more efficient.
 
 ### Niggles
 
-Global news has been distracting, with the result that I spend even longer reading stuff that isn’t global news and that isn’t all that useful or even entertaining. It’s a distraction from the distraction, and I could make better use of the time.
+Not a one, even though I still have not done the Q2 transport summary. I have some ideas on that front.
 
 ### Final remarks
 
-Not happy with the world.
+I could pretend to be prescient and claim my optimism was restored in July (which it was, to some extent) but truly August has brought the good news.
 
 ----
 
@@ -96,6 +100,15 @@ Not happy with the world.
 </tr>
 </thead>
 <tbody>
+<tr>
+<td style="text-align: right;">07</td>
+<td style="text-align: center;">64.4</td>
+<td style="text-align: center;">2.08</td>
+<td style="text-align: center;">51</td>
+<td style="text-align: center;">19</td>
+<td style="text-align: center;">29</td>
+<td style="text-align: center;">1</td>
+</tr>
 <tr>
 <td style="text-align: right;">06</td>
 <td style="text-align: center;">160.7</td>
