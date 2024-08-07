@@ -1,6 +1,6 @@
 ---
 title: 'Monthly report: July 2024'
-published: false
+published: true
 date: '07-08-2024 13:04'
 taxonomy:
     category:
@@ -72,7 +72,7 @@ Previous years are still on [an archive page](https://jeremycherfas.net/blog/wor
 
 ### Goals
 
-Six posts, not too shabby for a month in which I was mostly doing nothing. Continued progress on redesigning ETP theme from scratch, but now of course I want to do the same for this site, wityh the additional aim of making it more efficient.
+Six posts, not too shabby for a month in which I was mostly doing nothing. Continued progress on redesigning ETP theme from scratch, but now of course I want to do the same for this site, with the additional aim of making it more efficient.
 
 ### Niggles
 
