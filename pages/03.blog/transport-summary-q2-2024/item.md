@@ -1,7 +1,7 @@
 ---
 title: 'Transport summary Q2 2024'
-published: false
-date: '09-08-2024 16:48'
+published: true
+date: '09-08-2024 14:35'
 taxonomy:
     category:
         - blog
