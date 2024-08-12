@@ -186,7 +186,7 @@ session:
   timeout: 1800
   name: grav-site
   uniqueness: path
-  secure: true
+  secure: false
   httponly: true
   samesite: strict
   split: true

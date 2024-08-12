@@ -1,6 +1,6 @@
 ---
 title: 'The inside story'
-published: false
+published: true
 date: '12-08-2024 15:30'
 taxonomy:
     category:
