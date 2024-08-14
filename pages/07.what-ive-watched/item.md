@@ -186,7 +186,7 @@ template: item
 <ul class="log-entry">
 <li class="log-day">22</li>
 <ul>
-<li class="log-item">Finsihed watching <em>Masters of the Air</em> on AppleTV <strong>T</strong> And a few of them lived happily ever after.</li>
+<li class="log-item">Finished watching <em>Masters of the Air</em> on AppleTV <strong>T</strong> And a few of them lived happily ever after.</li>
 </ul>
 </ul>
 
@@ -212,3 +212,37 @@ template: item
 <li class="log-item">Started watching <em>Sugar s01</em> on AppleTV <strong>T</strong> Oh those demons!</li>
 </ul>
 </ul>
+
+<li class="log-month">June</li>
+
+<ul class="log-entry">
+<li class="log-day">18</li>
+<ul>
+<li class="log-item">Started watching <em>Bodkin</em> on Netflix <strong>T</strong> Very watchable tosh.</li>
+<li class="log-item">Finished reading <em>Napoleon: a life in gardens and shadows</em> by Ruth Scurr <strong>B</strong> Fascinating and eminently readable.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">13</li>
+<ul>
+<li class="log-item">Started watching <em>Presumed Innocent</em> on AppleTV <strong>T</strong> Overwrought.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">11</li>
+<ul>
+<li class="log-item">Finished watching <em>Jack Ryan s04</em> on Amazon Prime <strong>T</strong> Sheiss, aber gut gekocht.</li>
+</ul>
+</ul>
+
+<li class="log-month">July</li>
+
+<ul class="log-entry">
+<li class="log-day">31</li>
+<ul>
+<li class="log-item">Finished reading <em>Brooklyn</em> by Colm Toibìn <strong>B</strong> Absolutely delightful and, it seemed to me, insightful into lives and minds. A gem.</li>
+</ul>
+</ul>
+
