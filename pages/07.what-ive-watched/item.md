@@ -242,7 +242,7 @@ template: item
 <ul class="log-entry">
 <li class="log-day">31</li>
 <ul>
-<li class="log-item">Finished reading <em>Brooklyn</em> by Colm Toibìn <strong>B</strong> Absolutely delightful and, it seemed to me, insightful into lives and minds. A gem.</li>
+<li class="log-item">Finished reading <em>Brooklyn</em> by Colm Toibìn <strong>B</strong> Absolutely delightful and, it seemed to me, insightful into lives and minds. A total gem.</li>
 </ul>
 </ul>
 
