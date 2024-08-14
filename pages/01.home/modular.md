@@ -1,6 +1,7 @@
 ---
 title: 'Jeremy Cherfas'
 menu: Home
+cache_enable: false
 content:
     order:
         dir: asc
