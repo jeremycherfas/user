@@ -1,7 +1,7 @@
 ---
 title: 'A Dearth of Ritual'
-published: false
-date: '16-08-2024 10:30'
+published: true
+date: '16-08-2024 10:45'
 taxonomy:
     category:
         - blog
@@ -20,7 +20,7 @@ Habits I have aplenty, some of them bordering on the obsessive. Do I need to wei
 
 For me, rituals have an undeniable emotional content. There’s an aspect of them that goes a bit beyond easy understanding and that is all the more powerful for taking a prescribed form. The feelings associated with a ritual are generally positive, while a habit is just something you do often. You might feel good as you floss your teeth, or bad as you chew your nails to the quick, but there’s nothing particularly ritualistic about either. 
 
-Of course you can make the habit unwavering. I floss my teeth in a very particular order that is, for me, an integral part of the habit. But the activity would be just as good if I flossed them in some other order (or no order at all, as long as I did them all). The order is part of my habit, but the habit is not a ritual because it takes a prescribed form.
+Of course you can make the habit unwavering. I floss my teeth in a very particular order that is, for me, an integral part of the habit. But the activity would be just as good for me if I flossed them in some other order (or no order at all, as long as I did them all). The order is part of my habit, but the habit is not a ritual just because it takes a prescribed form.
 
 There’s another form of habitual ritual, or ritual habit, that is pure superstition. My father habitually played a particularly difficult game of solitaire over and over again. It almost never came out, but when it did, he absolutely persuaded himself that the day would be a good one. When I’m scaling the ingredients for my breads, if I get the correct result without having to add or subtract a bit of flour or water or whatever, I know the bake will be a good one even though I also know it makes no difference.
 
