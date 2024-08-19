@@ -7,7 +7,7 @@ taxonomy:
         - blog
     tag:
         - Blaugust
-        - Bread & Cheese
+        - Bread and Cheese
 summary:
     enabled: '1'
 subhead: " "
