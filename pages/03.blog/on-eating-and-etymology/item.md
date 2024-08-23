@@ -9,7 +9,7 @@ taxonomy:
         - Food
 summary:
     enabled: '1'
-subhead: '“Meat warning "'
+subhead: '“Meat warning”'
 header_image: '0'
 ---
 
