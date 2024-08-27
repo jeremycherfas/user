@@ -13,7 +13,7 @@ subhead: " "
 header_image: '0'
 ---
 
-![Article headline reads: Toursists, Pandas safe after Quake; Local Town Leveled](/quake.jpg){.center}
+![Article headline reads: Tourists, Pandas safe after Quake; Local Town Leveled](quake.jpg){.center}
 
 That is a genuine screen-grab from a genuine web site of a genuinely major player. Your task, should you accept it, is to identify the player.
 

@@ -13,7 +13,7 @@ subhead: "A necessary corrective"
 header_image: '0'
 ---
 
-Chris Aldrich has written a terrific essay that goes far beyond its title <a class=”u-in-reply-to” href=”https://boffosocko.com/2022/10/22/the-two-definitions-of-zettelkasten/” >The Two Definitions of Zettelkasten</a >. It sets out the long, often complex, history of the idea at the heart of the zettelkasten method: the commonplace book and its rich tradition. Chris’s corrective is absolutely essential and I hope more people will take note of it and stop referring to “The Zettelkasten Method” as if it were the tablets that Niklas brought down from the mountain.
+Chris Aldrich has written a terrific essay that goes far beyond its title <a class="u-in-reply-to" href="https://boffosocko.com/2022/10/22/the-two-definitions-of-zettelkasten/" >The Two Definitions of Zettelkasten</a >. It sets out the long, often complex, history of the idea at the heart of the zettelkasten method: the commonplace book and its rich tradition. Chris’s corrective is absolutely essential and I hope more people will take note of it and stop referring to “The Zettelkasten Method” as if it were the tablets that Niklas brought down from the mountain.
 
 ===
 

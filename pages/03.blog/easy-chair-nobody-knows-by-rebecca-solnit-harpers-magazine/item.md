@@ -6,7 +6,7 @@ taxonomy:
     category:
         - Blog
     tag:
-        - Notes
+        - stream
 process:
     markdown: true
     twig: false

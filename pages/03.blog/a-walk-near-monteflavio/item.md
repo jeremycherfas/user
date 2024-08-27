@@ -40,7 +40,7 @@ This is something new, on two counts. It records a hike we took together in the 
 <p>As we sat down for lunch we noticed a chap and his partner on the rise above us. He seemed to be doing an Andy Goldsworthy and stacking rocks to balance on one another. Being very English, I didn’t want to stare, take photographs or wander up and chat. They left while we were eating, and we went up afterwards to take a look. It was very impressive. I wonder how long it survived.</p>
 ![The Squeeze looking at a carefully balanced, sculptural stack of rocks](monte-flavio-6.jpg?loading=lazy){.img-fullwidth}
 <figcaption style="font-style: italic;">Looking closely, the stones had been very carefully aligned, and to me the whole effect resembled an eagle, at least from some angles.</figcaption>
-<p>And that was it. We walked easily back to the car, collected two carrier bags of pine cones to use as kindling and for decoration, and drove back to Rome deeply content. It may not look like much on the map courtesy of <a href=“https://github.com/aaronpk/Overland-iOS”>Aaron Parecki’s wonderful Overland/Compass combo</a>, but it represents a new dawn. I hope.</p>
+<p>And that was it. We walked easily back to the car, collected two carrier bags of pine cones to use as kindling and for decoration, and drove back to Rome deeply content. It may not look like much on the map courtesy of <a href="https://github.com/aaronpk/Overland-iOS">Aaron Parecki’s wonderful Overland/Compass combo</a>, but it represents a new dawn. I hope.</p>
 ![Map of the walk](monte-flavio-track.jpg?loading=lazy){.fig-image}
 <p>
 Which reminds me; I need to add the ability to include smaller images floated left or right. The blue marker is where we stopped for lunch.</p>

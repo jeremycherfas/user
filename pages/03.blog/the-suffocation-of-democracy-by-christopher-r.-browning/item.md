@@ -6,7 +6,7 @@ taxonomy:
     category:
         - Blog
     tag:
-        - Notes
+        - stream
 visible: true
 ---
 
@@ -30,7 +30,7 @@ Is it broken yet:
 
 > The domestic agenda of Trump’s illiberal democracy falls considerably short of totalitarian dictatorship as exemplified by Mussolini and Hitler. But that is small comfort for those who hope and believe that the arc of history inevitably bends toward greater emancipation, equality, and freedom.
 
-I went back to [an earlier piece I read](https://www.jeremycherfas.net/reviews/thomas-meaney-on-timothy-snyder-on-tyranny), in the London Review of Books, in which Thomas Meaney took Timothy Snyder, possibly the first great comparator, to task. I summarised Meaney's position thus: "Snyder both goes too far in comparing Trump to Hitler and Stalin, and also not far enough, in not pursuing his analogy where it leads". Seems to me that Browning's piece has neither fault. But as always, I'll wait for a more expert opinion.
+I went back to [an earlier piece I read](https://www.jeremycherfas.net/blog/thomas-meaney-on-timothy-snyder-on-tyranny), in the London Review of Books, in which Thomas Meaney took Timothy Snyder, possibly the first great comparator, to task. I summarised Meaney's position thus: "Snyder both goes too far in comparing Trump to Hitler and Stalin, and also not far enough, in not pursuing his analogy where it leads". Seems to me that Browning's piece has neither fault. But as always, I'll wait for a more expert opinion.
 
 For now, I was most struck by Browning's discussion of illiberal democracies and how they do not need to eliminate completely either the judiciary or the press.
 

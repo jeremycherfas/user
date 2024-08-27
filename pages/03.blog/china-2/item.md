@@ -31,6 +31,6 @@ I was completely lost. One or two what? I thought maybe it was to do with size -
 
 And the noodles came, with a thick oily layer floating above the chilli-red broth and some rather chewy bits of beef nestling within the noodles. And by golly it was good. Not great, but deeply satisfying, and not just for the stomach. The tea was jasmine, not green, but what the heck.
 
-I paid less than 5 yuan and left, a happy man, to walk around the little lake. Some of what I saw is already on [Flickr](https://flickr.com/photos/jcherfas/) and on my ~~[Photo](http://jeremycherfas.net/wp/photos-main/)~~ pages.[^1]
+I paid less than 5 yuan and left, a happy man, to walk around the little lake. Some of what I saw is already on [Flickr](https://flickr.com/photos/jcherfas/) and on my ~~Photo~~ pages.[^1]
 
 [^1]: 2021-09-22: That died; too much maintenance.

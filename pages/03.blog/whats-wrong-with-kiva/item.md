@@ -17,9 +17,9 @@ header_image: '0'
 
 ===
 
-I'm prompted, this time, by a simple error in a mass emailing Kiva sent me, reminding me that I had uninvested funds and suggesting I "Go to [kiva.org/lend](hhttp://www.kiva.org/lend?utm_source=marketing&utm_medium=email&utm_content=bottomlink&utm_campaign=2013-03-27_classic_erl_youvegotbalance) and make a loan today!"
+I'm prompted, this time, by a simple error in a mass emailing Kiva sent me, reminding me that I had uninvested funds and suggesting I "Go to [kiva.org/lend](https://www.kiva.org/lend?utm_source=marketing&utm_medium=email&utm_content=bottomlink&utm_campaign=2013-03-27_classic_erl_youvegotbalance) and make a loan today!"
 
-What's the problem? The link is wrong. It starts hhttp:// rather than http:// Silly, I know, but computers _are_ silly. [^fn1] That's why we have people. But not, obviously, people who check whether someone, somewhere, has made a silly mistake. 
+What's the problem? The link is wrong. It starts hhttp:// rather than http:// Silly, I know, but computers _are_ silly.[^fn1] That's why we have people. But not, obviously, people who check whether someone, somewhere, has made a silly mistake. 
 
 A silly mistake that was easy enough for me to discover, though I wonder how many other people with money at Kiva would get the email, click on the link, be told they've made a mistake, and be utterly frustrated? 
 
@@ -29,4 +29,4 @@ If someone -- I'm looking at you, [Global Giving](http://www.globalgiving.org/),
 
 Now to see about extricating my money from Kiva. Or not.
 
-[^fn1]: I actually copied the _wrong_ link, just for, you know, evidence.
+[^fn1]: I fixed the link for them; no hard feelings.

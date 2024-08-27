@@ -12,7 +12,7 @@ summary:
 subhead: " "
 header_image: '0'
 --- 
-Over at the other place, [a response](http://agro.biodiver.se/2012/06/purple-potato-power/) from someone very close to Mr Mars-Jones, about [that metaphor](blog/calling-adam-mars-jones/).
+Over at the other place, [a response](http://agro.biodiver.se/2012/06/purple-potato-power/) from someone very close to Mr Mars-Jones, about [that metaphor](https://jeremycherfas.net/blog/calling-adam-mars-jones/).
 
 > We have been informed, albeit at second hand, that Mr Mars-Jones did not mean his recent remark about purple potatoes to be in any way pejorative.
 

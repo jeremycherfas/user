@@ -19,7 +19,7 @@ First off, to keep the wolf from the door, thin slices of [semolina bread with m
 
 ![Ear and crust of semolina bread](IMG_6301.jpg)
 
-Then there was what has become my standard 33% wholemeal [pagnotto](http://jeremycherfas.net/2009/10/14/food-news-new-series-10-neo-artisans/), made with a _pasta madre_ leavened _biga_ and containing a goodly amount of sunflower and pumpkin seeds.
+Then there was what has become my standard 33% wholemeal [pagnotto](http://jeremycherfas.net/blog/food-news-new-series-10-neo-artisans/), made with a _pasta madre_ leavened _biga_ and containing a goodly amount of sunflower and pumpkin seeds.
 
 And finally, because what would chilli be without cornbread, cornbread. Once again, I decided to modernize an old friend, Bernard Clayton Jr's Batter Corn Bread, and here it is.
 

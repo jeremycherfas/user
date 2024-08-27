@@ -7,7 +7,7 @@ taxonomy:
         - blog 
         - Reviews
     tag:
-        - Notes
+        - stream
 process:
     markdown: true
     twig: false

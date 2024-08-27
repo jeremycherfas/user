@@ -46,4 +46,4 @@ Thanks for all the submissions and for stopping by.
 
 !!! Pablo is hosting the [October IndieWeb Carnival](https://lifeofpablo.com/blog/indieweb-carnival-october-2023), on self-care and routine. Write about yours, spread the word, and don’t forget to send Pablo a [webmention](https://indieweb.org/webmention).
 
-! <a href=”https://news.indieweb.org/en” class=”u-syndication”>Also submitted to IndieNews</a>
+! <a href="https://news.indieweb.org/en" class=”u-syndication”>Also submitted to IndieNews</a>

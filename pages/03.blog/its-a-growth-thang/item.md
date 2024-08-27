@@ -15,7 +15,7 @@ header_image: '0'
 
 ![Frangipani blossoms](frangipani.jpg){.center}
 
-It’s been an exciting week. Monday night, the frangipani blossoms first opened, and I almost pitched myself over the parapet trying to photograph them. When [the leaves first stirred](http://jeremycherfas.net/blog/on-the-terrace/) I remarked that they were early and how wonderful it would be if the flowers were early too, so The Squeeze could experience them. Six weeks later I noted that the [single growing shoot had split](http://jeremycherfas.net/blog/exciting-frangipani-news/) into four -- bushiness! yay! -- but still no flower buds. And then, in the heat of summer, I noticed that one of the new shoots had flower buds, and they opened, and the summer had been and gone and so The Squeeze has now experienced them. I think she liked that.
+It’s been an exciting week. Monday night, the frangipani blossoms first opened, and I almost pitched myself over the parapet trying to photograph them. When [the leaves first stirred](http://jeremycherfas.net/blog/on-the-terrace/) I remarked that they were early and how wonderful it would be if the flowers were early too, so The Squeeze could experience them. Six weeks later I noted that the [single growing shoot had split](https://jeremycherfas.net/blog/exciting-frangipani-news-/) into four -- bushiness! yay! -- but still no flower buds. And then, in the heat of summer, I noticed that one of the new shoots had flower buds, and they opened, and the summer had been and gone and so The Squeeze has now experienced them. I think she liked that.
 
 ![Frangipani tree](frangipanitree.jpg){.center}
 

@@ -18,7 +18,7 @@ When it comes to publishing stuff online, especially when you're not doing it fo
 
 The trick, then, is to bring my stuff to the attention of people, who may decide to pay me with some of that attention, and I am really bad at that. I have a long-standing aversion to anything that smacks of marketing. "If the stuff's any good, people will find it without me telling them how good it is."[^1] And then, listening to [Tim Ferriss on The Longform Podcast](http://longform.org/posts/longform-podcast-153-tim-ferriss) I heard him say:
 
-[^1]: And I have a long-standing desire to rid myself of this notion, to whit: [Rewarding Good Work](../rewarding-good-work/), [Marketing 101](.../marketing-101/) and [It's Marketing, but Not as I Know It](../its-marketing-but-not-as-i-know-it/)
+[^1]: And I have a long-standing desire to rid myself of this notion, to whit: [Rewarding Good Work](https://jeremycherfas.net/blog/rewarding-good-work/), [Marketing 101](https://jeremycherfas.net/blog/marketing-101/) and [It's Marketing, but Not as I Know It](https://jeremycherfas.net/blog/it-s-marketing-but-not-as-i-know-it/)
 
 > Just because you promote your stuff does not make your material bad. They're not mutually exclusive.
 

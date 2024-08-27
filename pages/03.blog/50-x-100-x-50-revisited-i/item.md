@@ -32,7 +32,7 @@ Flickr photograph by [mittens oh my!](http://www.flickr.com/photos/mittensohmy/5
 
 Originally published 12-03-2008
 
-![](2296199471_9871c265a6_m.jpg){.left} It is folly to imagine that a thing -- high-tech, low-tech -- is going to solve my problem. But still the [nostalgia for an input device](http://jeremycherfas.net/2005/10/26/back-to-the-future-again/) tugs. [^2] Don't get me wrong. I love my notebook and pen to bits. But that isn't an input device. I've toyed with the idea of snapping or scanning pages and uploading them as is, but that's way too much of a faff, even from a phone. The kind of thing I want is full-size qwerty, smallish screen, basic TXT files and bluetooth. Neo uses wires, Dana [^1] has no bluetooth. Anything else?
+![](2296199471_9871c265a6_m.jpg){.left} It is folly to imagine that a thing -- high-tech, low-tech -- is going to solve my problem. But still the [nostalgia for an input device](https://jeremycherfas.net/blog/back-to-the-future-again/) tugs. [^2] Don't get me wrong. I love my notebook and pen to bits. But that isn't an input device. I've toyed with the idea of snapping or scanning pages and uploading them as is, but that's way too much of a faff, even from a phone. The kind of thing I want is full-size qwerty, smallish screen, basic TXT files and bluetooth. Neo uses wires, Dana [^1] has no bluetooth. Anything else?
 
 [^1]: Both now apparently dead.
 

@@ -63,7 +63,7 @@ I can’t quite put my finger on why I have not been keeping up with high-intens
 
 ## <a id="media"></a>Media Consumption
 
-Still keeping [a log](https://jeremycherfas.net/blog/what-ive-watched.html) through the year, and once again I am astonished to have almost no recollection of some things even though I wrote them down. Here are some choices I do remember.
+Still keeping [a log](https://jeremycherfas.net/what-ive-watched.html) through the year, and once again I am astonished to have almost no recollection of some things even though I wrote them down. Here are some choices I do remember.
 
 ### <a id="books"></a>Books
 

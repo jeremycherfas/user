@@ -46,7 +46,7 @@ Fickr photograph by [Mouse](http://flickr.com/photos/mouse/4932890/).
 
 Originally published 08-04-2008
 
-_This post is number 29 in __[a series](https://www.jeremycherfas.net/blog/tag:50%20x%20100%20x%2050)__._
+_This post is number 29 in [a series](https://www.jeremycherfas.net/blog/tag:50%20x%20100%20x%2050)._
 
 ![No 29 bus to Nordstan](29-bus.jpg){.left} [Good news, everyone!](http://en.wikipedia.org/wiki/Hubert_J._Farnsworth) I managed to upgrade WordPress entirely painlessly. Smooth. Flawless. A dream come true. Except (you knew that was coming) that I can no longer upload pictures to my posts. Dunno why. Voodoo. WordPress admits it's a problem, and I spent much of last night trying everything possible to fix it. But there it is. Flickr, weirdly, now tells me that posts to the blog work, and they do, whereas before it said that the post had failed, but it hadn't. For now, I'll add a little rubric and maybe come back for images later. [^1]
 
@@ -56,6 +56,6 @@ _This post is number 29 in __[a series](https://www.jeremycherfas.net/blog/tag:5
 
 Originally published 09-04-2008
 
-_This post is number 30 in [a series](http://jeremycherfas.net/category/50-x-100-x-50/)._
+_This post is number 30 in [a series](https://www.jeremycherfas.net/blog/tag:50%20x%20100%20x%2050)._
 
 ![](30-roadsign.jpg){.left} Racing around a bit at the moment, I pause to reflect that there is something energizing about simply having too much to do. I've gained an hour through the wonders of travel, and thus will manage to get this post in before the midnight deadline, and managed to accomplish a bunch of other stuff as well. Of course, most of that falls into the "best left unblogged" category. But how tawdry would it have been to have blogged about the mouthy woman on the crowded bus, who needed to share her entire content-free conversation with us all? Tomorrow.

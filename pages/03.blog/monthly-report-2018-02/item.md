@@ -51,13 +51,13 @@ My goal for this site is to write one new post and bring in five old posts a wee
 
 The old posts (just to give them a bit of a boost)
 
-* [Scenes from Roman Life 22](https://www.jeremycherfas.netblog/scenes-from-roman-life-22) 
-* [Scenes from Roman Life 5](https://www.jeremycherfas.netblog/scenes-from-roman-life-5)
-* [Scenes from Roman Life 4](https://www.jeremycherfas.netblog/scenes-from-roman-life-4)
-* [Scenes from Roman Life: 3](https://www.jeremycherfas.netblog/scenes-from-roman-life-3)
-* [Scenes from Roman Life: 2](https://www.jeremycherfas.netblog/scenes-from-roman-life-2)
-* [Scenes from Roman Life: I](https://www.jeremycherfas.netblog/scenes-from-roman-life-i)
-* [Fishing with science](https://www.jeremycherfas.netblog/fishing-with-science)
+* [Scenes from Roman Life 22](https://www.jeremycherfas.net/blog/scenes-from-roman-life-22) 
+* [Scenes from Roman Life 5](https://www.jeremycherfas.net/blog/scenes-from-roman-life-5)
+* [Scenes from Roman Life 4](https://www.jeremycherfas.net/blog/scenes-from-roman-life-4)
+* [Scenes from Roman Life: 3](https://www.jeremycherfas.net/blog/scenes-from-roman-life-3)
+* [Scenes from Roman Life: 2](https://www.jeremycherfas.net/blog/scenes-from-roman-life-2)
+* [Scenes from Roman Life: I](https://www.jeremycherfas.net/blog/scenes-from-roman-life-i)
+* [Fishing with science](https://www.jeremycherfas.net/blog/fishing-with-science)
 * [What I would like Europe to do about agricultural biodiversity](https://www.jeremycherfas.net/blog/what-i-would-like-europe-to-do-about-agricultural-biodiversity) 
 
 ##Activities
