@@ -21,7 +21,7 @@ My indecision is prompted mostly by the fact that I have never been a power user
 
 What, then, to do?
 
-Maybe nothing. In that, I am emcouraged by something <a class=”u-in-reply-to” href=”https://memex.naughtons.org/monday-7-november-2022/36993/”>John Naughton wrote yesterday</a >:
+Maybe nothing. In that, I am encouraged by something <a class="u-in-reply-to" href="https://memex.naughtons.org/monday-7-november-2022/36993/">John Naughton wrote yesterday</a >:
 
 > An obvious question — given that Twitter is a niche platform — why does its future matter? After all, [a PEW survey](https://www.pewresearch.org/fact-tank/2022/05/05/10-facts-about-americans-and-twitter/) recently found that only 23% of US adults use it — compared with the 81% who use YouTube, the 69% who use Facebook and the 40% who are on Instagram.
 

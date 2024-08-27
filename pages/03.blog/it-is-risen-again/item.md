@@ -6,7 +6,7 @@ taxonomy:
     category:
         - Blog
     tag:
-        - 'Bread and Cheese'
+        - Bread and Cheese
 summary:
     enabled: '1'
 ---
@@ -17,4 +17,4 @@ One strange thing; the dough seems to have become much more liquid as it proved.
 
 A blasted car alarm has been screeching for over an hour. That's going to make sleeping fun.
 
-_P.s. I now know that it probably was not the heat and the plastic bag. More likely, it was simply over-proofed. The enzymes can apparently turn on the gluten and destory the network. Who knoew?_
+_P.s. I now know that it probably was not the heat and the plastic bag. More likely, it was simply over-proofed. The enzymes can apparently turn on the gluten and destory the network. Who knew?_

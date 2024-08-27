@@ -13,7 +13,7 @@ subhead: " "
 header_image: '0'
 ---
 
-[Last time](http://jeremycherfas.net/blog/a-slightly-closer-look-at-bio-energy-part-1/), I looked at research on the benefits of harvesting  low-input high-diversity prairie plants as a feedstock for bioenergy. This week, practicalities and policies.
+[Last time](https://www.jeremycherfas.net/blog/a-slightly-closer-look-at-bioenergy-part-1), I looked at research on the benefits of harvesting  low-input high-diversity prairie plants as a feedstock for bioenergy. This week, practicalities and policies.
 
 Biomass can be burned directly, alongside coal or some other fuel, as a source of energy for heat or power. But unless you’re running an old-fashioned external combustion engine, like a steam locomotive, that’s not much use for transport. Biodiesel is different, but for bio-ethanol you need yeasts, which convert starches and sugars into alcohol. There’s none of the nuanced fermentation of the wine-maker, though. Just a push for as much ethanol as possible. The problem is that both the starting material -- sugar -- and the final product -- ethanol -- can poison the yeasts. Wine-makers don’t care. Grapes are never so sweet that they harm the yeast, and while different strains of yeast will succumb to higher or lower concentrations of alcohol, the goal is to make a palatable product, not one that necessarily packs the most powerful punch. Bio-engineers want none of that. They want the most ethanol per batch. That means starting off with as much sugar as possible and ending up with as much alcohol as possible, and that's where the second Science [paper](https://www.science.org/doi/10.1126/science.1131969) comes in.
 

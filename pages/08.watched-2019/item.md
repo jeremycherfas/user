@@ -312,7 +312,7 @@ I should note that I saw a bunch of films over the holidays, on flights and on T
 <li class="log-day">28</li>
 <ul>
 <li class="log-item">Finished reading <em>Love Among the Chickens</em> by P.G. Wodehouse, from Gutenberg. <strong>B</strong> Entertaining, slight romp; not enough about chickens (and especially not about <a href="https://cdnc.ucr.edu/cgi-bin/cdnc?a=d&amp;d=PRP18841227.2.7.2&amp;e=-------en--20--1--txt-txIN--------1">roup and how to treat it</a>
-). More to the point, <a href="https://www.jeremycherfas.net/reviews/love-among-the-chickens">Ukridge is Johnson</a>.</li>
+). More to the point, <a href="https://www.jeremycherfas.net/blog/love-among-the-chickens">Ukridge is Johnson</a>.</li>
 </ul>
 </ul>
 
@@ -369,7 +369,7 @@ I should note that I saw a bunch of films over the holidays, on flights and on T
 <ul class="log-entry">
 <li class="log-day">30</li>
 <ul>
-<li class="log-item"><em>The Hare With Amber Eyes: A Hidden Inheritance</em> by Edmund de Waal <strong>B</strong> <a href="https://www.jeremycherfas.net/reviews/the-hare-with-amber-eyes">So. Very. Good.</a></li>
+<li class="log-item"><em>The Hare With Amber Eyes: A Hidden Inheritance</em> by Edmund de Waal <strong>B</strong> <a href="https://www.jeremycherfas.net/blog/the-hare-with-amber-eyes">So. Very. Good.</a></li>
 </ul>
 </ul>
 <ul class="log-entry">
@@ -382,7 +382,7 @@ I should note that I saw a bunch of films over the holidays, on flights and on T
 <li class="log-day">08</li>
 <ul>
 <li class="log-item">Finished <em>Stranger Things S01</em> <strong>T</strong> Great fun, and the kids &#8211; especially Eleven &#8211; are just great. I still hate the loud noise = scary trope, but there&#8217;s not much I can do about that. Will we watch S02? Not entirely a given at the moment.</li>
-<li class="log-item">Finished <em>Three Hands in the Fountain</em> <strong>B</strong> <a href="https://www.jeremycherfas.net/reviews/three-hands-in-the-fountain">Another jolly good Roman romp</a>.</li>
+<li class="log-item">Finished <em>Three Hands in the Fountain</em> <strong>B</strong> <a href="https://www.jeremycherfas.net/blog/three-hands-in-the-fountain">Another jolly good Roman romp</a>.</li>
 </ul>
 </ul>
 <ul class="log-entry">

@@ -44,10 +44,10 @@ Finally downloaded an app for the 7-minute workout thing. I've been looking at t
 
 Most interesting podcast episodes were:
 
-* [Criminal: Professor Quaalude](https://www.jeremycherfas.net/stream/2019-9-23-1)
-* [George the Poet: Popcorn](https://www.jeremycherfas.net/stream/2019-9-24)
-* [Swindled: The Whistleblower (Karen Silkwood)](https://www.jeremycherfas.net/stream/2019-9-12)
-* [Revisionist History: The Queen of Cuba](https://www.jeremycherfas.net/stream/2019-9-9-1)
+* [Criminal: Professor Quaalude](https://www.jeremycherfas.net/blog/2019-9-23-1)
+* [George the Poet: Popcorn](https://www.jeremycherfas.net/blog/2019-9-24)
+* [Swindled: The Whistleblower (Karen Silkwood)](https://www.jeremycherfas.net/blog/2019-9-12)
+* [Revisionist History: The Queen of Cuba](https://www.jeremycherfas.net/blog/2019-9-9-1)
 
 ##Work
 

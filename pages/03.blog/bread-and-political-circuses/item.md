@@ -1,7 +1,7 @@
 ---
 title: 'Bread and Political Circuses'
-published: false
-date: '27-08-2024 10:30'
+published: true
+date: '27-08-2024 09:47'
 taxonomy:
     category:
         - blog

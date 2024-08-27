@@ -44,7 +44,7 @@ Very poor record-keeping this past month, especially with regard to ETP. Not sur
 
 ###Goals
 
-My goal for this site is to write one new post and bring in five old posts a week. I managed eight new posts and 10 old ones; good, and not good enough. I did also manage to write [a book review](https://www.jeremycherfas.net/reviews/unbelievably-dystopian); I am going to add one a month to my goals.
+My goal for this site is to write one new post and bring in five old posts a week. I managed eight new posts and 10 old ones; good, and not good enough. I did also manage to write [a book review](https://www.jeremycherfas.net/blog/unbelievably-dystopian); I am going to add one a month to my goals.
 
 The old posts (just to give them a bit of a boost)
 

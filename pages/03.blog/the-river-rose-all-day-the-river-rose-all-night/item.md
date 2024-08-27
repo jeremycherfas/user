@@ -13,8 +13,6 @@ subhead: " "
 header_image: '0'
 ---
 
-![Flooded river Tiber with a cycle path roadsign just above the water](TEVERE9.jpg)
-
 Living, as I do, just off the Lungotevere it has been an eye opener to see the Tiber’s waters rise. It rained last week. and then the water started to rise, and [rise](https://web.archive.org/web/20080725014930/http://www.planetark.com/dailynewsstory.cfm/newsid/33711/story.htm), and rise. The level is now about 12 metres -- that's 39 feet in old money -- above normal. And it just started to rain again ...
 
 On Saturday morning, when the dog and I went for our morning constitutional, it was up over the lower bank, but nothing serious. I guessed a couple of metres. By that evening it was less than two metres from the top of the bank. But by Sunday morning, there was no way to be sure, because the water had washed away the shanty town that had been hidden out of sight down on the banks and the path down to the waste ground was littered -- blocked, in fact -- with its inhabitants.
@@ -32,5 +30,3 @@ The shacks down by the river were pretty sorry too, although during the spring I
 Like I said, ambivalent.
 
 And there they all still were this evening, still bedraggled, as far as I could see, but with the benefit of two huge bonfires.
-
-Stop Press: Julian found a [portfolio of pictures](https://www.corriere.it/gallery/Cronache/vuoto.shtml?2005/11_Novembre/tevere/1&1). I used one of them above, so credit to the _Corriere della Sera_, a fine newspaper.

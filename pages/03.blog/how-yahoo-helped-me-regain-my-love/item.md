@@ -15,9 +15,9 @@ header_image: '0'
 
 ! 2021-12-24: This post is so out-dated it makes my head spin. But worth keeping nevertheless.
 
-The [preceding post] ~~http://jeremycherfas.net/blog/authentic-german-baking-is-growing-in-connecticut/~~ is something I am inordinately proud of. Doesn't look like much, does it? But trust me, it is.
+The preceding post[^3] is something I am inordinately proud of. Doesn't look like much, does it? But trust me, it is.
 
-!!! 2021-12-24: Nothing to look at, in fact, because it was so devoid of content I decided not to bring it in. But that doesn’t spoil the rest of the story.
+[^3]: 2021-12-24: Nothing to look at, in fact, because it was so devoid of content I decided not to bring it in. But that doesn’t spoil the rest of the story.
 
 A while ago I discovered [Scoop.it](https://www.scoop.it/t/bread/), which makes content curation rather easy. Content curation is, of course, nothing new. I like to think that's exactly what I’ve been doing here and at [the other place](https://agro.biodiver.se/). Scoop.it has a nifty interface for presenting to you content you might be interested in curating, and a community so that you can see, and share, content others are curating. So far, so good. But there was one, gigantic, fly in in the ointment. Every link from Scoop.it took you not to the content, but back to Scoop.it, which presumably made some sense to them. As I [ranted at the time](http://jeremycherfas.net/blog/if-you-love-something-set-it-free/):
 

@@ -17,7 +17,7 @@ Hold the front page! Genetically modified canola (rapeseed to less sensitive sou
 
 Why is anyone in the least bit surprised?
 
-[Yellow margins along the roads have long been a familiar sight](http://jeremycherfas.net/wp/work/nothing-new-under-the-sun-introduction/) in much of the UK, often far from where the rapeseed is grown. The reason is simple. Rapeseeds are small. They are moved about in giant lorries. The lorries are not sealed. So some seed spills on the ground. And grows. And multiplies. And thrives. But it isn't GM, so nobody cares much.
+[Yellow margins along the roads have long been a familiar sight](https://www.jeremycherfas.net/work/nothing-new) in much of the UK, often far from where the rapeseed is grown. The reason is simple. Rapeseeds are small. They are moved about in giant lorries. The lorries are not sealed. So some seed spills on the ground. And grows. And multiplies. And thrives. But it isn't GM, so nobody cares much.
 
 I'm frankly astounded that rape took so long to get a hold in North Dakota. Of course, what we really need is [Terminator Technology](https://www.jeremycherfas.net/search/query:Terminator), to prevent GM seeds even germinating, let alone having sex and spreading. But that's GM, so it is evil.
 

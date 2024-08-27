@@ -8,13 +8,15 @@ process:
 routable: true
 cache_enable: true
 visible: true
-subhead: 'I''m disappointed by where Flattr is (not) going'
+subhead: 'I’m disappointed by where Flattr is (not) going'
 header_image: '0'
 summary:
     enabled: '1'
     format: short
 child_type: default
 taxonomy:
+    category:
+        - blog
     tag:
         - General
 ---
