@@ -1,7 +1,7 @@
 ---
 title: 'Never endin’ mendin’'
 published: true
-date: '27-08-2024 16:-1'
+date: '27-08-2024'
 taxonomy:
     category:
         - blog
