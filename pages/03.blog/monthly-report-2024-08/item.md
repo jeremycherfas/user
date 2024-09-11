@@ -1,7 +1,7 @@
 ---
 title: 'Monthly report: August 2024'
-published: false
-date: '05-09-2024 13:04'
+published: true
+date: '05-11-2024 09:52'
 taxonomy:
     category:
         - blog
@@ -32,7 +32,7 @@ Phew! What a scorcher! Seriously, August was hotter for longer than I can rememb
 
 ### Activities
 
-Very sedentary on account of the heat.
+Very sedentary on account of the heat. Still a few good long bicycle rides on the roadster.
 
 #### August: 
 * Walking with sticks: 0
@@ -58,11 +58,11 @@ Very sedentary on account of the heat.
 
 ### Stuff Done
 
-Surprised myself with good progress on site redesign on the laptop, making good use of MAMP shared via Syncthing. Other bits of work done with no great fuss.
+Got quite involved in some work for money that I can’t really talk about and that has been going quite well. Not that I enjoy online teaching, but still.
 
 #### Hours logged per month
 
-![Graph of total hours worked each month since January 2020](hours-logged-2020-2024-07.svg)
+![Graph of total hours worked each month since January 2020](hours-logged-2020-2024-08.svg)
 
 #### Percent of logged hours
 
@@ -72,14 +72,15 @@ Previous years are still on [an archive page](https://jeremycherfas.net/blog/wor
 
 ### Goals
 
-Six posts, not too shabby for a month in which I was mostly doing nothing. Continued progress on redesigning ETP theme from scratch, but now of course I want to do the same for this site, with the additional aim of making it more efficient.
+Lots of posts, thanks to recycling Our Daily Bread, but that’s cheating, a bit. Redesign of ETP site stalled somewhat under the pressure of actually putting out the first episode of the new season and that paid work thing eating into free time.
 
 ### Niggles
 
-Knocked sideways by failure of Mackup to sync machines. Some work, many don't. Hard to tell what's going on and will take a bunch of more careful sorting out.
+The lack of sync I alluded to last month has me thinking that what I really ought to move towards is a single computer, a laptop, plugged into a big old screen at home. Also, I need to figure out a longer ride for the roadster bicycle without just doubling back to do the cyclepath twice.
 
 ### Final remarks
 
+I really need to be more protective of my time and not take on paid work just because somebody nice asks me to do something interesting.
 
 ----
 
