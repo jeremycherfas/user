@@ -1,7 +1,7 @@
 ---
 title: 'Automation wins'
 published: true
-date: '12-08-2024 10:20'
+date: '12-09-2024 10:20'
 taxonomy:
     category:
         - blog

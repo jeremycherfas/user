@@ -1,7 +1,7 @@
 ---
 title: 'Monthly report: August 2024'
 published: true
-date: '05-11-2024 09:52'
+date: '11-09-2024 09:52'
 taxonomy:
     category:
         - blog
