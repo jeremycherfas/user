@@ -56,7 +56,7 @@ Pleasantly surprised that I managed to read on a few more days in 2022 than 2021
 
 ## <a id="media"></a>Media Consumption
 
-Still keeping [a log](https://jeremycherfas.net/blog/what-ive-watched.html) through the year, and once again I am astonished to have almost no recollection of some things even though I wrote them down. Here are some choices I do remember.
+Still keeping [a log](https://jeremycherfas.net/what-ive-watched.html) through the year, and once again I am astonished to have almost no recollection of some things even though I wrote them down. Here are some choices I do remember.
 
 ### <a id="books"></a>Books
 

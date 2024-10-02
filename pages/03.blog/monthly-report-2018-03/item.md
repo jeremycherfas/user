@@ -65,7 +65,7 @@ The old posts (just to give them a bit of a boost)
 * [Obituary: Francis Crick (1916–2004)](https://jeremycherfas.net/blog/obituary-francis-crick-1916-2004) 
 * [Easter Monday](https://jeremycherfas.net/blog/easter-monday) 
 * [Have they no shame?](https://jeremycherfas.net/blog/have-they-no-shame) 
-* [If this blog ...](https://jeremycherfas.net/blog/if-this-blog-...) 
+* [If this blog ...](https://jeremycherfas.net/blog/if-this-blog) 
 * [Lagging behind](https://jeremycherfas.net/blog/lagging-behind) 
 
 ##Activities

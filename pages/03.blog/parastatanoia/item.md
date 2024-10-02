@@ -13,7 +13,7 @@ subhead: " "
 header_image: '0'
 ---
 
-This stats thing is both weird and addictive. It is fun to see how many people visit, when, and where they come from, even if there's nothing one actually does about it. But, as I said on day one (a whole week ago) of this adventure,[ What's with the guinea pigs](https://jeremycherfas.net/blog/whats-with-the-guinea-pigs/)?
+This stats thing is both weird and addictive. It is fun to see how many people visit, when, and where they come from, even if there's nothing one actually does about it. But, as I said on day one (a whole week ago) of this adventure, [What's with the guinea pigs](https://jeremycherfas.net/blog/whats-with-the-guineapigs/)?
 
 Slimstat tells me that in the past almost seven days, I’ve enjoyed a total of 1577 hits and 820 visits. (That’s not my point, I’m neither bragging nor apologizing, so stop sniggering.) My point is that fully 549 (34.8%) of the hits and 386 (47.1%) of the visits are coming from Google Images in various countries and each and every one of them is looking for that damn guinea pig.
 
