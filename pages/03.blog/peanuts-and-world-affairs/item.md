@@ -102,5 +102,5 @@ George Brooks concludes his survey of the consequences of the commercialization 
 
 ##And now ...
 
-All credit, then, to the Africans who selected and grew peanuts in West Africa and the American South, and to the people who are resurrecting African peanuts now. All credit to the peanut too, on which empires were built and [bits of empire destroyed](http://www.historytoday.com/richard-cavendish/britain-abandons-groundnuts-scheme).
+All credit, then, to the Africans who selected and grew peanuts in West Africa and the American South, and to the people who are resurrecting African peanuts now. All credit to the peanut too, on which empires were built and [bits of empire destroyed](http://www.historytoday.com/richard-cavendish/britain-abandons-groundnuts-scheme).
 
