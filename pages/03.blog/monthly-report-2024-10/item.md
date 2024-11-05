@@ -1,7 +1,7 @@
 ---
-title: 'Monthly report: August 2024'
+title: 'Monthly report: October 2024'
 published: true
-date: '02-10-2024 18:52'
+date: '05-10-2024 15:42'
 taxonomy:
     category:
         - blog
@@ -13,25 +13,36 @@ summary:
 subhead: ''
 ---
 
-
-After the heat of August, a totally cool month in more ways than one. Way up north in Northern Ireland staying in a lovely, warm and comfortable house about 100 metres from a huge great strand. People said, what for? Because we could, and it turned out to be a much better time that passed much more rapidly than I could ever have imagined.
+Back to work (haha) with quite a lot of time spent catching up with all the many things I didn't keep up with in Ireland. And then all over again after a week in London. Decidedly a good month, with some splendid warm, bright, blue-sky days.
 
 ===
 
 ## Highlights of the month:
 
-- Rental car with CarPlay, which is nice. Considering a retro-fit.
-- Vision checked, no change except possible cataracts.
-- Walks on the strand with huge skies and wide sands.
-- Visit to Malin Head, the stuff of boyhood adventures of the mind.
-- A few days of stunningly good weather.
-- Belfast Botanic Gardens and the Ulster Museum.
-- Giant’s Causeway.
-- iPlayer and Line of Duty
+- A week in London seeing my Mum and a great Van Gogh show
+- Restarted HIIT
+- Moved from Pinboard to Linkding; win.
+- Mending shirt collars with the sewing machine
+- Dentist, kinda sorta
+- Lots of visitors to town
+- Delivered a good webinar on biofortification
+- Getting a grip on subtitles in app for the podcast
+- Clean keyboard!
 
 ### Activities
 
-Good to see steps up again, and even better to reflect on some of the walks which were so different to what I am used to. Very proud of huge increase in Bed and Sleep. Didn’t actually put on much weight, which was a bit of a surprise.
+Once again, being in a different city, even if for only a week, boosts the step count with no obvious distress. And getting back into HIIT was not as hard as I expected it to be. Made an executive decision not to start big bread bakes, and was glad of that, while domestic bakes got the starters going again. The kefir is slowly coming back to life too.
+
+#### October: 
+* Walking with sticks: 0
+* Reading: 15
+* Steps (avge): 9349
+* Podcasts: 22 (18 of them [logged](https://www.jeremycherfas.net/stream/)).
+* In bed/asleep 9:02/8:00
+* 7 Minutes: 8 days
+* Cycled: 4 days
+* Weight (avge): 87.9
+* Naps: 5
 
 #### September: 
 * Walking with sticks: 0
@@ -44,35 +55,14 @@ Good to see steps up again, and even better to reflect on some of the walks whic
 * Weight (avge): N/A
 * Naps: 13
 
-#### August: 
-* Walking with sticks: 0
-* Reading: 19
-* Steps (avge): 6713
-* Podcasts: 11 (All of them [logged](https://www.jeremycherfas.net/stream/)).
-* In bed/asleep 8:22/7:04
-* 7 Minutes: 0 days
-* Cycled: 3 days
-* Weight (avge): 88.5
-* Naps:28
 
 ### Stuff Done
 
-The work for money took up a fair bit of time, but it wasn't actually all that difficult. More difficult on the house-mates, who had to tiptoe around or go out in some rotten weather. Grateful to them for that.
-
-The hardest part of being a nomad, and this was the first time I had been away from home for this long, was the business of synchronising desktop and laptop. Mackup proved to be a bust on Sonoma and as far as I can tell has not seen any effort to address the problems, so I have ditched that. Not as easy as it seems, because there are so many different ways that apps store their vitals. Not absolutely convinced I am back to square one yet, but I think so. And going forward I am going to try and make use of whatever native abilities apps may have for keeping in sync.
-
-- `Alfred` makes it easy with a workflow to backup and restore.
-- `zsh` has a [plugin for GPG encrypted internet synchronised Zsh history, with Git](https://github.com/wulfgarpro/history-sync) that I might try.
-- `Reaper` is easy enough to have on two machines.
-- What else?
-
-The solution that now seems even more attractive is the one I alluded to last month: one machine, the laptop, plugged into a big old monitor at home and making much more use of iCloud storage.
-
-Less geeky, I read The Heather Blazing by Colm Tóibín and was absolutely delighted by its quiet recounting of a life well lived. The grieving struck me as realistic, though I have no way of knowing why. Also an unimpressive Le Carré. And we managed to binge five seasons of Line of Duty, which is every bit as good as people say it is.
+Work for money went well, although I am still not entirely comfortable spouting forth on Zoom etc. Finished season six of Line of Duty and remebered to cancel my free two weeks with Acorn TV. The mystery remains: how did they get the rights when everything else they offer is of minimal interest (to me)?
 
 #### Hours logged per month
 
-![Graph of total hours worked each month since January 2020](hours-logged-2020-2024-09.svg)
+![Graph of total hours worked each month since January 2020](hours-logged-2020-2024-10.svg)
 
 #### Percent of logged hours
 
@@ -82,15 +72,15 @@ Previous years are still on [an archive page](https://jeremycherfas.net/blog/wor
 
 ### Goals
 
-Not much written at all. Sosumi.
+Six blog posts, not too shabby, even if two of them were regular features. Redesign of the podcast site is going too slowly, not least because I quite like the current version. The obstacle to customising it -- and the drive towards my own -- is the sheer difficulty of understanding what it is doing and bending it too my will.
 
 ### Niggles
 
-None
+The sync problem, getting better with each spell away from home, but not perfect yet. Oh, and, a fair amount of existential dread.
 
 ### Final remarks
 
-OK, the break is over, get back into the rut!
+Promotion/marketing is hard.
 
 ----
 
@@ -110,6 +100,15 @@ OK, the break is over, get back into the rut!
 </tr>
 </thead>
 <tbody>
+<tr>
+<td style="text-align: right;">10</td>
+<td style="text-align: center;">109.3</td>
+<td style="text-align: center;">3.53</td>
+<td style="text-align: center;">41</td>
+<td style="text-align: center;">27</td>
+<td style="text-align: center;">18</td>
+<td style="text-align: center;">14</td>
+</tr>
 <tr>
 <td style="text-align: right;">09</td>
 <td style="text-align: center;">104.8</td>
