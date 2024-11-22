@@ -341,6 +341,7 @@ img.right {
 
 .commenter p {
     text-align: right;
+    font-size: var(--step--1);
 }
 /* All inline */
 /* Styling webmentions */

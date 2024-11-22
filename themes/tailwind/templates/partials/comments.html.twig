@@ -3,27 +3,26 @@
 <!-- Moved here from below to change order of presentation -->
 
 <!-- <div class="comment"> -->
-        <h4>“Ordinary” comments</h4>
-</div>
+<h4>“Ordinary” comments</h4>
+</div> <!-- Which div does this close? -->
 <p>These are not webmentions, but ordinary old-fashioned comments left by using the form below.</p>
 <!-- Changed presentation from table to div -->
 
+<!-- Displays comments -->
     {% if grav.twig.comments|length %}
-
-            {% for comment in grav.twig.comments|array_reverse %}
-<div class="comment-content">
+        {% for comment in grav.twig.comments|array_reverse %}
+		<div class="comment-content">
                     {{comment.text}}
-</div>
-<div class="commenter">
-<p>{{comment.author}}<br />
-{{comment.date|nicetime}}</p>
-</div>
-            {% endfor %}
-
+		</div>
+		<div class="commenter">
+		<p>{{comment.author}}<br />{{comment.date|nicetime}}</p>
+		</div>
+        {% endfor %}
     {% endif %}
 
-<!-- End of presentation block -->
+<!-- End of comment presentation block -->
 
+<!-- Comment submission form -->
     <form name="{{ grav.config.plugins.comments.form.name }}"
           action="{{ grav.config.plugins.comments.form.action ?  base_url ~ grav.config.plugins.comments.form.action : page.url }}"
           method="{{ grav.config.plugins.comments.form.method|upper|default('POST') }}">
@@ -57,7 +56,6 @@
         {% for button in grav.config.plugins.comments.form.buttons %}
             <button class="button block text-center justify-center hover:bg-orange-200 text-orange-800 hover:text-blue-700 py-2 mt-2 w-1/4 m-auto border border-blue-700 hover:border-transparent rounded" type="{{ button.type|default('submit') }}">Send Comment!</button>
         {% endfor %}
-<!--         </div> -->
 
         {{ nonce_field('form', 'form-nonce')|raw }}
     </form>

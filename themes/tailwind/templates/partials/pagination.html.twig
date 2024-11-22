@@ -1,34 +1,41 @@
-{% set pagination = pagination|default(page.collection.params.pagination) %} {% set base_url = base_url|default(page.url) %} {% if pagination|length > 1 %}
+{% set pagination = pagination|default(page.collection.params.pagination) %} {% set base_url = base_url|default(page.url) %}
+
+{% if pagination|length > 1 %}
 
 <div class="pagination flex flex-row justify-center pb-2">
 	{% if pagination.hasPrev %} {% set url = (base_url ~ pagination.params ~ pagination.prevUrl)|replace({'//':'/'}) %}
-
 		<a class="hover:bg-transparent " rel="prev" href="{{ url }}"> <div class="hover:bg-orange-200 text-orange-500 hover:text-blue-700 py-2 px-4 mx-4 border border-blue-700 hover:border-orange-500 rounded ">&laquo;</div> </a>
 
 	{% else %}
-
 		<div class=" py-2 px-4 mx-4 border border-blue-700 rounded "><span>&laquo;</span></div>
 
-	{% endif %} {% for paginate in pagination %} {% if paginate.isCurrent %}
-
+	{% endif %}
+	
+	{% for paginate in pagination %}
+		{% if paginate.isCurrent %}
 		<div class="bg-transparent py-2 px-4 mx-4 font-bold border border-blue-700 rounded">{{ paginate.number }}</div>
 
-	{% elseif paginate.isInDelta %} {% set url = (base_url ~ pagination.params ~ paginate.url)|replace({'//':'/'}) %}
+		{% elseif paginate.isInDelta %}
+		{% set url = (base_url ~ pagination.params ~ paginate.url)|replace({'//':'/'}) %}
+		<a class="hover:bg-transparent " href="{{ url }}">
+		<div class="bg-transparent hover:bg-orange-200 text-orange-500 hover:text-blue-700 py-2 px-4 mx-4 border border-blue-700 hover:border-transparent rounded">
+		{{ paginate.number }}</div>
+		</a>
 
-		<a class="hover:bg-transparent " href="{{ url }}"> <div class="bg-transparent hover:bg-orange-200 text-orange-500 hover:text-blue-700 py-2 px-4 mx-4 border border-blue-700 hover:border-transparent rounded">{{ paginate.number }} </div> </a>
+		{% elseif paginate.isDeltaBorder %}
+		<div class="bg-transparent hover:bg-orange-200 text-orange-500 hover:text-blue-700 py-2 px-4 mx-4 border border-blue-700 hover:border-transparent rounded"><span>&hellip;</span>
+		</div>
 
-	{% elseif paginate.isDeltaBorder %}
-
-		<div class="bg-transparent hover:bg-orange-200 text-orange-500 hover:text-blue-700 py-2 px-4 mx-4 border border-blue-700 hover:border-transparent rounded"><span>&hellip;</span></div>
-
-	{% endif %} {% endfor %} {% if pagination.hasNext %} {% set url = (base_url ~ pagination.params ~ pagination.nextUrl)|replace({'//':'/'}) %}
-
+		{% endif %}
+	{% endfor %}
+	
+	{% if pagination.hasNext %} {% set url = (base_url ~ pagination.params ~ pagination.nextUrl)|replace({'//':'/'}) %}\
 		<a class="hover:bg-transparent " rel="next" href="{{ url }}"> <div class="bg-transparent hover:bg-orange-200 text-orange-500 hover:text-blue-700 py-2 px-4 mx-4 border border-blue-700 hover:border-transparent rounded">&raquo;</div></a>
 
 	{% else %}
-
-		<div class=" hover:text-blue-700 py-2 px-4 mx-4 border border-blue-700 rounded"><span>&raquo;</span></div>
+	<div class=" hover:text-blue-700 py-2 px-4 mx-4 border border-blue-700 rounded"><span>&raquo;</span></div>
 
 	{% endif %}
-</div>
+
 {% endif %}
+</div> <!-- End of Pagination Links -->
