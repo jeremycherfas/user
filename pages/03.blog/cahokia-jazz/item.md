@@ -15,8 +15,8 @@ book:
 	author: "Francis Spufford"
 	url: "https://uk.bookshop.org/a/9158/9780571336883"
 	year: "2024"
-	started: "2024-10-08"
-	finished: "2024-20-08"
+	started: "2023-01-22"
+	finished: "2020-02-05"
 	rating: "5"
 	image: "cahokia-jazz.jpeg"
 ---
