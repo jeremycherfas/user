@@ -246,3 +246,135 @@ template: item
 </ul>
 </ul>
 
+<li class="log-month">August</li>
+
+<ul class="log-entry">
+<li class="log-day">21</li>
+<ul>
+<li class="log-item">Started watching <em>Bad Monkey</em> on AppleTV <strong>T</strong> Very entertaining, vintage Hiaasen; is this his first to be turned into a show?</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">20</li>
+<ul>
+<li class="log-item">Finished watching <em>Cowboy Cartel</em> on AppleTV <strong>T</strong> Pretty good in the end, and I suppose they have to use actors, so yes, OK.</li>
+<li class="log-item">Finished reading <em>Cahokia Jazz</em> by Francis Spufford <strong>B</strong> Simply wonderful, deeply satisying, not least the reason that jumps us into an alternative history.</li>
+</ul>
+</ul>
+<ul class="log-entry">
+<li class="log-day">19</li>
+<ul>
+<li class="log-item">Finished watching <em>Molly’s Game</em> on AppleTV <strong>F</strong> Are we supposed to admire her unwavering moral compass?</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">16</li>
+<ul>
+<li class="log-item">Watched <em>The Instigators</em> on AppleTV <strong>F</strong> Fun heist romp, but I’m not sure they instigated anything.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">11</li>
+<ul>
+<li class="log-item">Started watching <em>Cowboy Cartel</em> on AppleTV <strong>T</strong> We’ll see. Not absolutely convinced yet.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">08</li>
+<ul>
+<li class="log-item">Finished watching <em>American Bufflo</em> by Ken Burns on AppleTV <strong>T</strong> The usual schtick and a story I kind of knew but had no appreciation of the scale of the slaughter.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">4</li>
+<ul>
+<li class="log-item">Watched <em>Klute</em> on AppleTV <strong>F</strong> So good, and so genuinely creepy.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">02</li>
+<ul>
+<li class="log-item">Finished watching <em>Presumed Innocent</em> on AppleTV <strong>T</strong> What an appalling ending, after such a good series. Cop-out.</li>
+</ul>
+</ul>
+
+<li class="log-month">September</li>
+
+Much happened, none of it recorded because holidays make these things unimportant. I read Colm Toibín's The Heather Ablaze and loved it. We watched a few episodes of Shogun and the original Beetlejuice; what was all the fuss about? And we watched Line of Duty. A lot.
+
+<li class="log-month">October</li>
+
+<ul class="log-entry">
+<li class="log-day">16</li>
+<ul>
+<li class="log-item">Finished reading <em>The Fraud</em> by Zadie Smith <strong>B</strong> Absolute magic. The first of Smith's books I've read, which I did only because I had run out of fiction and The Squeeze had just bought it. After about five pages I simply could not put it down. Fiction is so much better than fact, sometimes.</li>
+<li class="log-item">Finished watching <em>Slow Horses s04</em> on Apple TV <strong>T</strong> Still gripping, but maybe sliding, a little? And yes, fiction is still so much better than fact, sometimes.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">14</li>
+<ul>
+<li class="log-item">Finished watching <em>Line of Duty s06</em> on Acorn TV <strong>T</strong> and what a ride it was. Started at some point in September in Northern Ireland, where I am able to use iPlayer, and just squeezed in under the wire on a trial membership of Acorn TV, which seems to offer nothing else of interest. I wonder, in fact, how they snagged LoD. In any case, a stunningly effective long arc of drama. To me, the echoes of actual events -- Cyril Smith, Stephen Lawrence -- made it all the more believable, and the triumph of The Institution at the end all the more depressing. Jed Mercurio really is rather talented.</li>
+</ul>
+</ul>
+
+<li class="log-month">November</li>
+
+<ul class="log-entry">
+<li class="log-day">24</li>
+<ul>
+<li class="log-item">Watched <em>Nomadland</em> on AppleTV <strong>F</strong> Very engaging and, in its way, lyrical. Or maybe elegaic? Beautifully made.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">23</li>
+<ul>
+<li class="log-item">Started reading <em>The Foreign Correspondent</em> by Alan Furst <strong>B</strong> Back in the milieu, with an Italian flavour.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">21</li>
+<ul>
+<li class="log-item">Saw <em>Parthenope</em> at Cinema Intrastevere <strong>F</strong> Beautiful, strange, not entirely sure what was going on much of the time.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">20</li>
+<ul>
+<li class="log-item">Started watching <em>Bad Sisters s02</em> on AppleTV <strong>T</strong>Such good writing and acting. Who they gonna kill?</li>
+<li class="log-item">Watched <em>A Alma de um Ciclista</em> on Amazon Prime <strong>F</strong>Lovely gentle documentary about classic bicycles and their enthusiasts.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">18</li>
+<ul>
+<li class="log-item">Finished watching <em>The Diplomat s02</em> on Netflix <strong>T</strong> Blimey! Didn't see that coming.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">10</li>
+<ul>
+<li class="log-item">Finished watching <em>Lincoln Lawyer s03</em> on Netflix <strong>T</strong> Top second-tier stuff, watchable and crass at the same time.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">07</li>
+<ul>
+<li class="log-item"><em>Finished reading </em> Slow Horses by Mick Herron <strong>B</strong> gripping, despite having seen the TV show, with lots of interesting back story.</li>
+</ul>
+</ul>
+
+
