@@ -1,7 +1,7 @@
 ---
 title: 'Monthly report: November 2024'
 published: false
-date: '04-12-2024 15:42'
+date: '05-12-2024 15:42'
 taxonomy:
     category:
         - blog
