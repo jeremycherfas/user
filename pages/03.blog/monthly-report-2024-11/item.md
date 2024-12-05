@@ -1,6 +1,6 @@
 ---
 title: 'Monthly report: November 2024'
-published: false
+published: true
 date: '05-12-2024 15:42'
 taxonomy:
     category:
