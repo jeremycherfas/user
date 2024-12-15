@@ -12,6 +12,7 @@ content:
         by: date
 sitemap:
     changefreq: monthly
+    lastmod: '15-12-2024 18:48'
 blog_url: blog
 feed:
     description: 'Jeremy Cherfas'
