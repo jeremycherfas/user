@@ -16,6 +16,8 @@ header_image: '0'
 
 There is no escaping the fact that 2021 was (still) not a normal year, and I am not sure any year will ever be exactly comparable to the Before Times. There is too much residual self-care going on for that. And yet, and yet … it was a pretty good year, and I say that knowing full well how privileged I am. I share a pleasant space with a person who is the love of my life and my best friend, we eat well, and want for nothing. We got our vaccinations and boosters, we were able to travel a bit, within Italy, and we stayed healthy throughout. So, much to be thankful for and to appreciate.
 
+===
+
 All sorts of satisfaction came my way, some of it accompanied by money, and most of it chronicled in monthly updates. Most notable, I think, was replacing my desktop computer. I still have not finished bringing over all the bells and whistles that I had accumulated to ease my life on the old one, but I haven’t been held up for long either. The biggest single shift has been going on for much longer, and that is to move my image management out of Aperture and into Photo Mechanic. That’s a bit stop-start, and needs to finish up the old stuff so that I can get on and bring in new snaps, but eventually I think I will be up to speed. The other fun thing has been learning a bit of Python mostly for the heck of it and also to make certain repetitive tasks around here easier and more reliable. It has worked, although (as I said throughout the year) I need to keep up the momentum, on that as on everything else.
 
 ## Let’s go
