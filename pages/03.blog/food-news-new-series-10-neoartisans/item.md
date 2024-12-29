@@ -13,7 +13,7 @@ subhead: " "
 header_image: '0'
 ---
 
-Having touched on some global stuff, it occurred to me to bring the topic back home, by making good on [my promise](http://jeremycherfas.net/blog/food-news-new-series-6-stories-to-savour/) to write more about the bread-making course I went on a month or so ago.
+Having touched on some global stuff, it occurred to me to bring the topic back home, by making good on [my promise](https://jeremycherfas.net/blog/stories-to-savour/) to write more about the bread-making course I went on a month or so ago.
 
 The course was definitely firmly rooted in an artisanal tradition. But it was unlike the artisanal bread sites I've been hanging around and learning from. What is an artisanal bread? Hard to say, really, though like some other commodities, you know it when you see it. There's a focus on handwork, rather than machinery, and an avoidance of the "improvers" that are essential to industrial bread. Other improvers, though, such as vital wheat gluten, are sprinkled about with abandon. Artisan bread generally looks good, and tastes better. There's an emphasis on it being a slow process, [although not exclusively](http://www.artisanbreadinfive.com/). 
 

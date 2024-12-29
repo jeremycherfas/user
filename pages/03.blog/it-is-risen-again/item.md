@@ -4,7 +4,7 @@ published: true
 date: '19-08-2004 23:45'
 taxonomy:
     category:
-        - Blog
+        - blog
     tag:
         - Bread and Cheese
 summary:
