@@ -26,3 +26,6 @@ I’m left not much further forward than when I began. I have a list of all the 
 Whatever I decide, the task seems overwhelming; I have around 10,000 bookmarks. Editing the tags online racks up costs in Pika. Editing them offline risks quickly getting out of sync but may be the best way to go. What I really want, of course, is for the bookmarking app (the wonderful [linkding](https://linkding.link/)) to show me something like a dropdown list of tags when I start saving a new bookmark. That is probably really difficult. In the end, I’ll probably just keep muddling along.
 
 ! As far as tagging photos goes, I don’t have nearly as much of a problem because Photo Mechanic makes it relatively easy to stick to a deliberately designed hierarchical taxonomy that is also reasonably easy to extend. Best of both worlds.
+
+<a href="https://news.indieweb.org/en" class="u-syndication">Also posted on IndieNews.</a>
+
