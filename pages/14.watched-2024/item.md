@@ -1,18 +1,14 @@
 ---
-title: "What I’ve watched"
-date: '16-01-2023 15:12'
+title: "What I watched: 2024"
 visible: false
 enabled: '0'
 header_image: '1'
 template: item
 ---
 
-![surveillance cameras on a railway platform](watching.jpg){.center}
-
 <p>Key: <strong>(B)</strong> = book | <strong>(F)</strong> = film | <strong>(T)</strong> = television series | <strong>(P)</strong> = podcast series | <strong>(TH)</strong> = theater performance | <strong>(M)</strong> = musical performance | <strong>[R]</strong> = reread/rewatch/relisten | <strong>(Tk)</strong> = talk</p>
 
-!!! This is a non-exhaustive list of things I’ve read, watched, seen or otherwise enjoyed.<br />
-!!! Here are the lists [for 2019](/watched-2019); [2020](/watched-2020); [2021](/watched-2021); [2022](/watched-2022); [2023](/watched-2023).
+!!! [The current list is here](/what-ive-watched). Previous years: [2019](/watched-2019); [2020](/watched-2020); [2021](/watched-2021); [2022](/watched-2022); [2023](/watched-2023).
 
 <!-- Outer List -->
 <ul class="log">
@@ -87,7 +83,7 @@ template: item
 </ul>
 </ul>
 
-<ul class="log-entry">
+.<ul class="log-entry">
 <li class="log-day">02</li>
 <ul>
 <li class="log-item">Started watching <em>Reacher s02</em> on Amazon Prime <strong>T</strong> No change; Reacher is still Reacher, but we have back story.</li>
@@ -242,7 +238,7 @@ template: item
 <ul class="log-entry">
 <li class="log-day">31</li>
 <ul>
-<li class="log-item">Finished reading <em>Brooklyn</em> by Colm Toibìn <strong>B</strong> Absolutely delightful and, it seemed to me, insightful into lives and minds. A total gem.</li>
+<li class="log-item">Finished reading <em>Brooklyn</em> by Colm Toibìn <strong>B</strong> Absolutely delightful and, it seemed to me, insightful into lives and minds. A gem.</li>
 </ul>
 </ul>
 
@@ -458,5 +454,3 @@ Much happened, none of it recorded because holidays make these things unimportan
 <li class="log-item">Finished reading <em>The Foreign Correspondent</em> by Alan Furst <strong>B</strong> All the usual goodness, and I do like a happy, ambiguous ending.</li>
 </ul>
 </ul>
-
-
