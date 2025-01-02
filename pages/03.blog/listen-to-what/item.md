@@ -1,7 +1,7 @@
 ---
 title: 'Listen to What'
-published: false
-date: '02-01-2025 13:05'
+published: true
+date: '02-01-2025 15:51'
 taxonomy:
     category:
         - blog
@@ -14,7 +14,7 @@ subhead: "A bit of a whinge"
 header_image: '0'
 ---
 
-!!! This is a bit embarassing. For I think the first time, I have this post the same title as [a previous post](), which I realised only because that post had received webmentions that displayed on this place. The only solution is to retitle this post and reshare it.
+!!! This is a bit embarassing. For I think the first time, I gave this post the same title as [a previous post](https://www.jeremycherfas.net/blog/listen-to-this), which I realised only because that post had received webmentions that displayed on this place. The only solution is to retitle this post and reshare it. And ensure I test first ...
 
 I very much enjoyed Tracy Durnell's long post about <a class="u-in-reply-to" href="https://tracydurnell.com/2024/12/31/listening-without-a-streaming-subscription/">listening without a streaming subscription</a>, part of a series on wanting, or perhaps needing, less. It mirrors, at least partially, my own experiences of music in the past few years; having first reduced friction I now find that, in order to be more intentional, I need to reduce friction all over again
 
