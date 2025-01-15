@@ -1,5 +1,5 @@
 ---
-title: 'Year in review'
+title: 'Year in Review 2015'
 published: true
 date: '31-12-2015 17:00'
 header_image: '0'
@@ -9,6 +9,7 @@ summary:
 taxonomy:
     tag:
         - General
+        - Monthlies
     category:
         - blog
 ---

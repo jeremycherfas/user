@@ -1,5 +1,5 @@
 ---
-title: 'Annual Review: 2022'
+title: 'Year in Review 2022'
 published: true
 date: '04-01-2023 18:45'
 taxonomy:

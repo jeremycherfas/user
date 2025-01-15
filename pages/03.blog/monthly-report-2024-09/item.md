@@ -1,5 +1,5 @@
 ---
-title: 'Monthly report: August 2024'
+title: 'Monthly report: September 2024'
 published: true
 date: '02-10-2024 18:52'
 taxonomy:

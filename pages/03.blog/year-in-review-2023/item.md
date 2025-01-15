@@ -1,5 +1,5 @@
 ---
-title: 'Annual Review: 2023'
+title: 'Year in Review 2023'
 published: true
 date: '28-01-2024 17:23'
 taxonomy:
@@ -79,7 +79,7 @@ Eighteen [episodes](https://eatthispodcast.com) this year, the same as 2022, and
 
 ## <a id="moving"></a>Moving Forward
 
-Still recording various trips (but not walks) with [Overland](https://github.com/aaronpk/Overland-iOS) and still occasionally forgetting to end a trip at the end of the trip, which doesn't affect distance but does lower speed. Almost all are still underestimates. For the more frequent modes, though, thatgardly matters. Here are the overall summary statistics:
+Still recording various trips (but not walks) with [Overland](https://github.com/aaronpk/Overland-iOS) and still occasionally forgetting to end a trip at the end of the trip, which doesn't affect distance but does lower speed. Almost all are still underestimates. For the more frequent modes, though, that hardly matters. Here are the overall summary statistics:
 
 |Mode|Number|Total Km|Mean Kph|
 |---|---:|---:|---:|
