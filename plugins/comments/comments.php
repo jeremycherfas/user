@@ -196,11 +196,13 @@ class CommentsPlugin extends Plugin
 
         switch ($action) {
             case 'addComment':
-                $post = isset($_POST['data']) ? $_POST['data'] : [];
+                $post = $_POST;
+/* 
+Removed as in the way                $post = isset($_POST['data']) ? $_POST['data'] : []; 
+*/
 
                 $path = $this->grav['uri']->path();
 
-                $lang = filter_var(urldecode($post['lang']), FILTER_SANITIZE_STRING);
                 $text = filter_var(urldecode($post['text']), FILTER_SANITIZE_STRING);
                 $name = filter_var(urldecode($post['name']), FILTER_SANITIZE_STRING);
                 $email = filter_var(urldecode($post['email']), FILTER_SANITIZE_STRING);
