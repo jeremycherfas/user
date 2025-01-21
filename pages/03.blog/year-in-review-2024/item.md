@@ -1,7 +1,7 @@
 ---
 title: 'Year in Review 2024'
-published: false
-date: '15-01-2025 17:23'
+published: true
+date: '21-01-2025 16:35'
 taxonomy:
     category:
         - blog
@@ -18,16 +18,15 @@ My CDO let me down recently, as I discovered that I had given my annual reviews 
 
 ===
 
-We travelled, quite a lot, although not to anywhere new. Things flourished on the terrace. I continued to enjoy doing a lot less work for money and a lot more of my own thing. Eighty-five posts here chronicle some of those things, and if I had to single a couple out for special notice, they would be [a response](https://www.jeremycherfas.net/blog/ironrich-beans-are-not-ironrich) to the first academic paper I have written in a long, long time and the joy of [bringing my old Raleigh bicycle back into good riding condition](https://www.jeremycherfas.net/blog/ride-raleigh-ride).
+One of the most interesting activities of the year was a month in Northern Ireland. We got bounced into it, a bit, and I was somewhat worried, but in the end it turned out to be a really good month. We were in a very cozy modern house in Castlerock, with miles of beautiful beach to enjoy in what locals said was some of the best weather of the year. There wasn’t a whole lot to do but it was great to do it in an entirely new place. A couple of day trips around were good too, Derry in particular being very impressive. The centre is pretty forlorn, but one can imagine it coming back to life. And Malin Head was worth a lifetime’s wait listening to the shipping forecast.
 
-![Me, wearing a black T-shirt and brown shorts, standing holding my refurbished Raleigh supressing almost idiotic grin.](https://www.jeremycherfas.net/blog/ride-raleigh-ride/me-with-bike.jpeg){.center}
+The other best thing was a trip to Treviso and Venice as part of an organised outing to the Brompton World Championships in Mestre. The second day, cycling 95 km along the beautiful river Sile and the edge of the lagoon was the most fun I have had on two wheels since I was about 13. The actual BWC was a slight disappointment, but only because my expectations were so high. There was a bad accident on the course as I was finishing my 4<sup>th</sup> lap of 5, so the marshalls closed things off and I never did get to finish. Oh well, good fun all the same and fun to be in an all-Italian group, with one exception, for a few days.
 
-As far as online life goes, the best thing about the year was an in-person event. I know that sounds mad, but my visit to [Nürnberg in October](https://www.jeremycherfas.net/blog/indieweb-camp-nürnberg-2023) for border:none and IndieWebCamp was super enjoyable. The train rides there and back, the contact with friends old and new, the talks and hacking. All were extremely worthwhile and rewarding.
+![Me, dressed up in black jacket, blue shirt, pink Craig Aitchison tie, and shorts for the Brompton World Championships and holding my fine old Brompton five-speed.](venice-brompton.jpeg){.center}
 
-This was also the year in which I stopped using Ex-twitter and Facebook (although I have not deleted my accounts) and took the plunge into [Mastodon](https://indieweb.social/@etp). I’m starting to enjoy that more and more as I build up the people and hashtags I follow and engage with them directly. There are a few things I find tricky, like muting an account does not prevent their posts showing up when I search for a hashtag, but that may well be down to the app I use. I’m not yet doing any kind of automated POSSE to Mastodon, although I do a bit of cross-posting by hand. I’m aware of just how much automated cross-posting goes on, though, because I see the same thing there, on micro.blog, and in my feed readers. For now it is easier to scroll on by than decide on the one place I want to follow someone. If I know they are cross-posting absolutely everything, then I would prefer to follow them at their own site, but FOMO can get in the way of that.
+As I look back over the year I am once again struck by how little I have to complain about or regret. Without a hint of false modesty, life is very good indeed.
 
 ## A Bit More Detail
-
 As before, I think I will more or less follow the precedent set by last year’s organisation.
 
 - [By the Numbers](#numbers)
@@ -38,10 +37,10 @@ As before, I think I will more or less follow the precedent set by last year’s
 - [Moving Forward](#moving)
 - [Staff of Life Stuff](#bread)
 - [And the Rest](#more)
+- [Years Past](#previously)
 
 
 ## <a id="numbers"></a>By the Numbers ##
-
 All these were extracted the old-fashioned way, either by letting Apple Health tell me or by keeping a running count.
 
 - Steps per day 8561 (8735, 9096, 10,040, 9144)
@@ -50,7 +49,9 @@ All these were extracted the old-fashioned way, either by letting Apple Health t
 - BP systolic 105–135 (127–135, 119–135, 115-143, 120-147); diastolic 64–81 (65–77, 69–77, 63-83, 55–81)
 - Weight 89.06 (87.17, 88.24, 86.45, 87.23)
 
-Last year I wondered about the decline in steps per day; that seems confirmed this year. Does it matter? I still don't know. Active energy has declined too, and weight increased, so maybe a push to make the daily walk a little longer would be a good thing. Hard to know, really and right now it doesn't seem like that big a deal. Heart rate and blood pressure do not worry me.
+Do I need to graph these?
+
+Last year I wondered about the decline in steps per day; that seems confirmed this year. Does it matter? I still don’t know. Active energy has declined too, and weight increased, so maybe a push to make the daily walk a little longer would be a good thing. Hard to know, really, and right now it doesn’t seem like that big a deal. Heart rate and blood pressure do not worry me.
 
 Medically, all mostly good, although late in the year I started to have more pain in my arthritic left knee. Seems OK again right now, but might need some further attention.
 
@@ -58,57 +59,56 @@ Medically, all mostly good, although late in the year I started to have more pai
 - HIIT 37 (51, 90, 116)
 - Read 202 (199, 209, 203)
 - Podcasts 259 (208, 325, 440) logged
-- Bicycle rides 38 (Starting counting properly in 2024)
+- Bicycle rides 38 (Started counting properly in 2024)
 
-High-intensity interval training still plummeting, still boring. I am definitely now out of the habit; the question is, do I want to get back into the habit. Part of me would like to find something a little more interest, and that part of me is still tempted by Apple Fitness. Antoher part of me looks at Health's versions of Cardio Recovery (22 bpm) and Cardio Fitness (above average) and thinks, well, that's all OK. Naps remain a great blessing.
+High-intensity interval training still plummeting, still boring. I am definitely now out of the habit; the question is, do I want to get back into the habit. Part of me would like to find something a little more interesting, and that part of me is still tempted by Apple Fitness. Another part of me looks at Health’s versions of Cardio Recovery (22 bpm) and Cardio Fitness (above average) and thinks, well, that’s all OK. Then again, I probably need to stretch more. Naps remain a great blessing.
 
 ## <a id="media"></a>Media Consumption
-
-Still keeping [a log](https://jeremycherfas.net/what-ive-watched.html) through the year, and once again I am astonished to have almost no recollection of some things even though I wrote them down. Here are some choices I do remember.
+It is a good thing I keep [a log](https://jeremycherfas.net/what-ive-watched.html) of the various things I watch and read as the year rolls by, because when I look back there are plenty I can no longer recollect. Having reminded myself, here are some I do remember.
 
 ### <a id="books"></a>Books
-
-Book of the year was very definitely **Cloud Cuckoo Land** by Anthony Doerr. (The Netflix adaptation of **All the Light We Cannot See** was one of the viewing highlights.) **The Dawn of Everything** by David Graeber and David Wengrow did a number on my preconceptions, for which I am extremely grateful. I suppose I could go back now and reread Sapiens in light of it, but life is too short. Other noteworthy fiction included **Small Things Like These** by Claire Keegan, **The Interpreter of Maladies** by Jhumpa Lahiri and **Billy Phelan’s Greatest Game** by William Kennedy. Nonfiction honourable mentions to: **Weatherland** by Alexandra Harris and **Christ Stopped at Eboli** by Carlo Levi.
+It was a really fine year for books. I loved _Orwell’s Roses_ by Rebecca Solnit for the way it wove everything together and told me new things about Orwell. Rebecca Yuang’s _Yellowface_ was challenging and entertaining in equal measure. I knew nothing about Erri de Luca when I picked up _The Day Before Happiness_, but loved it for the very spare storytelling and very gripping portrait of Naples. At the other end of the spectrum, _Napoleon: a life in gardens and shadows_ by Ruth Scurr was a long but illuminating portrait from an interesting point of view that made perfect sense after the fact. Colm Tóibín was perhaps my discovery of the year, both _Brooklyn_ and the sequel _Long Island_. Or maybe it was _Cahokia Jazz_, by Frances Spufford, which led straight to _Red Plenty_, both absolutely all-enveloping. And then there was _The Fraud_ from Zadie Smith, so much to learn, such fine storytelling.
 
 ### <a id="tv+movies"></a>TV & Movies
+Although we saw a fair number of movies, on TV and in the cinema, the one that sticks out is _Perfect Days_ by Wim Wenders, a lovely, gentle film, full of beautiful quiet touches.
 
-**The Lying Lives of Adults**, set in Naples (on Netflix) is probably the one I would recommend that many people will not have seen. Slow Horses, Derry Girls, Diplomat, Inside Man and Lessons in Chemistry were all good and all probably seen by everyone. Among the few movies we saw, **A Quiet Girl** was my favourite. **Empire of Light** was very good, and all the better for having visited Margate in January. **Still**, a documentary about Michael J. Fox and Parkinson’s, was a very good documentary. We also watched **Citizen Kane** on Apple TV, prompted by an episode of In Our Time. It holds up so well, and there is so much more to see when you know what you are looking for. Very sad to see the end of **L’Engrenage**, or **Spiral**.
+On TV, _Ripley_ was very satisfying, as was _The Gentlemen_ and _Masters of the Air_. By contrast, _Presumed Innocent_ was a total cop-out. Perhaps the watch of the year, though, was the entire run of _Line of Duty_; old news to everyone else but we had never managed to see any of it before this year. Thanks, Ireland. _The Diplomat_ s02 was pretty good too.
 
 ## <a id="etp"></a>Eat This Podcast
+Published 19 [episodes](https://eatthispodcast.com), including a remix of an older one, and 32 issues of [Eat This Newsletter](https://buttondown.email/jeremycherfas). Slightly surprised when I looked at some of the stats for the year. The three most popular were Baby Food, Pottery and Water. Fine epsiodes, each of them, but I’m puzzled that Anthony Mongiello and his stuffed-crust pizza didn’t get more listens. I also wonder whether the topic of women in butchery put people off. It is still early days for the anchovy extravaganza, which makes the point that one of the nice things about most episodes is that they are in a sense timeless, and that also means I need to be better about promoting the back catalogue. As for podcast competitions, I fear it is a permanently losing game, although there are a couple I think worthy of submitting somewhere, if only there were a category for one-person labours of love.
 
-Eighteen [episodes](https://eatthispodcast.com) this year, the same as 2022, and 27 issues of [Eat This Newsletter](https://buttondown.email/jeremycherfas). It is all bubbling along nicely, not shooting up, not falling down. I didn’t do much extra in the way of promotion, except for joining Mastodon late in the year, and that did seem to result in a boost in people visiting the website. I decided to try and get over my snittiness about Big Podcasting and enter a couple of awards again in 2023. Nothing to lose except money and, fleetingly, self-esteem. We shall see.
+![Graph of podcast listener numbers in 2024 showing very clear spikes on day of publication and lower floor in the second part of the year](listens-2024.png)
+
+It’s odd. I don’t think there has been a huge drop-off in the peak listening (as recorded by Blubrry), but there are definitely far fewer people listening between episodes. No idea what is driving that. Could be the enshittification of Twitter, which I am no longer using at all. I can’t think what else it might be. Looking further back, it was also low up to about late 2023, so perhaps that’s actually the important baseline and I am worrying for nothing. Half the months in 2024 had more listeners than all months bar one in 2023, so yes, I **am** worrying for nothing. And the people who listen are **listening**; on average to about 88% of each episode.
 
 ## <a id="moving"></a>Moving Forward
-
 Still recording various trips (but not walks) with [Overland](https://github.com/aaronpk/Overland-iOS) and still occasionally forgetting to end a trip at the end of the trip, which doesn't affect distance but does lower speed. Almost all are still underestimates. For the more frequent modes, though, that hardly matters. Here are the overall summary statistics:
 
 |Mode|Number|Total Km|Mean Kph|
 |---|---:|---:|---:|
-|boat|10|35|8.4|
-|plane|2|0.0|0.0|
-|taxi|8|147|41.9|
-|tram|2|3.4|12.1|
-|metro|2|43|24.8|
-|car2go|5|36|12.8|
-|train|15|2856|68.9|
-|bicycle|48|799|11.0|
-|car|97|5380|37.9|
-|bus|102|524|13.3|
+|boat|16|175|3.9|
+|plane|4|5400|624|
+|taxi|12|533|26.1|
+|tram|2|4| |
+|metro|4|15|2.3|
+|car2go|0| | |
+|train|22|3133|63.5|
+|bicycle|67|938|9.9|
+|car|120|5466|20.7|
+|bus|116|947|11.8|
 </br>  
 To note:
 
-- Bicycle trips way up in number and distance. Happy.
-- Still no separate records for e-bike rides, and I do not recall any.
-- Those boat trips? *Vaporetti*, in Venice.
-</br>
+- Bicycle trips continuing up.
+- No car sharing at all.
 
-For further analysis, I focus on only those modes of transport that I used more than five times. Double the distance by car this year compared to last, but it is still a stupid luxury. Some good train rides too.
+For further analysis, I focus on only those modes of transport that I used more than five times (excluding boats, natch).
 
-![Four horizontal bar graphs of summary statistics for trips by taxi, bus, bicycle, train and car](transport-summary-2023.svg){.center}
+![Four horizontal bar graphs of summary statistics for trips by taxi, bus, bicycle, train and car](transport-summary-2024.svg){.center}
 
-I did clean up the janky Python scripts that produce the data and graphs, as promised a year ago, and they have worked well. A couple of anomalies, though, alerted me to some trips being duplicated. I had to go through by hand to eliminate them, and it didn’t make a huge difference overall. The task for 2024 is to incorporate a check for duplicates *before* the data get written to a file.
+Hard to know what to highlight. Overall, the rankings are as they were before — no surprises in that — although the actual numbers are different. Quite a lot less time in the car, for example, and quite a lot further on the bicycle (and in taxis).
 
-I like the idea that these two static maps, for the first and last days f the year, are a kind of bridge between one year and the next. New Years Day has never meant all that much to me, and this year we were in bed by 21:30, but if culture has decided on a special day, it is easier to go with the flow than decide I really want the new year to begin on, say, 22 March. Which I do
+I like the idea that the two static maps, for the first and last days of the year, are a kind of bridge between one year and the next. New Years Day has never meant all that much to me, and this year we were in bed by 21:30, but if culture has decided on a special day, it is easier to go with the flow than decide I really want the new year to begin on, say, 22 March. Which I do.
 
 ![Map of my location on 2024-01-01](2024-01-01.png){.center}
 
@@ -116,11 +116,19 @@ I like the idea that these two static maps, for the first and last days f the ye
 
 ## <a id="bread"></a>Staff of Life Stuff
 
-About the same effort as 2022, with 125 loaves baked on 29 occasions, not counting specials just for us. At the start of the year I tried following the extremely detailed instructions for the basic sourdough from Maurizio Leo's *The Perfect Loaf*. It was OK, but only OK, and I haven't opened the book since. So, am I unadventurous or just content with what I have? You be the judge.
+Slightly down on last year, 120 loaves all told _versus_ 125 last year. Still, not too shabby. A couple of interesting one-off experiments, for us, but nothing to enter the rotation permanently. I do need to do the 100% rye with sunflower seeds again. I miss it.
 
 ## <a id="more"></a>And the Rest
-Funny; among the intentions I listed here last year was "some sort of topic index to this site". I have absolutely no recollection what that might have been about and obviously did not do anything about it. Something beyond tags, obviously, but what? I know at one point while I was bringing all the old posts in I wrote a little thing to identify longer posts. Maybe I was thinking of curating those in some fashion. To do that for real I probably need to see an overall distribution of the length of posts, the better to set a cut-off length. Noted.
+This section seems to be a graveyard of ideas, which makes me wary of adding anything this year. But maybe it is also an opportunity to commit publicly to the one thing I really want to do: redesign this site. There, I’ve done it.
 
-Onwards; I've taken almost a twelfth of a year to get to this point (but still marginally quicker than last year).
+## <a id="previously"></a>Years Past
+A new section. It will take some spelunking to find 2016, 2017, 2019 and 2020 if they exist.  
+* [Year in Review 2015](https://www.jeremycherfas.net/blog/year-in-review-2015) 
+* [Year in Review 2018](https://www.jeremycherfas.net/blog/year-in-review-2018) 
+* [Year in Review 2021](https://www.jeremycherfas.net/blog/year-in-review-2021) 
+* [Year in Review 2022](https://www.jeremycherfas.net/blog/year-in-review-2022) 
+* [Year in Review 2023](https://www.jeremycherfas.net/blog/year-in-review-2023)
 
-[comment]: # (Copy year to `compass-notebook`. Use `alltrips-allyear.ipynb` to build the CSV. `summary-stats.ipnb` to make the 4-way graph)
+! Hard to believe I had to spread the writing of this out over six days, but there it is.
+
+[comment]: # (2024: use `concat_trips.sh` to build the full-year CSV. Don't forget to de-dupe. `summary-stats.ipynb` to make the 4-way graph)
