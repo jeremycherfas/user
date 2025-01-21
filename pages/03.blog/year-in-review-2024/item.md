@@ -14,7 +14,7 @@ subhead: "A kind of roundup"
 header_image: '0'
 ---
 
-My CDO let me down recently, as I discovered that I had given my annual reviews at least three different kinds of title, and as I had also chosen to not give them their own tag, distinct from _Monthlies_, it was a bit of a pain finding them. As it is, three I still have not found, but I have another whole year to do that. If, indeed, they exist. And as I seem to have a general outline format, I shall continue to use that.
+My CDO let me down recently, as I discovered that I had given my annual reviews at least three different kinds of title, and as I had also chosen to not give them their own tag, distinct from _Monthlies_, it was a bit of a pain finding them. As it is, four I still have not found, but I have another whole year to do that. If, indeed, they exist. And as I seem to have a general outline format, I shall continue to use that.
 
 ===
 
@@ -48,7 +48,7 @@ All these were extracted the old-fashioned way, either by letting Apple Health t
 - Resting Heart Rate 54 bpm (53, 54, 54, 53)
 - BP systolic 105–135 (127–135, 119–135, 115-143, 120-147); diastolic 64–81 (65–77, 69–77, 63-83, 55–81)
 - Weight 89.06 (87.17, 88.24, 86.45, 87.23)
-
+</br>
 Do I need to graph these?
 
 Last year I wondered about the decline in steps per day; that seems confirmed this year. Does it matter? I still don’t know. Active energy has declined too, and weight increased, so maybe a push to make the daily walk a little longer would be a good thing. Hard to know, really, and right now it doesn’t seem like that big a deal. Heart rate and blood pressure do not worry me.
@@ -60,8 +60,8 @@ Medically, all mostly good, although late in the year I started to have more pai
 - Read 202 (199, 209, 203)
 - Podcasts 259 (208, 325, 440) logged
 - Bicycle rides 38 (Started counting properly in 2024)
-
-High-intensity interval training still plummeting, still boring. I am definitely now out of the habit; the question is, do I want to get back into the habit. Part of me would like to find something a little more interesting, and that part of me is still tempted by Apple Fitness. Another part of me looks at Health’s versions of Cardio Recovery (22 bpm) and Cardio Fitness (above average) and thinks, well, that’s all OK. Then again, I probably need to stretch more. Naps remain a great blessing.
+</br>
+High-intensity interval training still plummeting, still boring. I am definitely now out of the habit; the question is, do I want to get back into the habit? Part of me would like to find something a little more interesting, and that part of me is still tempted by Apple Fitness. Another part of me looks at Health’s versions of Cardio Recovery (22 bpm) and Cardio Fitness (above average) and thinks, well, that’s all OK. Then again, I probably need to stretch more. Naps remain a great blessing.
 
 ## <a id="media"></a>Media Consumption
 It is a good thing I keep [a log](https://jeremycherfas.net/what-ive-watched.html) of the various things I watch and read as the year rolls by, because when I look back there are plenty I can no longer recollect. Having reminded myself, here are some I do remember.
@@ -75,7 +75,7 @@ Although we saw a fair number of movies, on TV and in the cinema, the one that s
 On TV, _Ripley_ was very satisfying, as was _The Gentlemen_ and _Masters of the Air_. By contrast, _Presumed Innocent_ was a total cop-out. Perhaps the watch of the year, though, was the entire run of _Line of Duty_; old news to everyone else but we had never managed to see any of it before this year. Thanks, Ireland. _The Diplomat_ s02 was pretty good too.
 
 ## <a id="etp"></a>Eat This Podcast
-Published 19 [episodes](https://eatthispodcast.com), including a remix of an older one, and 32 issues of [Eat This Newsletter](https://buttondown.email/jeremycherfas). Slightly surprised when I looked at some of the stats for the year. The three most popular were Baby Food, Pottery and Water. Fine epsiodes, each of them, but I’m puzzled that Anthony Mongiello and his stuffed-crust pizza didn’t get more listens. I also wonder whether the topic of women in butchery put people off. It is still early days for the anchovy extravaganza, which makes the point that one of the nice things about most episodes is that they are in a sense timeless, and that also means I need to be better about promoting the back catalogue. As for podcast competitions, I fear it is a permanently losing game, although there are a couple I think worthy of submitting somewhere, if only there were a category for one-person labours of love.
+Published 19 [episodes](https://eatthispodcast.com), including a remix of an older one, and 32 issues of [Eat This Newsletter](https://buttondown.email/jeremycherfas). Slightly surprised when I looked at some of the stats for the year. The three most popular were Baby Food, Pottery and Water. Fine episodes, each of them, but I’m puzzled that Anthony Mongiello and his stuffed-crust pizza didn’t get more listens. I also wonder whether the topic of women in butchery put people off. It is still early days for the anchovy extravaganza, which makes the point that one of the nice things about most episodes is that they are in a sense timeless, and that also means I need to be better about promoting the back catalogue. As for podcast competitions, I fear it is a permanently losing game, although there are a couple I think worthy of submitting somewhere, if only there were a category for one-person labours of love.
 
 ![Graph of podcast listener numbers in 2024 showing very clear spikes on day of publication and lower floor in the second part of the year](listens-2024.png)
 
@@ -97,11 +97,10 @@ Still recording various trips (but not walks) with [Overland](https://github.com
 |car|120|5466|20.7|
 |bus|116|947|11.8|
 </br>  
-To note:
-
+To note:  
 - Bicycle trips continuing up.
 - No car sharing at all.
-
+</br>
 For further analysis, I focus on only those modes of transport that I used more than five times (excluding boats, natch).
 
 ![Four horizontal bar graphs of summary statistics for trips by taxi, bus, bicycle, train and car](transport-summary-2024.svg){.center}
