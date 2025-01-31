@@ -61,9 +61,17 @@
     --step-5: calc(((var(--fluid-min-size-5) * 1rem) + (var(--fluid-max-size-5) - var(--fluid-min-size-5)) * var(--fluid-bp)));
 }
 
+html {
+	color-scheme: light dark;
+	--black: oklch(0% 0 0);
+	--white: oklch(100% 0 0);
+	--background: light-dark(var(--white), var(--black));
+	--text: light-dark(var(--black), var(--white);)
+}
+
 body {
-    background-color: white;
-    color: #333;
+    background-color: var(--background);
+    color: var(--text)
     font-family: Noto Serif, serif;
     line-height: 1.6;
     font-weight: 400;
@@ -88,7 +96,7 @@ h1 {
 
 h2 {
     font-size: var(--step-1);
-    color: #222;
+/*     color: #222; */
 }
 
 h3, h4, h5 {
@@ -96,15 +104,15 @@ h3, h4, h5 {
 }
 
 h3 {
-    color: #444;
+/*     color: #444; */
 }
 
 h4 {
-    color: #666;
+/*     color: #666; */
 }
 
 h5 {
-    color: #888;
+/*     color: #888; */
 }
 
 .e-content {

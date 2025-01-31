@@ -1,11 +1,11 @@
 <!-- This is based on bsag's menu  -->
-<header class="w-full bg-gray-200 px-4 mb-2 md:mb-1 lg:mx-auto md:border-b-8 md:border-gray-300">
+<header class="w-full px-4 mb-2 md:mb-1 lg:mx-auto md:border-b-8 md:border-gray-300">
 
 <style type=text/css>input#nav-toggle:checked~label#show-button{display:none}input#nav-toggle:checked~label#hide-button{display:flex}input#nav-toggle:checked~#nav-menu{display:block}</style>
 
-<section class="pt-4 items-center md:pb-4 md:16 md:mx-0 md:px-4 md:relative md:flex md:flex-grow md:items-center md:content-center pb-2 bg-gray-200 ">
+<section class="pt-4 items-center md:pb-4 md:16 md:mx-0 md:px-4 md:relative md:flex md:flex-grow md:items-center md:content-center pb-2 ">
 
-	<nav class="flex items-center justify-between flex-wrap opacity-100 pb-2 bg-gray-200 ">
+	<nav class="flex items-center justify-between flex-wrap opacity-100 pb-2  ">
 		<a href="{{ base_url_absolute }}" class="name">
 		<h1 class=" m-0 text-blue-700">Jeremy Cherfas</h1>
 		</a>
@@ -52,12 +52,12 @@
                         {% endif %}
 
                         {% for p in my_collection %}
-                        <!~~ Not a tag page ~~>
+                        
                         {% if p.header.menu %}
                         {% if page.slug == p.slug %}
-                        <li class="menu"><a href="" class="text-blue-800 inline-block mb-0 tracking-wide uppercase font-bold md:px-4">{{ p.menu }}</a></li>
+                        <li class="menu"><a href="" class=" inline-block mb-0 tracking-wide uppercase font-bold md:px-4">{{ p.menu }}</a></li>
                         {% else %}
-                        <li class="menu"><a href="{{ p.url }}" class="text-blue-800 inline-block mb-0 tracking-wide uppercase md:px-4">{{ p.menu }}</a></li>
+                        <li class="menu"><a href="{{ p.url }}" class=" inline-block mb-0 tracking-wide uppercase md:px-4">{{ p.menu }}</a></li>
                         {% endif %}
                         {% endif %}
                         {% endfor %}
