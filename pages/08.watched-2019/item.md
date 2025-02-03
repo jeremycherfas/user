@@ -9,7 +9,7 @@ template: item
 <p>Key: <strong>(B)</strong> = book | <strong>(F)</strong> = film | <strong>(T)</strong> = television series | <strong>(P)</strong> = podcast series | <strong>(TH)</strong> = theater performance | <strong>(M)</strong> = musical performance |<strong>[R]</strong> = reread/rewatch/relisten | <strong>(Tk)</strong> = talk</p>
 
 !!! This is a non-exhaustive list of things I read, watched, saw or otherwise enjoyed in 2019.<br />
-!!! [The current list is here](/what-ive-watched). Other years: [2020](/watched-2020); [2021](/watched-2021); [2022](/watched-2022); [2023](/watched-2023).
+!!! [The current list is here](/what-ive-watched). Other years: [2020](/watched-2020); [2021](/watched-2021); [2022](/watched-2022); [2023](/watched-2023); [2024](/watched-2024).
 
 <ul class="log">
 <li class="log-month">December</li>

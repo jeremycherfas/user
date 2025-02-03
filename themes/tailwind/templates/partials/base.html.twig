@@ -43,7 +43,7 @@
 <body id="top" class="container mx-auto">
 
 <!-- base.html.twig to Set max width and centres -->
-<div class="opacity-100 sticky top-0 z-20">
+<div class="opacity-100 sticky top-0 z-20" style="background-color: white;">
 <!-- Moving menu block to partial -->
 	{% block menu %} {% include 'partials/menu.html.twig' %} {% endblock menu %} 
 <!-- 
@@ -89,6 +89,6 @@ Just repeats the same post.
 <!-- End all items inc sidebar -->
 
 {% block bottom %} {{ assets.js('bottom')|raw }} {% endblock bottom %} 
-{{ vardump(page.template) }}
+
 </body>
 </html>
