@@ -12,6 +12,7 @@ Thumbs.db
 *.zip
 
 /themes/newtheme/*
+/themes/newtheme-bak/*
 
 newhook.php
 
