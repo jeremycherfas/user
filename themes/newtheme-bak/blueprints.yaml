@@ -1,0 +1,16 @@
+name: newtheme
+version: 0.0.1
+description: My New Theme
+icon:  ???
+author:
+  name: Jeremy Cherfas
+  email: grav@jcherfas.fastmail.fm
+  url: https://jeremycherfas.net
+homepage: 
+demo: 
+keywords: 
+bugs: 
+license: 
+
+dependencies:
+  - { name: grav, version: '>=1.6.0' }

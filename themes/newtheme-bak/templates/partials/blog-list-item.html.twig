@@ -1,0 +1,28 @@
+<div class="h-entry">
+
+    <div class="">
+        <div class="date-block ">
+            {% include 'partials/blog/date.html.twig' %}
+        </div>
+
+        <div class=" ">
+        {% include 'partials/blog/title.html.twig' %}
+        </div>
+
+<!-- End title stuff -->
+
+{% include 'partials/hcard.html.twig' %}
+
+<div class="e-content">
+    {% if page.summary != page.content %}
+            {{ page.summary|raw }}
+			 <span style="float: right; font-size: smaller;">
+			 <a href="{{ page.url }}">There’s more  ➢</a>
+			 </span>
+    {% else %}
+        {{ page.content|raw }}
+    {% endif %}
+</div> <!-- End e-content -->
+</div> <!-- End item So not needed? -->
+
+</div> <!-- End h-entry -->

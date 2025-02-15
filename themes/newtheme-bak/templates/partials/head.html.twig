@@ -1,0 +1,17 @@
+	<meta charset="utf-8" />
+	<title> {% if page.title %}{{ page.title|e('html') }} | {% endif %}{{ site.title|e('html') }} </title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="icon" type="image/png" href="{{ url('theme://images/logo.png') }}" />
+	<link rel="canonical" href="{{ page.url(true, true) }}" />
+	<link rel="webmention" href="https://webmention.herokuapp.com/api/webmention" />
+	<link rel="alternate" type="application/atom+xml" title="Feed (Atom)" href="{{ base_url ~ "/blog.atom"}}" />
+	<link rel="alternate" type="application/rss+xml" title="Feed (RSS)" href="{{ base_url ~ "/blog.rss"}}" />
+	<link rel="alternate" type="application/json" title="Feed (json)" href="{{ base_url ~ "/blog.json"}}" />
+	<link href="https://indieweb.social/@etp" rel="me">
+	<style>
+		@import url('https://fonts.bunny.net/css?family=Montserrat&display=swap');
+		@import url('https://fonts.bunny.net/css?family=Noto+Serif&display=swap');
+		@import url('https://fonts.bunny.net/css?family=Lato&display=swap');
+	</style> 
+

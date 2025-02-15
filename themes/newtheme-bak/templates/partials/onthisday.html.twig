@@ -1,0 +1,21 @@
+<div class="onthisday ">
+<h3 class="text-center">On This Day</h3>
+
+{% set targetday = page.header.date | slice(0,5) %}
+{% set mycount = 0 %}
+
+{% for p in my_collection %}
+	{% set myday = p.header.date | slice(0,5) %}
+	{% if myday == targetday and p.header.taxonomy.tag[0] != 'podcasts' and p.header.date | slice(6,4) != page.header.date | slice(6,4) %}
+    	<div class=" ">
+			<time class=" ">{{ p.header.date | slice(6,4) }} </time>
+			<a class=" ">{{ p.title }}</a>
+    	</div>
+		{% set mycount = mycount+1 %}
+	{% endif %}
+{% endfor %}
+
+{% if mycount is same as(0) %}
+	<p class="text-center">I didn’t write anything.</p>
+{% endif %}
+</div> <!-- End On This Day -->

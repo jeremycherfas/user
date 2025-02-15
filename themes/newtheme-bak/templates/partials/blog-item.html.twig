@@ -1,0 +1,137 @@
+<div class="h-entry ">
+
+<div class="item">
+	<div class="article">
+
+<!-- Title stuff -->
+		<div class="date-clock">
+		{% include 'partials/blog/date.html.twig' %} 
+		</div>
+		<div class="">
+		{% include 'partials/blog/title.html.twig' %}
+		{% if page.header.subhead %} 
+			<h2 class="">{{ page.header.subhead }}</h2>
+		{% endif %} 
+		</div>
+<!-- End title stuff -->
+
+	{% include 'partials/hcard.html.twig' %} 
+
+		<div class="e-content">
+<!-- Is there an image in the front matter?  -->
+		{% if page.header.image %} 
+			{% if page.header.image | starts_with('artwork-resized') %} 
+<!-- This is a listen with a podcast image -->
+			<a href="{{page.header.theurl}}" class="u-listen-of">
+				<img class="float-left" src="{{ page.url ~ '/' ~ page.header.image }}" alt="Podcast artwork" height="150" width="150"> 
+			</a>
+			{% block listen %}
+				{% include 'partials/listen-item.html.twig' %}
+			{% endblock listen %}
+			{% endif %}
+		{% endif %}
+
+<!-- Is this a book review, which gets special card -->		
+		{% if page.header.book %}
+			{% include 'partials/bookcard.html.twig' %}
+		{% endif %}
+
+<!-- This is a Post		 -->
+		{% if not page.header.image | starts_with('artwork-resized') %} 
+<!-- Do not repeat content if this is a podcast listen -->
+			{{ page.content|raw }}
+		{% endif %} 
+		</div> <!-- End of e-content -->
+	</div> <!-- End div article -->
+</div> End div item
+<!-- Ends Section Article; the rest is comments -->
+</div> <!-- Ends h-entry -->
+
+<!-- I THINK this is relevant only in the About page -->
+	{% if page.header.form == 'contact-form' %} <hr class=" "> 
+	<h2 class=" ">Get in touch</h2>
+	{% include "forms/form.html.twig" with { form: forms( {route:'/form'} ) } %} 
+	<hr>
+	{% endif%}
+
+
+<!-- Tag(s) displayed -->
+<div class="">
+	{% include 'partials/blog/taxonomy.html.twig' %} 
+</div>
+
+<!-- Pagination -->
+<div class="pagination"> <!-- Will need formatting -->
+	{% if not page.isLast %} 
+		<a href="{{ page.prevSibling.url }}">Previous</a> <!-- Need for a marker? -->
+	{% endif %} 
+
+	{% if not page.isFirst %} 
+		<a href="{{ page.nextSibling.url }}">Next</a> <!-- Need for a visual marker? -->
+	{% endif %} 
+</div>
+
+<!-- Got a comment -->
+<!-- 
+Display comments and webmentions first
+Then have the comment submission forms below
+ -->
+ <!-- Display Comments form -->
+	{% if config.plugins.comments.enabled %}
+		{% include 'partials/comments.html.twig' with { 'page' : page } %}
+	{% endif %} 
+</div>
+
+<!-- 
+This really does not need to be hidden behind <details>
+If there are none, it should not display anything.
+So doesn't even really need a heading. The Script alone is enough
+ -->
+<details style=" margin: 1.0rem;">
+	<summary style="font-size: var(--step-1); color: #b14600;">
+		Reactions from around the web 
+	</summary>
+
+	<script id="webmention-hosted">
+		(function() {
+		    var sn = document.createElement("script"),
+		        s = document.getElementsByTagName("script")[0],
+		        url;
+		    url = document.querySelectorAll
+		        ? document.querySelectorAll("link[rel~=canonical]")
+		        : false;
+		    url = url && url[0]
+		        ? url[0].href
+		        : false;
+		    sn.type = "text/javascript";
+		    sn.async = true;
+		    sn.src = "//webmention.herokuapp.com/api/embed?url=" + encodeURIComponent(url || window.location);
+		    s.parentNode.insertBefore(sn, s);
+		}());
+	</script>
+	
+</details>
+
+<div class="">
+ 	<h2>Two ways to respond: webmentions and comments</h2>
+		<h4>Webmentions</h4>
+	<p>
+		<a href="https://indieweb.org/Webmention">Webmentions</a> allow conversations across the web, based on a web standard. They are a powerful building block for the decentralized social web. 
+	<p>
+	<form id="webmention-form" action="https://webmention.herokuapp.com/api/webmention" method="post">
+		<div> <!-- Display of form -->
+		<label for="webmention-source">
+			If you write something on your own site that links to this post, you can send me a <a href="http://indieweb.org/webmention">Webmention </a> by putting your post's URL in here: 
+		</label>
+		<input id="webmention-source" type="url" name="source" placeholder="URL/Permalink of your article"> 
+		</div>
+
+		<div>
+		<button class="button" type="{{ button.type|default('submit') }}">
+			Send Webmention! 
+		</button>
+		</div>
+		<input id="webmention-target" type="hidden" name="target" value="{{ page.permalink }}"> 
+	</form>
+
+

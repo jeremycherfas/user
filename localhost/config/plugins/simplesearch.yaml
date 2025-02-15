@@ -1,7 +1,7 @@
 enabled: true
 built_in_css: false
 built_in_js: true
-display_button: true
+display_button: false
 min_query_length: 3
 route: /search
 search_content: rendered
@@ -15,3 +15,15 @@ ignore_accented_characters: false
 order:
   by: date
   dir: desc
+searchable_types:
+  title: true
+  content: true
+  taxonomy: true
+  header: false
+header_keys_ignored:
+  - title
+  - taxonomy
+  - content
+  - form
+  - forms
+  - media_order
