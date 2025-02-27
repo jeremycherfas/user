@@ -36,9 +36,9 @@ The final strange thing about plants in pots, especially perennials, is that har
 
 ![Sickly cycad with yellowing leaves immediately after repotting, 23 July 2023](cycad-2023-07-23.jpg){.center}
 
-It is a huge plant, which I can barely lift, and prickly as all get out, but I managed to manhandle it out of its pot to reveal it was totally root-bound, with pockets of some sort of fungus in among the roots. I cut off some of the biggest roots and tried to tease the rest out a bit before plonking it is a much bigger pot and somehow filling it with soil without getting pricked to death. I had done what I could for it. 
+It is a huge plant, which I can barely lift, and prickly as all get out, but I managed to manhandle it out of its pot to reveal it was totally root-bound, with pockets of some sort of fungus in among the roots. I cut off some of the biggest roots and tried to tease the rest out a bit before plonking it is a much bigger and somehow filling it with soil without getting pricked to death. I had done what I could for it. 
 
-Just as it can be hard to notice a plant’s decline, so too it can be hard to when things have improved. A couple of days ago it seemed that the leaves were much greener. (I had chopped away a couple of the lower whorls, but even those left were not in great shape.) Was that possible? Fortunately, I had taken a photograph (above) to celebrate the repotting. So this evening I took another (below). And yes, it has definitely improved.
+Just as it can be hard to notice a plant’s decline, so to it can be hard to when things have improved. A couple of days ago it seemed that the leaves were much greener. (I had chopped away a couple of the lower whorls, but even those left were not in great shape.) Was that possible? Fortunately, I had taken a photograph (above) to celebrate the repotting. So this evening I took another (below). And yes, it has definitely improved.
 
 ![Cycad four weeks later, the leaves much greener](cycad-2023-08-19.jpg){.center}
 
