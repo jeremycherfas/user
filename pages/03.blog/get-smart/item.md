@@ -14,13 +14,11 @@ subhead: " "
 header_image: '0'
 ---
 
-![Agent Smart holding a shoe to his ear](get-smart.jpeg){.center} 
-
-This started a few days ago when [JamesG announced the redesign of his website](https://jamesg.blog/2024/06/28/new-design/). The design and the thinking behind it are great. There was just one thing about it that grated with me: a “straight” quote, right there in the title.[^1]
-
-![](before.png){.center}
+![Agent Smart holding a shoe to his ear](get-smart.jpeg){.img-left} This started a few days ago when [JamesG announced the redesign of his website](https://jamesg.blog/2024/06/28/new-design/). The design and the thinking behind it are great. There was just one thing about it that grated with me: a “straight” quote, right there in the title.[^1]
 
 ===
+
+![](before.png){.center}
 
 I’ve been a stickler for typographic quotes — single and double — since forever,[^2] so naturally I just had to stick my oar in, screenshot the result and send it to James.
 
