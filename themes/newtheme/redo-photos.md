@@ -1,0 +1,12 @@
+a-morning-of-joy/item.md:template: photo
+a-visit-to-santoreste/item.md:template: photo
+a-walk-near-monteflavio/item.md:template: photo
+an-excursion/item.md:template: photo
+bike-ride-to-the-castello-della-magliana/item.md:template: photo
+eating-a-legend/item.md:template: photo
+library-of-congress/item.md:template: photo
+open-studios-at-the-spanish-academy-in-rome/item.md:template: photo
+rabbit-quest-20240126/item.md:template: photo
+rabbit-quest-20240604/item.md:template: photo
+small-splashes-of-colour/item.md:template: photo
+to-the-sea-and-back/item.md:template: photo

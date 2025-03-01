@@ -1,0 +1,42 @@
+{% if grav.twig.enable_comments_plugin %}
+
+
+<!-- Displays comments -->
+    {% if grav.twig.comments|length %}
+<h3>Comments</h3>
+<ol>        
+		{% for comment in grav.twig.comments|array_reverse %}
+        <li>From {{comment.author}}, {{comment.date|nicetime}}: {{comment.text}}</li>
+<!-- 
+		<div class="comment-content">
+                    {{comment.text}}
+		</div>
+		<div class="commenter">
+		<p>{{comment.author}}<br />{{comment.date|nicetime}}</p>
+		</div>
+ -->
+        {% endfor %}
+</ol>
+    {% endif %}
+
+<h3>To be fixed: Reactions from around the web </h3>
+
+	<script id="webmention-hosted">
+		(function() {
+		    var sn = document.createElement("script"),
+		        s = document.getElementsByTagName("script")[0],
+		        url;
+		    url = document.querySelectorAll
+		        ? document.querySelectorAll("link[rel~=canonical]")
+		        : false;
+		    url = url && url[0]
+		        ? url[0].href
+		        : false;
+		    sn.type = "text/javascript";
+		    sn.async = true;
+		    sn.src = "//webmention.herokuapp.com/api/embed?url=" + encodeURIComponent(url || window.location);
+		    s.parentNode.insertBefore(sn, s);
+		}());
+	</script>
+<!-- End of comment presentation block -->
+{% endif %}
