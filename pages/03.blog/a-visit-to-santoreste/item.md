@@ -25,47 +25,34 @@ We had an appointment to meet friends for lunch nearby, but driving for an hour,
 
 Something prompted me to take the good camera; I’m glad I did.
 
-<figure>
-<img loading="lazy" alt="A view down onto the carpark with the landscape stretching away below" class="img-fullwidth u-photo" src="/user/pages/03.blog/a-visit-to-santoreste/carpark.jpeg" />
+![Looking down on a full carpark with a distant view across the plain](carpark.jpeg){.img-fullwidth .u-photo}
 <figcaption style="font-style: italic;">I for one am glad there was a car park</figcaption>
-</figure>
  
- It is hard to convey how sheer the slopes are in some places.
- 
-<figure>
-<img loading="lazy" alt="ALT TEXT" class="img-fullwidth u-photo" src="/user/pages/03.blog/a-visit-to-santoreste/down.jpeg" />
+It is hard to convey how sheer the slopes are in some places.
+
+![A patchwork of green fields and olive groves stretching away to a ridge of mountains on the horizon](down.jpeg){.img-fullwidth .u-photo} 
 <figcaption style="font-style: italic;">Steep, or what?</figcaption>
-</figure>
  
 Many churches, this the most impressive.
-<figure>
-<img loading="lazy" alt="Church of San Lorenzo Martire" class="fig-image" src="/user/pages/03.blog/a-visit-to-santoreste/church.jpeg" />
+
+![San Lorenzo Martire. A church facade with two people standing on the steps. The adjoining tower has two stories with paired, roman arch windows](church.jpeg){.img-fullwidth .u-photo}
 <figcaption style="font-style: italic;">San Lorenzo Martire</figcaption>
 </figure>
 
 Wherever you look, views, views and more views.
 
-<figure>
-<img loading="lazy" alt="View of distant hills seen between two houses" class="img-fullwidth u-photo" src="/user/pages/03.blog/a-visit-to-santoreste/hills.jpeg" />
-</figure>
+![View of distant hills seen between two houses](hills.jpeg){.img-fullwidth .u-photo}
 
-<figure>
-<img loading="lazy" alt="View of distant hills behind just emerging red leaves" class="img-fullwidth u-photo" src="/user/pages/03.blog/a-visit-to-santoreste/redleaf.jpeg" />
-</figure>
+![View of distant hills behind just emerging red leaves](redleaf.jpeg){.img-fullwidth .u-photo}
 
-<figure>
-<img loading="lazy" alt="A peak and the town behind more young figs than you can imagine" class="img-fullwidth u-photo" src="/user/pages/03.blog/a-visit-to-santoreste/figs.jpeg" />
+![A peak and the town behind more young figs than you can imagine](figs.jpeg){.img-fullwidth .u-photo}
 <figcaption style="font-style: italic;">Note to self: return in summer?</figcaption>
 </figure>
 
 Huge variety in the details of the houses, which would repay closer study, but lunch was calling.
 
-<figure>
-<img loading="lazy" alt="A couple of closed doors" class="img-fullwidth u-photo" src="/user/pages/03.blog/a-visit-to-santoreste/doors.jpeg" />
-</figure>
+![A couple of closed doors, each with a shuttered window to the side.](doors.jpeg){.img-fullwidth .u-photo}
 
-<figure>
-<img loading="lazy" alt="A couple of shuttered windows" class="img-fullwidth u-photo" src="/user/pages/03.blog/a-visit-to-santoreste/shutters.jpeg" />
-</figure>
+![A couple of shuttered windows with a small religious picture in a niche between them.](shutters.jpeg){.img-fullwidth .u-photo}
 
 Next time, the park, because we spotted a fine restaurant which looks like it deserves a good walk first.
