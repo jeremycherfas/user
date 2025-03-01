@@ -1,6 +1,9 @@
 {% extends 'partials/simplesearch_base.html.twig' %}
 
 {% block content %}
+<div class="container">
+
+<div class="item">
     <div class="content-padding simplesearch">
         <h1 class="search-header">{{ "PLUGIN_SIMPLESEARCH.SEARCH_RESULTS"|t }}</h1>
         <div class="center">
@@ -20,4 +23,6 @@
             {% include 'partials/simplesearch_item.html.twig' with {'page': page} %}
         {% endfor %}
     </div>
+</div>
+</div>
 {% endblock %}

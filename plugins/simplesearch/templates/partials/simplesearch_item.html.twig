@@ -8,13 +8,14 @@
         </div>
     {% endif %}
     <div class="search-item">
-        <div class="search-title">
-            <h3><a href="{{ page.url }}">{{ page.title }}</a></h3>
-        </div>
+<!--         <div class="search-title"> -->
+		<div class="titlestuff">
+		<div class="date-clock">
+			{% include 'partials/blog/date.html.twig' %} 
+		</div>
 
-        <div class="search-details">
-            <span class="search-date">{{ page.date|date(config.system.pages.dateformat.short) }}</span>
-        </div>
+            <h3 class="p-name"><a href="{{ page.url }}" class="u-url">{{ page.title }}</a></h3>
+<!--         </div> -->
 
         <p>{{ page.summary|raw }}</p>
 
