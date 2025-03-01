@@ -6,8 +6,6 @@ process:
     twig: true
 cache_enable: false
 template: item
-feed:
-    limit: 10
 form: contact-form
 ---
 
@@ -15,7 +13,7 @@ I work as a freelance communicator. I happen to have a PhD in biology, but I don
 
 In essence, I see myself as a translator. I speak Science, and I speak English, and I work hard to make the two understand one another.
 
-It’s possible I can help you. Why not <a href="#form">contact me</a> and let's see if we can come to some sort of arrangement?
+It’s possible I can help you. Why not <a href="#contact">contact me</a> and let's see if we can come to some sort of arrangement?
 
 Mostly, I like to help people tell their stories. I’m a biologist by training and by inclination, and my main joy is applying that to food and the agriculture and industries that supply it. I also have side interests in economics and many other things.
 
