@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://trumpconlaw.com/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: The Dobbs v. Jackson Women&rsquo;s Health Organization decision has overturned Roe v. Wade and revoked the right to abortion, a Constitutionally guaranteed right we have had for about 50 years. What happens now?

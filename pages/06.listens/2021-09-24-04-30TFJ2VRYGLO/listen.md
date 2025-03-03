@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://audioboom.com/posts/7935929
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: 4: Flat Pack (Kitchens #4)

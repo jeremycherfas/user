@@ -12,7 +12,7 @@ enabled: '0'
 header_image: '0'
 theurl: https://traffic.megaphone.fm/ADL3851654469.mp3
 image: artwork-resized.jpg
-template: item
+template: listen
 ---
  
 Episode summary: A New Jersey couple raises money on GoFundMe to repay a homeless man for his act of kindness. Prelude: Ginny Irovando Long organizes a fundraiser for her terminally ill son. Support the show by becoming a Valuedlistener™ at Patreon.com/Swindled. Buy something at SwindledPodcast.com/Shop. Original music by Trevor Howard (The Lungs). Learn more about your ad choices. Visit megaphone.fm/adchoices

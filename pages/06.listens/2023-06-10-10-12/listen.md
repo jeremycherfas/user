@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://beta.prx.org/stories/441061
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: We hear from two photographers who are masters at showing us what is hard to see, and always has been hard to see, in America.

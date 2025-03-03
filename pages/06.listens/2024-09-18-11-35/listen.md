@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://learnconlaw.com/82-fishy-deep-state
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: What&rsquo;s the connection between former President Donald Trump&rsquo;s attacks on the so-called &ldquo;Deep State&rdquo; and a tiny silvery fish? The Supreme Court, of course.

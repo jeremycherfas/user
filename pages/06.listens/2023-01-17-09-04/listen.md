@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://99percentinvisible.org/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: A Balikbayan box is a huge cardboard box (often weighing over 100 pounds) that Filipinos living all over the world send to family members who are still living in the Philippines

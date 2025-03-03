@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://trumpconlaw.com/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: How the Dormant Commerce Clause tries to stop states from passing laws that put an undue burden on interstate commerce. Plus, what&rsquo;s going on with student debt relief: who filed a lawsuit against it and why.

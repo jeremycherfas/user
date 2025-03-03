@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://huffduffer.com/JeremyCherfas/627885
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Massimo Montanari & Rachel Roddy: A History of Spaghetti with Tomato Sauce | London Review Bookshop

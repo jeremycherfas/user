@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/revisionist-history/the-mystery-of-mastery-with-adam-gopnik
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: The Mystery of Mastery with Adam Gopnik

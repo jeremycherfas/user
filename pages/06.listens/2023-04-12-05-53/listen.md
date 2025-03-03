@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://www.kuow.org/stories/part-4
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Cody&rsquo;s swindle comes crashing down, and it&rsquo;s all thanks to Covid. When a giant meat operation discovers the truth about his ghost herd, they take aim at Cody.

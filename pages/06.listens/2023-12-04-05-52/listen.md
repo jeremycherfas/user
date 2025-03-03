@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/revisionist-history/this-is-your-captain-speaking
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: This Is Your Captain Speaking

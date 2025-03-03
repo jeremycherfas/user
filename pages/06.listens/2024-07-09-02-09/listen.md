@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/joseph-stiglitz
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: What&rsquo;s a bigger honor, a Nobel Prize or being immortalized on a mural with the Jackson 5?

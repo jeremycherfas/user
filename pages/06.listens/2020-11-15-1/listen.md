@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08xmvg0.mp3
 image: artwork-resized.png
-template: item
+template: listen
 --- 
 Episode summary: Tim Harford explores what we know about mortality rates in the current pandemic. We discuss the differences between the risks to different age groups, and why that has an effect on a country’s Covid 19 fatality rate. We speak to Dr Hannah Ritchie from the University of Oxford and Dr Daniel Howdon of the University of Leeds in the UK.

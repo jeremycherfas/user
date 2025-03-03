@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/broken-record-with-rick-rubin-malcolm-gladwell-bru/lyle-lovett
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Lyle Lovett

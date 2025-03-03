@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/revisionist-history/rodents-and-red-wine-with-maria-konnikova
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Rodents and Red Wine with Maria Konnikova

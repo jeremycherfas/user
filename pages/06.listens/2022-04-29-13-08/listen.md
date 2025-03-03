@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: http://relay.fm/automators/100
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: In this episode of Automators, David and Rosemary look at their favourite automations, most wished for features, and how their automation has evolved in 100 episodes.

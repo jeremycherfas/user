@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/ami-vitale-on-photojournalism-and-wildlife-conservation
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: From war zones to wildlife, Ami Vitale has captured vital stories across a hundred countries and counting

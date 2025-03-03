@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/against-the-rules-with-michael-lewis/judging-sam-judging-the-ftx-bankruptcy
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Judging Sam: Judging the FTX Bankruptcy

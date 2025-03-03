@@ -12,7 +12,7 @@ summary:
 header_image: '0'
 theurl: https://overcast.fm/+KirzJX6H8
 image: artwork-resized.jpg
-template: item
+template: listen
 ---
  
 Episode summary: In this episode, we’re exploring the intersection of bread and art, and the idea of bread as art. From Renaissance paintings of The Last Supper (complete with pretzels) and still lifes from the Dutch Golden Age to scoring videos on Instagram—the aesthetics of bread, and all that it symbolizes, have long been on display.

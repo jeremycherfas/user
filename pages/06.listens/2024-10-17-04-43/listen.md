@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/tobi
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: The German word for &ldquo;started the online shopping revolution&rdquo; is Tobi Lütke.

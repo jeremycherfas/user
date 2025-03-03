@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://publicinfrastructure.org/podcast/ben-tarnoff/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Ben Tarnoff has a radical idea: unprivatize the Internet. The writer, Logic Magazine founder, and tech worker activist joins us to talk about his new book outlining what a truly public Internet would look like, from the fiber optic cables to the social media platforms platforms.

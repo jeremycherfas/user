@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/against-the-rules-with-michael-lewis/on-background-the-case-against-sam-bankman-fried
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: On Background: The Case Against Sam Bankman-Fried

@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://publicinfrastructure.org/podcast/61-cory-doctorow/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: What the hell is &ldquo;adversarial interopability&rdquo;? Science fiction writer and prolific blogger Cory Doctorow thinks it&rsquo;s going to set you free from Facebook, letting you take your data and pictures wherever you want to go. And he believes surveillance capitalism is standing in your way.

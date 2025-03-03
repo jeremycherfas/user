@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/chris-blattman
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: The underrated threats that lurk in institutions, rather than psychology.

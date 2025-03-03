@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://traffic.libsyn.com/secure/cowenconvos/CWT-124-ShadiBartsch-v1.mp3?dest-id=850607
 image: artwork-resized.png
-template: item
+template: listen
 --- 
 Episode summary: Art, politics, and the enduring lessons of the ancient world.

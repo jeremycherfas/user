@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://www.stitcher.com/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: How Reno became the go-to place to get a quick divorce and how divorce laws have changed over time

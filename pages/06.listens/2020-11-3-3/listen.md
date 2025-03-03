@@ -11,7 +11,7 @@ taxonomy:
 header_image: '0'
 theurl: https://f000.backblazeb2.com/file/huffduff-video/youtube.com_watchv%3DLiPRw2nxguQ.mp3
 image: artwork-resized.png
-template: item
+template: listen
 --- 
 Episode summary: 
 

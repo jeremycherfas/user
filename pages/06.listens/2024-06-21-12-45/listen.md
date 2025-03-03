@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://publicinfrastructure.org/podcast/102-cory-doctorow-enshittification/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: To kick off our Good Web series, Cory Doctorow joined us for a deep dive into his enshittification theory, and how regulation, labor power, competition, and user self-help will make it a thing of the past. We also got him to tell us a little bit about his new novel The Bezzle. Cory first joined [&hellip;]

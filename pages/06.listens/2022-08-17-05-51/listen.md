@@ -10,7 +10,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/william-macaskill
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: If moral philosophy is a train to crazy town, at what stop should we disembark?

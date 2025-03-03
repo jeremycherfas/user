@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/revisionist-history/the-variable-man-with-gary-goldman-and-angus-fletc
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: The Variable Man with Gary Goldman and Angus Fletcher | Development Hell

@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: http://feedproxy.google.com/~r/5MinuteItalian/~5/p-Kr0dFJxBI/702498466-5-minute-italian-eggs-or-grapes.mp3
 image: artwork-resized.jpg
-template: item
+template: listen
 --- 
 Episode summary: Get the bonus materials for this episode: joyoflanguages.com/eggs-or-grapes Practise your Italian in our Facebook group: www.facebook.com/groups/5.minute.italian Today’s Italian words uovo = egg uova = eggs un uovo = one egg due uova = two eggs L’uva = (the) grapes

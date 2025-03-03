@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://filthy-ritual.captivate.fm/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: 1. The Healer of Hampstead

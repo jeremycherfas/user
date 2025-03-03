@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://audioboom.com/posts/8168161
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: S5 Ep8: Food Memoir with Rebecca May Johnson and Angela Hui

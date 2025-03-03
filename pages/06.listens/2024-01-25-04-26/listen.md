@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://www.stitcher.com/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Featuring author Robert Caro covering The Introduction, Part 1, and Part 2.

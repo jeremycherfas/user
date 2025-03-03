@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://www.stitcher.com/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: The garbage disposer and the dream of a garbage-free city

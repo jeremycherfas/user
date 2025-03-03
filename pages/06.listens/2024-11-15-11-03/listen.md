@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://www.learnconlaw.com/86-enemy-aliens
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Falsely claiming there is a wave of violence perpetrated by migrants, Trump has threatened mass deportations under the broad and terrifying powers of the Alien Enemies Act.

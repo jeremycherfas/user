@@ -8,7 +8,7 @@ taxonomy:
     tag:
         - podcasts
 theurl:
-template: item
+template: listen
 ---
 
 Strange goings on, possibly because I listened to a bunch of podcasts with the phone in Airplane Mode, a few epsidoes were marked as completed within the same minute, which my daggy Python program was not equipped to deal with. So, rather than mess about, here they are.

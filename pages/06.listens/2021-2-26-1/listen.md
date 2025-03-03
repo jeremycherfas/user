@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://traffic.megaphone.fm/GLT8283423166.mp3
 image: artwork-resized.jpg
-template: item
+template: listen
 --- 
 Episode summary: An update on the future of The Test Kitchen series and PJ Vogt and Sruthi Pinnamaneni’s departure.

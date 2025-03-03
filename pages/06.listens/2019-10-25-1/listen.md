@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://traffic.megaphone.fm/GLT6023163406.mp3?updated=1571360606
 image: artwork-resized.png
-template: item
+template: listen
 --- 
 Episode summary: As acquisition talks with Spotify continue, Alex and Matt face their hopes and fears about what might lie ahead.

@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://huffduffer.com/JeremyCherfas/619712
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: The Cocoa Pod Cast #2 Into the World of Chocolate, with Kristy Leissle

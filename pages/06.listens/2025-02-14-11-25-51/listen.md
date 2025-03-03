@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://the-british-food-histor.captivate.fm/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Alexis Soyer with Lindsay Middleton

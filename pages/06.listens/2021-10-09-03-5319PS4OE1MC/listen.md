@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://huffduffer.com/JeremyCherfas/621897
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: New Books Network | Rob Dunn and Monica Sanchez, “Delicious: The…

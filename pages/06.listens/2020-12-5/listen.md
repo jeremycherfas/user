@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://underunderstood.com/podcast/episode-player/1951/closing-the-loop-on-chinas-mystery-seeds.mp3
 image: artwork-resized.png
-template: item
+template: listen
 --- 
 Episode summary: 

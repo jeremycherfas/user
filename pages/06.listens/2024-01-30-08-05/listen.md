@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/rebecca-f-kuang-on-national-literatures-book-publishing-and-history-in-fiction
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: How has Rebecca F. Kuang published 5 novels by age 27? An overwhelming compulsion to write, with a dash of Cal Newport.

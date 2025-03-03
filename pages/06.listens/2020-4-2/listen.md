@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://f000.backblazeb2.com/file/huffduff-video/uthypod.com_episode_ep-19-dumpling-diplomacy.mp3
 image: artwork-resized.jpg
-template: item
+template: listen
 --- 
 Episode summary: 

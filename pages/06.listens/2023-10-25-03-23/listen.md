@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://www.deejay.it/podcast/doi-denominazione-di-origine-inventata/stagione-1-di-doi-denominazione-di-origine-inventata/episodio-41-pesci-granchi-e-ministri-stagione-3/
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Episodio 41: Pesci, granchi e ministri (Stagione 3)

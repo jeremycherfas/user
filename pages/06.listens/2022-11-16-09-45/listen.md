@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://99percentinvisible.org/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Roman and Kurt are back with another series of railroad tales. All aboard!

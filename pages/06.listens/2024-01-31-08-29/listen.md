@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://www.deejay.it/podcast/doi-denominazione-di-origine-inventata/stagione-1-di-doi-denominazione-di-origine-inventata/gli-antipasti-un-assaggio-di-doi/
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: GLI ANTIPASTI - Un assaggio di DOI

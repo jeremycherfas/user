@@ -10,6 +10,6 @@ tag:
 header_image: '0'
 theurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automatorsrelay/automators038.mp3
 image: artwork-resized.jpg
-template: item
+template: listen
 --- 
 Episode summary: App developer Simon Leeb joins us to talk about his automation journey that turned into building an automation app, Pushcut. We also stray into the world of iBeacon and automation.

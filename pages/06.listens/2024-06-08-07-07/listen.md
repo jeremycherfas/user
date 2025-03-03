@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/michael-nielsen
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Is the status of linear algebra rising?

@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://huffduffer.com/JeremyCherfas/705711
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Donal Trump and managing emotions in the here and now - The Blindboy Podcast | Acast

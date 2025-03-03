@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://sfagravy.libsyn.com/bread-and-friends
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: In &ldquo;Bread and Friends,&rdquo; the final episode in her five-part series for Gravy, producer Irina Zhorov meets Camille Cogswell and Drew DiTomo in the final stages of preparation to open their new bakery. They hope that Walnut Family Bakery will be a&hellip;

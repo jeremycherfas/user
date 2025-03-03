@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://99percentinvisible.org/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: The most high stakes game of roshambo ever, plus a SF Muni bus driver breaks down the runaway bus fight scene in Shang-Chi.

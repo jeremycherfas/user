@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://traffic.libsyn.com/secure/cowenconvos/CWT-111-JimmyWales-podcast-v2.mp3?dest-id=850607
 image: artwork-resized.png
-template: item
+template: listen
 --- 
 Episode summary: The Wikipedia founder explains how the online encyclopedia will maintain objectivity in polarizing times

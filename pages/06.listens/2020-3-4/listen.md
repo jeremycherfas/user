@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automatorsrelay/automators044.mp3
 image: artwork-resized.jpg
-template: item
+template: listen
 --- 
 Episode summary: Doug Adams from Doug’s AppleScripts joins us to explain how he got started with AppleScripts, some of his favorites, and scripting areas of interest outside of AppleScript.

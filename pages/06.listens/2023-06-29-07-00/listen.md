@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: http://www.bbc.co.uk/programmes/m001n1tj
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: The diets of children in the UK are now mostly made up of ultra-processed food, so can we learn from the French in how they teach children healthy eating habits? Sheila Dillon finds out. Presented by Sheila Dillon and produced by Sophie Anton for BBC Audio in Bristol

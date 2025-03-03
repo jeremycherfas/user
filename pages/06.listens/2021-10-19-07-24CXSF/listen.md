@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: http://relay.fm/automators/86
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Micro Automations! It&rsquo;s those tiny little automations that can make your life easy. We&rsquo;ve been building them and today we&rsquo;re sharing them.

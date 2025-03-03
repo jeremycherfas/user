@@ -12,7 +12,7 @@ enabled: '0'
 header_image: '0'
 theurl: https://www.kcrw.com/culture/shows/nocturne/big-life
 image: artwork-resized.jpg
-template: item
+template: listen
 ---
  
 Episode summary: Most people are in bed at night and then get up during the day. But journalist Katie Nelson felt the need to sleep all the time.

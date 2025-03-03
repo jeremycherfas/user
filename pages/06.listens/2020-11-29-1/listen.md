@@ -11,7 +11,7 @@ taxonomy:
 header_image: '0'
 theurl: https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/66/31672296-c8e7-49a3-9bcf-93aa97ca5764/TCL_Nov_2020_Lame_Duck_pt01.mp3
 image: artwork-resized.png
-template: item
+template: listen
 --- 
 Episode summary: In late November, most states have certified the Presidential election for Joe Biden and his running mate, Kamala Harris. But Donald Trump continues to deny the results of the election and insist (without a shred evidence) that he lost because of voter fraud. What does the constitution have to say about the transfer of power? What if Donald Trump fails to concede? What does the constitution say about the period of time after an incumbent loses but remains in power?
 

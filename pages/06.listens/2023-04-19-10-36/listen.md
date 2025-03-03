@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://99percentinvisible.org/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: The &ldquo;panopticon&rdquo; might be the best known prison concept in the world. It&rsquo;s become the metaphor for the surveillance state, but very few actual prisons were built around this idea. Breda Dome is one of them.

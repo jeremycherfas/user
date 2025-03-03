@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://99percentinvisible.org/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Best-selling author John Green and Roman Mars answer questions and give dubious advice

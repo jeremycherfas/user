@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://www.stitcher.com/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Devo&rsquo;s first record and the fight over the arresting image of a flashy, handsome golf legend on the cover.

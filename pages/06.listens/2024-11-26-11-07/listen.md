@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/russ-roberts-on-vasily-grossmans-life-and-fate
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: In this crossover episode with EconTalk, Tyler joins Russ Roberts to discuss Grossman&rsquo;s 20th-century epic on war, freedom, and humanity

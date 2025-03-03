@@ -12,7 +12,7 @@ summary:
 header_image: '0'
 theurl: https://overcast.fm/+IPNXCok-s
 image: artwork-resized.jpg
-template: item
+template: listen
 ---
  
 Episode summary: Skateboarding and parkour: Laurie Taylor explores lifestyle sports in the hyper regulated city. Iain Borden, Professor of Architecture and Urban Culture at UCL, considers the origins, history and thrill of skateboarding. They’re joined by Thomas Raymen, Lecturer in Criminology at the University of Plymouth, who followed a group of Newcastle free running enthusiasts, from wall to rooftop, and probed the contradictions between transgression and conformity to the values of consumer capitalism. Producer: Jayne Egerton

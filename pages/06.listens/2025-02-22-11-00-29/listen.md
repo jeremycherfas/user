@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/greg-clark
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: How much does your surname predict your economic fate?

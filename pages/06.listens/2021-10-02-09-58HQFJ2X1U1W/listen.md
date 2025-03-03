@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://audioboom.com/posts/7944875
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: 6: A Bigger Table (Kitchens #6)

@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://audioboom.com/posts/8055056
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: S5 Ep3: A Woman Eating Or Not Eating with Claire Kohda

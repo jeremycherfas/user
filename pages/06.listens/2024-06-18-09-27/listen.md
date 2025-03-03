@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://huffduffer.com/JeremyCherfas/696717
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Tips to Elevate Your Reporting and Storytelling from Ira Glass

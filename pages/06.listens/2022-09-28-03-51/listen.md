@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://99percentinvisible.org/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: On this special feature episode, President Bill Clinton interviews 99% Invisible host and creator Roman Mars.

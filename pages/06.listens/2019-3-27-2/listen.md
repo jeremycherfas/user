@@ -12,7 +12,7 @@ enabled: '0'
 header_image: '0'
 theurl: https://overcast.fm/+HuIh2Vy6g
 image: artwork-resized.png
-template: item
+template: listen
 ---
  
 Episode summary: There’s an industry of people working to eliminate bad police behavior. They’re not activists or protestors. They’re insurers.

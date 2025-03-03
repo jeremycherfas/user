@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/revisionist-history/higher-animals-with-michael-specter
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Higher Animals with Michael Specter

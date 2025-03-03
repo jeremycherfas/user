@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://99percentinvisible.org/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: At a glance, the border between the United States and Canada would seem to be at the friendlier end of the international boundary spectrum. But even though the US-Canada border is now pretty tame, when two countries touch each other over a stretch of 5500 miles, it can result in some surprisingly weird disputes, misunderstandings, geographical quirks and &hellip;really good stories.

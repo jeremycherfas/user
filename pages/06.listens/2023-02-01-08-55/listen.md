@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/rick-rubin
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: The acclaimed music producer lays out his approach to creative collaboration.

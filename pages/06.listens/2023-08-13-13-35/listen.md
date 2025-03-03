@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/david-bentley-hart
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Is he the best-read guest in the history of the show?

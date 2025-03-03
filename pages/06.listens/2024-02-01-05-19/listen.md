@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://www.stitcher.com/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: A 99pi guide to some of our favorite design features of Chicago

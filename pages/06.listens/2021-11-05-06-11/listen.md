@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://99percentinvisible.org/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Born in 1872, American architect and engineer Julia Morgan designed hundreds of buildings over her prolific career, famous for her work on incredible structures like the Hearst Castle in San Simeon, California.

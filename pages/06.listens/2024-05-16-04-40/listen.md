@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://99percentinvisible.org/?post_type=episode&p=42275
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: How an ugly puppet created television as we know it

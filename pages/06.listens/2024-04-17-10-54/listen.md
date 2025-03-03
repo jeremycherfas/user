@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/revisionist-history/blue-seattle-with-cameron-crowe-development-hell
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Blue Seattle with Cameron Crowe | Development Hell

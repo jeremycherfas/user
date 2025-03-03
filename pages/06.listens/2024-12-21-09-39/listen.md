@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://publicinfrastructure.org/podcast/108-holiday-special-2024/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Ho ho ho, five years of Reimagining the Internet holiday specials! For this year&rsquo;s edition we&rsquo;re spreading holiday cheer by showering our dear listeners with gifts. From good Wikipedia rabbit holes to the gift of network effects, everyone here at iDPI is offering something from the heart. Links to some gifts mentioned in this episode: [&hellip;]

@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: http://relay.fm/automators/108
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: In this episode, Rose and David explain some of their favorite small automation tools and how they work.

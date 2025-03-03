@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://www.stitcher.com/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: The constant and sometimes fraught back and forth between cartoons and toys, as exemplified by Transformers and the Teenage Mutant Ninja Turtles

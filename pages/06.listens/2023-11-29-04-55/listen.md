@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/against-the-rules-with-michael-lewis/listen-as-i-get-financially-planned-from-other-peo
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Listen As I Get Financially Planned from Other People’s Pockets

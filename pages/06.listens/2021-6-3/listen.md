@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://chtbl.com/track/42D75/traffic.megaphone.fm/CAD2409040612.mp3?updated=1622006702
 image: artwork-resized.png
-template: item
+template: listen
 --- 
 Episode summary: Giancarlo Granda, AKA “The Pool Boy” reveals the predatory nature of the Falwells. Exclusive audio reveals another side, and another character in the middle of this story. Learn more about your ad choices. Visit podcastchoices.com/adchoices

@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://trumpconlaw.com/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: What can the government do about the school library and the classroom and what does the Constitution say about it?

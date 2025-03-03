@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://traffic.libsyn.com/secure/cowenconvos/CWT-126-DavidDeutsch-podcast-v1Final.mp3?dest-id=850607
 image: artwork-resized.png
-template: item
+template: listen
 --- 
 Episode summary: Plus, the defining human attribute visible from galaxies far, far away.

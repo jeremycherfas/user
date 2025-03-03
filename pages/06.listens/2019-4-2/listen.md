@@ -12,7 +12,7 @@ enabled: '0'
 header_image: '0'
 theurl: https://overcast.fm/+FV-tvfF2E
 image: artwork-resized.jpg
-template: item
+template: listen
 ---
  
 Episode summary: In 2009, an old man died in a California nursing home. His obituary included not just his given name, but a long list of the pseudonyms he’d been known to use. In this episode, we trace the life of Riley Shepard, a hillbilly musician, writer, small-time con man and, perhaps, a genius.

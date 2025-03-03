@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/coleman-hughes
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Are there other traits besides race we should be blind to?

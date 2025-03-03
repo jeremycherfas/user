@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://publicinfrastructure.org/podcast/francesca-tripodi/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: What does Francesca Tripodi have in common with the Evangelical Christians she studied? They both do their own research, and they find lots of propaganda. This week on Reimagining, Francesca gives us a crash course on the sprawling conservative disinformation ecosystem.

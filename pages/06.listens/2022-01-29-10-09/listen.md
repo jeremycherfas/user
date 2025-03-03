@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://huffduffer.com/JeremyCherfas/631706
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: The Yellow River A Natural and Unnatural History

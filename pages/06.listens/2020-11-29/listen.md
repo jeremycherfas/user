@@ -11,7 +11,7 @@ taxonomy:
 header_image: '0'
 theurl: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08xw7sd.mp3
 image: artwork-resized.jpg
-template: item
+template: listen
 --- 
 Episode summary: “They will be targeted for the rest of their lives.” Where does that leave everyone else? When James Le Mesurier fell to his death in Turkey in 2019 he left behind a tangle of truths and lies. Mayday tells the extraordinary real story of the man who organised the White Helmets – rescuers who film themselves pulling survivors from bombed out buildings in rebel-held areas of Syria – and investigates claims that, far from being heroes, they are part of a very elaborate hoax. James Le Mesurier – his detractors say – was a British secret agent, pulling the strings. So when his body was found by worshippers on their way to morning prayers, there were a lot questions. Produced, written and presented by: Chloe Hadjimatheou Editor: Emma Rippon Researcher: Tom Wright Mixed by: Neil Churchill Arabic translation and additional research: Vanessa Bowles, Abdul Kader Habak Turkish researcher: Nevin Sungur Narrative Consultant: John Yorke Original music: Nick Mundy and Bu Kolthoum Production Coordinator - Gemma Ashman…
 

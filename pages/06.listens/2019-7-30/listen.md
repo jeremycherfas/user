@@ -12,7 +12,7 @@ enabled: '0'
 header_image: '0'
 theurl: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07h1bsg.mp3
 image: artwork-resized.jpg
-template: item
+template: listen
 ---
  
 Episode summary: War in the air: Laurie Taylor explores the history of aerial bombing and tear gas; from the battlefield to urban streets. He’s joined by Thomas Hippler, Professor of Modern History at Caen University, Normandy, Anna Feigenbaum, Senior Lecturer in Digital Storytelling at Bournemouth University and Steve Graham, Professor of Professor of Cities and Society at Newcastle University. Revised repeat. Producer: Jayne Egerton.

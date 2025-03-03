@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/stewart-brand
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: At 83, Stewart Brand has been first in a multitude of movements&mdash;and he&rsquo;s not slowing down.

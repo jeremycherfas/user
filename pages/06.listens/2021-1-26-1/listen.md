@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://traffic.libsyn.com/secure/fieldlabearth/2021-01-15-Episode_050-Hutchins.mp3
 image: artwork-resized.png
-template: item
+template: listen
 --- 
 Episode summary: 

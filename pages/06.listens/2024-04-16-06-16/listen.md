@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://99percentinvisible.org/?p=42085&post_type=episode
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: The history of the chambre de bonne, the tiny French apartment type that may be, finally, on the way out.

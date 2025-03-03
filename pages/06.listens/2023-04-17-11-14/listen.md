@@ -10,7 +10,7 @@ taxonomy:
         - podcasts
 theurl: https://www.kuow.org/stories/part-6-the-reckonin
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Native Americans once owned these lands, and they still treat the Columbia Basin as their sacred home. We&rsquo;ve all benefited from that taken land, but now corporations are the West&rsquo;s new settlers. Meanwhile, Cody faces a federal judge and his tight-knit rural community. His sons start taking over what remains of the family&rsquo;s vast operation and beat-up reputation.

@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://f000.backblazeb2.com/file/huffduff-video/subtitlepod.com_how-the-alphabet-won-our-hearts_utm_source%3Drss_utm_medium%3Drss_utm_campaign%3Dhow-the-alphabet-won-our-hearts.mp3
 image: artwork-resized.png
-template: item
+template: listen
 --- 
 Episode summary: 

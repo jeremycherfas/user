@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://beta.prx.org/stories/405424
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Hitler and Goebbels read Walter Benjamin in the bunker, Orson Wells discovers the magic of the fake crowd. Plus, a profile of artist Lynn Hershman Leeson.

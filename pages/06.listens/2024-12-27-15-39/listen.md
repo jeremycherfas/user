@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://huffduffer.com/JeremyCherfas/705271
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Forbidden A 3,000-Year History of Jews and the Pig

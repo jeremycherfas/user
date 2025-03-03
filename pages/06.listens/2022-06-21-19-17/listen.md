@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://sfagravy.libsyn.com/making-that-dough
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: In &ldquo;Making That Dough,&rdquo; the fourth episode in her five-part series for Gravy, producer Irina Zhorov explores the business of cottage bakeries&mdash;and how small-scale bakers make amazing loaves out of home kitchens and converted garages&hellip;.

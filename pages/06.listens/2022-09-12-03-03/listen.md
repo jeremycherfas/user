@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://www.buzzsprout.com/2010962
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Cheese Changes Everything - June 29, 1956

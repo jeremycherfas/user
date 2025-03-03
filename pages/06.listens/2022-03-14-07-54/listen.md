@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://huffduffer.com/JeremyCherfas/634934
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Episode 102: Baking Greek Bread, with Josh Nudell

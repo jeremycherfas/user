@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/revisionist-history/guns-part-2-getting-out-of-dodge
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Guns Part 2: Getting out of Dodge

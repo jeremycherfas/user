@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: http://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/sfagravy/ReUpload_Sorghum_Final.mp3?dest-id=228971
 image: artwork-resized.png
-template: item
+template: listen
 --- 
 Episode summary: Gravy explores how sorghum might again become a grain of the American South.

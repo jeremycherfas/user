@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://sfagravy.libsyn.com/bread-by-fire
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: In &ldquo;Bread by Fire,&rdquo; the second episode in her five-part season for Gravy, producer Irina Zhorov takes listeners to the little house in Marshall, North Carolina, whose residents have produced some of the most exciting baking in the South. The&hellip;

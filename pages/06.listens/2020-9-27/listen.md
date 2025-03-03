@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://www.podtrac.com/pts/redirect.mp3/cdn.winningslowly.org/file/winningslowly/8.17.mp3
 image: artwork-resized.png
-template: item
+template: listen
 --- 
 Episode summary: We argue with Mary Midgley on how she did what she did, more than what she did.

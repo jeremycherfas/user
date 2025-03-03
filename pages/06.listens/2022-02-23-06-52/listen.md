@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://beta.prx.org/stories/397209
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Journalists may write the first draft of history but Hollywood prints the legends and the myths. The 1976 film All the President&rsquo;s Men remains our most authoritative account of Watergate. The film is also responsible for the myth of Deep Throat. Your host follows the myth&hellip; from 1976 to the present. This is the first half of a new ToE miniseries about America&rsquo;s complicated relationship with truth and lies.

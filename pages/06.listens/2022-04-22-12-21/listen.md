@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://99percentinvisible.org/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Every year in the spring, small towns throughout New England host their annual town meeting. Town meetings take place in high school gyms or town halls, and anyone can come.

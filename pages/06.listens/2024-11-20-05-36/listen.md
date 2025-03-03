@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://learnconlaw.com/87-election-lawsuits
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: No matter what happens on Election Day, Trump and his allies have already put legal challenges in motion. Here&rsquo;s what a nerdy agency, hanging chads, and zombie lawsuits can tell us about how all this could play out.

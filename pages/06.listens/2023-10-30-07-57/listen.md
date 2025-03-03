@@ -10,7 +10,7 @@ taxonomy:
         - podcasts
 theurl: https://www.deejay.it/podcast/doi-denominazione-di-origine-inventata/stagione-1-di-doi-denominazione-di-origine-inventata/episodio-42-capitalismo-carnivoro-con-francesca-grazioli-stagione-3/
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Episodio 42: Capitalismo carnivoro con Francesca Grazioli (Stagione 3)

@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://99percentinvisible.org/?p=43853
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: One of the Third Reich&rsquo;s most colossal architectural failures.

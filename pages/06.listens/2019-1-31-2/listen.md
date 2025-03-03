@@ -12,7 +12,7 @@ summary:
 header_image: '0'
 theurl: https://overcast.fm/+JNh60UBuw
 image: artwork-resized.png
-template: item
+template: listen
 ---
  
 Episode summary: What does the 25th Amendment say about presidential fitness, disability, and Trump?

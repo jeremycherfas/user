@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/peter-singer-on
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Tyler&rsquo;s two-thirds utilitarian, and Peter&rsquo;s full on. Do either of them have the proportions right?

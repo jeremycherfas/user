@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: http://relay.fm/automators/158
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: In this episode, David and Rosemary are joined by Paul Kafasis from Rogue Amoeba to talk about automating audio, as well as his personal magic.

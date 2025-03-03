@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/cynthia-haven
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Her biography of Girard drew critical praise &mdash; why did it have to be written outside academia?

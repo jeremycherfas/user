@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://publicinfrastructure.org/podcast/97-ryan-kevin-youtube/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Our lab&rsquo;s Ryan McGrady and Kevin Zheng are taking a victory lap around some amazing work they&rsquo;re doing here at the lab. Ryan just published an article in The Atlantic about the research he&rsquo;s leading to understand how big YouTube is and what exactly is on it, and Kevin recently debuted his amazing tool to [&hellip;]

@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://trumpconlaw.com/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: We go through the other Supreme Court decisions that were released the same week Roe was overturned.

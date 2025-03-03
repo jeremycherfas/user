@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://trumpconlaw.com/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: The leaked draft majority opinion that threatens to strike down the constitutional right to abortion and potentially many other rights

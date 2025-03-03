@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://www.deejay.it/podcast/doi-denominazione-di-origine-inventata/stagione-1-di-doi-denominazione-di-origine-inventata/episodio-34-zucchero-scheletri-e-marmellate-assassine-stagione-3/
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Episodio 34: Zucchero, scheletri e marmellate assassine (Stagione 3)

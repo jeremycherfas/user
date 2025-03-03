@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/simon-johnson
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: What&rsquo;s more intense than leading the IMF during a financial crisis? For Simon Johnson, it was co-authoring a book with Daron Acemoglu.

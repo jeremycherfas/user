@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: http://feeds.prx.org/~r/TOE/~3/1ofYPrmTkhw/384933
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: George Bush celebrates the 20th anniversary of 911 with some new &lsquo;dark&rsquo; paintings. Your host marks the occasion with some high stakes performance art. Plus art lessons from the $150,000 banana.

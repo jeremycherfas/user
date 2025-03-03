@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://stickynotespodcast.libsyn.com/an-exploration-of-klezmer-music-w-abigale-reisman
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Klezmer music has always been very close to my heart, even as a classical violinist. During the pandemic I attempted to learn Klezmer clarinet, and soon I began collaborating with the great Klezmer(and classical!) violinist Abigale Reisman on her work&hellip;

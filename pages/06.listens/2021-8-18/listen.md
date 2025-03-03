@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://traffic.libsyn.com/secure/cowenconvos/CWT-139-AndrewSullivan-final-v4.mp3?dest-id=850607
 image: artwork-resized.png
-template: item
+template: listen
 --- 
 Episode summary: Why are so few intellectuals comfortable with life out on a limb?

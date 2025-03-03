@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/revisionist-history/unlocking-hidden-potential-with-adam-grant
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Unlocking Hidden Potential with Adam Grant

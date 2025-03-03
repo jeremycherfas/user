@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://dcs-b.megaphone.fm/LIT8708002962.mp3?key=19c99cf9f7d0eb559f93f5c244bfd54f
 image: artwork-resized.jpg
-template: item
+template: listen
 --- 
 Episode summary: 

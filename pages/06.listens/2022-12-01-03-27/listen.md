@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://huffduffer.com/JeremyCherfas/654948
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: The Kingdom of Rye

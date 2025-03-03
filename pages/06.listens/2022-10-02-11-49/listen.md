@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://beta.prx.org/stories/439634
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: In their new book Hollywood and Israel, film scholars Tony Shaw and Giora Goodman take us behind and beyond the screen to show how the world&rsquo;s entertainment capital is an important player in international affairs and how profit always trumps propaganda.

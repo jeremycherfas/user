@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://publicinfrastructure.org/podcast/103-good-web-front-porch-forum/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Michael Wood-Lewis from Front Porch Forum joins us for this second (maybe third?) appearance to help us kick off our Good Web series, where we&rsquo;re highlighting the successful people building a better, smaller Internet. Michael was gracious enough to have producer Mike Sugarman up to the FPF offices in Burlington, VT to give us an [&hellip;]

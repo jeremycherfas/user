@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/conversations-with-tyler-2023-retrospective
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Are sociopaths underrated?

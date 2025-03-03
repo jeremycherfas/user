@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: http://relay.fm/automators/144
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Rosemary and David share some of their favorite automations as the year wraps up.

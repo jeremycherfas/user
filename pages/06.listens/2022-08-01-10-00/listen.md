@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/barkha-dutt
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Why a more peaceful India requires its people to become more like khichri than a thali.

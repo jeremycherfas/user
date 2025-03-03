@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08jsnns.mp3
 image: artwork-resized.png
-template: item
+template: listen
 --- 
 Episode summary: Are cases really rising in the US or are they just testing more? Tim digs into the data.

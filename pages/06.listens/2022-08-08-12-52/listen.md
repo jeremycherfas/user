@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: http://www.bbc.co.uk/programmes/p0cm59gn
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Limelight is the best podcast for thrilling audio drama box sets. Subscribe now on BBC Sounds. Narrator: Becky Ripley

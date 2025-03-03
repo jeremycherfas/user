@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://huffduffer.com/JeremyCherfas/674146
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: How Mice Contribute to Wheat Flavors with Alecia Kiszonas | Wheat & Small Grains | Washington State University

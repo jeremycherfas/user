@@ -12,7 +12,7 @@ enabled: '0'
 header_image: '0'
 theurl: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p079kkp4.mp3
 image: artwork-resized.png
-template: item
+template: listen
 ---
  
 Episode summary: Data visualisation is all the rage, but where does that leave the old-fashioned values of audio? Some data visualisation experts are starting to explore the benefits of turning pictures into sound. Financial Times journalist Alan Smith plays his musical interpretation of a chart depicting the yield-curve of American bonds. Image: Human heart attack, illustration Credit: Science Photo Library

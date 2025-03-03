@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://huffduffer.com/JeremyCherfas/652066
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: ‎Climavores: Soy: the protein we love to hate on Apple Podcasts

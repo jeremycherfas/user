@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09w8qs2.mp3
 image: artwork-resized.png
-template: item
+template: listen
 --- 
 Episode summary: Tim Harford talks to Jordan Ellenberg, professor of mathematics at the University of Wisconsin at Madison, about the pandemic, geometry and drinking straws. (multi-coloured straws/Getty images)

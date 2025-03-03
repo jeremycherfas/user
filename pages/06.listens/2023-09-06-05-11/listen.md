@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: http://relay.fm/automators/134
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: In this episode, Rosemary and David are joined by Sal Soghoian to talk about everything from launchers such as Alfred, to window management, and more voice control!

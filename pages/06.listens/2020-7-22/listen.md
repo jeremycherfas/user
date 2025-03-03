@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/automatorsrelay/automators053.mp3
 image: artwork-resized.jpg
-template: item
+template: listen
 --- 
 Episode summary: Rose and David bring all the automation news from Apple’s 2020 Developer Conference.

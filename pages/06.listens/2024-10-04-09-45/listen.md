@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://huffduffer.com/JeremyCherfas/702828
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: The Raineys On The Road

@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://traffic.megaphone.fm/CAD8608439698.mp3?updated=1586367079
 image: artwork-resized.png
-template: item
+template: listen
 --- 
 Episode summary: Lines are drawn, as Wayne LaPierre’s supremacy is tested, and the rift spills out into public.

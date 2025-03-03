@@ -12,7 +12,7 @@ summary:
 header_image: '0'
 theurl: https://overcast.fm/+FV-sbz2dk
 image: artwork-resized.jpg
-template: item
+template: listen
 ---
  
 Episode summary: 

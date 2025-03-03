@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://huffduffer.com/JeremyCherfas/653679
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Behind the scenes at Brompton Bicycles

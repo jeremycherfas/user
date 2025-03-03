@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: http://www.bbc.co.uk/programmes/m0017k4c
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Dan Saladino and blacksmith Alex Pole explain how our food has been influenced by metals.

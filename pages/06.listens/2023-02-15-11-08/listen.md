@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://99percentinvisible.org/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: How an ultra-marathon called The Comrades became a national obsession in South Africa and a model for inclusion during some of the most divided moments in the country&rsquo;s history

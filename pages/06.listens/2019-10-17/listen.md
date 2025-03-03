@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://traffic.megaphone.fm/GLT1866031523.mp3?updated=1570689311
 image: artwork-resized.jpg
-template: item
+template: listen
 --- 
 Episode summary: A legit question from a rural American. Asher Elbein’s piece on feral hogs

@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/noam-chomsky-on-language-left-libertarianism-and-progress
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: At 94, why does Noam Chomsky still answer every email?

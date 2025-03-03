@@ -12,7 +12,7 @@ enabled: '0'
 header_image: '0'
 theurl: https://traffic.megaphone.fm/ADL3849182340.mp3
 image: artwork-resized.jpg
-template: item
+template: listen
 ---
  
 Episode summary: A between-season bonus episode in which a hip-hop superstar establishes a charitable foundation to benefit his homeland, the Republic of Haiti. Support the show and receive more bonus episodes at Patreon.com/Swindled. Learn more about your ad choices. Visit megaphone.fm/adchoices

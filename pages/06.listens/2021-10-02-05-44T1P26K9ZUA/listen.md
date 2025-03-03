@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/edward-glaeser-and-david-cutler
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Doing battle with the demons that come with density.

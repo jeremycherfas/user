@@ -12,7 +12,7 @@ enabled: '0'
 header_image: '0'
 theurl: http://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/sfagravy/King20Biscuit20Time_FINAL20FINAL.mp3?dest-id=228971
 image: artwork-resized.png
-template: item
+template: listen
 ---
  
 Episode summary: How a radio show sold flour—and the Delta blues

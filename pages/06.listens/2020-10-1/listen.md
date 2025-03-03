@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://traffic.libsyn.com/secure/cowenconvos/CWT-108-AlexRoss-v5.mp3?dest-id=850607
 image: artwork-resized.png
-template: item
+template: listen
 --- 
 Episode summary: Plus, the occult power of conductors.

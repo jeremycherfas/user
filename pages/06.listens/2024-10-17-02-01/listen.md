@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://learnconlaw.com/84-deepfakes-and-lying-liars
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Election deepfakes have the potential to change people&rsquo;s opinions about a presidential election in ways that can be harmful to democracy and the truth itself. But what does the Constitution say about regulating these manipulated images? One place to look: Hustler Magazine.

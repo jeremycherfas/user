@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/kevin-kelly
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: As the founding executive editor of Wired magazine and the author of several acclaimed books on technology and culture, Kevin Kelly has long been known for his visionary ideas and insights. But his latest work, takes a different approach, drawing on&hellip;

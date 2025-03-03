@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://huffduffer.com/JeremyCherfas/633661
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: New Books Network | Corinne Fowler, “Green Unpleasant Land: Creative…

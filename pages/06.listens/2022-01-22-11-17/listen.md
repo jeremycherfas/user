@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: http://gimletmedia.com/shows/reply-all
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: A quick note about our schedule this year. Learn more about your ad choices. Visit podcastchoices.com/adchoices

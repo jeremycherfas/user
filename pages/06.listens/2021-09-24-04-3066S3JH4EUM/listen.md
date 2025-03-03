@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://landstewardshipproject.org/posts/1417
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: What happened when beginning farmers Rachelle and Jordan Meyer started listening to the land and turned livestock loose on a &ldquo;bacterial farm.&rdquo;

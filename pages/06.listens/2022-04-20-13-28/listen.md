@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://99percentinvisible.org/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: While urban parks are safe havens for birds, parks are often surrounded by condos and hotels and office buildings with floor-to-ceiling windows. And these all-glass building facades are the absolute worst for migrating birds. Because unlike people, birds don&rsquo;t really understand glass.

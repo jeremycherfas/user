@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/claudia-goldin
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: How to model social progress.

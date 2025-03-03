@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://audioboom.com/posts/8073032
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: S5 Ep4: Oranges and Lemons

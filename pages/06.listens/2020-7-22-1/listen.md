@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://clearleft-audio.s3.amazonaws.com/podcast/season01episode01.mp3
 image: artwork-resized.png
-template: item
+template: listen
 --- 
 Episode summary: What even is a design system? Let’s hear from Charlotte Jackson, Paul Lloyd, and Amy Hupe.

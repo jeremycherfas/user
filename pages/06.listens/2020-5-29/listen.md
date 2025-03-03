@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://runninginproduction.com/assets/podcast/running-in-production-32.mp3
 image: artwork-resized.png
-template: item
+template: listen
 --- 
 Episode summary: 

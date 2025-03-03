@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://huffduffer.com/JeremyCherfas/705583
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Fixing Sick Cities (with Alain Bertaud) - Econlib

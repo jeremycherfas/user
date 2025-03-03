@@ -12,7 +12,7 @@ summary:
 header_image: '0'
 theurl: https://overcast.fm/+HuIg7pGAI
 image: artwork-resized.png
-template: item
+template: listen
 ---
  
 Episode summary: The story of the day the Federal Reserve got its independence and the fight—an actual physical fight—to keep it.

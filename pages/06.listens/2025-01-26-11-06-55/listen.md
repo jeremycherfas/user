@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/joe-boyd
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: When your synthesizer breaks the phone system (and other tales from a life in music)

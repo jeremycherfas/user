@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://99percentinvisible.org/?p=42807
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Zombie mortgages&mdash;decades-old debts&mdash;are suddenly coming back to life and threatening to take everything away.

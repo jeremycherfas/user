@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://99percentinvisible.org/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: In much of the western world, alphabetical order is simply a default we take for granted. It&rsquo;s often the one we try first &mdash; or the one we use as a last resort when all the other ordering methods fail. It&rsquo;s boring, but it works, and it&rsquo;s so ingrained that it&rsquo;s hard to imagine not using it.

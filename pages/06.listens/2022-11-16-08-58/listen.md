@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://audioboom.com/posts/8184722
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: S6 Ep1: Moots (Blasstal #1)

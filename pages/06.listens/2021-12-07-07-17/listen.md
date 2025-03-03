@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://beta.prx.org/stories/395723
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: As the Nazi nightmare came to an end Thomas Mann thought long and hard about collective guilt. Can Mann&rsquo;s idea help America in 2021, or do we need a new theory of collective shame. NYRB has put out a recent collection of Mann&rsquo;s political writings.

@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automatorsrelay/automators042.mp3
 image: artwork-resized.jpg
-template: item
+template: listen
 --- 
 Episode summary: Toolbox Pro developer (and documentary film editor) Alex Hay joins us to explain how he stumbled from scratching his own itch to making a powerful Siri Shortcuts utility app, Toolbox Pro.

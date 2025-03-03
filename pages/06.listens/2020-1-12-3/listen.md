@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://dts.podtrac.com/redirect.mp3/podcast-download.kcrw.com/kcrw/audio/podcast/etc/nw/KCRW-nocturne-you_are_a_candle-191210.mp3
 image: artwork-resized.jpg
-template: item
+template: listen
 --- 
 Episode summary: Candles were a lifeline until they became merely ornamental. So, how do the candles feel about this?

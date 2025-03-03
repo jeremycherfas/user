@@ -12,7 +12,7 @@ enabled: '0'
 header_image: '0'
 theurl: https://leopard.megaphone.fm/DGT4712015467.mp3
 image: artwork-resized.jpg
-template: item
+template: listen
 ---
  
 Episode summary: John Rock was the co-inventor of the birth control pill — and a committed Catholic. He wanted his church to approve of his invention. What happens when a layman takes on the Vatican? Part two of three.

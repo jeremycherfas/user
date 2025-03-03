@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://exarc.net/podcast
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: A Growing Community

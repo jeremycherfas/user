@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://huffduffer.com/JeremyCherfas/673185
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Episode 89: Fascinating Things II: A Conversation With Craig Morris, Director of the Western Wheat Quality Lab - WA Grains

@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://99percentinvisible.org/?p=42731
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: What&rsquo;s it like for residents to fight like hell for help, but the help on offer means leaving the place they love?

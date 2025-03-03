@@ -12,7 +12,7 @@ enabled: '0'
 header_image: '0'
 theurl: http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/howsound/p/transom.org/wp-content/uploads/2019/08/Bellwethers-Speculative-Journalism.mp3
 image: artwork-resized.jpg
-template: item
+template: listen
 ---
  
 Episode summary: 

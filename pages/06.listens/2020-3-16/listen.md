@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: http://traffic.libsyn.com/mixedmentalarts/Haidt_INTRO-OUTRO.mp3?dest-id=498084
 image: artwork-resized.jpg
-template: item
+template: listen
 --- 
 Episode summary: 

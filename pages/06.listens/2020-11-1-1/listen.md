@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://chtbl.com/track/9E18G/media.transistor.fm/7ea480ac.mp3
 image: artwork-resized.png
-template: item
+template: listen
 --- 
 Episode summary: Besides speaking into a mic, or editing audio, there are other great opportunities to work in podcasting. In this episode I talk about video editors and podcasting.

@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: http://relay.fm/automators/141
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Keyboard Maestro got a big update, and the Automators are here to report on the new features.

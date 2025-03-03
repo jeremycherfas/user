@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automatorsrelay/automators039-RevA.mp3
 image: artwork-resized.jpg
-template: item
+template: listen
 --- 
 Episode summary: In this episode, David and Rosemary try all sorts of iBeacons and look at why, where, when, and how you use these little devices.

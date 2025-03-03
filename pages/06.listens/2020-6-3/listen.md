@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://traffic.megaphone.fm/GLT2206804663.mp3
 image: artwork-resized.jpg
-template: item
+template: listen
 --- 
 Episode summary: KIEV, UKRAINE, 2019: Patrick flies to Ukraine and witnesses how fully the political message of “Wind of Change” still resonates with fans at a Scorpions show in Kiev. Plus: what does the CIA say when you come right out and ask about the agency’s connection to the band?

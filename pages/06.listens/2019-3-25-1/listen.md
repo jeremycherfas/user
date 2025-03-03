@@ -12,7 +12,7 @@ enabled: '0'
 header_image: '0'
 theurl: https://overcast.fm/+FV-u8U2TI
 image: artwork-resized.jpg
-template: item
+template: listen
 ---
  
 Episode summary:  None.

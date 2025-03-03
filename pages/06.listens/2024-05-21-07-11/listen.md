@@ -10,7 +10,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/revisionist-history/why-we-need-small-talk-from-the-art-of-small-talk
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Why We Need Small Talk from The Art of Small Talk

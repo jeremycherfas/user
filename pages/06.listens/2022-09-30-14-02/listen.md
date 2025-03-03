@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://huffduffer.com/JeremyCherfas/650312
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: History of Inventions: PowerPoint

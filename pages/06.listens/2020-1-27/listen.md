@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://traffic.megaphone.fm/GLT1201174101.mp3?updated=1579201712
 image: artwork-resized.jpg
-template: item
+template: listen
 --- 
 Episode summary: A scandal at Teen Vogue, a mysteriously disappeared TikTok star, and the competing viral dances of Mayor Pete and Mayor Bloomberg. Yes Yes No is back. Tweet #1 Tweet #2

@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/anna-keay
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Plus: Tips for keeping warm in an 800-year-old home.

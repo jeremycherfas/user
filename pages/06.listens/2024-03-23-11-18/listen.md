@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/marc-andreesseen
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Might the kids be alright?

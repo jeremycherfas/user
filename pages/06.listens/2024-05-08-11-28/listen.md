@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://huffduffer.com/JeremyCherfas/693831
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Longform Podcast #577: PJ Vogt · Longform

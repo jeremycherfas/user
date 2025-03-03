@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/revisionist-history/a-good-circle
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: A Good Circle

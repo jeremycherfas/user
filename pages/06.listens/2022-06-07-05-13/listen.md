@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://sfagravy.libsyn.com/fresh-flour-to-the-people
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: In &ldquo;Fresh Flour to the People,&rdquo; the third episode in her five-part series for Gravy, producer Irina Zhorov talks to bakers who have started demanding more from a key element in their craft&mdash;flour. When we talk about ingredients, there&rsquo;s a&hellip;

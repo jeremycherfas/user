@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: http://relay.fm/automators/117
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: In this episode David and Rosemary dive into Make.com and get nerdy with a new online automation platform. And because it&rsquo;s the holidays they also touch on some of their holiday automations!

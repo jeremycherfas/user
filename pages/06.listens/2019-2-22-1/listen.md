@@ -12,7 +12,7 @@ summary:
 header_image: '0'
 theurl: https://overcast.fm/+IPMb3k8no
 image: artwork-resized.png
-template: item
+template: listen
 ---
  
 Episode summary: Tim Harford talks to Matt Parker on how simple maths mistakes can cause big problems.

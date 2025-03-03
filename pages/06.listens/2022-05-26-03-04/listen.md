@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://nocturnepodcast.org/light-enough/
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: You won&rsquo;t find the word &ldquo;Tenebrisology&rdquo; in the dictionary - yet. It means, &ldquo;the study of natural darkness&rdquo;, and it was created by Jane Slade. Working in the lighting industry woke her up to the darkness we&rsquo;re all missing, and her mission to bring it back.

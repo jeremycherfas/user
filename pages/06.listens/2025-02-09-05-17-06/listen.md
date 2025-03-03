@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://audioboom.com/posts/8645291
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: S8 Ep1: The Sweet Spot of Savoury

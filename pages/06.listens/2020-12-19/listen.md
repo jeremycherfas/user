@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/1C3AGD/traffic.megaphone.fm/LIT4449955791.mp3
 image: artwork-resized.png
-template: item
+template: listen
 --- 
 Episode summary: 

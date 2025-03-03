@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://learnconlaw.com/79-law-free-zone
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: The concept of presidential immunity is not explicitly stated anywhere in the Constitution. That hasn&rsquo;t stopped the Supreme Court from essentially creating a law-free zone around the President.

@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: http://www.bbc.co.uk/programmes/m001c67d
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: The co-op that&rsquo;s saving land, a food culture and villages at risk of being abandoned. In Benevento, Italy, Lentamente is also giving former convicts a future through farms and food. Produced and presented by Dan Saladino.

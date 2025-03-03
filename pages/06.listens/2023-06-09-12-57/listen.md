@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/seth-godin-on-marketing-meaning-and-the-bibs-we-wear
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: On good days, Seth Godin thinks about the progress we&rsquo;re making on climate change. On bad days, he thinks about the problem of racing bibs.

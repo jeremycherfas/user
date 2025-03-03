@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/jeremy-grantham
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: VC is an underrated weapon in the fight against climate change.

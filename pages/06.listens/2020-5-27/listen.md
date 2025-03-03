@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/automatorsrelay/automators050.mp3
 image: artwork-resized.jpg
-template: item
+template: listen
 --- 
 Episode summary: David and Rose celebrate episode 50 buy looking at the different flavors of automation and sharing some of their favorite automations for Shortcurts and Keyboard Maestro.

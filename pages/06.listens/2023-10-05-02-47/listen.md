@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: http://relay.fm/automators/136
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Alex Cox returns to the Automators to share a few new automation tricks and get answers for some more involving NFC Tags, Keyboard Maestro, and Automation Possibilities with Apple&rsquo;s Vision Pro.

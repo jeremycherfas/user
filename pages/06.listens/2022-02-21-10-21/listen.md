@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: http://www.bbc.co.uk/programmes/m0014p3g
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Dan Saladino meets the plant hunters searching for the world&rsquo;s lost and forgotten coffee varieties and Michael Pollan, author of This is Your Mind on Plants, explains how caffeine helped usher in the modern world. Produced and presented by Dan Saladino.

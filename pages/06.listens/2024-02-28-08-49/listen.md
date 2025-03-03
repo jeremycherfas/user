@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/masaaki
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Might Suzuki occupy more space in Tyler&rsquo;s CD collection than any other musician?

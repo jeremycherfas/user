@@ -12,7 +12,7 @@ enabled: '0'
 header_image: '0'
 theurl: https://leopard.megaphone.fm/DGT1083053415.mp3
 image: artwork-resized.jpg
-template: item
+template: listen
 ---
  
 Episode summary: An unarmed man is shot to death by police. How does the Jesuitical idea of “disordered attachments” help us make sense of what happened? Part three of three.

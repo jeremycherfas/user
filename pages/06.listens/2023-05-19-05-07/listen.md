@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://filthy-ritual.captivate.fm/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: 4. How Do You Solve a Problem Like Maria?

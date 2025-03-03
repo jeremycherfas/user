@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/automatorsrelay/automators082.mp3
 image: artwork-resized.png
-template: item
+template: listen
 --- 
 Episode summary: Jason Snell joins the Automators to talk about his automation journey, some useful automations, and the promise of Shortcuts for Mac.

@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radioopensource/p/content.blubrry.com/radioopensource/201217-OS-PODCAST-ErrollGarner.mp3
 image: artwork-resized.png
-template: item
+template: listen
 --- 
 Episode summary: 

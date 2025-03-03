@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/yasheng-huang
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Yasheng Huang has written two of Tyler&rsquo;s favorite books on China: , which contrasts an entrepreneurial rural China and a state-controlled urban China, and , which argues that Keju&mdash;China&rsquo;s civil service exam system&mdash;played a key role in the&hellip;

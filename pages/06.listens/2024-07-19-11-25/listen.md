@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/brian-winter
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Come for the churrasco. Stay for the economic deep dives across Latin America.

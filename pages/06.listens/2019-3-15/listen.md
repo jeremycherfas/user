@@ -12,7 +12,7 @@ summary:
 header_image: '0'
 theurl: 'https://overcast.fm/+DCXVTeE'
 image: artwork-resized.png
-template: item
+template: listen
 ---
 
 

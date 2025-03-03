@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: http://feeds.prx.org/~r/TOE/~3/DLJEJ6SGAAs/388588
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: March 2020, writer Craig Taylor believed he was finally done with his 11 year oral history project featuring the voices of people who live and work in New York City. He wasn&rsquo;t. His incredible new book New Yorkers provides us with a number of first person accounts of the Covid19 crisis and primes us to think about what&rsquo;s next for the city. Plus: photographer Renate Aller on the social distancing pictures she took on the street outside her Soho loft during the worst of the crisis.

@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/automatorsrelay/automators062.mp3
 image: artwork-resized.jpg
-template: item
+template: listen
 --- 
 Episode summary: Alex Cox joins the Automators this week to talk home automation, Drafts, Shortcuts, and how to learn new automation.

@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/stanley-mcchrystal
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Why it&rsquo;s crucial to take a long view of history.

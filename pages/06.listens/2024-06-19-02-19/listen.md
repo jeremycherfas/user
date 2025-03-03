@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://99percentinvisible.org/?p=42347&post_type=episode
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Whose job is it to fact check the Supreme Court? As it turns out, no one. So why is it like that, and what even happens when you prove them wrong?

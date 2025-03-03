@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/velina
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Don&rsquo;t call her an oracle. She prefers foreseer.

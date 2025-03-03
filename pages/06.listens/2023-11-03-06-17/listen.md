@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://audioboom.com/posts/8388218
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: S7 Ep3: A Common Language (Good Bread #3)

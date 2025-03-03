@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://audioboom.com/posts/7931595.mp3?modified=1630075491&source=rss&stitched=1
 image: artwork-resized.jpg
-template: item
+template: listen
 --- 
 Episode summary: 

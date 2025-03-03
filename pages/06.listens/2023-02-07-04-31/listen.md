@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/against-the-rules-with-michael-lewis/on-background-from-against-the-rules
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: On Background from Against the Rules

@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: http://relay.fm/automators/150
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Rosemary and David have multiple ways to automate file management on your Mac.

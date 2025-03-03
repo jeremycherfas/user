@@ -10,7 +10,7 @@ taxonomy:
         - podcasts
 theurl: https://huffduffer.com/JeremyCherfas/644716
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Sunday, June 26, 2022; May I suggest listening to yesterday's podcast. It's full of timely stories, and reason to hope that now we will do what we've been putting off since the end of the Civil War. In the podcast I reference Bruce Sterling's talk in Copenhagen in 2009 and Elie Mystal's book about the Constitution which I strongly urge you to get and read or (preferred) listen to.

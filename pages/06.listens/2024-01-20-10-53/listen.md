@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/patrick-mckenzie-fix
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Few can measure the impact of a blog post they wrote, in the millions of dollars a year, but Patrick McKenzie has the receipts

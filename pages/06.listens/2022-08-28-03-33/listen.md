@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/revisionist-history/way-to-go-ohio
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Way to Go, Ohio

@@ -10,7 +10,7 @@ taxonomy:
         - podcasts
 theurl: https://huffduffer.com/JeremyCherfas/664141
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: SoS 64 The problematic history of lactase persistence research with Dr. Alice Yao — Sausage of Science — Overcast

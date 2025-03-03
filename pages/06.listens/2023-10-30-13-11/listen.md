@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://audioboom.com/posts/8380994
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: S7 Ep2: The Price of Consistency (Good Bread #2)

@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/shruti-rajagopalan-talks-talent-with-daniel-gross-and-tyler
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: What characteristics indicate human creativity and capacity?

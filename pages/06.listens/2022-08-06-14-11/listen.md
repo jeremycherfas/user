@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/revisionist-history/star-struck
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Star Struck

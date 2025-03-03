@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://99percentinvisible.org/episode/personnes-elegantes/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Bright, flamboyant central African fashion

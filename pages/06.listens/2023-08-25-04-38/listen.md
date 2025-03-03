@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/paul-graham-on-ambition-art-and-evaluating-talent
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Plus, his bizarre strategy for getting over a fear of flying.

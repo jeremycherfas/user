@@ -12,7 +12,7 @@ enabled: '0'
 header_image: '0'
 theurl: https://www.npr.org/planetmoney
 image: artwork-resized.png
-template: item
+template: listen
 ---
  
 Episode summary: Copyrighting comedy is expensive. So comedians have devised an informal system of sanctions to protect their jokes from theft. Sometimes it works.

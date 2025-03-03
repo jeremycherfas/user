@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: http://www.bbc.co.uk/programmes/p0d60qph
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: From the fields of Ukraine to a bakery in Beirut, we find out what it costs to produce a global staple - bread.

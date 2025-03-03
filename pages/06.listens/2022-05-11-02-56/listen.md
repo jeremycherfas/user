@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: http://relay.fm/automators/101
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: In this episode, Rosemary and David are joined by Daniel Jalkut, the man in the red sweater behind FastScripts, MarsEdit, and the Core Intuition podcast. Together they ponder the future of AppleScript, and just how fast is a script anyway?

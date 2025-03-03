@@ -12,7 +12,7 @@ enabled: '0'
 header_image: '0'
 theurl: https://media.acast.com/talkingpolitics/thecopernicanprinciple/media.mp3
 image: artwork-resized.png
-template: item
+template: listen
 ---
  
 Episode summary: David gives the third in his series of talks about the future of democracy. This one uses an idea from cosmology to work out where we might be in the story of democracy: are we at the beginning, in the middle or near the end? It all depends when and where we think the story starts. From Stonehenge to Les Miserables, from ancient Athens to Facebook, a simple idea turns out to have some surprising applications, and some important lessons for contemporary politics. Talking Points: The Copernican Principle is based on the idea that we are not the center of the universe. - Because we are not inherently special, most of the time, we encounter things without a natural life expectancy somewhere in the random middle. - If something has been going on for years, it will likely keep going for years. If something has been going on for weeks, it will likely keep going for weeks. What does this mean for democracy? It depends on which story you think we’re in. - The long story is about 2,500 years old, going back to the…

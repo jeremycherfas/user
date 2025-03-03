@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: http://relay.fm/automators/93
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: David&rsquo;s made a few changes and it&rsquo;s time for an Automator-style audit. In this episode Rose and David cover email, task management, calendars, desktop setups, web automation, and more.

@@ -12,7 +12,7 @@ enabled: '0'
 header_image: '0'
 theurl: http://traffic.libsyn.com/nsi/nsi334-itunes.mp3?dest-id=127311
 image: artwork-resized.png
-template: item
+template: listen
 ---
  
 Episode summary: Nella prima parte del nostro programma, discuteremo di attualità. Cominceremo con il trentesimoanniversario del massacro, avvenuto in piazza Tiananmen, a Pechino. Poi, parleremo di un nuovo indice, secondo cui nessuna nazione…

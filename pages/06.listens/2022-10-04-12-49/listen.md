@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://99percentinvisible.org/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: The jackalope is a mythical mascot of the American West &ndash; inspiring an absolute river of trinkets and songs and whiskies and postcards and tall tales.

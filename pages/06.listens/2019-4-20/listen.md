@@ -12,7 +12,7 @@ enabled: '0'
 header_image: '0'
 theurl: https://traffic.megaphone.fm/DGT6566796581.mp3
 image: artwork-resized.png
-template: item
+template: listen
 ---
  
 Episode summary: The government protects us from some dangerous products, but not from others that, over time, ruin countless lives.

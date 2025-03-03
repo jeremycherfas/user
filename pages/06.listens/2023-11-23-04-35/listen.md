@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/brian-koppelman-on-tv-movies-and-appreciating-art-0
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: What is it about film that some smart people just don&rsquo;t seem to get?

@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: http://relay.fm/automators/124
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Fixing images and screenshots is boring and tedious. Why not hand that off to automation?

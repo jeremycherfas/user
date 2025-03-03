@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/revisionist-history/i-was-a-stranger-and-you-welcomed-me
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: “I Was A Stranger and You Welcomed Me”

@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/against-the-rules-with-michael-lewis/judging-sam-the-sentencing
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Judging Sam: The Sentencing

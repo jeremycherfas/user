@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://traffic.libsyn.com/secure/benfranklinsworld/281_Rosenthal.mp3
 image: artwork-resized.png
-template: item
+template: listen
 --- 
 Episode summary: 

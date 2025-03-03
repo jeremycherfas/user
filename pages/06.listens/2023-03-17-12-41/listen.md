@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://audioboom.com/posts/8257417
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: A Quick Bite with Gurdeep Loyal

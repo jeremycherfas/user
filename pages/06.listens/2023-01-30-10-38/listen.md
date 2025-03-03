@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://huffduffer.com/JeremyCherfas/658222
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Podcast | Consumed: The Myth and Reality of Cannibalism

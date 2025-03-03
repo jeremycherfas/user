@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/revisionist-history/board-game-season
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Board Game Season

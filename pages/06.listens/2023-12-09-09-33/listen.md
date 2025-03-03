@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/harriet-muriith-on-life-in-kenya
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: An aspiring entrepreneur&rsquo;s outlook on the country&rsquo;s future

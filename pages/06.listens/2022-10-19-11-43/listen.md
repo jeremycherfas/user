@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://audioboom.com/posts/8172892
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: S5 Ep9: Writing About Living with Thea Lenarduzzi

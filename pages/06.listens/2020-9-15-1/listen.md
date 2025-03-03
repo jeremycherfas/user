@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://www.podtrac.com/pts/redirect.mp3/cdn.winningslowly.org/file/winningslowly/8.16.mp3
 image: artwork-resized.png
-template: item
+template: listen
 --- 
 Episode summary: What had Mary Midgley so incredibly angry in the 1980’s, and what did she do about it?

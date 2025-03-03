@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/jerusalem-demsas-on-the-dispossessed-gullivers-travels-and-of-boys-and-menjerusalem-demsas-on-the-dispossessed-gullivers-travels-and-of-boys-and-menjerusalem-demsas-on-the-dispossessed-gullivers-travels-and-of-boys-and-men
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: It&rsquo;s time for a CWT book club!

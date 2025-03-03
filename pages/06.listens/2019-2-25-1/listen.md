@@ -12,7 +12,7 @@ summary:
 header_image: '0'
 theurl: https://overcast.fm/+HuIiYv5NU
 image: artwork-resized.png
-template: item
+template: listen
 ---
  
 Episode summary: How Robert Bork won the fight over the very meaning of competition in America, and paved the way for some of the biggest companies we’ve ever seen.

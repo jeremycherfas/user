@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://huffduffer.com/JeremyCherfas/672034
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Podcast | US History in 15 Foods: A Conversation with Anna Zeide

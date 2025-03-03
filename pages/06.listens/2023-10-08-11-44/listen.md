@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: http://gimletmedia.com/shows/reply-all
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: PJ Vogt introduces his new show, Search Engine, where he digs into all kinds of questions, big and small. On this episode: why are drug dealers putting fentanyl in everything? You can find the concluding episode of the story here. To find more episodes of Search Engine or to submit a question to the show, go here. Learn more about your ad choices. Visit podcastchoices.com/adchoices

@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/sam-bankman-fried
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Coordinators are that which is scarce.

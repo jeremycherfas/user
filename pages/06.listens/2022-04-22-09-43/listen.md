@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/against-the-rules-with-michael-lewis/episode-3-field-of-ignorance
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: The right kind of expert, at the right time, can change everything.

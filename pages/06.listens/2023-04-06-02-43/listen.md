@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://www.kuow.org/stories/part-2-the-swindle
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Cowboy Cody Easterday lies big, creating a &ldquo;ghost herd&rdquo; of 265,000 cattle that only exist on paper and bringing in hundreds of millions of investment dollars from companies including a meat-packing giant. It&rsquo;s fraud on a massive scale. We examine how he carried it out.

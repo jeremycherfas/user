@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://www.stitcher.com/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: The story of how &ldquo;Who Let The Dogs Out&rdquo; ended up stuck in all of our brains. A story that goes back over 50 years and spans continents.

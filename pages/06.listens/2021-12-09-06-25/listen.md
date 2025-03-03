@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: http://rationallyspeakingpodcast.org/261-dangerous-biological-research-is-it-worth-it-kevin-esvelt/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Kevin Esvelt, a scientist at MIT, argues that research intended to prevent pandemics is actually putting us in a lot more danger. Also discussed: Kevin&rsquo;s own research on engineering wild animal species. Are the risks worth the benefits?

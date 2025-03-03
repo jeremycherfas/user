@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/roy-foster
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: History is the story of those making a future that never came to pass.

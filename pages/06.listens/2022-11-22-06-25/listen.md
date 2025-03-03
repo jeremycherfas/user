@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/against-the-rules-with-michael-lewis/from-whats-your-problem-sam-bankman-fried-revisite
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: From What’s Your Problem: Sam Bankman-Fried Revisited

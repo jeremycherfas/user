@@ -12,7 +12,7 @@ enabled: '0'
 header_image: '0'
 theurl: http://gimletmedia.com/shows/reply-all
 image: artwork-resized.jpg
-template: item
+template: listen
 ---
  
 Episode summary: This week, PJ and Alex open up the phone lines and try to solve your problems, big and small. Don’t type like my brother.Further Reading: JusoorInstitute of International Education PEER Michael Bazzel’s workbook to remove your personal information online

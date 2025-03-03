@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://traffic.megaphone.fm/GLT7203951211.mp3?updated=1594870345
 image: artwork-resized.jpg
-template: item
+template: listen
 --- 
 Episode summary: Three years after Alex Goldman traveled to India to investigate a scammy call center, he gets a tip that makes him question everything he learned in his first trip. Long Distance Part I Long Distance Part II Akash’s YouTube Akash’s podcast episode

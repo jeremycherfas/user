@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://huffduffer.com/JeremyCherfas/640343
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Women and Folk Music

@@ -12,7 +12,7 @@ enabled: '0'
 header_image: '0'
 theurl: http://traffic.libsyn.com/nsi/nsi335-itunes.mp3?dest-id=127311
 image: artwork-resized.png
-template: item
+template: listen
 ---
  
 Episode summary: Nella prima parte del nostro programma parleremo di attualità. Inizieremo, parlando delle celebrazioni che si sono tenute lo scorso 6 giugno, in occasione del 75esimo anniversario dello Sbarco in Normandia. Poi,…

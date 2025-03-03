@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/revisionist-history/guns-part-1-the-sudden-celebrity-of-sir-john-knigh
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Guns Part 1: The Sudden Celebrity of Sir John Knight

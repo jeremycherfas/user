@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/david-salle
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Why, the artist wonders, can&rsquo;t we just have more fun with it?

@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://learnconlaw.com/83-whose-speech-whose-campus
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: As students go back to school, colleges and universities across the country are preparing for the continuation of protests against the Israel-Hamas war&mdash;and claims by other students that the protests are violating their own civil rights. Institutions and courts are now weighing the question: whose free speech matters more?

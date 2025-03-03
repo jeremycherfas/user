@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://beta.prx.org/stories/423546
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: One million plus dead Americans into the pandemic and the &lsquo;long covid&rsquo; odds are now 1 in 5. What happened? How did we end up here? And more importantly, how does one win the covid lottery? Our two favorite stories from our &lsquo;NYC after covid&rsquo; mini series from last year.

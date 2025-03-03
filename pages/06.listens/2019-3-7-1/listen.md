@@ -12,7 +12,7 @@ summary:
 header_image: '0'
 theurl: https://overcast.fm/+DzGWDKV4k
 image: artwork-resized.jpg
-template: item
+template: listen
 ---
  
 Episode summary: Yes Yes No returns and Alex Blumberg takes us on a journey from secret celebrity love letters to the biggest, strangest rock band you’ve never heard of. Also, basketball.See the tweet here.

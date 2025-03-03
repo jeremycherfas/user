@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://gastronomica.org/wp-content/uploads/2021/06/061121_MTBE_113_V1.mp3
 image: artwork-resized.png
-template: item
+template: listen
 --- 
 Episode summary: 

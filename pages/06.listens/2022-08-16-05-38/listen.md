@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: http://relay.fm/automators/107
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Sal Soghoian takes David and Rosemary on an epic automation adventure. Starting with a look back at Automator on the Mac, and looking at the star Shortcuts developers now&mdash;before diving into custom voice control with OmniFocus and beyond.

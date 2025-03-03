@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://trumpconlaw.com/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: The recent mass shootings and a New York gun carrying permit case calls for an examination of the current interpretation of the Second Amendment.

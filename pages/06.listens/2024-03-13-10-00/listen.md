@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/marc-rowan
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Why new blueprints are needed from asset management to academic excellence.

@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://huffduffer.com/JeremyCherfas/634290
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Pivot Bio’s Karsten Temme: “Microbial factories” | Danny In The Valley on Acast

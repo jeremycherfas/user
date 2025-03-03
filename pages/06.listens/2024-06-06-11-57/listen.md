@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://99percentinvisible.org/episode/uptown-squirrel/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Squirrels were purposefully introduced into our cities in the 1800s, and when their population exploded, we lost track of how many there are.

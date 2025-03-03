@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/neal-stephenson-0
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Could an AI novel ever truly engage us?

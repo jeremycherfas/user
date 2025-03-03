@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/relaympu/mpu532.mp3
 image: artwork-resized.jpg
-template: item
+template: listen
 --- 
 Episode summary: 

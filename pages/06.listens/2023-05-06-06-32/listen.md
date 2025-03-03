@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://www.deejay.it/podcast/doi-denominazione-di-origine-inventata/stagione-1-di-doi-denominazione-di-origine-inventata/episodio-32-god-save-the-kitchen-con-marianna-giusti-stagione-3/
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Episodio 32: God Save The Kitchen! Con Marianna Giusti (Stagione 3)

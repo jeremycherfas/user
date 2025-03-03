@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://audioboom.com/posts/7940827
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: 5: The Hearth of the Home (Kitchens #5)

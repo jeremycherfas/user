@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/revisionist-history/the-rise-of-the-guinea-pigs
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: The Rise of the Guinea Pigs

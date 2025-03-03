@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://99percentinvisible.org/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Data is the lifeblood of public health, and has been since the beginning of the field. We take a look at data gathering in regards to public health from the 1600s to today and how it might change in the future.

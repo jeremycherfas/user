@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://publicinfrastructure.org/podcast/101-diana-freed/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: CW/TW: Intimate partner violence, child exploitation Diana Freed has spent the past several years radically reframing the threat model in cybersecurity with groundbreaking research into how domestic abusers utilize everyday technology like smart phones and tracking apps. Diana sits down with us to talk about digital safety for survivors of intimate partner violence and youth, [&hellip;]

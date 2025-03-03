@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/revisionist-history/blink-with-stephen-gaghan-development-hell
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Blink with Stephen Gaghan | Development Hell

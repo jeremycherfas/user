@@ -12,7 +12,7 @@ summary:
 header_image: '0'
 theurl: https://overcast.fm/+PC26BVcM0
 image: artwork-resized.jpg
-template: item
+template: listen
 ---
  
 Episode summary: For two months a year, in a small Norwegian city, the sun never goes above the horizon. One researcher visits to find out why its citizens are happy despite the lack of light.

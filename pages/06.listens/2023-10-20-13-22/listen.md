@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/ada-palmer-on-viking-metaphysics-contingent-moments-and-censorship
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Could one tiny decision have changed The Enlightenment forever?

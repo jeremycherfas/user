@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://www.learnconlaw.com/85-faithless-electors-and-wrong-winners
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: The United States has a strange way of electing presidents.

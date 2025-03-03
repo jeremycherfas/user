@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/stephen-kotkin-0
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Is power made in palaces or kitchens?

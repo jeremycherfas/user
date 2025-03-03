@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/fuchsia-fix
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: In her third appearance, Fuchsia, Tyler, and a group of special guests gather over a banquet meal at Mama Chang

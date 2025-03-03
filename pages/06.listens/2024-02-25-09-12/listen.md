@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/against-the-rules-with-michael-lewis/michael-lewis-on-freakonomics-radio
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Michael Lewis on Freakonomics Radio

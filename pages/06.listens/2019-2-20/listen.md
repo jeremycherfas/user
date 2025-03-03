@@ -12,7 +12,7 @@ summary:
 header_image: '0'
 theurl: https://overcast.fm/+OaIt4M4
 image: artwork-resized.jpg
-template: item
+template: listen
 ---
  
 Episode summary: In the 1930’s,Theodor Adorno fled Nazi Germany. In America, he studied the Authoritarian Personality. On YouTube, he’s the object of study in a massive conspiracy theory that many have tried (and failed) to debunk. Chapter two in the new ToE Failure miniseries.

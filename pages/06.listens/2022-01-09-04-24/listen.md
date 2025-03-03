@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/eoy
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: After being featured on Ancient Aliens, where does the show go from here?

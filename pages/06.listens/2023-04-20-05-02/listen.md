@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/jess-wade
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Physicist by day, Wikipedia warrior by night.

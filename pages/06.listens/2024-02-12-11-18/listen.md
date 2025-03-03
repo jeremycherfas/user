@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://huffduffer.com/JeremyCherfas/686931
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Review: Chris Dixon’s Read Write Own

@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://thoughtshrapnel.com/wp-content/uploads/2019/12/microcast-081.mp3
 image: artwork-resized.jpg
-template: item
+template: listen
 --- 
 Episode summary: 

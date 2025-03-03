@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: http://relay.fm/automators/97
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: In this episode, David asks all the questions and we get into the nitty gritty details of how Rosemary&rsquo;s workflows and systems are being automated. From Hazel to Home Assistant, with a sprinkling of Airtable, there&rsquo;s variety and magic.

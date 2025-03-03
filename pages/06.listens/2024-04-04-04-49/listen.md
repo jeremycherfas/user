@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/marilynne-robinson-on-biblical-interpretation-calvinist-thought-and-religion-in-america
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: For famed writer Marilynne Robinson, Genesis is the book that never stops giving.

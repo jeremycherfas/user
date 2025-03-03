@@ -12,7 +12,7 @@ enabled: '0'
 header_image: '0'
 theurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automatorsrelay/automators023.mp3
 image: artwork-resized.jpg
-template: item
+template: listen
 ---
  
 Episode summary: In this episode Rosemary and David get Tim the Drafts Man to talk about how he uses Drafts, sharing actions, tips and tricks.

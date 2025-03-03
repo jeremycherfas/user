@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/vishy-anand-on-staying-in-the-game
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: At 53, the chess legend is still one of the best in the world. What keeps him playing?

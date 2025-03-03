@@ -12,7 +12,7 @@ enabled: '0'
 header_image: '0'
 theurl: https://traffic.megaphone.fm/DGT5286494331.mp3
 image: artwork-resized.png
-template: item
+template: listen
 ---
  
 Episode summary: Where is a millisecond worth a million dollars? The New York Stock Exchange.

@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/broken-record-with-rick-rubin-malcolm-gladwell-bru/b-la-flack
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Béla Fleck

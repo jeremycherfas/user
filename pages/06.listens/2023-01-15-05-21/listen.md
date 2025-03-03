@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://beta.prx.org/stories/438386
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: As decibel levels continue to rise, threatening human existence we turn to two listening experts for help. George Prochnik and George Foy both investigate listening, silence and noise.

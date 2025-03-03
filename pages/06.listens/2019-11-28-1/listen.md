@@ -11,7 +11,7 @@ taxonomy:
 header_image: '0'
 theurl: https://media.acast.com/talkingpolitics/techelection-part1/media.mp3
 image: artwork-resized.png
-template: item
+template: listen
 --- 
 Episode summary: In a special live edition recorded at the Bristol Festival of Economics we discuss the impact of the technology revolution on democratic politics. Has the rise of automation contributed to the rise of populism? Is China winning the AI wars against the West? And do any democratic politicians - from Elizabeth Warren to Jeremy Corbyn - have the policies to get big tech back under control? With Rana Foroohar, author of Don’t Be Evil, and Carl Frey, author of The Technology Trap, plus Diane Coyle, founder and programme director of the Bristol Festival of Economics. Next week: the Facebook election. For information regarding your data privacy, visit acast.com/privacy
 

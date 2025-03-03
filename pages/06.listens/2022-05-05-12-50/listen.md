@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://huffduffer.com/JeremyCherfas/640080
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: New Books Network | The Future of Race: A Discussion with John…

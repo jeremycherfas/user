@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p08l3t04.mp3
 image: artwork-resized.png
-template: item
+template: listen
 --- 
 Episode summary: Tim Harford talks to statistician Ola Rosling about his research into misconceptions about Covid-19. And an update on the epidemic in the US.

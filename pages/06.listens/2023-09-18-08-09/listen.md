@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://www.stitcher.com/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Solving the housing crisis and the office vacancy crisis with one obvious and elegant idea: office to housing conversion. If it were only that simple.

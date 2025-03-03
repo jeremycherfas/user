@@ -12,7 +12,7 @@ summary:
 header_image: '0'
 theurl: https://overcast.fm/+Dob21SqtM
 image: artwork-resized.png
-template: item
+template: listen
 ---
  
 Episode summary: A sample of my new podcast

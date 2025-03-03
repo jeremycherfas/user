@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/heres-the-thing-with-alec-baldwin/from-the-archives-john-dean-watergates-legacy-in-t
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: From the Archives: John Dean: Watergate’s Legacy in the Age of Trump

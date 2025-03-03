@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://chtbl.com/track/39E17/traffic.megaphone.fm/CAD4020083728.mp3
 image: artwork-resized.png
-template: item
+template: listen
 --- 
 Episode summary: Michael revisits his high school days in New Orleans to tell the story of Billy Fitzgerald, the baseball coach who changed his life; and makes the case for the old-school, tough- love coaching that many parents find hard to take these days. Learn more about your ad choices. Visit megaphone.fm/adchoices

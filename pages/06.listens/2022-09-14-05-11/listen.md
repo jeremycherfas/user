@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://trumpconlaw.com/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Elizabeth teaches Roman about which crimes the Justice Department is interested in as described in the Mar-a-Lago search warrant

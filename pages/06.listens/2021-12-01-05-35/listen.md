@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://99percentinvisible.org/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: The French bulldog is now the second most popular breed in America. Their cute features, portable size, and physical features make for a dog that can easily travel and doesn&rsquo;t require a lot of exercise. But these characteristics sometimes have a detrimental effect on the dog&rsquo;s health.

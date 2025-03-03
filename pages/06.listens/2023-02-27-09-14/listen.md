@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/revisionist-history/a-treat-for-the-die-hards
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: A Treat for the Die-Hards

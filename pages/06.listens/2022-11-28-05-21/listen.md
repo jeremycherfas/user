@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/heres-the-thing-with-alec-baldwin/liev-schreiber-on-bluecheck-and-aid-to-ukraine
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Liev Schreiber on BlueCheck and Aid to Ukraine

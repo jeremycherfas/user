@@ -10,7 +10,7 @@ taxonomy:
         - Reviews
 theurl: https://99percentinvisible.org/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Seven small inventions that changed the world in a big way.

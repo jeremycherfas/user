@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/paula-byrne
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: And does Paul McCartney still sound Scouse?

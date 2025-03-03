@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: http://relay.fm/automators/163
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: The Automators share some of their favorite tricks for creating, editing, and working with text.

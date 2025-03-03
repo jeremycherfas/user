@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/brad-delong
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Why 1870 - 2010 were such extraordinary years.

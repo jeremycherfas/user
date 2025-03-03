@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/revisionist-history/the-pushkin-prize-for-egregiously-deceptive-self-p
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: The Pushkin Prize for Egregiously Deceptive Self-Promotion

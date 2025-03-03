@@ -12,7 +12,7 @@ enabled: '0'
 header_image: '0'
 theurl: https://dts.podtrac.com/redirect.mp3/media.blubrry.com/99percentinvisible/dovetail.prxu.org/96/99e7a9fe-03c7-4eb8-b2e6-fbb84a97c4d6/01_358_The_Anthropocene_Reviewed_pt01.mp3
 image: artwork-resized.png
-template: item
+template: listen
 ---
  
 Episode summary: The Anthropocene is the current geological age, in which human activity has profoundly shaped the planet and its biodiversity. On The Anthropocene Reviewed, John Green rates different facets of the human-centered planet on a five-star scale. This week 99% Invisible is featuring two episodes of The Anthropocene Reviewed in which John Green dissects: pennies, the Piggly Wiggly grocery store chain, a 17,000-year-old cave painting, and the Taco Bell breakfast menu. Plus, Roman talks with John about the show, sports, and all the things we love now, but hated as teenagers. The Anthropocene Reviewed Subscribe to The Anthropocene Reviewed on Apple Podcasts or RadioPublic

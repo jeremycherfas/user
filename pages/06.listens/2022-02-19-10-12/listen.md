@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/sebastian-mallaby
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Venture capital powered the tech revolution, but what powers venture capital?

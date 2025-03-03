@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/alan-taylor
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: One of America&rsquo;s best living historians spills the tea on the early American Republic.

@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/revisionist-history/hitler-s-olympics-part-1-the-blue-eyed-tornado
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Hitler’s Olympics Part 1: The Blue-Eyed Tornado

@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://audioboom.com/posts/8163762
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: S5 Ep7: Back to School with Jeremy Pang

@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://traffic.megaphone.fm/GLT4505975828.mp3
 image: artwork-resized.jpg
-template: item
+template: listen
 --- 
 Episode summary: The Reply All team takes a look at the Test Kitchen, and what those mistakes mean for the future of the show. Learn more about your ad choices. Visit megaphone.fm/adchoices

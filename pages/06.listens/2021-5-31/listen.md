@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://api.spreaker.com/download/episode/44870889/aic_cross_promo_edit_2.mp3
 image: artwork-resized.jpg
-template: item
+template: listen
 --- 
 Episode summary: We are hard at work on the bonus episode about decolonising coffee history.But…in the meantime, here’s an episode from a sister podcast we think you’ll enjoy.You can listen to more episodes from Adventures in Coffee here: https://bit.ly/300V4jS

@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/leopoldo-lopez
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: What Venezuela teaches us about democratic collapse.

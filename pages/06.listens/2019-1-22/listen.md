@@ -12,7 +12,7 @@ summary:
 header_image: '0'
 theurl: https://overcast.fm/+KZH-36rR0
 image: artwork-resized.jpg
-template: item
+template: listen
 ---
  
 Episode summary: I keep thinking about building a website to post events

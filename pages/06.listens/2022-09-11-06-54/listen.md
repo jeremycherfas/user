@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://99percentinvisible.org/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: North Korea&rsquo;s state-run design studio has long been a prolific maker of statues around the world, particularly in Africa

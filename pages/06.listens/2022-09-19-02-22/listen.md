@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/vaughn-smith
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: He dreams in 10 languages&mdash;how about you?

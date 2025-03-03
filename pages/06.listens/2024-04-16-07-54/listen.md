@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/jonathan-haidt-on-adjusting-to-smartphones-and-social-media
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Are we in for a decades-long dip in teen mental health?

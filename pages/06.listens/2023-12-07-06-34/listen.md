@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/heres-the-thing-with-alec-baldwin/roseanne-cash-the-30th-anniversary-of-the-wheel
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Rosanne Cash: The 30th Anniversary of “The Wheel”

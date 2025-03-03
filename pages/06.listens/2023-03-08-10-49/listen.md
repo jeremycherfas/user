@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: http://www.bbc.co.uk/programmes/p0f57zn1
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: How environmentally destructive is our thirst for coffee? Tim and the team investigate a claim that 29,000 coffee pods end up in landfill globally every minute with the help of Dr Ying Jiang, a senior lecturer in bioenergy from Cranfield University in the UK.

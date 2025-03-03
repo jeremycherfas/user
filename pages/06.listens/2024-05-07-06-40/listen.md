@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/peter-thiel
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Unveiling the dangers of just trying to muddle through

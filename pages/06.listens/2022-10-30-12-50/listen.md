@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: http://relay.fm/automators/113
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: In this news, Rosemary and David look into non-continous automations and how breaking up a process can improve your automation abilities.

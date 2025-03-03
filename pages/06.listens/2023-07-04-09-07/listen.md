@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://www.stitcher.com/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Many consider Margarete Sch&uuml;tte-Lihotzky&rsquo;s Frankfurt Kitchen to be nothing less than the first modern kitchen.

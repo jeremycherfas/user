@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://99percentinvisible.org/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: If you&rsquo;ve ever flipped through the radio dial &mdash; not satellite, not podcasts, but good old-fashioned AM and FM radio &mdash; you may have noticed something. Right wing radio talk is everywhere.

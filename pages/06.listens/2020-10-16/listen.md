@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://traffic.libsyn.com/secure/daringfireball/thetalkshow-297-underscore-david-smith.mp3
 image: artwork-resized.png
-template: item
+template: listen
 --- 
 Episode summary: 

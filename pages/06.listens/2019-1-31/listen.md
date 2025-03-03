@@ -12,7 +12,7 @@ summary:
 header_image: '0'
 theurl: https://overcast.fm/+D0B-UiBCg
 image: artwork-resized.png
-template: item
+template: listen
 ---
  
 Episode summary: In Louisville, Con Huevos serves a taste of Mexico—for breakfast.

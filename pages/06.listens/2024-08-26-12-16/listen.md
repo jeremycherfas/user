@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://huffduffer.com/JeremyCherfas/701277
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: The History of Pigeons - The Blindboy Podcast | Acast

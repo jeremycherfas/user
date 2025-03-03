@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/ray-dalio
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Plus, the value of disagreeableness.

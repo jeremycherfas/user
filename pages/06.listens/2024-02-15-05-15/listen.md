@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://www.stitcher.com/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: The interblock parks of Sofia, Bulgaria that are caught between old failed communism and new hyper capitalism

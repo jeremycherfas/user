@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://publicinfrastructure.org/podcast/48-heather-ford/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: talk about the thousands of volunteers building it together? Heather Ford, an ethnographer of Wikipedia, joins us to talk about the power struggles and community governance that makes the site one of the most trusted information sources on the web.

@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/daniel-gross
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Plus, the user guide to working with Tyler.

@@ -12,7 +12,7 @@ enabled: '0'
 header_image: '0'
 theurl: http://traffic.libsyn.com/nsi/nsi333-itunes.mp3?dest-id=127311
 image: artwork-resized.png
-template: item
+template: listen
 ---
  
 Episode summary: Come di consueto, nella prima parte del nostro programma, discuteremo di avvenimenti attuali. Inizieremo commentando i risultati delle elezioni per il parlamento europeo. Poi, continueremo con la raccomandazione a non…

@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://huffduffer.com/JeremyCherfas/691195
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Is there a sane way to use the internet?

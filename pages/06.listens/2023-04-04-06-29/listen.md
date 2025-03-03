@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://www.kuow.org/stories/part-1-the-empire-builders
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Meet the Easterdays &ndash; ranching royalty rooted in the Columbia Basin in southeast Washington state. But behind the well-known family name hides a dark secret, concealed in spreadsheets and bum invoices, that&rsquo;s eating away at their vast empire.

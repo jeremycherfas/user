@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://www.stitcher.com/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Featuring Blank Check co-host and The Atlantic movie critic David Sims covering the first section of Part 4, chapters 11-15

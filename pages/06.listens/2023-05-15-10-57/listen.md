@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://huffduffer.com/JeremyCherfas/666627
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Planet Money Turns 1,000!!! : Planet Money : NPR

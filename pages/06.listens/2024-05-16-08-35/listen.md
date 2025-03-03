@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://audioboom.com/posts/8497595
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Against Food as a Benign Good with Lottie Hazell

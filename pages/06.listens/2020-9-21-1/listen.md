@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://dts.podtrac.com/redirect.mp3/podcast-download.kcrw.com/kcrw/audio/podcast/etc/nw/KCRW-nocturne-river_nighttime_night_fear_danger_darkness-200908.mp3
 image: artwork-resized.jpg
-template: item
+template: listen
 --- 
 Episode summary: A walk through a park, an urban rooftop, a forest trail - all of these are one experience in broad daylight, and entirely another after nightfall. The river, Aare, in Switzerland transforms into another creature in the darkness.

@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/automatorsrelay/automators077.mp3
 image: artwork-resized.jpg
-template: item
+template: listen
 --- 
 Episode summary: David and Rosemary are joined by The Unicorn Sidekick, Kathy Campbell, to talk automation. From Lightroom and handling thousands of photos, to Shortcuts for launching music playback, there’s plenty of automation to discover!

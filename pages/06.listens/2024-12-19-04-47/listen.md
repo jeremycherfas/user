@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://huffduffer.com/JeremyCherfas/705065
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Song 172, “Hickory Wind” by the Byrds: Part Two, Of Submarines and Second Generations

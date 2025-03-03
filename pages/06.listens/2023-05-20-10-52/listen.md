@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://www.deejay.it/podcast/doi-denominazione-di-origine-inventata/stagione-1-di-doi-denominazione-di-origine-inventata/episodio-33-coca-casa-e-chiesa/
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Episodio 33: Coca, casa e chiesa

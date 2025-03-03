@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/paul-bloom
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: It&rsquo;s 2024. Do you know where your children are at? Psychologically?

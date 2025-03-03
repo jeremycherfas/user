@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: http://relay.fm/automators/166
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: In this episode, David and Rosemary are joined by Tim Stringer to look at his automations and discuss the core principles of automating.

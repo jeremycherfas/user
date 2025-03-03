@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://www.whetstonemagazine.com/whetstone-audio-dispatch
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Anti-Black Terrorism on Freedom Acres Farm

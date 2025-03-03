@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://99percentinvisible.org/?p=43850
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: How did a simple painting transform into the world&rsquo;s most recognized depiction of Jesus?

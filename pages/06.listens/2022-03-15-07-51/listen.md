@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/chuck-klosterman
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Plus, the slow cancellation of the future.

@@ -13,7 +13,7 @@ enabled: '0'
 header_image: '0'
 theurl: https://leopard.megaphone.fm/DGT2035428153.mp3
 image: artwork-resized.jpg
-template: item
+template: listen
 ---
  
 Episode summary: Throughout the 1960s, a biologist named Howard Temin became convinced that something wasn’t right in science’s understanding of viruses. His colleagues dismissed him as a heretic. He turned out to be right — and you’re alive today as a result. Season Four ends with a bedtime story about how we should be freed by our doubts, not imprisoned by them.

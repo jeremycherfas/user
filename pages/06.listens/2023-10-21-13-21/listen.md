@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/lazarus-lake-on-endurance-uncertainty-and-reaching-ones-potential
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Lessons from the Barkley Marathons creator.

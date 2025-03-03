@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/musa-al-gharbi
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: How do past social justice waves help explain wokeness today?

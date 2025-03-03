@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/revisionist-history/guns-part-6-sin-is-the-failure-to-bother-to-care
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Guns Part 6: “Sin is the failure to bother to care”

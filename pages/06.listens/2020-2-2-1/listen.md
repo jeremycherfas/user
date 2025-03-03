@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: http://api.spreaker.com/download/episode/22275196/cat_people_bundyville_trailer.mp3
 image: artwork-resized.jpg
-template: item
+template: listen
 --- 
 Episode summary: Hosted by Peter Frick-Wright and award-winning journalist Rachel Nuwer, Cat People examines the strange relationships some Americans have with big cats and the legal loopholes that have made this country home to more captive tigers than there are left in the wild.

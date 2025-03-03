@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://learnitalianwithjoyoflanguages.fireside.fm/89
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: How should you reply when someone asks &ldquo;Ciao, come stai?&rdquo;. Learn how to avoid simple mistakes when answering this classic Italian conversation opener. Get the bonus materials for this episode: http://joyoflanguages.com/come-stai-in-italian/ Join our Italian club and get a free mini Italian lesson every week: http://courses.joyoflanguages.com/5-minute-italian/ Today&#039;s Italian words: Come stai= How are you? Bene, bene= well, well Bene, grazie= well, thank you Tutto bene= everything&rsquo;s well

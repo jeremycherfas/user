@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: http://www.bbc.co.uk/programmes/m001k0cr
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: From energy to seasonality, Dan Saladino explores the big ideas prompted by the recent shortage of fresh produce in supermarkets. Is the now time for a major food rethink? Produced and presented by Dan Saladino

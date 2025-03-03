@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://learnitalianwithjoyoflanguages.fireside.fm/weareback
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Da quanto tempo! That&rsquo;s the Italian expression for &ldquo;long time no see&rdquo; Our podcast is finally back. We&rsquo;re really happy to be here with you again, with some exciting news about the new episodes. Join our Italian club and get a free mini Italian lesson every Sunday: http://courses.joyoflanguages.com/5-minute-italian/

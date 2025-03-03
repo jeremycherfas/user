@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: http://relay.fm/automators/165
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: In this episode David and Rosemary explore Moom 4 and other window management tools for macOS.

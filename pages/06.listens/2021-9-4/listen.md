@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://abcmedia.akamaized.net/rn/podcast/2020/12/sbs_20201220.mp3
 image: artwork-resized.jpg
-template: item
+template: listen
 --- 
 Episode summary: The Gweagal shield is just one of the things James Cook and his shipmates took from the local people when they landed in Botany Bay. Why has it become the most contentious?

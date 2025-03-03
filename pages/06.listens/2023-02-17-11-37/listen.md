@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/glenn-loury
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: The real reason he &ldquo;jumped ship&rdquo; from the Harvard Economics Department.

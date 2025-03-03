@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://99percentinvisible.org/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: How a team of community leaders used cold, sharp strategy, flipping the logic of Jim Crow housing segregation on its head to build a suburban Black mecca

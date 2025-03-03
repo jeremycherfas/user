@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/noam-dworman-on-stand-up-comedy-and-staying-open-minded
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: The owner of the Comedy Cellar shares his views on the evolving comedy scene.

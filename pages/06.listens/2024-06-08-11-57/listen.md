@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: http://relay.fm/automators/155
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Stephen Millard, one of our favorite automators, returns to the show with ideas (and scripts) to automate Alfred and announces the public Automators Obsidian Vault.

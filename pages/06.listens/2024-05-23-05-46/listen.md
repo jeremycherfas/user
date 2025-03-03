@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://99percentinvisible.org/?p=42295&post_type=episode
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Where&rsquo;s my jetpack?

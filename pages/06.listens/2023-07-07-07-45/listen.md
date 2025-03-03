@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/revisionist-history/feeling-a-bit-attacked-with-maria-konnikova
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Feeling A Bit Attacked with Maria Konnikova

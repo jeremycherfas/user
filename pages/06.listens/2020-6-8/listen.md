@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://traffic.megaphone.fm/GLT7396082295.mp3?updated=1591238195
 image: artwork-resized.jpg
-template: item
+template: listen
 --- 
 Episode summary: 

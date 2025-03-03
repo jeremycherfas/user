@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: http://relay.fm/automators/111
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: This week, David and Rosemary dive into David&rsquo;s new studio and plan out how to automate everything.

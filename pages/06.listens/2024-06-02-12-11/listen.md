@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://99percentinvisible.org/?p=42309&post_type=episode
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Roman talks to Jake Berman, author of &ldquo;The Lost Subways of North America.&rdquo;

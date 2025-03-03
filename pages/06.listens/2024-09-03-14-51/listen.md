@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/nate-silver
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Poker and politics? Not that different.

@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/heres-the-thing-with-alec-baldwin/colin-mcenroe-the-orson-welles-of-public-radio
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Colin McEnroe: The Orson Welles of Public Radio

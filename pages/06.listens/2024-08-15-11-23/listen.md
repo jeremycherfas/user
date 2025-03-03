@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://huffduffer.com/JeremyCherfas/701489
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: The War on Cars: Vehicular Cycling and John Forester, Part 2

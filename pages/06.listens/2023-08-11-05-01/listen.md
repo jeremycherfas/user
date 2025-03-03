@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/revisionist-history/taxonomy-of-the-modern-mystery-story
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Taxonomy of the Modern Mystery Story

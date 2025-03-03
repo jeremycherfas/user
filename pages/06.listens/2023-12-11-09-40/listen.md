@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://shows.acast.com/pastpresentfuture/episodes/65675e7282b9f700125931aa
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: This week David and Lea answer your questions about democracy. When does democratic freedom shade over into anarchy? What&rsquo;s the connection between democracy and human rights? Do the voters choose the government or does the government choose the voters? Plus: what makes Lea an optimist about socialism? Hosted on Acast. See acast.com/privacy for more information.

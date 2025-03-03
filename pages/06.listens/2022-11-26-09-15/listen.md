@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: http://relay.fm/automators/115
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Simon St&oslash;vring returns to talk about how much automation has changed and what his favourite new features are.

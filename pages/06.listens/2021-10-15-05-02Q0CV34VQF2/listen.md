@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://huffduffer.com/JeremyCherfas/622536
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: The great debt debate | RSA Replay

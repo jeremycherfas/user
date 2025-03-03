@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/revisionist-history/in-triplicate
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: In Triplicate

@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://99percentinvisible.org/?p=42364&post_type=episode
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: The leaf blower is one of the most hated objects in the modern world, but the reality of banning them is very complicated.

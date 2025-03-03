@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/automatorsrelay/automators075.mp3
 image: artwork-resized.jpg
-template: item
+template: listen
 --- 
 Episode summary: In this episode, Rosemary and David chat to Jay Miller about how he automates, using Keyboard Maestro, Alfred, Bunch, and more.

@@ -12,7 +12,7 @@ enabled: '0'
 header_image: '0'
 theurl: https://overcast.fm/+Ob7gowA
 image: artwork-resized.jpg
-template: item
+template: listen
 ---
  
 Episode summary: Failure Flashback! Failure has always been a key concept for your host so this week we pull two stories out of the Benjamen Walker podcast archive. First a musical number about the loser behind Blue Suede Shoes and second a morality tale about the artist Paul Gauguin’s spectacular Paris blowout.

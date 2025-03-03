@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/revisionist-history/the-creative-power-of-misfits
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: The Creative Power of Misfits

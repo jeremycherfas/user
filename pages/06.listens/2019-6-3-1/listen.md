@@ -12,7 +12,7 @@ enabled: '0'
 header_image: '0'
 theurl: https://traffic.megaphone.fm/GLT2308185098.mp3?updated=1558580571
 image: artwork-resized.jpg
-template: item
+template: listen
 ---
  
 Episode summary: This week, an epic Yes Yes No spanning an entire galaxy of internet fights. Plus, Alex Goldman reveals a dark personal secret. And an update on Sal’s quest to get into college in Canada. See the tweet here.

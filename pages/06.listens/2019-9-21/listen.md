@@ -13,7 +13,7 @@ enabled: '0'
 header_image: '0'
 theurl: https://overcast.fm/+OnEUB2adU
 image: artwork-resized.jpg
-template: item
+template: listen
 ---
  
 Episode summary: In the series debut George invites his listeners to step into the speakers and join him on a meandering ride aboard his own train of thought. The Poet muses on the interplay between crime and music in his community, painting an audio-portrait that is in equal parts complex and compelling. Featured songs: Dun D - Ooh Wee Ambush - 1xtra Freestyle for Kenny Allstar Jorja Smith - Blue Lights Written by George The Poet Original score by Benbrick Produced by Benbrick and George The Poet #HYHGP For information regarding your data privacy, visit acast.com/privacy

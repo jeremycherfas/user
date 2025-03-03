@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://huffduffer.com/JeremyCherfas/646808
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Van Morrison’s Cosmic Accident | Open Source with Christopher Lydon

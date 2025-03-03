@@ -10,7 +10,7 @@ taxonomy:
         - podcasts
 theurl: https://99percentinvisible.org/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Even if we think of the camera as a neutral technology, it is not. In the vast spectrum of human colors, photographic tools and practices tend to prioritize the lighter end of that range.

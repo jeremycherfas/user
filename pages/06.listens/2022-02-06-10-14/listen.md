@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/russ-robertsecontalk
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Tyler asks Russ all the easy questions about Israeli life.

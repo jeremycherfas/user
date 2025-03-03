@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://99percentinvisible.org/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: There&rsquo;s a particular one-kilohertz tone that is universally understood to be covering up inappropriate words on radio and TV. But there are other options, too, like silence &mdash; so why did this particular *bleep* sound become ubiquitous?

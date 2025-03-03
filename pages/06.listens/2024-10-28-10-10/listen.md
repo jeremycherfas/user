@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://99percentinvisible.org/?p=42735
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: In the final episode of Not Built for This, we reckon with the biological limits of climate adaptation.

@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://chtbl.com/track/42D75/traffic.megaphone.fm/CAD2626503647.mp3?updated=1623815055
 image: artwork-resized.png
-template: item
+template: listen
 --- 
 Episode summary: From the Liberty Police Department, to the student newspaper, to faculty, staff, and administration, loyalty was constantly tested, and enforced. Learn more about your ad choices. Visit podcastchoices.com/adchoices

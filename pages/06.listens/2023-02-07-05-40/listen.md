@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://delicioushistory.podbean.com/e/the-great-emu-war-part-i/
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Who doesn&rsquo;t like a good story from Down Under? When the Australian government tried to kill two birds with one stone by helping World War I vets grow large amounts of wheat, they never anticipated the third bird: more than 20,000 emus. Find out how farmers in Western Australia and the military got in over their heads with the Great Emu War!

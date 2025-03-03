@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://99percentinvisible.org/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Reporter/producer Gillian Jacobs (Community, Winning Time) takes us on a stroll on the Walk of Fame, a 1.3 mile monument which chronicles Hollywood history and the vicissitudes of fame itself

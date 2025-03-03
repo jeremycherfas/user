@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://99percentinvisible.org/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: The rise, fall, and unexpected second life of the crosscut saw is also the story of how America created the very concept of wilderness.

@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://trumpconlaw.com/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: An update on SB 8, Executive Privilege of presidential records, and a short digression into criminal law with the tragic death on a movie set

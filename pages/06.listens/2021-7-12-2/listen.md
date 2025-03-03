@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/39E17/traffic.megaphone.fm/HSW5483532118.mp3?updated=1624917904
 image: artwork-resized.jpg
-template: item
+template: listen
 --- 
 Episode summary: For 30 years, US News & World Report has been using a secret formula to rank the best colleges and universities in the United States. As a public service to our listeners, we hack the algorithm and discover the dirty little secret of the rankings game. Learn more about your ad-choices at https://www.iheartpodcastnetwork.com

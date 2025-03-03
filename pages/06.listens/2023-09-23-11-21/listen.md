@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: http://www.bbc.co.uk/programmes/p0gdw6yv
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: How can we navigate our lives in a more efficient and satisfactory way? It&rsquo;s a question Professor David Sumpter is looking to answer in his new book, Four Ways of Thinking. He talks to Tim Harford about four different approaches to our day to day challenges. Presenter: Tim Harford Producer: Jon Bithrey Sound Engineer: Andy Fell Editor: Richard Vadon (Picture: Conceptual illustration of mathematics Credit: Science Photo Library / Getty)

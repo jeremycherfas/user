@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/against-the-rules-with-michael-lewis/on-background-a-history-of-bankruptcy-in-the-us
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: On Background: A History of Bankruptcy in the US

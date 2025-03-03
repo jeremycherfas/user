@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/heres-the-thing-with-alec-baldwin/dr-david-starkey-a-boswell-in-the-house-of-windsor
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Dr. David Starkey: A Boswell in the House of Windsor

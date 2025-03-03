@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/revisionist-history/labor-of-love-with-m-night-shyamalan-development-h
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Labor of Love with M. Night Shyamalan | Development Hell

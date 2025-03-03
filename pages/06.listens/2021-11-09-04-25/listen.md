@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: http://www.bbc.co.uk/programmes/m0011bxc
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Less but better? With the COP26 climate summit underway Dan Saladino looks at how meat and dairy can play a positive role for the future of people and planet. Produced by Dan Saladino.

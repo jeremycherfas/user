@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/fareed-zakaria
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: For Fareed Zakaria, his books&mdash;and not his columns or CNN show&mdash;are most important avenue for introducing new ideas to the world.

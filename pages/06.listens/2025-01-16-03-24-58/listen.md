@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://99percentinvisible.org/?p=43752
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: The story of an 2700 year old archive, its accidental preservation, and the unprecedented&mdash;and often funny&mdash;glimpse it gives us into the daily life of an ancient king.

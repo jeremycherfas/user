@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/marc-andreessen
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: The real challenge to building on the frontier? Figuring out human behavior.

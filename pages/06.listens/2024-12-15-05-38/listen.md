@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://huffduffer.com/JeremyCherfas/705095
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Song 172, “Hickory Wind” by the Byrds: Part One, Ushering in a New Dimension

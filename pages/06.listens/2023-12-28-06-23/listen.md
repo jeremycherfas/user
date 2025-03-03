@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/john-gray-on-pessimism-liberalism-and-theism
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Is pessimism a way to minimize disappointment or the key to an adventurous life?

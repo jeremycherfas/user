@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://huffduffer.com/JeremyCherfas/645943
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Palm Oil Dependency

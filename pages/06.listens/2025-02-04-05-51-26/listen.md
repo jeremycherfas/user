@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://99percentinvisible.org/?p=43886
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: What went wrong in Kingston, Tennessee, and what does it reveal about the messy legacy of public utilities turned corporate giants?

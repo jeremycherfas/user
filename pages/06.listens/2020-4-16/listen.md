@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automatorsrelay/automators047.mp3
 image: artwork-resized.jpg
-template: item
+template: listen
 --- 
 Episode summary: In this episode, Rosemary and David dive into how they do a daily brief with Shortcuts on their devices.

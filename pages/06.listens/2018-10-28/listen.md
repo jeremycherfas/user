@@ -12,7 +12,7 @@ summary:
 header_image: '0'
 theurl: https://overcast.fm/+Bogepq-zw
 image: artwork-resized.jpg
-template: item
+template: listen
 ---
  
 Episode summary: Avery Trufelman is a producer of 99% Invisible and the host of Articles of Interest. “The literal battleground of interior and exterior forces in your world is what you’re wearing.”

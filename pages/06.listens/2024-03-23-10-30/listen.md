@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/revisionist-history/the-birthday-party-with-charles-randolph-developme
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: The Birthday Party with Charles Randolph | Development Hell

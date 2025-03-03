@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://trumpconlaw.com/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: What have we learned from the January 6th Committee hearings and what does is mean for a potential Justice Department investigation of Trump?

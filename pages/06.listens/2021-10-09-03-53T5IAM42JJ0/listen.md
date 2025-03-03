@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/photo-credit-nina-subin
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Does anyone have a right to sex?

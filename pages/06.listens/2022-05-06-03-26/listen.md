@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://publicinfrastructure.org/podcast/63-twitter-elon/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: With news that Elon Musk is purchasing Twitter, we recorded a rare hot takes episode. In addition to Ethan sharing his thoughts, we invited Deepti Doshi from New Public and Nathan Schneider on to talk about the need for platforms that bolster democracy.

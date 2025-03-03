@@ -12,7 +12,7 @@ enabled: '0'
 header_image: '0'
 theurl: https://traffic.megaphone.fm/ADL9575730889.mp3
 image: artwork-resized.jpg
-template: item
+template: listen
 ---
  
 Episode summary: An international fraudster posing as a wealthy CEO utilizes a popular dating app to scam women out of hundreds of thousands of dollars. Prelude: Maria Elvira Pinto Exposto, an Australian grandmother, meets the man of her dreams online. Support the show by becoming a Valuedlistener™ at Patreon.com/Swindled. Buy something at SwindledPodcast.com/Shop. Original music by Trevor Howard (The Lungs). Link to the VG report: https://www.vg.no/spesial/2019/tindersvindleren/english/ Learn more about your ad choices. Visit megaphone.fm/adchoices

@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://huffduffer.com/JeremyCherfas/656089
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: The Nuremberg Legacy

@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://huffduffer.com/JeremyCherfas/670875
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Lean In and Listen Like It’s Music

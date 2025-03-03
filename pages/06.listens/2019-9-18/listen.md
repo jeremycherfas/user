@@ -12,7 +12,7 @@ enabled: '0'
 header_image: '0'
 theurl: https://www.podtrac.com/pts/redirect.mp3/audio.wnyc.org/radiolab_podcast/radiolab_podcast19thememorypalace.mp3
 image: artwork-resized.jpg
-template: item
+template: listen
 ---
  
 Episode summary: 

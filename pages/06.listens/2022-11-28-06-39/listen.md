@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://99percentinvisible.org/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: There is a subset of real life superheroes who are more focused on things like picking up trash and taking on civic issues than catching criminals in alleys

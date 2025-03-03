@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://dcs.megaphone.fm/NBN7443533747.mp3
 image: artwork-resized.png
-template: item
+template: listen
 --- 
 Episode summary: 

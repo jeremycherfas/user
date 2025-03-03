@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/mr-20th
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: MR co-founders Tyler and Alex Tabarrok reflect on the blog&rsquo;s legacy with long-time readers Vitalik Buterin, Ben Casnocha, and Jeff Holmes.

@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/revisionist-history/i-am-superman-with-patty-jenkins-development-hell
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: I Am Superman with Patty Jenkins | Development Hell

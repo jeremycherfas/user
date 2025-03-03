@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/jonathan-gpt-swift
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: How well does GPT4 do pretending to be the 18th century satirist?

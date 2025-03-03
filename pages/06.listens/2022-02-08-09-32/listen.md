@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://beta.prx.org/stories/405420
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: After testing positive in Lisbon, your host assesses Portugal&rsquo;s expat and exile scenes. Plus! lunch with the writer Joseph Roth at a hotel on the waterfront.

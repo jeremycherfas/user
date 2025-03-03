@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://audioboom.com/posts/8371020
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: What is a National Dish? with Anya von Bremzen

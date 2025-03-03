@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://huffduffer.com/JeremyCherfas/659451
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Hannah Ritchie on Eating Local - Econlib

@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://archive.org/download/reimagining-the-internet-11-trebor-scholz/11-trebor-scholz.mp3
 image: artwork-resized.png
-template: item
+template: listen
 --- 
 Episode summary: Trebor Scholz, a scholar and activist at the forefront of the bustling platform cooperativism movement, joins us to talk about how coops can shape everything from ride share apps to data ownership, from local delivery services to music streaming. It’s a fascinating listen about the variety of ways coops can aid local communities, labor unions, and freelancers, empowering communities of workers to govern themselves and more equitably distribute revenue.

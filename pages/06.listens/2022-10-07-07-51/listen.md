@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/byron-auguste
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Why do so many employers rely on shallow signals of applicant quality?

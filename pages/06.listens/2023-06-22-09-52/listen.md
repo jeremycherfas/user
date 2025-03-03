@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/against-the-rules-with-michael-lewis/on-background-effective-altruism-still-has-friends
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: On Background: Effective Altruism Still Has Friends

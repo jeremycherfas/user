@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/revisionist-history/the-bear-was-poked-with-maria-konnikova
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: The Bear Was Poked With Maria Konnikova

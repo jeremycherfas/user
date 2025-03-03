@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://huffduffer.com/JeremyCherfas/631236
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Food Routes with Robyn Metcalfe | The MIT Press Podcast

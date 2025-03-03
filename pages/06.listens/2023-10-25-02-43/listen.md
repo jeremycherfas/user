@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://audioboom.com/posts/8380993
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: S7 Ep1: What is Good Bread? (Good Bread #1)

@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: http://www.thememorypalace.org/wp-content/uploads/Lost%20Lobsters%201.mp3
 image: artwork-resized.jpg
-template: item
+template: listen
 --- 
 Episode summary: 

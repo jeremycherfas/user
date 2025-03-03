@@ -12,7 +12,7 @@ enabled: '0'
 header_image: '0'
 theurl: http://www.swindledpodcast.com/
 image: artwork-resized.jpg
-template: item
+template: listen
 ---
  
 Episode summary: A multi-level marketing company becomes a global success despite accusations of dangerous products and exploitation. Prelude: The peaks and valleys of Glenn W. Turner’s pyramid schemes.Learn more about your ad choices. Visit megaphone.fm/adchoices

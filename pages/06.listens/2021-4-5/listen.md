@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://traffic.megaphone.fm/NBN7028317715.mp3
 image: artwork-resized.png
-template: item
+template: listen
 --- 
 Episode summary: 

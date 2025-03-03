@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/ross-douthat-0
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: And what UFOs might tell us about supernatural reality

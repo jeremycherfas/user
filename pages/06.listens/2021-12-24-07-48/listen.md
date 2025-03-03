@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: http://gimletmedia.com/shows/reply-all
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: A mystery roils Florida political Twitter: could it be that the governor&rsquo;s new press secretary is running bots against her political opponents? Emmanuel investigates. Learn more about your ad choices. Visit podcastchoices.com/adchoices

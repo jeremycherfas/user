@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://www.kuow.org/stories/part-5-the-bidding-war
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: The Easterday empire is being broken apart. Some of the most valuable farmland in America is up for sale, and the billionaires are coming to town. The bidding war over water-rich lands shows the shift in how America farms.

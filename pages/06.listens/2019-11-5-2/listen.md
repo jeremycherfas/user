@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://mange-tout.s3.amazonaws.com/saved-audio/CWT-078-HenryFarrell-v1.mp3
 image: artwork-resized.jpg
-template: item
+template: listen
 --- 
 Episode summary: 

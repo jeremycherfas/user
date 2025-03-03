@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://beta.prx.org/stories/397956
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Our New York after Rona miniseries comes to an end just in time for the latest Variant. The WHO turns to podcasts for a new endless stream of naming possibilities. Plus a ToE favorite playwright returns with a new musical production of Shirley Jackson&rsquo;s The Lottery.

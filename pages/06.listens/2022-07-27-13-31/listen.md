@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/against-the-rules-with-michael-lewis/who-rules-porn-from-hot-money
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Who Rules Porn? From Hot Money

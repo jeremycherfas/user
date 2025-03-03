@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/david-rubenstein
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: And why lawyers are usually lousy entrepreneurs.

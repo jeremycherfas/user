@@ -12,7 +12,7 @@ summary:
 header_image: '0'
 theurl: https://overcast.fm/+BhZ_IzWBk
 image: artwork-resized.png
-template: item
+template: listen
 ---
  
 Episode summary: Google Glass, snap judgments, and how we form ourselves to make those snap judgments well.

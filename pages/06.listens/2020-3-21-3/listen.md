@@ -10,6 +10,6 @@ taxonomy:
 header_image: '0'
 theurl: https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/automatorsrelay/automators045.mp3
 image: artwork-resized.jpg
-template: item
+template: listen
 --- 
 Episode summary: In this week Rosemary and David dive headfirst into the feedback pile and look at Launchcuts as well as the new Pushcut automation server feature - and eye up some beta apps too!
