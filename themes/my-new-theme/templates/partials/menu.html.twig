@@ -1,0 +1,52 @@
+<div class="menubox"> <!-- Outer flex for sidebar -->
+<div class="home"> <!-- Sidebar -->
+		<a href="{{ base_url_absolute }}">
+		Jeremy Cherfas
+		</a>
+</div>
+<div class="menu"> <!-- Inner flex for Switcher -->
+
+<!-- <div> <!~~ Menu itself ~~> -->
+<!-- Display actual menu -->
+<!-- <ul class="horizontal-menu"> -->
+
+{# % if (my_collection.params.taxonomies.tag) % #}
+<!-- If this is a tag page -->
+<!-- 
+<li class=" "><a href="/grav-admin/blog">posts</a></li>
+<li class=" "><a href="/grav-admin/reviews">reviews</a></li>
+<li class=" "><a href="/grav-admin/listens"">listens</a></li>
+<li class=" "><a href="/grav-admin/about">about</a></li>
+ -->
+<div style="padding-left: var(--s-1);"><a href="/grav-admin/blog">posts</a></div>
+<div><a href="/grav-admin/reviews">reviews</a></div>
+<div><a href="/grav-admin/listens"">listens</a></div>
+<div><a href="/grav-admin/about">about</a></div>
+{# % endif % #}
+
+
+<!-- Tests whether on a page such as Posts and BOLDS -->
+<!-- 
+{% for p in my_collection %}
+	{% if p.header.menu %}
+		{% if page.slug == p.slug %}
+			<li class=" "><a href="" class=" ">=slug {{ p.menu }}</a></li>
+		{% else %}
+			<li class=" "><a href="{{ p.url }}" class="">noslug {{ p.menu }}</a></li>
+		{% endif %}
+	{% endif %}
+{% endfor %}
+ -->
+
+<!-- 
+</ul>
+ -->
+<!-- </div> <!~~ End first child i.e. Menu itself ~~> -->
+
+ 
+	<div class="searchbox"> <!-- Second item in Switcher -->
+        {% include 'partials/simplesearch_searchbox.html.twig' %}
+	</div> <!-- End searchbox -->
+
+</div> <!-- end div menu -->
+</div> <!-- end div menubox -->

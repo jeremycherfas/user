@@ -1,0 +1,20 @@
+{% extends 'partials/base.html.twig' %}
+{% set blog = page.find(header_var('blog_url')|defined(theme_var('blog-page'))) %}
+{% set show_breadcrumbs = header_var('show_breadcrumbs', [page, blog])|defined(true) %}
+{% set show_sidebar = header_var('show_sidebar', [page, blog])|defined(true)  %}
+{% set show_pagination = header_var('show_pagination', [page, blog])|defined(true) %}
+
+{% block content %}
+<div class="all-content">
+<!-- from item.html.twig -->
+<section class="md:w-3/4">
+<div class="single-item flex flex-col relative">
+
+        {% include 'partials/blog-item.html.twig' %}
+
+
+
+</div>
+</section>
+<!-- Where is this photo.html.twig? -->
+{% endblock %}

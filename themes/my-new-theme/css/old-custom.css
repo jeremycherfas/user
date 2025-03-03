@@ -1,0 +1,521 @@
+
+:root {
+    --fluid-min-width: 375;
+    --fluid-max-width: 1500;
+    --fluid-min-size: 12;
+    --fluid-max-size: 24;
+    --fluid-min-ratio: 1.2;
+    --fluid-max-ratio: 1.333;
+    --fluid-screen: 100vw;
+    --fluid-bp: calc((var(--fluid-screen) - ((var(--fluid-min-width) / 16) * 1rem)) / ((var(--fluid-max-width) / 16) - (var(--fluid-min-width) / 16)));
+}
+
+@media screen and (min-width: 1500px) {
+    :root {
+        --fluid-screen: calc(var(--fluid-max-width) * 1px);
+    }
+}
+
+:root {
+    --fluid-max-negative: (1 / var(--fluid-max-ratio) / var(--fluid-max-ratio));
+    --fluid-min-negative: (1 / var(--fluid-min-ratio) / var(--fluid-min-ratio));
+    --fluid-min-scale--2: var(--fluid-min-scale--1) * var(--fluid-min-ratio) * var(--fluid-min-negative);
+    --fluid-max-scale--2: var(--fluid-max-scale--1) * var(--fluid-max-ratio) * var(--fluid-max-negative);
+    --fluid-min-size--2: (var(--fluid-min-size) * var(--fluid-min-scale--2)) / 16;
+    --fluid-max-size--2: (var(--fluid-max-size) * var(--fluid-max-scale--2)) / 16;
+    --step--2: calc(((var(--fluid-min-size--2) * 1rem) + (var(--fluid-max-size--2) - var(--fluid-min-size--2)) * var(--fluid-bp)));
+    --fluid-min-scale--1: var(--fluid-min-ratio) * var(--fluid-min-negative);
+    --fluid-max-scale--1: var(--fluid-max-ratio) * var(--fluid-max-negative);
+    --fluid-min-size--1: (var(--fluid-min-size) * var(--fluid-min-scale--1)) / 16;
+    --fluid-max-size--1: (var(--fluid-max-size) * var(--fluid-max-scale--1)) / 16;
+    --step--1: calc(((var(--fluid-min-size--1) * 1rem) + (var(--fluid-max-size--1) - var(--fluid-min-size--1)) * var(--fluid-bp)));
+    --fluid-min-scale-0: var(--fluid-min-ratio);
+    --fluid-max-scale-0: var(--fluid-max-ratio);
+    --fluid-min-size-0: (var(--fluid-min-size)) / 16;
+    --fluid-max-size-0: (var(--fluid-max-size)) / 16;
+    --step-0: calc(((var(--fluid-min-size-0) * 1rem) + (var(--fluid-max-size-0) - var(--fluid-min-size-0)) * var(--fluid-bp)));
+    --fluid-min-scale-1: var(--fluid-min-scale-0) * var(--fluid-min-ratio);
+    --fluid-max-scale-1: var(--fluid-max-scale-0) * var(--fluid-max-ratio);
+    --fluid-min-size-1: (var(--fluid-min-size) * var(--fluid-min-scale-0)) / 16;
+    --fluid-max-size-1: (var(--fluid-max-size) * var(--fluid-max-scale-0)) / 16;
+    --step-1: calc(((var(--fluid-min-size-1) * 1rem) + (var(--fluid-max-size-1) - var(--fluid-min-size-1)) * var(--fluid-bp)));
+    --fluid-min-scale-2: var(--fluid-min-scale-1) * var(--fluid-min-ratio);
+    --fluid-max-scale-2: var(--fluid-max-scale-1) * var(--fluid-max-ratio);
+    --fluid-min-size-2: (var(--fluid-min-size) * var(--fluid-min-scale-1)) / 16;
+    --fluid-max-size-2: (var(--fluid-max-size) * var(--fluid-max-scale-1)) / 16;
+    --step-2: calc(((var(--fluid-min-size-2) * 1rem) + (var(--fluid-max-size-2) - var(--fluid-min-size-2)) * var(--fluid-bp)));
+    --fluid-min-scale-3: var(--fluid-min-scale-2) * var(--fluid-min-ratio);
+    --fluid-max-scale-3: var(--fluid-max-scale-2) * var(--fluid-max-ratio);
+    --fluid-min-size-3: (var(--fluid-min-size) * var(--fluid-min-scale-2)) / 16;
+    --fluid-max-size-3: (var(--fluid-max-size) * var(--fluid-max-scale-2)) / 16;
+    --step-3: calc(((var(--fluid-min-size-3) * 1rem) + (var(--fluid-max-size-3) - var(--fluid-min-size-3)) * var(--fluid-bp)));
+    --fluid-min-scale-4: var(--fluid-min-scale-3) * var(--fluid-min-ratio);
+    --fluid-max-scale-4: var(--fluid-max-scale-3) * var(--fluid-max-ratio);
+    --fluid-min-size-4: (var(--fluid-min-size) * var(--fluid-min-scale-3)) / 16;
+    --fluid-max-size-4: (var(--fluid-max-size) * var(--fluid-max-scale-3)) / 16;
+    --step-4: calc(((var(--fluid-min-size-4) * 1rem) + (var(--fluid-max-size-4) - var(--fluid-min-size-4)) * var(--fluid-bp)));
+    --fluid-min-scale-5: var(--fluid-min-scale-4) * var(--fluid-min-ratio);
+    --fluid-max-scale-5: var(--fluid-max-scale-4) * var(--fluid-max-ratio);
+    --fluid-min-size-5: (var(--fluid-min-size) * var(--fluid-min-scale-4)) / 16;
+    --fluid-max-size-5: (var(--fluid-max-size) * var(--fluid-max-scale-4)) / 16;
+    --step-5: calc(((var(--fluid-min-size-5) * 1rem) + (var(--fluid-max-size-5) - var(--fluid-min-size-5)) * var(--fluid-bp)));
+}
+
+html {
+	color-scheme: light dark;
+	--black: oklch(0% 0 0);
+	--white: oklch(100% 0 0);
+	--background: light-dark(var(--white), var(--black));
+	--text: light-dark(var(--black), var(--white);)
+}
+
+body {
+    background-color: var(--background);
+    color: var(--text)
+    font-family: Noto Serif, serif;
+    line-height: 1.6;
+    font-weight: 400;
+}
+
+p {
+    font-size: var(--step-0);
+    margin-bottom: 1.6rem;
+}
+
+h1, h2, h3, h4, h5 {
+    margin: 2.75rem 0 1rem;
+    font-family: Montserrat, sans-serif;
+    font-weight: 400;
+    line-height: 1.15;
+}
+
+h1 {
+    font-size: var(--step-2);
+    color: #000;
+}
+
+h2 {
+    font-size: var(--step-1);
+/*     color: #222; */
+}
+
+h3, h4, h5 {
+    font-size: var(--step-0);
+}
+
+h3 {
+/*     color: #444; */
+}
+
+h4 {
+/*     color: #666; */
+}
+
+h5 {
+/*     color: #888; */
+}
+
+.e-content {
+    font-size: var(--step-0);
+}
+
+.listen-summary, error-message {
+    font-size: var(--step-1);
+}
+
+.blog-date {
+    float: right;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-size: var(--step-0);
+}
+
+.h-feed .blog-date {
+    font-size: var(--step--1);
+}
+
+.h-feed h1 {
+    font-size: var(--step-1);
+}
+
+.name h1 {
+    font-size: var(--step-1);
+}
+
+.footer {
+    font-size: var(--step-0);
+}
+
+.panels h1 {
+    font-size: var(--step-1);
+}
+
+.panels .blog-date {
+    font-size: var(--step--2);
+}
+
+textarea {
+    width: 100%;
+}
+
+.caption {
+font-size: var(--step--1);
+font-style: italic;
+text-align: center;
+margin: 0, 2rem, 0, 2rem;
+}
+
+#webmention-form {
+    font-size: var(--step-0);
+}
+
+li[class="menu"] {
+    font-family: 'Montserrat', sans-serif;
+    font-size: var(--step--1);
+    list-style-type: none;
+}
+
+/* Consumption log; targets are ul and li */
+.log {
+    font-size: var(--step--1);
+}
+
+.log-month {
+    Font-size: var(--step-0);
+    list-style-type: none;
+}
+
+.log-entry {
+    Margin-left: 0.5rem;
+}
+
+.log-day {
+    margin-left: 1.0rem;
+    list-style-type: none;
+}
+
+.log-item {
+    margin-left: 2.0rem;
+    Margin-right: 0.25rem;
+    list-style-type: none;
+}
+
+hr {
+    margin: 0 1rem 0 1rem;
+}
+
+a {
+    color: #b46100;
+}
+
+a:hover {
+    color: #2B6CB0;
+    background-color: #FEEBC8;
+}
+
+.citation {
+    Margin-top: 1.0rem;
+    Margin-bottom: 1.0rem;
+    background-color: #Fcf4f2;
+    padding-left: 1.0rem;
+}
+
+blockquote p {
+    color: #2B6CB0;
+    padding-left: 1.0rem;
+    Margin-left: 1.0rem;
+    Border-left: 0.3rem solid #2B6CB0;
+    Margin-top: 1.0rem;
+    Margin-bottom: 1.0rem;
+    font-size: var(--step--1);
+    margin-right: 1.0rem;
+}
+
+.stream, .onthisday {
+    font-size: var(--step--1);
+}
+
+.button, .tags a {
+    font-size: var(--step-0);
+}
+
+.feeds {
+    font-size: var(--step--1);
+}
+
+.footnotes p {
+    font-size: var(--step--1);
+}
+.footnotes ol {
+    margin-left: 1.0rem;
+    margin-top: 1.0rem;
+}
+
+ol {
+    list-style-type: Arabic;
+    list-style-position: outside;
+    Margin-left: 1.0rem;
+}
+
+ul {
+    list-style-type: disc;
+    list-style-position: outside;
+/*     Margin-left: 1.0rem; */
+}
+
+ol, ul {
+    font-size: var(--step--1);
+    padding-left: 1.0rem;
+}
+
+li {
+    padding-left: 0.5rem;
+}
+
+.menu {
+    list-style-type: none;
+}
+
+details {
+    margin: 1.0rem;
+}
+
+summary {
+    font-size: var(--step-1);
+    color: #b46100;
+}
+
+/* For format of hours worked table */
+.worktable {
+    table-layout: fixed;
+    width: 100%;
+    white-space: nowrap;
+    font-size: var(--step--1);
+}
+
+.bigrow {
+    width: 20%;
+}
+
+.smallrow {
+    width: 10%;
+}
+
+/* linktable */
+.linktable {
+    table-layout: fixed;
+    width: 100%;
+}
+
+.linktable td {
+    padding-left: 1.0em;
+    padding-top: 0.5em;
+    padding-bottom: 0.25em;
+}
+
+.linktable tr:nth-child(odd) {
+    background: #FFFAF0;
+}
+
+.linktable tr:nth-child(even) {
+    background: #F7FAFC;
+}
+
+/* Display and padding for images */
+img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+img.left {
+    float: Left;
+    padding-right: 1em;
+}
+
+img.right {
+    float: right;
+    padding-left: 1em;
+}
+
+.cover {
+    float: left
+}
+
+/* Styling comments */
+.comment-content, .commenter {
+    font-size: var(--step--1);
+}
+
+.commenter p {
+    text-align: right;
+    font-size: var(--step--1);
+}
+/* All inline */
+/* Styling webmentions */
+.webmention-container {}
+
+.webmention-container > :first-child {
+    margin-top: 1em;
+}
+
+.webmention-mention {
+    padding-left: 6em;
+    position: relative;
+    margin-bottom: 0.5em;
+    Padding-bottom: 0.5em;
+    border-bottom: 1px solid;
+}
+
+.webmention-mention:last-child {
+    margin-bottom: 0
+}
+
+.webmention-author img {
+    position: absolute;
+    top: 0;
+    left: 0px;
+    width: 5em;
+    border-radius: 4.2em;
+}
+
+.webmention-summary {
+    background-color: transparent;
+}
+
+.webmention-published {
+    Background-color: transparent;
+}
+
+pre {
+    white-space: pre-wrap;
+    /* css-3 */
+    white-space: -moz-pre-wrap;
+    /* Mozilla, since 1999 */
+    white-space: -pre-wrap;
+    /* Opera 4-6 */
+    white-space: -o-pre-wrap;
+    /* Opera 7 */
+    word-wrap: break-word;
+    /* Internet Explorer 5.5+ */
+    border-left: 3px solid #2B6CB0;
+    padding: 1em 1.5em;
+    font-size: var(--step-0);
+}
+
+/* Styling Kindle notes in Reviews */
+.bookTitle {
+    background-color: #Fcf4f2;
+    ;
+    Padding-left: 1.0rem;
+}
+
+.authors {
+    Padding-left: 1.0rem;
+    background-color: #Fcf4f2;
+    ;
+}
+
+.sectionHeading {
+    background-color: #ffdc86;
+    /* 25% darker than Cosmic latte */
+    Padding-left: 1.0rem;
+    font-size: var(--step-0);
+}
+
+.noteHeading {
+    background-color: #fff8e7;
+    /* Cosmic latte */
+    Padding-left: 1.0rem;
+    font-size: var(--step-0);
+    font-style: italic;
+}
+
+.noteText {
+    background-color: #fffff0;
+    /* ivory */
+    Padding-left: 1.0rem;
+    font-size: var(--step-0);
+}
+
+/* bookcard */
+.bookcard {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: no-wrap;
+    justify-content: flex-start;
+    margin-bottom: 1rem;
+}
+
+.book-cover {
+    flex-shrink: 5;
+    flex-basis: auto;
+    margin-right: 1rem;
+}
+
+.book-cover img {
+    max-height: 350px;
+}
+
+.book-data {
+    margin: 0 0 1rem;
+    flex-basis: auto;
+}
+/* Override bar styles on bar charts. Bars are also strokes so you have maximum freedom in styling them. */
+/* This is now being handled in modified chartist.min.css */
+.ct-series-a.ct-bar {
+  /* a lighter blue */
+  stroke: #77cae0;
+  stroke-width: 5px;
+}
+
+.ct-series-b .ct-bar {
+  /* a darker blue */
+    stroke: #51a8c5; /* next year add #2a87aa */
+  stroke-width: 5px;
+}
+
+
+.ct-series-c .ct-bar {
+  /* a darker blue */
+    stroke: #04658f;
+  stroke-width: 5px;
+}
+
+.ct-series-d .ct-bar {
+  /* an orange */
+  stroke: #f3822a;
+  stroke-width: 5px;
+}
+
+/* Styles for chartist legend plugin */
+ .ct-legend {
+		position: relative;
+        padding-left: 40%;
+        margin-top: 0.8rem;
+        text-align: justify;
+        z-index: 100;
+          display: inline-block;
+    }
+
+.ct-legend li {
+display: inline-block;
+margin-right: 2rem;
+}
+
+/* Series names differ between plugin and main js */
+.ct-series-0 {
+color: #77cae0;
+}
+
+.ct-series-1 {
+color: #51a8c5;
+}
+
+.ct-series-2 {
+color: #04658f;
+}
+
+.ct-series-3 {
+color: #f3822a;
+}

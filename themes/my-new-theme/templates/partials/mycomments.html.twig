@@ -1,0 +1,69 @@
+	{% if page.header.form == 'contact-form' %} <hr> 
+	<h2 class=" ">
+		Get in touch 
+	</h2>
+	{% include "forms/form.html.twig" with { form: forms( {route:'/form'} ) } %} 
+	<hr>
+	{% endif%}
+
+
+
+</div> <!-- Ends item -->
+
+	{% if config.plugins.comments.enabled %}
+		{% include 'partials/comments.html.twig' with { 'page' : page } %}
+	{% endif %} 
+
+
+ 	<div class="comment" style="border-top:#ccc 2px solid; margin-top: 1.0em;">
+ 	<h2>Two ways to respond: webmentions and comments</h2>
+		<h4 class="mt-2 ">
+			Webmentions 
+		</h4>
+		<p>
+			<a href="https://indieweb.org/Webmention">
+				Webmentions 
+			</a>
+			allow conversations across the web, based on a web standard. They are a powerful building block for the decentralized social web. 
+			<p>
+	<form id="webmention-form" action="https://webmention.herokuapp.com/api/webmention" method="post">
+		<div>
+			<label for="webmention-source">
+				If you write something on your own site that links to this post, you can send me a 
+				<a href="http://indieweb.org/webmention">
+					Webmention 
+				</a>
+				by putting your post's URL in here: 
+			</label>
+			<input class="border-2 pl-2 w-full" id="webmention-source" type="url" name="source" placeholder="URL/Permalink of your article"> 
+		</div>
+		<div class="buttons">
+			<button class="button block text-center justify-center hover:bg-orange-200 text-orange-800 hover:text-blue-700 py-2 mt-2 w-1/4 m-auto border border-blue-700 hover:border-transparent rounded" type="{{ button.type|default('submit') }}">
+				Send Webmention! 
+			</button>
+		</div>
+		<input id="webmention-target" type="hidden" name="target" value="{{ page.permalink }}"> 
+	</form>
+
+	</div>
+
+
+<h3>>Reactions from around the web </h3>
+
+	<script id="webmention-hosted">
+		(function() {
+		    var sn = document.createElement("script"),
+		        s = document.getElementsByTagName("script")[0],
+		        url;
+		    url = document.querySelectorAll
+		        ? document.querySelectorAll("link[rel~=canonical]")
+		        : false;
+		    url = url && url[0]
+		        ? url[0].href
+		        : false;
+		    sn.type = "text/javascript";
+		    sn.async = true;
+		    sn.src = "//webmention.herokuapp.com/api/embed?url=" + encodeURIComponent(url || window.location);
+		    s.parentNode.insertBefore(sn, s);
+		}());
+	</script>

@@ -1,0 +1,26 @@
+<div class="flex flex-row flex-row-reverse justify-start flex-shrink-0 w-full pt-4 mb-2 md:-mx-2">
+
+	<div class="blog-date w-1/4 md:px-2"> <!-- Date -->
+	<span class="px-0 md:pr-0" >
+		<time class="dt-published" datetime="{{ p.date|date(" c") }}">
+			<span class="inline-block">{{ p.date|date("d") }}</span>
+			<span class="inline-block md:uppercase">{{ p.date|date("M") }}</span>
+			<span class="block">{{ p.date|date("Y") }}</span>
+		</time>
+	</span>
+	</div>
+
+	<div class="pl-2 md:pl-4 w-3/4 md:px-2 "> <!-- Title -->
+	{% if p.header.link %}
+	<h1 class="p-name mt-1 md:text-orange-700 hover:text-blue-700">
+		{% if p.header.continue_link is not same as(false) %} <a href="{{ base_url ~ p.route }}"><i class="fa fa-angle-double-right u-url"></i></a>
+		{% endif %}
+		<a href="{{ base_url ~ p.route }}" class="u-url">{{ p.title }}</a>
+	</h1>
+	{% else %}
+	<h1 class="p-name mt-1 md:text-orange-700 hover:text-blue-700">
+		<a href="{{ base_url ~ p.route }}" class="u-url">{{ p.title }}</a>
+	</h1>
+	{% endif %}
+	</div> <!-- End of Title div -->
+</div> <!-- End of item div -->
