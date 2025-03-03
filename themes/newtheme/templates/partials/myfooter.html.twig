@@ -15,10 +15,11 @@
 
 	<div class="otherplaces">
 		<h3>Some other stuff ...</h3>
-
+{% if page.template is not same as('home')%}
 {% block onthisday %}
 	{% include 'partials/onthisday.html.twig' %}
 {% endblock onthisday %}
+{% endif %}
 
 {% block about %}
 	{% include 'partials/about.html.twig' %}
