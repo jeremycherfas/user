@@ -1,6 +1,6 @@
 <div class="container">
 <div class="item">
-<!-- <div class="article"> -->
+<div class="article">
 <div class="h-entry">
 
     <div class="list-summary">
@@ -15,10 +15,10 @@
 
 {% include 'partials/hcard.html.twig' %}
 
-    <div class="e-content" style="font-size: var(--s--1);">
+    <div class="e-content">
         {% if page.summary != page.content %}
             {{ page.summary|raw }}
-<p style="text-align: right; font-size: var(--s--1);">
+<p style="text-align: right; font-size: var(--s0);">
             <a href="{{ page.url }}">There’s more  ➢</a>
 </p>            
 <!-- 			 <span style="float: right;"><a href="{{ page.url }}">There’s more  ➢</a></span> -->
@@ -30,7 +30,7 @@
     </div>
 
 </div>
-<!-- </div> -->
+</div>
 </div>
 </div>
 <!-- End list item -->

@@ -1,0 +1,10 @@
+{% extends 'partials/base.html.twig' %}
+
+{% block content %}
+<div class="flex flex-col">
+    {% for module in page.collection() %}
+        {{ module.content }}
+    {% endfor %}
+
+</div>
+{% endblock %}

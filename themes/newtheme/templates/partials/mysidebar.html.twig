@@ -1,0 +1,90 @@
+{% set new_base_url = blog.url == '/' ? '' : blog.url %}
+
+<div class="sidebar flex-col my-4 border-solid border-t-2 border-gray-600 md:w-1/3 md:ml-12 md:mt-0 md:border-t-0 md:border-l-2 ">
+
+<!-- Search box -->
+	<div class="hidden md:block mt-4">
+		<h3 class="text-center">Search</h3>
+		<div class="searchbox z-40 pt-2 pb-2">
+    		<div class="flex justify-center items-center">
+        	{% include 'partials/simplesearch_searchbox.html.twig' %}
+        	</div>
+		</div>
+	</div>
+
+<!-- Adds On this day -->
+{% if page.template != 'blog' %}
+{% block onthisday %}
+{% include 'partials/onthisday.html.twig' %}
+{% endblock %}
+{% endif %}
+
+<!-- Adds feeds from Stream -->
+{% if config.plugins.twigfeeds.enabled %}
+<div class="sidebar-content mr-4 md:mr-0 ">
+	<div class="stream ">
+		<h3 class="text-center">Stream</h3>
+		{% for name, feed in twig_feeds if name == 'Stream' %}
+    		{% for item in feed.items %}
+        	<div class="flex flex-row px-2 md:px-4 items-start">
+            	<time class="w-1/3 flex-shrink-0 text-right">{{ item.lastModified|nicetime(false) }}</time><a class="w-2/3 pl-4" href="{{ item.link }}">{{ item.title }}</a>
+        	</div>
+		    {% endfor %}
+		{% endfor %}
+	</div>
+</div> 
+{% endif %} <!-- Should this be above ending div??? -->
+
+<!-- Adds Consumption Log -->
+<div class="sidebar-content">
+	<h3 class="text-center">What I’ve watched</h3>
+	<p class="px-2 md:px-4" style="font-size: var(--step-0">I keep <a href="{{base_url_absolute}}/what-ive-watched.html">a little log</a>.</p>
+</div>
+
+{{ page.find('/modules/sidebar').content|raw }}
+
+<!-- Displays archives if enabled, which they aren't currently -->
+{% if config.plugins.archives.enabled %}
+<div class="sidebar-content">
+    <h3>{{ 'THEME_QUARK.SIDEBAR.ARCHIVES.HEADLINE'|t }}</h3>
+	{% include 'partials/archives.html.twig' with {'base_url':new_base_url} %}
+</div>
+{% endif %}
+
+<!-- Displays RSS etc feeds -->
+{% if config.plugins.feed.enabled %}
+   <h3 class="text-center">Feeds</h3>
+<div class="feeds flex flex-row justify-center pb-2">
+	<a class=" hover:bg-transparent" href="{{ base_url_absolute ~ "/blog.atom"}}">
+		<button class="bg-transparent hover:bg-orange-200 text-orange-700 hover:text-blue-700 py-2 px-4 mx-2 border border-blue-700 hover:border-transparent rounded">
+		Atom 1.0
+		</button>
+	</a>
+
+	<a class="class=" flex-shrink-0 hover:bg-transparent" href="{{ base_url_absolute ~ "/blog.rss"}}">
+		<button class="bg-transparent hover:bg-orange-200 text-orange-700 hover:text-blue-700 py-2 px-4 border border-blue-700 hover:border-transparent rounded">
+			RSS
+		</button>
+	</a>
+
+	{% if config.plugins.feed.enable_json_feed %}
+	<a class="class=" hover:bg-transparent" href="{{ base_url_absolute ~ "/blog.json"}}">
+		<button class="bg-transparent hover:bg-orange-200 text-orange-700 hover:text-blue-700 py-2 px-4 mx-2 border border-blue-700 hover:border-transparent rounded">
+			JSON
+		</button>
+	</a>
+	{% endif %}
+
+{% endif %}
+</div> <!-- End of RSS feeds -->
+
+<!-- Displays webring -->
+<h3 class="text-center">Webring</h3>
+<div style="text-align: center;" >
+	<p>An IndieWeb <a href="https://en.wikipedia.org/wiki/Webring">Webring</a> 🕸💍</p>
+	<a href="https://xn--sr8hvo.ws/%F0%9F%8C%A5%F0%9F%8D%9A%F0%9F%90%A3/previous">←</a>
+  		I feel lucky
+  	<a href="https://xn--sr8hvo.ws/%F0%9F%8C%A5%F0%9F%8D%9A%F0%9F%90%A3/next">→</a>
+</div> <!-- End of Webring -->
+
+</div> <!-- End of whole sidebar -->
