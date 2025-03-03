@@ -11,8 +11,6 @@ Thumbs.db
 *.swp
 *.zip
 
-/themes/newtheme-bak/*
-
 newhook.php
 
 pages/03.blog/253.testing-automatic-send
