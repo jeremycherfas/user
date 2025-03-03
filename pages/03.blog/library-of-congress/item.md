@@ -12,9 +12,6 @@ subhead: ' '
 header_image: '1'
 summary:
     enabled: '1'
-unitegallery:
-    gallery_theme: tiles
-    assets_in_meta: true
 ---
 
 !!! I am updating this post to remove one reason for its existence: I no longer wish to use the plugin that powered that slide-show. So this post is becoming a photo post with individual images.

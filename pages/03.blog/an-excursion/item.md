@@ -47,7 +47,7 @@ Saint Rita is big there, as an Augustine nun, and yesterday was her day. I assum
 ![Window display of shop selling only rubber ducks in various incarnations](02-ducks.jpg?loading=lazy){.fig-image}
 <figcaption style="font-style: italic;">If you need a rubber duck, no matter what your preference, this new shop has you covered.</figcaption>
 
-A few of the shops the via Swankissimo were already empty and vacant, but not much had changed overall. We wandered around, sat down for an expensive coffee, then returned to the bus stop and came back up the hill.
+A few of the shops on the via Swankissimo were already empty and vacant, but not much had changed overall. We wandered around, sat down for an expensive coffee, then returned to the bus stop and came back up the hill.
 
 ![Ventaglio pastry in front of Vitti bar](07-pastry.jpg?loading=lazy){.fig-image}
 <figcaption style="font-style: italic;">After all that, to be able to sit with a very expensive cappuccino and pastry was well worth it</figcaption>
