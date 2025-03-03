@@ -1,3 +1,28 @@
+<div class="h-entry container">
+
+<div class="item">
+	<div class="article">
+		<div class="titlestuff">
+		<div class="date-clock">
+			{% include 'partials/blog/date.html.twig' %} 
+		</div>
+			{% include 'partials/blog/title.html.twig' %}
+			{% if page.header.subhead %} 
+			<h2 class="">
+				{{ page.header.subhead }} 
+			</h2>
+			{% endif %} 
+		</div>
+<!-- End title stuff -->
+		{% include 'partials/hcard.html.twig' %} 
+		<div class="e-content">
+			{% if page.header.image %} 
+<!-- Is there an image in the front matter?  -->
+			{% if page.header.image | starts_with('artwork-resized') %} 
+<!-- This is a listen with a podcast image -->
+			<a href="{{page.header.theurl}}" class="u-listen-of">
+				<img class="img-left" src="{{ page.url ~ '/' ~ page.header.image }}" alt="Podcast artwork" height="150" width="150"> 
+			</a>
 <!-- 			<div class="e-content "> -->
 			{% set thecontent = ( page.content | split('</p>') ) %}
 
@@ -12,3 +37,119 @@
 			<p>{{ thecontent[i] }}</p>
 			{% endfor %}
 <!-- 			</div> -->
+			{% endif %}
+		{% endif %}
+
+{% block taxonomy %}
+	{% include 'partials/blog/taxonomy.html.twig' %} 
+{% endblock taxonomy %}
+
+		</div> <!-- End e-content -->
+
+{% if page.slug is not same as 'about' %}
+
+{% block pagination %}
+	{% include 'partials/blog/mypagination.html.twig' %} 
+{% endblock pagination %}
+
+{% endif %}
+
+
+	</div> <!-- End div article -->
+
+	</article>
+
+	{% if page.header.form == 'contact-form' %} 
+	<h3 class=" ">
+		Get in touch 
+	</h3>
+	{% include "forms/form.html.twig" with { form: forms( {route:'/form'} ) } %} 
+	{% endif%}
+
+
+
+</div> <!-- Ends item -->
+{% if page.slug is not same as 'about' %}
+<div class="commentbox">
+
+	<div class="comments">
+	{% if config.plugins.comments.enabled %}
+		{% include 'partials/comments.html.twig' with { 'page' : page } %}
+	{% endif %} 
+	</div> <!-- Ends comment display -->
+
+ 	<div class="submitcomments">
+		<div class="webmentionform">
+		<h4>Webmentions</h4>
+		<p>
+			<a href="https://indieweb.org/Webmention">
+				Webmentions 
+			</a>
+			allow conversations across the web, based on a web standard. They are a powerful building block for the decentralized social web. 
+			</p>
+			<p>If you write something on your own site that links to this post, you can send me a 
+				<a href="http://indieweb.org/webmention">
+					Webmention 
+				</a>
+				by putting your post's URL in here:</p>
+	<form id="webmention-form" action="https://webmention.herokuapp.com/api/webmention" method="post">
+		<div>
+			<label for="webmention-source">
+ 
+			</label>
+			<input class="" id="webmention-source" type="url" name="source" placeholder="URL/Permalink of your article"> 
+		</div>
+		<div class="buttons">
+			<button type="{{ button.type|default('submit') }}">
+				Send Webmention! 
+			</button>
+		</div>
+		<input id="webmention-target" type="hidden" name="target" value="{{ page.permalink }}"> 
+	</form>
+
+	</div> <!-- End webmentionform -->
+
+<div class="commentform">
+<h4>Comments</h4>
+<!-- Comment submission form -->
+    <form name="{{ grav.config.plugins.comments.form.name }}"
+          action="{{ grav.config.plugins.comments.form.action ?  base_url ~ grav.config.plugins.comments.form.action : page.url }}"
+          method="{{ grav.config.plugins.comments.form.method|upper|default('POST') }}">
+
+        {% for field in grav.config.plugins.comments.form.fields %}
+            {% set value = form.value(field.name) %}
+            {% if field.evaluateDefault %}
+                {% set value = evaluate(field.evaluateDefault) %}
+            {% endif %}
+
+            {% if config.plugins.login.enabled and grav.user.authenticated %}
+                {% if field.name == 'name' %}
+                    <input type="hidden" name="{{field.name}}" value="{{grav.user.fullname}}">
+                {% elseif field.name == 'email' %}
+                    <input type="hidden" name="{{field.name}}" value="{{grav.user.email}}">
+                {% else %}
+                    <div class="test1">
+                        {% include "forms/fields/#{field.type}/#{field.type}.html.twig" %}
+                    </div>
+                {% endif %}
+            {% else %}
+                <div class="test2">
+                    {% include "forms/fields/#{field.type}/#{field.type}.html.twig" %}
+                </div>
+            {% endif %}
+        {% endfor %}
+
+        {% include "forms/fields/formname/formname.html.twig" %}
+
+        <div class="buttons">
+        {% for button in grav.config.plugins.comments.form.buttons %}
+            <button type="{{ button.type|default('submit') }}">Send Comment!</button>
+        {% endfor %}
+
+        {{ nonce_field('form', 'form-nonce')|raw }}
+    </form>
+</div> 
+
+</div>
+</div> <!-- End commentbox -->
+{% endif %}
