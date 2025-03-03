@@ -81,6 +81,21 @@ code, pre {
 	color: darkred;
 }
 
+blockquote {
+	border-left: 10px solid #eee;
+	padding-left: var(--s0);
+}
+
+.footnotes {
+	border-top: 1px solid black;
+}
+
+.list-summary h1 {
+	font-size: var(--s2);
+	margin-top: var(--s1);
+	margin-bottom: var(--s--1);
+}
+
 .everything {
 	max-width: 64rem;
 	margin: 0 auto 0 auto;
