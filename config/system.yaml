@@ -156,7 +156,7 @@ log:
     facility: local6
 debugger:
   enabled: true
-  provider: clockwork
+  provider: debugbar
   censored: false
   shutdown:
     close_connection: true
