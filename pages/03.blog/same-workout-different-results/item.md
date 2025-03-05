@@ -23,9 +23,11 @@ He uses Outdoor Run. I’ve always used Outdoor Walk, and I wondered whether Out
 |--:|:-:|:-:|
 |   Date|2025-03-03|2025-03-04|
 |   Distance (km)|   3.15|  3.16 |
-|   Average pace (kph)|  9:54 | 9:53  |
+|   Average pace (mpk)|  9:54 | 9:53  |[^1]
 |   Active Kcal|208   |234   |
 |   Total Kcal|  268 |294   |
+
+[^1]: My thanks to Bryan for pointing out that I had labelled as kilometres per hour what is actually minutes per kilometre.
 
 It seems like Outdoor Run’s estimate of energy is 26 kcal higher for both Active, which naturally feeds through into total. And 26 is exactly 12.5% higher, which seems like a suspiciously round number, but [is probably justified](https://theconversation.com/walking-or-running-for-the-same-distance-which-consumes-more-energy-233943) and is why I was suspicious in the first place.
 
