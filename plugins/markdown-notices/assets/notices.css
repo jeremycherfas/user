@@ -8,9 +8,9 @@
 }
 
 .notices.yellow {
-    border-left: 10px solid #f0ad4e;
+    border-left: 10px solid #941100;
     background: #fcf8f2;
-    color: #df8a13;
+    color: #941100;
 }
 
 .notices.red {
@@ -20,13 +20,13 @@
 }
 
 .notices.blue {
-    border-left: 10px solid #5bc0de;
+    border-left: 10px solid #005493;
     background: #f4f8fa;
-    color: #28a1c5;
+    color: #005493;
 }
 
 .notices.green {
-    border-left: 10px solid #5cb85c;
+    border-left: 10px solid #945200;
     background: #f1f9f1;
-    color: #3d8b3d;
+    color: #945200;
 }

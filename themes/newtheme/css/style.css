@@ -281,11 +281,27 @@ code, pre {
 	margin: 0 auto;
 	}
 
-.comments
-	{
-/* 	background-color: yellow; */
+.commentdisplay
+	background-color: yellow;
 	height: auto;
-	}
+  	display: flex;
+  	flex-wrap: wrap;
+  	gap: var(--s0);
+}
+
+.commentdisplay > * {
+  flex-grow: 1;
+  flex-basis: calc(( 45rem - 100%) * 999);
+}
+
+.commentdisplay > :nth-last-child(n+ 3),
+.commentdisplay > :nth-last-child(n+ 3) ~ * {
+  flex-basis: 100%;
+}
+
+.webmentions, comments {
+	height: auto;
+}
 
 .submitcomments {
 /* 	background-color: aquamarine; */

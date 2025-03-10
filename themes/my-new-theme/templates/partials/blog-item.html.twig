@@ -70,7 +70,7 @@
 {% if page.slug is not same as 'about' %}
 <div class="commentbox">
 
-	<div class="comments">
+	<div class="commentdisplay">
 	{% if config.plugins.comments.enabled %}
 		{% include 'partials/comments.html.twig' with { 'page' : page } %}
 	{% endif %} 
