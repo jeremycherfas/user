@@ -14,7 +14,7 @@
 		</div>
 <!-- End title stuff -->
 		{% include 'partials/hcard.html.twig' %} 
-		<div class="e-content">
+
 			{% if page.header.image %} 
 <!-- Is there an image in the front matter?  -->
 			{% if page.header.image | starts_with('artwork-resized') %} 
@@ -34,15 +34,15 @@
 
 		{% if not page.header.image | starts_with('artwork-resized') %} 
 <!-- Do not repeat content if this is a podcast listen -->
+<div class="e-content">
 			{{ page.content|raw }} {% endif %} 
-
+</div>
 
 
 {% block taxonomy %}
 	{% include 'partials/blog/taxonomy.html.twig' %} 
 {% endblock taxonomy %}
 
-		</div> <!-- End e-content -->
 
 {% if page.slug is not same as 'about' %}
 
@@ -70,11 +70,14 @@
 {% if page.slug is not same as 'about' %}
 <div class="commentbox">
 
+{% if page.template is not same as 'home' %}
+
 	<div class="commentdisplay">
 	{% if config.plugins.comments.enabled %}
 		{% include 'partials/comments.html.twig' with { 'page' : page } %}
 	{% endif %} 
 	</div> <!-- Ends comment display -->
+{% endif %}
 
  	<div class="submitcomments">
 		<div class="webmentionform">
