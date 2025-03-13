@@ -12,19 +12,19 @@
 }
 
 @media (prefers-color-scheme: dark) {
-	html body {filter: invert(1);}
-	/* the following really should be managed by a cascade layer */
- 
-	html img, 
-	html video,
-	html img.book.cover, 
-	html img.book.cover.big, 
-	html #archipelago a:hover img {filter: invert(1);}
-	html #thoughts figure.standalone img {
-	  box-shadow: 0.25em 0.25em 0.67em #FFF8;
-	}
+  html body {
+    filter: invert(1);
+  }
 
+  img, video {
+    filter: invert(1);
+  }
+
+  .social-pages > a {
+    filter: invert(1);
+  }
 }
+
 
 body {
 /* 
