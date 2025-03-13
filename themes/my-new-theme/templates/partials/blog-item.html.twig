@@ -70,14 +70,16 @@
 {% if page.slug is not same as 'about' %}
 <div class="commentbox">
 
-{% if page.template is not same as 'home' %}
-
-	<div class="commentdisplay">
-	{% if config.plugins.comments.enabled %}
-		{% include 'partials/comments.html.twig' with { 'page' : page } %}
-	{% endif %} 
-	</div> <!-- Ends comment display -->
+{% if page.folder is same as '01.home' %}
+<!-- Do nothing or include alternative content -->
+{% else %}
+  <div class="commentdisplay">
+    {% if config.plugins.comments.enabled %}
+      {% include 'partials/comments.html.twig' with { 'page' : page } %}
+    {% endif %}
+  </div> <!-- Ends comment display -->
 {% endif %}
+
 
  	<div class="submitcomments">
 		<div class="webmentionform">
