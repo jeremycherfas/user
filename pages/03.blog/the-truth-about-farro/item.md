@@ -9,7 +9,7 @@ taxonomy:
         - General
 summary:
     enabled: '1'
-subhead: '’It depends’ is the best I can do '
+subhead: ' “It depends” is the best I can do '
 header_image: '0'
 ---
 
