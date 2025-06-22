@@ -20,7 +20,7 @@ Still enjoying reminiscing about the glorious trip early in the month, and still
 ===
 
 ## Highlights of the month:
-- Valderice! Marsala! Trapani! Agrigento! Piazza Amerina! Tropea!
+- Valderice! Marsala! Trapani! Agrigento! Piazza Armerina! Tropea!
 - An interview, in Italian, with a very interesting miller
 - Continuing growth on the terrace
 - Revised recording checklist to avoid future cockups
