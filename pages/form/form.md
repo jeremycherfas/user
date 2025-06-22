@@ -31,6 +31,9 @@ form:
             validate:
                 required: true
             classes: ' '
+        - name: honeypot
+          type: honeypot
+
     buttons:
         -
             type: submit
