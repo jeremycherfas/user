@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/ian-leslie
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: On the rare phenomenon of intense male creative partnerships that change the world

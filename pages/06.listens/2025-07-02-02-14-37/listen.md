@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://99percentinvisible.org/?p=45080
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: A century-old shipwreck, a sea of glass, and the lifeboats that were never meant to save you.

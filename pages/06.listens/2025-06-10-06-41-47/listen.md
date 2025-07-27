@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/theodore-schwartz
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: What a life spent inside other people&rsquo;s heads reveals about free will

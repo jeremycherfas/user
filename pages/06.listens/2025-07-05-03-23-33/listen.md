@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://publicinfrastructure.org/podcast/116-eric-gordon/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Eric Gordon has spent his career as an social scientists trying to understand how city governments can use technology to better engage their citizens. But he&rsquo;s learned that technology doesn&rsquo;t matter if governments aren&rsquo;t willing to listen and citizens don&rsquo;t feel listened to. Add to surveillance technology to the mix, and technology doesn&rsquo;t seem to [&hellip;]

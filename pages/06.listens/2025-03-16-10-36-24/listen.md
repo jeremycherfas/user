@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/carl-zimmer
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: From the mysteries of airborne disease to the search for extraterrestrial life, what are we missing about the unseen world around us?

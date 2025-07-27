@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://learnconlaw.com/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Announcing The 99% Invisible Breakdown: The Constitution and the return of What Trump Can Teach Us About Con Law.

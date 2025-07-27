@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://www.wnycstudios.org/podcasts/otm
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: The shortwaves today

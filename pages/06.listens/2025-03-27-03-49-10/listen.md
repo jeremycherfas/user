@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://www.eatthispodcast.com/quinoa/
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Quinoa’s rise and fall

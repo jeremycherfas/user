@@ -10,7 +10,7 @@
 
 	{% if myday == targetday and p.header.taxonomy.tag[0] != 'podcasts' and p.header.date | slice(6,4) != page.header.date | slice(6,4) %}
         <div class="otd-entry">
-		<time class="">{{ p.header.date | slice(6,4) }} </time>
+		<time class="">{{ p.header.date | date("Y") }} </time>
 		<a class=" " href="{{ p.link }}">{{ p.title }}</a>
         </div>
 	{% set mycount = mycount+1 %}

@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/revisionist-history/the-origin-of-you-a-conversation-with-john-mcwhorter
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: The Origin of “You” – A Conversation with John McWhorter

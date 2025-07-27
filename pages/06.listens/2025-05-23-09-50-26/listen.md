@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/jack-clark
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: And the inevitable future of AI-enhanced parenting

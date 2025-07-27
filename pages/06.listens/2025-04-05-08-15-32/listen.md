@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/revisionist-history/memorial-day-2020-part-2
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Memorial Day, 2020 | Part 2

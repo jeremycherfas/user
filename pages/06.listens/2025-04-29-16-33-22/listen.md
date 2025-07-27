@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/revisionist-history/the-rjk-jr-problem
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: The RFK Jr. Problem

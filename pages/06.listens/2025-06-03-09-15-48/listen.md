@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://www.wnycstudios.org/podcasts/otm
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: An army was gathering on shortwave and two guys in Costa Rica were among the only people in the world keeping track

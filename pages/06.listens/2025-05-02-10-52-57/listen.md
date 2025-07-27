@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/revisionist-history/the-joe-rogan-intervention
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: The Joe Rogan Intervention

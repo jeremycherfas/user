@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/kenneth-rogoff
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Is AI our only escape from America&rsquo;s fiscal checkmate?

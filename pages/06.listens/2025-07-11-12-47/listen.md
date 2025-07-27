@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://taitc.buzzsprout.com/
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Send us a text Middlemen are not parasites but essential &ldquo;engineers of exchange&rdquo; who create value by connecting buyers and sellers who might never find each other otherwise. &bull; The word &ldquo;monger&rdquo; (and Munger) comes from a Saxon root&mdash;Mancgere&mdash; meaning trader or merchant &bull; Middlemen historically seen as parasites for buying cheap and selling dear without improving products &bull; 11th-century &ldquo;mancgere&rdquo; traders defended their value despite not changing the goods they sold &bull; RA Radford&rsquo;s 1945 POW ca&hellip;

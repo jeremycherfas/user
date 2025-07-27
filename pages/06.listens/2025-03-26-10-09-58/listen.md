@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://www.eatthispodcast.com/pigs/
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Forbidden: Jews and the Pig

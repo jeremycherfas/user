@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/revisionist-history/face-value
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Face Value

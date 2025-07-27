@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://99percentinvisible.org/?p=43974
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: A tiny, unremarkable beetle hiding in the caves of Slovenia has an infamously unfortunate name&mdash;one that has sparked heated debates in the scientific world.

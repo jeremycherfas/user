@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/the-happiness-lab-with-dr-laurie-santos/why-eating-alone-is-so-bad-for-you-an-internationa
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: The Harms of Eating Alone: An International Day of Happiness Special from The Happiness Lab

@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/austan-goolsbee
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: The data-driven Fed President on why human judgment still matters in monetary policy

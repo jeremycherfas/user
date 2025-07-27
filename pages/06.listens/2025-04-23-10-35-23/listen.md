@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://publicinfrastructure.org/podcast/110-nathan-schneider-governable-spaces/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Nathan Schneider has spent roughly 15 years as a journalist and academic trying to understand democracy in the 21st century through Occupy Wall Street, cooperatives, the blockchain, and currently, federated social media. This week on Reimagining, Nathan explains how poor democracy on major social media platforms has eroded our actual democratic governance, and how practicing [&hellip;]

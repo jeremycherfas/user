@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/chris-arnade
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Forget the museums&mdash;try a McDonald&rsquo;s instead

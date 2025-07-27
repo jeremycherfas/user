@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://publicinfrastructure.org/podcast/109-evelyn-douek-please-tell-us-what-is-going-on-with-the-first-amendment-and-social-media/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: The TikTok ban decision passed down by the Supreme Court late last year is a clear violation of First Amendment precedent, but President Trump&rsquo;s refusal to enact it as law is a constitutional crisis in the making. We brought Stanford Law professor, rising First Amendment star scholar, and Moderated Content host Evelyn Douek on the [&hellip;]

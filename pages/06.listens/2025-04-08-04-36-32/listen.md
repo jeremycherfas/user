@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://www.splendidtable.org/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: 822: The King Arthur Baking Company’s Big Book of Bread with Jessica Battilana and Martin Philip

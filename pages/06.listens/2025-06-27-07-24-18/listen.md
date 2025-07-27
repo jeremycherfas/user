@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/any-austin
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: YouTube&rsquo;s most unique gaming commentator can teach us a lot about the beauty of everyday infrastructure

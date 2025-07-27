@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://99percentinvisible.org/?p=44180
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: In 1991, one of the strangest buildings in America opened &mdash; a 32-storey, stainless steel pyramid in Memphis, Tennessee.

@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://99percentinvisible.org/?p=45742
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: How did millions of Americans end up living in neighborhoods where finding fresh food is harder than ever, and why is the problem by design, not accident?

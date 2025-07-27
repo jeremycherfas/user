@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://publicinfrastructure.org/podcast/114-esraa-al-shafei-pt-1/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: Since the late aughts, Bahraini activist Esra&rsquo;a Al Shafei has been building spaces where Arab and Middle Eastern queer folk, dissidents, and migrants can safely gather online, often amid governmental suppression. In part one of our interview with Esra&rsquo;a, we talk through some of the oral history of her long-running Majal project and the queer-centric [&hellip;]

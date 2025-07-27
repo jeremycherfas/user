@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://www.splendidtable.org/
 image: artwork-resized.PNG
-template: item
+template: listen
 ---
 
 Episode summary: 802: Chasing Flavor with Carla Hall and Roots, Heart, Soul with Todd Richards

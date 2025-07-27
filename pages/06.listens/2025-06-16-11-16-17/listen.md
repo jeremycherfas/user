@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://omny.fm/shows/heres-the-thing-with-alec-baldwin/patrick-radden-keefe-from-the-new-yorker-to-the-bookstore-to-the-screen
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Patrick Radden Keefe: From the New Yorker to the bookstore to the screen

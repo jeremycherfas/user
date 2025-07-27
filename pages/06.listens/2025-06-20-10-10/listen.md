@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/john-arnold
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Why natural gas markets were easier to master than human nature

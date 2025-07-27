@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/ezra-klein-on-the-abundance-agenda
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: Politics Got Weird&mdash;Can Abundance Make It Normal Again?

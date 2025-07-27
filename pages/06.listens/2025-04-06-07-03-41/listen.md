@@ -9,7 +9,7 @@ taxonomy:
         - podcasts
 theurl: https://cowenconvos.libsyn.com/sheilagh-ogilvie
 image: artwork-resized.JPEG
-template: item
+template: listen
 ---
 
 Episode summary: What 700 years of pandemic responses reveal about institutional effectiveness
