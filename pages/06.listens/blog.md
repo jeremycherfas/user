@@ -3,7 +3,7 @@ sitemap:
     lastmod: '15-12-2024 18:48'
     changefreq: monthly
 menu: Listens
-child_type: item
+child_type: listen
 blog_url: /listens
 content:
     items:
