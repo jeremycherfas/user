@@ -1,6 +1,13 @@
+{{ vardump(page.folder)}}
 <div class="h-entry container">
-
 <div class="item">
+
+{% if page.folder is not same as '02.about' %}
+<div class="portfolio">
+    {% include 'partials/portfolio.twig.html' %}
+</div>
+{% endif %}
+	
 	<div class="article">
 		<div class="titlestuff">
 		<div class="date-clock">
@@ -56,6 +63,14 @@
 	</div> <!-- End div article -->
 
 	</article>
+
+<!-- 
+{# if page.folder is not same as '02.about' %}
+<div class="portfolio">
+    {% include 'partials/portfolio.twig.html' %}
+</div>
+{% endif #}
+ -->
 
 	{% if page.header.form == 'contact-form' %} 
 	<h3 class=" ">
@@ -114,8 +129,9 @@
 
 <div class="commentform">
 <h4>Comments</h4>
+<p>I very much regret that Russian spammers have made my comment system unusable. If you want to email me a comment, it is easy enough to find the address and I will be happy to do the needful behind the scenes. Webmentions remain available (for now).
 <!-- Comment submission form -->
-    <form name="{{ grav.config.plugins.comments.form.name }}"
+<!--    <form name="{{ grav.config.plugins.comments.form.name }}"
           action="{{ grav.config.plugins.comments.form.action ?  base_url ~ grav.config.plugins.comments.form.action : page.url }}"
           method="{{ grav.config.plugins.comments.form.method|upper|default('POST') }}">
 
@@ -151,8 +167,10 @@
 
         {{ nonce_field('form', 'form-nonce')|raw }}
     </form>
+-->
 </div> 
 
 </div>
 </div> <!-- End commentbox -->
 {% endif %}
+

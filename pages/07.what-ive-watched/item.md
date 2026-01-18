@@ -192,3 +192,208 @@ template: item
 </ul>
 </ul>
 
+<li class="log-month">April</li>
+
+<ul class="log-entry">
+<li class="log-day">29</li>
+<ul>
+<li class="log-item">Finished watching <em>Perfect Couple</em> on Netflix <strong>T</strong> Strange, adventitious happyish ending sequences. Did the suits insist?</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">21</li>
+<ul>
+<li class="log-item">Started watching <em>Perfect Couple</em> on Netflix <strong>T</strong> Not uninteresting. Something odd about Nicole Kidman’s character.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">20</li>
+<ul>
+<li class="log-item">Finished <em>The Residence</em> on Netflix <strong>T</strong> OK, so it messed with the whole genre, but in the end too patchy and about half an hour too long in the final episode.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">11</li>
+<ul>
+<li class="log-item">Started watching <em>The Residence</em> on Netflix <strong>T</strong> Excellent romp.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">10</li>
+<ul>
+<li class="log-item">Finished watching <em>The Leopard</em> on Netflix <strong>T</strong> Proper period piece.</li>
+</ul>
+</ul>
+
+<li class="log-month">May</li>
+
+<ul class="log-entry">
+<li class="log-day">23</li>
+<ul>
+<li class="log-item">Started watching <em>Missing You</em> on Netflix <strong>T</strong> Harlan Coban, and British, and excellent.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">12</li>
+<ul>
+<li class="log-item">Started watching <em>Covert Affairs</em> on Amazon Prime <strong>T</strong> Not the greatest, and as ever (in US shows) the lone genius saves the world.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">10</li>
+<ul>
+<li class="log-item">Started reading <em>April in Spain</em> by John Banville <strong>B</strong> As always, very sharp observations and a lot of mystery.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">09</li>
+<ul>
+<li class="log-item">Finished watching <em>Just One Look</em> on Netflix <strong>T</strong> Overall satisfactory, although the final episode had a lot of work to do.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">06</li>
+<ul>
+<li class="log-item">Watched <em>Red Sparrow</em> on Netflix <strong>F</strong> Entertaining enough, although heavy handed and a little too long lingering over the torture scenes.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">01</li>
+<ul>
+<li class="log-item">Started watching <em>Just One Look</em> on Netflix <strong>T</strong> Polish Harlana Cobana; very promising.</li>
+<li class="log-item">Abandoned <em>The Studio</em> on AppleTV <strong>T</strong> After two episodes. Too shouty, too predictable, not funny.</li>
+</ul>
+</ul>
+
+<li class="log-month">June</li>
+
+<ul class="log-entry">
+<li class="log-day">29</li>
+<ul>
+<li class="log-item">Started reading <em>Civilisations</em> by Laurent Binet and Sam Taylor <strong>B</strong> Totally great first section bodes well for the rest.</li>
+</ul>
+</ul>
+<ul class="log-entry">
+<li class="log-day">28</li>
+<ul>
+<li class=”log-item”>Finished reading <em>Caledonian Road</em> by Andrew O’Hagan <strong>B</strong> Wonderfully rich, everyone a stereotype, and none the worse for that.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">08</li>
+<ul>
+<li class="log-item">Started watching <em>Department Q</em> on Netflix <strong>T</strong> Dysfunctional copper, clever time twist, strong start.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">02</li>
+<ul>
+<li class="log-item">Finished watching <em>Missing You</em> on Netflix <strong>T</strong> Deeply strange psychopaths and bent coppers; what’s not to like?</li>
+
+</ul>
+</ul>
+
+<li class="log-month">July</li>
+
+<ul class="log-entry">
+<li class="log-day">24</li>
+<ul>
+<li class="log-item">Finished reading <em>Drive</em> by James Sallis <strong>B</strong> Noir, new to me, not at all bad.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">20</li>
+<ul>
+<li class="log-item">Finished reading <em>Greenmantle</em> by John Buchan <strong>B</strong> Splendid, escapist, jingoistic tosh.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">13</li>
+<ul>
+<li class="log-item">Finished reading <em>The Middleman</em> by Olen Steinhauer <strong>B</strong> Timely, delusional, unfinished.</li>
+</ul>
+</ul>
+<ul class="log-entry">
+<li class="log-day">05</li>
+<ul>
+<li class="log-item">Finished reading <em>Civilisations</em> by Laurent Binet and Sam Taylor <strong>B</strong> Very entertaining, with sparky writing, though the final section was not as good as the first three.</li>
+</ul>
+</ul>
+
+<li class="log-month">August</li>
+
+<ul class="log-entry">
+<li class="log-day">31</li>
+<ul>
+<li class="log-item">Books were read and went unrecorded but no shows were watched.</li>
+</ul>
+</ul>
+
+<li class="log-month">September</li>
+
+<ul class="log-entry">
+<li class="log-day">20</li>
+<ul>
+<li class="log-item">Started watching <em>The Diplomat s03</em> on Netflix <strong>T</strong> Here we go again.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">19</li>
+<ul>
+<li class="log-item">Finished watching <em>House of Guinness</em> on Netflix <strong>T</strong> Silly us, thinking all would be revelaed in the final episode. This was the final episode.</li>
+</ul>
+</ul>
+<ul class="log-entry">
+<li class="log-day">27</li>
+<ul>
+<li class="log-item">Started Watching <em>House of Guinness</em> on Netflix <strong>T</strong> Let's just recycle everything we built for Peaky Blinders.</li>
+</ul>
+</ul>
+<ul class="log-entry">
+<li class="log-day">25</li>
+<ul>
+<li class="log-item">Started reading <em>A Manual for Cleaning Ladies</em> by Lucia Berlin <strong>B</strong> Great Expectations</li>
+<li class="log-item">Started watching <em>Slow Horses</em> on AppleTV <strong>T</strong> A good re-entry point after the summer recess.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">22</li>
+<ul>
+<li class="log-item">Finished reading <em>A Month in Siena</em> by Hisham Matar <strong>B</strong> Interesting and, dare I say it, often overwrought.</li>
+</ul>
+</ul>
+
+<li class="log-month">October</li>
+
+<ul class="log-entry">
+<li class="log-day">???</li>
+<ul>
+<li class="log-item">Truly, I had not realised that all logging had ceased here, certainly for October and much of November. And yet, we kept watching and reading and the world continued to turn.</li>
+</ul>
+</ul>
+
+<li class="log-month">November</li>
+
+<ul class="log-entry">
+<li class="log-day">30</li>
+<ul>
+<li class="log-item">We started <em>Down the Cemetary Road</em> on Apple TV <strong>T</strong> and were gripped from the start. Emma Thompson and Ruth Wilson? Perfection.</li>
+</ul>
+</ul>
+</ul>
+

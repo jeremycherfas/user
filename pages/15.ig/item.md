@@ -1,0 +1,4 @@
+---
+redirect: '/ig/index.html/'
+---
+

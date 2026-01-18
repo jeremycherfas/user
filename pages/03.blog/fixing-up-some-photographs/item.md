@@ -29,7 +29,7 @@ A bit more editing, mostly to adjust straightness and crop occasionally, and I w
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/jcherfas/albums/72157676910097645" title="Recent scenic"><img src="https://c4.staticflickr.com/6/5808/31045646331_03b745bb78_z.jpg" width="640" height="480" alt="Recent scenic"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/jcherfas/albums/72157676909582655" title="Recent vegetation"><img src="https://c4.staticflickr.com/6/5324/31159674355_472ff54330_z.jpg" width="640" height="480" alt="Recent vegetation"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/jcherfas/albums/72157676909582655" title="Recent vegetation"><img src="https://live.staticflickr.com/5680/30792050730_a77b8a1c04_z.jpg" width="800" height="640" alt="Recent vegetation"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 I have to say, I really like the new embedding tools from Flickr, [^2] except that I am too lazy to rename all the files. And I really like the way that one minor tweak improved my workflow.
 
