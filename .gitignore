@@ -1,25 +1,62 @@
-# Grav Specific
+# =========================
+# Grav runtime (DO NOT COMMIT)
+# =========================
+
+/plugins/
+/cache/
+/logs/
+/backups/
+/tmp/
+/images/
+
+# Grav-generated / environment-specific
 .sass-cache
 data/*
 accounts/*
 
-# OS Generated
+# =========================
+# OS / Editor noise
+# =========================
+
+.DS_Store
 .DS_Store*
 ehthumbs.db
 Icon?
 Thumbs.db
 *.swp
-*.zip
 
-newhook.php
+.idea/
+.vscode/
 
-pages/03.blog/253.testing-automatic-send
-webmention-form.txt
-localhost/*
+# =========================
+# Build / tooling artifacts
+# =========================
 
 node_modules/
-**/base.html.twig
-*.js
-*.json
 *.lock
+*.zip
+
+# =========================
+# Local-only / experimental
+# =========================
+
+newhook.php
+localhost/*
+pages/03.blog/253.testing-automatic-send
+webmention-form.txt
+
+# =========================
+# Template / dev exclusions
+# =========================
+
+**/base.html.twig
 **/README.md
+
+# =========================
+# NOTE:
+# We intentionally DO track:
+# - pages/
+# - config/
+# - themes/
+# =========================
+
