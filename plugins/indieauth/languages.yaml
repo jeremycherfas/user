@@ -1,9 +1,0 @@
-en:
-  PLUGIN_INDIEAUTH:
-    HOMEPAGE_ONLY: Home page only
-    HOMEPAGE_ONLY_HELP: Only add endpoints to the site homepage
-
-nl:
-  PLUGIN_INDIEAUTH:
-    HOMEPAGE_ONLY: Alleen homepage
-    HOMEPAGE_ONLY_HELP: Voeg endpoints alleen toe aan de homepage
