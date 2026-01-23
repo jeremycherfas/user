@@ -50,7 +50,7 @@ h1 {
 	margin-bottom: var(--s0);
 }
 
-h1, h2 a {
+h1 a {
 	text-decoration: none;
 }
 
@@ -238,12 +238,10 @@ blockquote {
 /* 	background-color: ivory; */
 	height: auto;
 	padding: 0 var(--s0);
-	max-width: 76ch;
 	}
 
 .article p {
 	font-size: var(--s0);
-	
 }
 
 .onthisday {
@@ -251,28 +249,27 @@ blockquote {
 }
 
 .item {
+/* When it was with sidebar
   display: flex;
   flex-wrap: wrap;
   gap: var(--s1);
-/* 	max-width: 76ch; */
+ */
+	max-width: 76ch;
 	margin: 0 auto;
  	}
 
-.item > :first-child {
+/* 
+.item > :last-child {
   flex-basis: 30ch; 
   flex-grow: 1;
 }
 
-.item > :last-child {
+.item > :first-child {
   flex-basis: 0;
   flex-grow: 999;
   min-inline-size: 50%;
 }
-
-.portfolio{
-	max-width: 15rem;
-	margin-top: var(--s0);
-}
+ */
 
 .footnotes p {
     font-size: var(--s-1);

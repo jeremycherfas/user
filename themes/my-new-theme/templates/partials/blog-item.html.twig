@@ -1,12 +1,6 @@
-{{ vardump(page.folder)}}
 <div class="h-entry container">
 <div class="item">
 
-{% if page.folder is not same as '02.about' %}
-<div class="portfolio">
-    {% include 'partials/portfolio.twig.html' %}
-</div>
-{% endif %}
 	
 	<div class="article">
 		<div class="titlestuff">
@@ -63,23 +57,6 @@
 	</div> <!-- End div article -->
 
 	</article>
-
-<!-- 
-{# if page.folder is not same as '02.about' %}
-<div class="portfolio">
-    {% include 'partials/portfolio.twig.html' %}
-</div>
-{% endif #}
- -->
-
-	{% if page.header.form == 'contact-form' %} 
-	<h3 class=" ">
-		Get in touch 
-	</h3>
-	{% include "forms/form.html.twig" with { form: forms( {route:'/form'} ) } %} 
-	{% endif%}
-
-
 
 </div> <!-- Ends item -->
 {% if page.slug is not same as 'about' %}

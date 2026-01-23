@@ -1,6 +1,0 @@
-<!-- Adds On this day -->
-{% if page.template != 'blog' %}
-{% block onthisday %}
-{% include 'partials/onthisday.html.twig' %}
-{% endblock %}
-{% endif %}
