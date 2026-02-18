@@ -1,0 +1,42 @@
+{# ---------------------------------------------
+   Portfolio / New Works partial
+   Reads JSON from user/data/portfolio-latest.json
+   --------------------------------------------- #}
+
+{# Read the raw file content from the data folder #}
+{% set raw = read_file('user-data://portfolio-latest.json') %}
+{% if raw %}
+    {% set portfolio = raw|json_decode %}
+{% else %}
+    {% set portfolio = null %}
+{% endif %}
+
+{% if portfolio %}
+<section class="portfolio">
+
+    {% if portfolio.is_new %}
+        <h2><a href="{{ portfolio.url }}" target="_blank" rel="noopener">New Photos</a></h2>
+    {% else %}
+        <h2><a href="{{ portfolio.url }}" target="_blank" rel="noopener">Photos</a></h2>
+    {% endif %}
+
+    <article class="portfolio-item">
+
+        {% if portfolio.image_url %}
+            <a href="{{ portfolio.url }}" target="_blank" rel="noopener">
+                <img
+                    src="{{ portfolio.image_url }}"
+                    alt="{{ portfolio.title|e }}"
+                    loading="lazy"
+                >
+            </a>
+        {% endif %}
+
+        {% if portfolio.summary %}
+            <p>{{ portfolio.summary }}</p>
+        {% endif %}
+
+    </article>
+
+</section>
+{% endif %}
