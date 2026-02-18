@@ -249,27 +249,26 @@ blockquote {
 }
 
 .item {
-/* When it was with sidebar
+/*  When it was with sidebar */
   display: flex;
   flex-wrap: wrap;
   gap: var(--s1);
- */
-	max-width: 76ch;
+/*	max-width: 76ch; */
 	margin: 0 auto;
  	}
 
-/* 
+ 
 .item > :last-child {
-  flex-basis: 30ch; 
+  flex-basis: 76ch; /*30ch;*/ 
   flex-grow: 1;
 }
 
 .item > :first-child {
   flex-basis: 0;
   flex-grow: 999;
-  min-inline-size: 50%;
+  min-inline-size: 20%;
 }
- */
+
 
 .footnotes p {
     font-size: var(--s-1);
@@ -561,3 +560,8 @@ figcaption {
 .webmention-mention {
 	margin-bottom: var(--s--1);
 }
+
+/* Section Portfolio display */
+.portfolio h2 {
+	font-size: var(--s1);
+	padding-top: var(--s4);
