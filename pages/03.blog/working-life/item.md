@@ -1,7 +1,7 @@
 ---
 title: 'Working life'
 published: true
-date: '03-02-2025 17:00'
+date: '09-02-2026 15:29'
 taxonomy:
     category:
         - blog
@@ -16,9 +16,10 @@ header_image: '0'
 
 An archive of some of the data I have recorded about how I spend some of my time.
 
-===
-
 ## Total hours worked per month
+
+### 2025
+![Histogram of total hours worked per month for 2021 to 2025](hours-logged-2021-2025.svg){.center}
 
 ### 2024
 ![Histogram of total hours worked per month for 2020 to 2024](hours-logged-2020-2024.svg){.center}
@@ -31,25 +32,28 @@ An archive of some of the data I have recorded about how I spend some of my time
 
 ## Percent of logged hours
 
-## 2024
+### 2025
+![Stacked bar chart of percentage of work hours each month dedicated to Administration, Podcasting and Writing](percents-2025.svg){.center}
+
+### 2024
 ![Stacked bar chart of percentage of work hours each month dedicated to Administration, Podcasting and Writing](percents-2024.svg){.center}
 
-## 2023
+### 2023
 ![Stacked bar chart of percentage of work hours each month dedicated to Administration, Podcasting and Writing](percents-2023.svg){.center}
 
-## 2022
+### 2022
 
 ![Stacked bar chart of percentage of work hours each month dedicated to Administration and Podcasting](percents-2022.svg){.center}
 
-## 2021
+### 2021
 
 ![Stacked bar chart of percentage of work hours each month dedicated to Administration and Podcasting](percents-2021.svg){.center}
 
-## 2020
+### 2020
 
 ![Stacked bar chart of percentage of work hours each month dedicated to Administration and Podcasting](percents-2020.svg){.center}
 
-## 2019
+### 2019
 <noscript>
     <style type="text/css">
         .ct-minor-seventh {display:none;}
@@ -63,7 +67,7 @@ An archive of some of the data I have recorded about how I spend some of my time
 <li><span style="color:blue;">Admin</span></li><li><span style="color:green;">Eat This Podcast</span></li></ul>
 </div> 
 
-## 2018
+### 2018
 <noscript>
     <style type="text/css">
         .ct-minor-seventh {display:none;}

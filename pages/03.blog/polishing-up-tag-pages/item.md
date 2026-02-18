@@ -29,6 +29,6 @@ The difference is subtle. `blog.url` includes the portion after `base_url` and t
 
 In fact, errors did remain, but fewer than before. They turned out to be caused by me being inconsistent about the order of the values of `category` when there is more than one. I edited those and everything works as I want.
 
-For now ...
+For now ...
 
 As a bonus, and for no extra work, I do believe that the tag pages are properly formed h-feeds in their own right, which is nice.
