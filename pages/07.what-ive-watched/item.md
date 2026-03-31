@@ -1,6 +1,6 @@
 ---
 title: "What I’ve watched 2026"
-date: '05-02-2026 15:12'
+date: '11-03-2026 15:12'
 visible: false
 enabled: '0'
 header_image: '1'
@@ -16,6 +16,34 @@ template: item
 
 <!-- Outer List -->
 <ul class="log">
+
+<li class="log-month">February</li>
+
+<ul class="log-entry">
+<li class="log-day">17</li>
+<ul>
+<li class="log-item">Finished re-reading <em>The Return of the King</em> <strong>B</strong> So much I had forgotten, though not the tedium of the appendices.</li>
+</ul>
+</ul>
+
+<ul class="log-entry">
+<li class="log-day">16</li>
+<ul>
+<li class="log-item">Finished watching <em>Dark Winds s02</em> on Netflix <strong>T</strong> Satisfying in a way few procedurals are these days.  Fun time too, the 1970s.</li>
+</ul>
+</ul>
+<ul class="log-entry">
+<li class="log-day">09</li>
+<ul>
+<li class="log-item">Started watching <em>Dark Winds s02</em> on Netflix <strong>T</strong> Really enjoying the other worldliness of this.</li>
+</ul>
+</ul>
+<ul class="log-entry">
+<li class="log-day">01</li>
+<ul>
+<li class="log-item">Finished watching <em>The Night Manager s02</em> on Prime <strong>T</strong> Such a depressing ending.</li>
+</ul>
+</ul>
 
 <li class="log-month">January</li>
 
@@ -35,7 +63,7 @@ template: item
 <ul class="log-entry">
 <li class="log-day">19</li>
 <ul>
-<li class="log-item">Started watching <em>Dark Winds s01</em> on Netflix <strong>T</strong> Good procedural and engaging characters.\</li>
+<li class="log-item">Started watching <em>Dark Winds s01</em> on Netflix <strong>T</strong> Good procedural and engaging characters.</li>
 </ul>
 </ul>
 <ul class="log-entry">
