@@ -1,6 +1,10 @@
 <div class="h-entry container">
 <div class="item">
 
+{% block portfolio %}
+	{% include 'partials/portfolio.html.twig' %}
+{% endblock portfolio %}
+
 	
 	<div class="article">
 		<div class="titlestuff">
@@ -106,7 +110,7 @@
 
 <div class="commentform">
 <h4>Comments</h4>
-<p>I very much regret that Russian spammers have made my comment system unusable. If you want to email me a comment, it is easy enough to find the address and I will be happy to do the needful behind the scenes. Webmentions remain available (for now).
+<p>I very much regret that Russian spammers have made my comment system unusable. If you want to email me a comment, it is easy enough to find the address and I will be happy to do the needful behind the scenes. Webmentions remain available (for now).</p>
 {#
 <!-- Comment submission form -->
 <!--    <form name="{{ grav.config.plugins.comments.form.name }}"
