@@ -43,7 +43,7 @@ Proyect says that _“the presence of an alchemist in Boyle’s laboratory would
 
 There’s more to find fault with. Like repeatedly misspelling Rachel as Carsons, when the extensive quote he lifts (from Conner? It isn’t clear) has her correctly as Carson throughout. And to marvel that the status quo always defends itself, illustrated by the attacks on Carson, is just more physics envy. So, scientists are human. Welcome to the world. 
 
-There are, of course, some who are less human than others. Like the unsung Thomas Henry Huxley, among whose pithier aphorisms is this: ”The great tragedy of science — the slaying of a beautiful hypothesis by an ugly fact.”
+There are, of course, some who are less human than others. Like the unsung Thomas Henry Huxley, among whose pithier aphorisms is this: “The great tragedy of science — the slaying of a beautiful hypothesis by an ugly fact.”
 
 I shan’t be reading Conner’s book, and despite everything, I enjoyed reading Proyects review, because it made me think. I will say this in Proyect's favour: he uses [good blog software](https://louisproyect.wordpress.com/).
 

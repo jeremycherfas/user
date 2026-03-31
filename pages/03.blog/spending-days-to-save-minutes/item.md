@@ -34,10 +34,8 @@ For now, there's still a lot of manual labour, but I know it will be relatively 
   Also sent to IndieNews
 </a>
 
-! Something weird has happened to the display of footnotes here, and I have no diea what it is. Until I've resolved it, please bear with me.
-
 [^1]: There's a meta-aspect to XKCD's Automation, especially. You spend time learning a programming language in order to do things, especially routine things, more easily and more quickly. Newer languages might be much better at doing those things even more effectively. But it takes an awful long time to learn those new languages, time that could be spent doing things. This is especially true for me because programming is not much more than an occasional hobby. So I stick with the old ways that I know. Applescript is one I used to know.
 
-[^2]: Triggered by [How to set up a robust web reading environment](https://www.instapaper.com/read/1027262214) by Chris Bowler.
+[^2]: Triggered by [How to set up a robust web reading environment](https://thesweetsetup.com/set-robust-web-reading-environment/) by Chris Bowler.
 
 [^3]: It occurs to me -- now and belatedly -- that it could contain structured JSON, just one of the new things I'm not learning properly.
