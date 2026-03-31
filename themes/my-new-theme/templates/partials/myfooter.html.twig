@@ -13,6 +13,7 @@
 </div>
 
 <div class="otherplaces">
+
 <h3>Some other stuff ...</h3>
 {% if page.template is same as('item') or page.template is same as('listen')%}
 {% block onthisday %}
@@ -20,10 +21,16 @@
 {% endblock onthisday %}
 {% endif %}
 
+{% if page.template is same as('home') %}
+{% block portfolio %}
+	{% include 'partials/portfolio.html.twig' %}
+{% endblock portfolio %}
+{% endif %}
+<hr >
 {% block about %}
 	{% include 'partials/about.html.twig' %}
 {% endblock about %}
-		
+
 </div>
 
 <div class="consumption">
