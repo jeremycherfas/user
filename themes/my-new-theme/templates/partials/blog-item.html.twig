@@ -1,11 +1,16 @@
+{% if page.header.book %}
+    <div class="h-entry container book">
+{% endif %}
 <div class="h-entry container">
 <div class="item">
 
+{% if not page.header.book %}
+<!-- Do not display on Review pages -->
 {% block portfolio %}
 	{% include 'partials/portfolio.html.twig' %}
 {% endblock portfolio %}
+{% endif %}
 
-	
 	<div class="article">
 		<div class="titlestuff">
 		<div class="date-clock">
