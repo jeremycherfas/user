@@ -269,6 +269,15 @@ blockquote {
   min-inline-size: 20%;
 }
 
+.home-page-item {
+	max-width: 76ch;
+	margin: auto;
+}
+
+.book .item, .listen .item {
+	max-width: 76ch;
+	margin: auto;
+}
 
 .footnotes p {
     font-size: var(--s-1);
@@ -479,6 +488,8 @@ textarea {
 }
 
 .list-summary {
+	max-width: 76ch;
+	margin: auto;
 	border-bottom: 1px solid black;
 }
 
@@ -565,3 +576,8 @@ figcaption {
 .portfolio h2 {
 	font-size: var(--s1);
 	padding-top: var(--s4);
+}
+
+.otherplaces .portfolio h2 {
+	padding-top: 0;
+}	
